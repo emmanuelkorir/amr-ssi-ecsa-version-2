@@ -1,0 +1,4802 @@
+[
+  {
+    "page": 1,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      36.850399017333984,
+      772.451171875,
+      564.0947265625,
+      781.0051879882812
+    ],
+    "text": "www.thelancet.com/lancetgh   Vol 12   November 2024\t\ne1816\n"
+  },
+  {
+    "page": 1,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      489.62451171875,
+      29.822223663330078,
+      544.2544555664062,
+      51.8182258605957
+    ],
+    "text": "Articles\n"
+  },
+  {
+    "page": 1,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      484.7243957519531,
+      250.31552124023438,
+      549.1514282226562,
+      267.0075378417969
+    ],
+    "text": "Lancet Glob Health 2024; \n12: e1816–25\n"
+  },
+  {
+    "page": 1,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      484.7243957519531,
+      270.6475524902344,
+      548.5599365234375,
+      304.8375549316406
+    ],
+    "text": "Published Online\nSeptember 5, 2024\nhttps://doi.org/10.1016/\nS2214-109X(24)00330-9\n"
+  },
+  {
+    "page": 1,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      484.7243957519531,
+      308.4775695800781,
+      550.8544311523438,
+      316.4205627441406
+    ],
+    "text": "See Comment page e1744\n"
+  },
+  {
+    "page": 1,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      484.7243957519531,
+      320.06707763671875,
+      565.2388305664062,
+      345.5015563964844
+    ],
+    "text": "For the French translation of the \nabstract see Online for \nappendix 1\n"
+  },
+  {
+    "page": 1,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      484.7243957519531,
+      349.1480712890625,
+      568.0337524414062,
+      374.5825500488281
+    ],
+    "text": "For the Spanish translation of the \nabstract see Online for \nappendix 2\n"
+  },
+  {
+    "page": 1,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      484.7243957519531,
+      378.22906494140625,
+      566.337158203125,
+      394.91455078125
+    ],
+    "text": "*Collaborating authors are listed \nin appendix 3 (pp 117–122)\n"
+  },
+  {
+    "page": 1,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      484.7243957519531,
+      398.5610656738281,
+      568.1508178710938,
+      450.26629638671875
+    ],
+    "text": "Correspondence to:\nDr Shereen Rachel Varghese, \nDepartment of Microbiology, \nChristian Medical College & \nHospital, Ludhiana 141008, India\nshereenrv@gmail.com\n"
+  },
+  {
+    "page": 1,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      484.7243957519531,
+      453.9143981933594,
+      489.98931884765625,
+      461.85089111328125
+    ],
+    "text": "or\n"
+  },
+  {
+    "page": 1,
+    "block_no": 10,
+    "block_type": 0,
+    "bbox": [
+      484.7243957519531,
+      465.4974060058594,
+      562.2681884765625,
+      525.9356689453125
+    ],
+    "text": "Dr Elizabeth Li, NIHR Global \nHealth Research Unit on Global \nSurgery, Institute of Applied \nHealth Research, University of \nBirmingham, Birmingham \nB15 2TT, UK\ny.e.li@bham.ac.uk\n"
+  },
+  {
+    "page": 1,
+    "block_no": 11,
+    "block_type": 0,
+    "bbox": [
+      484.72430419921875,
+      529.5772094726562,
+      548.904296875,
+      537.520263671875
+    ],
+    "text": "See Online for appendix 3\n"
+  },
+  {
+    "page": 1,
+    "block_no": 12,
+    "block_type": 0,
+    "bbox": [
+      36.85169982910156,
+      117.82221984863281,
+      479.0219421386719,
+      205.80613708496094
+    ],
+    "text": "Microbiology testing capacity and antimicrobial drug \nresistance in surgical-site infections: a post-hoc, prospective, \nsecondary analysis of the FALCON randomised trial in \nseven low-income and middle-income countries\n"
+  },
+  {
+    "page": 1,
+    "block_no": 13,
+    "block_type": 0,
+    "bbox": [
+      36.85169982910156,
+      215.1502227783203,
+      197.32321166992188,
+      225.52871704101562
+    ],
+    "text": "NIHR Global Health Research Unit on Global Surgery*\n"
+  },
+  {
+    "page": 1,
+    "block_no": 14,
+    "block_type": 0,
+    "bbox": [
+      36.85169982910156,
+      234.68922424316406,
+      478.4908752441406,
+      291.9131774902344
+    ],
+    "text": "Summary\nBackground Surgical-site infection (SSI) is one of the most common health-care-associated infections, substantially \ncontributing to antibiotic use. Targeted antibiotic prophylaxis to prevent SSIs and effective treatment are crucial to \ncontrolling antimicrobial resistance (AMR). This study aimed to describe the testing capacity and multidrug \nresistance (MDR) of SSI microorganisms in low-income and middle-income countries (LMICs).\n"
+  },
+  {
+    "page": 1,
+    "block_no": 15,
+    "block_type": 0,
+    "bbox": [
+      36.842620849609375,
+      302.64117431640625,
+      478.47271728515625,
+      379.8970947265625
+    ],
+    "text": "Methods This analysis included patients undergoing abdominal surgery in seven LMICs (Benin, Ghana, India, \nMexico, Nigeria, Rwanda, and South Africa) as part of the FALCON randomised controlled trial. Wound swabs were \ncollected from patients diagnosed with SSI, as per US Centers for Disease Control and Prevention (CDC) definition. \nData on microorganism species and MDR, as per CDC and European Centre for Disease Prevention and Control \ndefinitions, were analysed alongside hospital-level data on local microbiological practices. An adjusted analysis was \nperformed to identify perioperative factors associated with MDR. Testing capacity was assessed by the completion of \nswab testing in positively diagnosed SSIs.\n"
+  },
+  {
+    "page": 1,
+    "block_no": 16,
+    "block_type": 0,
+    "bbox": [
+      36.82464599609375,
+      390.6250915527344,
+      478.49969482421875,
+      489.8769836425781
+    ],
+    "text": "Findings Between Dec 10, 2018, and Sept 7, 2020, 5788 patients were recruited to the FALCON trial. 1163 patients were \ndiagnosed with an SSI, of whom 905 (77·8%) received prophylactic antibiotics before surgery. In patients with SSIs, \n935 of 1163 (80·4%) did not have a wound swab; 195 were from hospitals not performing swabs (15 hospitals) and \n740 were from hospitals with capacity but no swab performed (35 hospitals). Of 228 patients swabbed, 200 (88·5%) \nhad microorganisms detected. Escherichia coli (89 of 200, 37·9%) was the most common microorganism and \n116 of 200 (58·0%) patients were not covered by the perioperative prophylactic antibiotic. MDR was found in \n102 of 147 (69·4%) patients for whom data were available to determine MDR status. Adjusted analysis found that \nappropriate prophylactic antibiotic coverage (adjusted odds ratio 0·43, 95% CI 0·19–0·96) and regular availability of \ninfection control teams (0·32, 0·11–0·93) were associated with a significant reduction in MDR.\n"
+  },
+  {
+    "page": 1,
+    "block_no": 17,
+    "block_type": 0,
+    "bbox": [
+      36.82464599609375,
+      500.60498046875,
+      478.4457092285156,
+      544.8670043945312
+    ],
+    "text": "Interpretation Targeted perioperative antibiotic prophylaxis during contaminated abdominal surgery is insufficient in \nLMICs, with very few SSI organisms undergoing formal diagnosis. Expansion of testing capacity, development of \nlocal guidelines, and implementation of infection control teams could support the prevention of SSI through directed \nantibiotic prophylaxis, subsequently reducing the burden of MDR.\n"
+  },
+  {
+    "page": 1,
+    "block_no": 18,
+    "block_type": 0,
+    "bbox": [
+      36.82464599609375,
+      555.594970703125,
+      251.58270263671875,
+      566.8629760742188
+    ],
+    "text": "Funding National Institute for Health and Care Research.\n"
+  },
+  {
+    "page": 1,
+    "block_no": 19,
+    "block_type": 0,
+    "bbox": [
+      36.824649810791016,
+      577.5909423828125,
+      478.48175048828125,
+      599.8569946289062
+    ],
+    "text": "Copyright © 2024 The Author(s). Published by Elsevier Ltd. This is an Open Access article under the CC BY 4.0 \nlicense.\n"
+  },
+  {
+    "page": 1,
+    "block_no": 20,
+    "block_type": 0,
+    "bbox": [
+      36.84739685058594,
+      608.689208984375,
+      253.1353302001953,
+      753.9111938476562
+    ],
+    "text": "Introduction\nSurgical-site infection (SSI) is one of the most \ncommon health-care-associated infections globally \nand the most frequent postoperative complication,1,2 \naffecting 15–25% of all patients undergoing abdominal \nsurgery.2–4 Patients from low-income countries are \ndisproportionately affected (23·2%) compared with \nthose in middle-income (14·0%) and high-income \ncountries (9·4%).2 Because SSIs typically require \nantibiotic treatment, the development of SSIs increases \nthe need for additional antibiotic use. Therefore, SSI \nprevention and targeted antibiotics are key in controlling \nantimicrobial resistance (AMR). WHO guidelines \n"
+  },
+  {
+    "page": 1,
+    "block_no": 21,
+    "block_type": 0,
+    "bbox": [
+      262.2051086425781,
+      611.1712646484375,
+      478.48870849609375,
+      753.9192504882812
+    ],
+    "text": "strongly recommend prophylactic antibiotics to prevent \nSSIs.5 However, inappropriate use is common. In the \npast two decades, the biggest growth in antibiotic use \nhas been in low-income and middle-income countries \n(LMICs),6 and a 165% rise in the use of second-line \nantibiotics—which are normally reserved for when \nfirst-line antibiotics fail— has been seen in these \nsettings.7 Antimicrobial-resistant SSIs have a higher \nincidence in low-income countries (35·9%) compared \nwith that in middle-income (19·8%) and high-income \ncountries (16·6%).2 WHO has declared that AMR is in \nthe top ten global public health threats facing humanity,8 \nand the Africa Centres for Disease Control and \n"
+  },
+  {
+    "page": 2,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      51.02360153198242,
+      35.70822525024414,
+      87.443603515625,
+      50.372222900390625
+    ],
+    "text": "Articles\n"
+  },
+  {
+    "page": 2,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      28.346399307250977,
+      772.451171875,
+      555.5751342773438,
+      781.0051879882812
+    ],
+    "text": "e1817\t\nwww.thelancet.com/lancetgh   Vol 12   November 2024\n"
+  },
+  {
+    "page": 2,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      119.05268859863281,
+      457.18218994140625,
+      335.3358459472656,
+      544.9091186523438
+    ],
+    "text": "Prevention identified AMR as an urgent public health \nthreat in 2023.9 The Fleming Fund (Department of \nHealth and Social Care, UK)10,11 aims to help LMICs gain \nknowledge and control of AMR by 2040. Management of \nSSIs, controlling antibiotic use, timely identification of \ncausative organisms, and reducing AMR will require \nsystem-wide approaches that target multiple factors \n(appendix 3 p 14).\n"
+  },
+  {
+    "page": 2,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      119.05000305175781,
+      545.170166015625,
+      335.3414001464844,
+      709.9092407226562
+    ],
+    "text": "Although the development of AMR is a natural \nphenomenon, the inappropriate use of antimicrobial \ndrugs and poor infection prevention and control practices \ncontribute to the emergence of and further spread \nof AMR alongside an accelerated progression into \nmultidrug resistance (MDR).12 One systematic analysis \nof \nthe \nburden \nof \nAMR \nfound \nan \nestimated \n4·95 million deaths associated with bacterial AMR \nin the year 2019, with sub-Saharan Africa observing the \nhighest death rate of 27·3 per 100 deaths.13 As well as \nincreased mortality and morbidity, AMR is associated \nwith an increased length of hospital stay, difficulty \ntreating infections, high health-care costs, and risk of \ncatastrophic health expenditure for patients, particularly \nin LMICs.12,14\n"
+  },
+  {
+    "page": 2,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      119.05740356445312,
+      710.1822509765625,
+      335.3544616699219,
+      753.9132080078125
+    ],
+    "text": "This study aimed to analyse the antibiotic susceptibility \nof bacteria in wound swabs of patients who developed an \nSSI and the microbiology testing capacity and \nantimicrobial practices of the facilities these patients \n"
+  },
+  {
+    "page": 2,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      344.4081115722656,
+      457.1741638183594,
+      560.6874389648438,
+      489.91717529296875
+    ],
+    "text": "were admitted to during the FALCON randomised \ncontrolled \ntrial \n(a \n2 × 2 \nfactorial \ntrial \ntesting \ntwo interventions aimed at the prevention of SSIs).\n"
+  },
+  {
+    "page": 2,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      344.40472412109375,
+      498.689208984375,
+      560.6846923828125,
+      665.917236328125
+    ],
+    "text": "Methods\nStudy design\nThis study was a post-hoc prospective secondary analysis \nof a randomised controlled trial, with a protocol designed \nbefore data analysis.15 This study is reported according to \nthe STROBE statement (appendix 3 pp 16–20).16 The \nFALCON \ntrial \nevaluated \nthe \neffectiveness \nof \ntwo interventions (2% alcoholic chlorhexidine and \ntriclosan-coated sutures) recommended by WHO to \nreduce SSIs after abdominal surgery.4,5,15 Patient \nidentification, recruitment to the trial, and outcomes \nhave been comprehensively described in the FALCON \ntrial protocol and primary analysis (appendix 3 \npp 21–71).4,15 Here, we provide a summary of the main \ntrial.\n"
+  },
+  {
+    "page": 2,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      344.4081115722656,
+      666.17822265625,
+      560.6871337890625,
+      753.917236328125
+    ],
+    "text": "The FALCON trial recruited all eligible, consecutive \npatients undergoing abdominal surgery with an incision \nof 5 cm or greater. The trial was undertaken in \n54 hospitals in seven countries (Benin, Ghana, India, \nMexico, Nigeria, Rwanda, and South Africa). Patients \nwere randomly assigned by a 2 × 2 factorial design to \nreceive \neither \n2% \nalcoholic \nchlorhexidine \nor \n10% aqueous povidone–iodine skin preparation, and \n"
+  },
+  {
+    "page": 2,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      127.26399993896484,
+      134.48431396484375,
+      193.9889373779297,
+      144.87130737304688
+    ],
+    "text": "Research in context\n"
+  },
+  {
+    "page": 2,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      127.26399993896484,
+      151.15283203125,
+      334.4346008300781,
+      381.52001953125
+    ],
+    "text": "Evidence before this study\nSurgical-site infection (SSI) remains the most common \npostoperative complication and is associated with substantial \nmorbidity and mortality, particularly in low-resource settings. \nA search was conducted to identify studies of SSI that \ndescribed microorganisms and antibiotic resistance from low-\nincome and middle-income countries (LMICs), published \nbetween Jan 1, 2000, and Feb 16, 2023, with no restrictions on \nthe language of publication. We used the search terms “surgical \nsite infection”, “abdominal surgery”, and “microorganism” or \n“antibiotic resistance” or any equivalents to these on the \nMEDLINE, Embase, and Cochrane Library databases. This search \nidentified 153 full-text articles. We found no multicentre \nstudies reporting SSI microorganisms or microbiology testing \ncapacity in hospitals from LMICs. One report described \nantimicrobial resistance patterns in SSI from a single hospital \nin Kenya, and an interventional cohort study described \nantibiotic stewardship for SSI from India. The remaining \nevidence was largely single-centre or single-country \nobservational studies, commentary, and reviews, or was from \nhigh-income settings.\n"
+  },
+  {
+    "page": 2,
+    "block_no": 10,
+    "block_type": 0,
+    "bbox": [
+      127.26399993896484,
+      387.801513671875,
+      332.29254150390625,
+      431.18548583984375
+    ],
+    "text": "Added value of this study\nThis study provides prospective data from seven LMICs on \nantimicrobial use in SSIs, microorganism testing capacity, and \nantimicrobial resistance patterns, as a secondary analysis of the \n"
+  },
+  {
+    "page": 2,
+    "block_no": 11,
+    "block_type": 0,
+    "bbox": [
+      345.093505859375,
+      151.13600158691406,
+      549.10205078125,
+      271.5047302246094
+    ],
+    "text": "FALCON randomised controlled trial. The infrastructure of a \nmajor randomised trial allowed for a multicentre analysis that \nsubstantially adds to the current evidence from single-centre \nstudies. We found that whole-system weaknesses are common \nin the identification and prevention of multidrug \nresistance (MDR) in hospitals where surgery is performed in \nLMICs. Expansion of testing capacity, development of local \nguidelines, and implementation of infection control teams will \nsupport the prevention of SSI, the reduction of inappropriate \nantibiotic use, and the reduction of propagation of MDR \nthrough directed antibiotic prophylaxis.\n"
+  },
+  {
+    "page": 2,
+    "block_no": 12,
+    "block_type": 0,
+    "bbox": [
+      345.093505859375,
+      277.7862548828125,
+      552.51904296875,
+      431.16015625
+    ],
+    "text": "Implications of all the available evidence\nMDR in SSIs and limited microbial capacity are substantial \nproblems in LMICs, probably affecting most hospitals where \nsurgery is performed. When infections do occur, testing capacity \nis low, turnaround time is long, and MDR is high. Thus, \nundirected prophylactic antibiotic use before surgery that is \nineffective is common. This study has identified the pressing \nneed for an expansion of testing strategies, development of \nlocal antimicrobial guidelines (especially context-specific \nprophylaxis guidance), and dedicated infection control teams \nto tackle infection prevention and antimicrobial drug use. \nTargeted prophylactic antibiotic prevention of SSIs is central to \nimproved patient care and will be likely to have positive effects \nbeyond surgery alone.\n"
+  },
+  {
+    "page": 3,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      507.8327941894531,
+      35.70822525024414,
+      544.2528076171875,
+      50.372222900390625
+    ],
+    "text": "Articles\n"
+  },
+  {
+    "page": 3,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      36.850399017333984,
+      772.451171875,
+      564.0947265625,
+      781.0051879882812
+    ],
+    "text": "www.thelancet.com/lancetgh   Vol 12   November 2024\t\ne1818\n"
+  },
+  {
+    "page": 3,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      36.850399017333984,
+      127.18222045898438,
+      253.13839721679688,
+      357.8789367675781
+    ],
+    "text": "either triclosan-coated sutures or non-coated sutures. \nPatients were stratified by level of intraoperative \ncontamination (appendix 3 p 2). Those undergoing \nclean operations (in which the gastrointestinal tract is \nnot entered) were excluded. Patient demographics (age, \nsex, diabetes status, smoking status, HIV status, and \nAmerican Society of Anesthesiologists [ASA] grade), \nperioperative factors (including urgency, contamination, \nand whether prophylactic antibiotics were given), and \n30-day postoperative follow-up data (including SSI and \nmicrobiology swab data) were prospectively collected. \nPatients provided written informed consent, which \nincluded the use of collected data in all secondary \nanalyses. Approval for this analysis was given by \nthe FALCON trial management group. FALCON was \napproved by the University of Birmingham Research \nEthics Committee (ERN_180230). Ethics and regulatory \napprovals in each participating country were sought in \nline with regional or national regulations, or both. The \ntrial was prospectively registered at ClinicalTrials.gov, \nNCT03700749.\n"
+  },
+  {
+    "page": 3,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      36.843994140625,
+      368.16070556640625,
+      253.1426544189453,
+      753.897216796875
+    ],
+    "text": "Microbiology analysis\nPatients with a diagnosis of SSI (as per the US Centers \nfor Disease Control and Prevention [CDC] criteria for \nSSI)17 were included in this analysis. This analysis is \nbased on the presumption that all patients who have a \nconfirmed SSI diagnosis should have a wound swab \ntaken for microbiological analysis so that the infective \norganisms can be identified, and microorganism \nantibiotic susceptibility testing can be performed to \nenable directed antibiotic use (thereby reducing use of \nempirical broad-spectrum antibiotics). However, there \nwas no stipulation in the trial protocol that patients must \nhave wound swabs. The full patient inclusion and \nexclusion criteria of the FALCON trial are presented in \nappendix 3 (p 3). The decision to swab an SSI was \npresumptively determined by local clinical practices, \npatient’s choice, or patient’s ability to afford the test, \nalthough data on reasoning for decisions were not \ncollected. \nMicrobiological \ncultures \nand \nantibiotic \nsusceptibility and AMR testing were carried out in local \nmicrobiology facilities. Susceptibility was defined \naccording to the Clinical and Laboratory Standards \nInstitute and the European Committee on Antimicrobial \nSusceptibility Testing guidelines.18 Non-bacterial isolates, \nsuch as yeast, were excluded from analysis. The \nmicrobiology results were categorised according to: \nMDR profiles of isolates; number of isolates in swabs; \nand whether isolates were endogenous to gut flora, skin \nflora, or both. MDR categorisation was performed based \non these data. Analyses were performed on MDR and \nnon-MDR isolates, whether swabs grew monomicrobial \nor polymicrobial cultures, and whether isolated \npathogens were endogenous to gut and skin flora. These \nvariables were analysed against patient demographics, \noperative factors, and patient outcomes. Duplicate data \n"
+  },
+  {
+    "page": 3,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      262.19500732421875,
+      633.1622314453125,
+      478.4740905761719,
+      654.897216796875
+    ],
+    "text": "were removed and there were no allowances for \nmultiplicity for this analysis.\n"
+  },
+  {
+    "page": 3,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      262.19500732421875,
+      655.158203125,
+      478.4809875488281,
+      753.9052124023438
+    ],
+    "text": "MDR was defined as “acquired non-susceptibility to at \nleast one agent in three or more antimicrobial categories”19 \nand was calculated according to the European Centre for \nDisease Prevention and Control and CDC criteria. If there \nwere not enough antibiotic categories tested, the \norganisms were categorised as being unknown due to \ninsufficient data. Further subcategorisation of MDR \norganisms as extremely drug resistant or pan-drug \nresistant was not done. If a wound swab contained more \n"
+  },
+  {
+    "page": 3,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      273.393310546875,
+      138.12921142578125,
+      347.35675048828125,
+      146.06570434570312
+    ],
+    "text": "5788 patients in FALCON trial\n"
+  },
+  {
+    "page": 3,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      382.0873107910156,
+      165.8485107421875,
+      554.6818237304688,
+      236.18490600585938
+    ],
+    "text": "4120 excluded due to no SSI\n1047 allocated to alcoholic chlorhexidine and triclosan-coated \nsuture\n987 allocated to alcoholic chlorhexidine and non-coated suture\n994 allocated to povidone–iodine and triclosan-coated suture\n976 allocated to povidone–iodine and non-coated suture\n116 missing\n505 excluded due to loss to follow-up, death, or missing primary \noutcome data\n"
+  },
+  {
+    "page": 3,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      385.8313293457031,
+      320.9059143066406,
+      552.8748168945312,
+      375.642333984375
+    ],
+    "text": "935 with no swab taken\n206 allocated to alcoholic chlorhexidine and triclosan-coated \nsuture\n240 allocated to alcoholic chlorhexidine and non-coated suture\n236 allocated to povidone–iodine and triclosan-coated suture\n230 allocated to povidone–iodine and non-coated suture\n23 missing\n"
+  },
+  {
+    "page": 3,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      388.6003112792969,
+      460.1488342285156,
+      545.9913330078125,
+      514.88525390625
+    ],
+    "text": "28 with no microorganism grown from swab\n9 allocated to alcoholic chlorhexidine and triclosan-coated \nsuture\n3 allocated to alcoholic chlorhexidine and non-coated suture\n9 allocated to povidone–iodine and triclosan-coated suture\n6 allocated to povidone–iodine and non-coated suture\n1 missing\n"
+  },
+  {
+    "page": 3,
+    "block_no": 10,
+    "block_type": 0,
+    "bbox": [
+      273.4333190917969,
+      255.177734375,
+      455.1343078613281,
+      302.1141662597656
+    ],
+    "text": "1163 with SSI\n266 allocated to alcoholic chlorhexidine and triclosan-coated suture\n286 allocated to alcoholic chlorhexidine and non-coated suture\n300 allocated to povidone–iodine and triclosan-coated suture\n284 allocated to povidone–iodine and non-coated suture\n27 missing\n"
+  },
+  {
+    "page": 3,
+    "block_no": 11,
+    "block_type": 0,
+    "bbox": [
+      276.4428405761719,
+      394.38818359375,
+      451.4553527832031,
+      441.3246154785156
+    ],
+    "text": "228 with swab taken\n60 allocated to alcoholic chlorhexidine and triclosan-coated suture\n46 allocated to alcoholic chlorhexidine and non-coated suture\n64 allocated to povidone–iodine and triclosan-coated suture\n54 allocated to povidone–iodine and non-coated suture\n4 missing\n"
+  },
+  {
+    "page": 3,
+    "block_no": 12,
+    "block_type": 0,
+    "bbox": [
+      276.4558410644531,
+      533.631103515625,
+      450.6687927246094,
+      580.567626953125
+    ],
+    "text": "200 with microorganism grown from swab\n51 allocated to alcoholic chlorhexidine and triclosan-coated suture\n43 allocated to alcoholic chlorhexidine and non-coated suture\n55 allocated to povidone–iodine and triclosan-coated suture\n48 allocated to povidone–iodine and non-coated suture\n3 missing\n"
+  },
+  {
+    "page": 3,
+    "block_no": 13,
+    "block_type": 0,
+    "bbox": [
+      262.2041015625,
+      594.0586547851562,
+      545.3681030273438,
+      620.1126708984375
+    ],
+    "text": "Figure 1: Patients from the FALCON randomised controlled trial included in these analyses\nA complete analysis of patients with and without SSIs has been previously reported.4 This study focuses on \npatients with SSIs and microbiology testing of wound swabs. SSI=surgical-site infection. \n"
+  },
+  {
+    "page": 4,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      51.02360153198242,
+      35.70822525024414,
+      87.443603515625,
+      50.372222900390625
+    ],
+    "text": "Articles\n"
+  },
+  {
+    "page": 4,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      28.346399307250977,
+      772.451171875,
+      555.5751342773438,
+      781.0051879882812
+    ],
+    "text": "e1819\t\nwww.thelancet.com/lancetgh   Vol 12   November 2024\n"
+  },
+  {
+    "page": 4,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      344.4081115722656,
+      127.18222045898438,
+      560.6963500976562,
+      247.89907836914062
+    ],
+    "text": "than one microorganism within a mixture of isolates, it \nwas dichotomised and classified as MDR if there was \none or more MDR isolate in the swab. When wound swab \ntesting was insufficient to reliably classify the bacterial \nisolates, they were excluded from the MDR analysis. \nThe hospital-level survey also addressed MDR by \nrequesting information on whether participating hospitals \nroutinely screened for methicillin-resistant Staphylococcus \naureus, extended spectrum beta-lactamase, carbapenem-\nresistant Enterobacteriaceae, and vancomycin-resistant \nEnterococcus.\n"
+  },
+  {
+    "page": 4,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      344.4081115722656,
+      258.1607360839844,
+      560.6871337890625,
+      401.8970642089844
+    ],
+    "text": "Outcomes and procedures\nThe primary outcomes were the incidence of MDR \nmicroorganisms in abdominal SSI swabs and the patient, \noperative, or system-wide factors associated with these \nMDR SSIs. Secondary outcomes, compared across \ncountries and levels of intraoperative contamination, \nwere: microbiological testing practices and capacity \nacross different types of health-care facility; characteristics \nof isolated microorganisms, including the genus and \nspecies, Gram stain, origin, and the association with the \nlevel of intraoperative contamination; and patterns of \nantibiotic susceptibility and resistance in microorganisms \nisolated from wound swabs.\n"
+  },
+  {
+    "page": 4,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      344.4081115722656,
+      402.1580505371094,
+      560.67822265625,
+      467.919189453125
+    ],
+    "text": "Resistance was calculated as a percentage, with a \nhigher rate of susceptibility or resistance if the result was \ncloser or equal to 100%, and a lower rate of susceptibility \nand resistance if closer or equal to 0%: antibiotic \nresistance=number of times microorganism is resistant \nto antibiotics / total number of microorganisms × 100%.\n"
+  },
+  {
+    "page": 4,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      344.41168212890625,
+      468.18218994140625,
+      560.6997680664062,
+      731.8731689453125
+    ],
+    "text": "A hospital-level survey was developed to capture key \ndatapoints not available from the FALCON data, to \nfacilitate a more complete descriptive analysis. This \nsurvey was conducted after the completion of the trial. To \ndetermine the key datapoints, five international forums \nwere held between January, 2021, and May, 2022. These \nwere attended by 18 experts, consisting of microbiologists \nand surgeons from seven LMIC hospitals. Discussion \nfocused on gaps in knowledge, high-utility data, key \ncomparators, and global standards. These datapoints \nwere then iteratively codeveloped and refined into a \nhospital-level survey (appendix 3 pp 27–33) by a core \ngroup of four microbiologists and the central research \nteam. Infrastructure and processing resources identified \nas core service components to ensure high-quality \nmicrobiology care were captured. These components \nincluded wound swabbing procedures, susceptibility \ntesting definitions, culture media, transport practices, \nturnover \ntimes, \nstandard \nantibiotic \nprophylaxis, \nsusceptibility \ntesting \nantibiotics, \nAMR \npathogen \nscreening, antimicrobial surveillance, and availability of \ninfection control teams. This assessment of local capacity \nand surveillance systems provided an international, real-\nworld snapshot of microbiological capacity.\n"
+  },
+  {
+    "page": 4,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      344.41168212890625,
+      732.1341552734375,
+      560.6907958984375,
+      753.869140625
+    ],
+    "text": "The survey was sent to all participating hospitals with \ntesting capacity in May, 2022. Any member of staff, either \n"
+  },
+  {
+    "page": 4,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      123.87210083007812,
+      137.8944091796875,
+      261.6600646972656,
+      154.94639587402344
+    ],
+    "text": "Patients with SSI, included in the analyses of this \nstudy\n"
+  },
+  {
+    "page": 4,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      271.3760986328125,
+      137.8944091796875,
+      325.2900390625,
+      171.94236755371094
+    ],
+    "text": "Patients without \nSSI, excluded from \nthe analyses of this \nstudy (n=4120)\n"
+  },
+  {
+    "page": 4,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      123.87210083007812,
+      176.94737243652344,
+      164.59112548828125,
+      193.9923553466797
+    ],
+    "text": "No swab taken \n(n=935)\n"
+  },
+  {
+    "page": 4,
+    "block_no": 10,
+    "block_type": 0,
+    "bbox": [
+      173.194091796875,
+      176.94737243652344,
+      205.20510864257812,
+      193.9923553466797
+    ],
+    "text": "Swab taken \n(n=228)\n"
+  },
+  {
+    "page": 4,
+    "block_no": 11,
+    "block_type": 0,
+    "bbox": [
+      221.66909790039062,
+      176.94737243652344,
+      246.610107421875,
+      193.9923553466797
+    ],
+    "text": "Total\n(n=1163)\n"
+  },
+  {
+    "page": 4,
+    "block_no": 12,
+    "block_type": 0,
+    "bbox": [
+      37.10009765625,
+      198.9903564453125,
+      99.28111267089844,
+      207.5443572998047
+    ],
+    "text": "Patient demographics\n"
+  },
+  {
+    "page": 4,
+    "block_no": 13,
+    "block_type": 0,
+    "bbox": [
+      37.10009765625,
+      210.28135681152344,
+      64.06409454345703,
+      218.82835388183594
+    ],
+    "text": "Age, years\n"
+  },
+  {
+    "page": 4,
+    "block_no": 14,
+    "block_type": 0,
+    "bbox": [
+      42.77009582519531,
+      221.5653533935547,
+      307.7970886230469,
+      230.1123504638672
+    ],
+    "text": "Mean (SD)\n35·6 (18·3)\n33·0 (18·3)\n35·1 (18·3)\n33·3 (16·1)\n"
+  },
+  {
+    "page": 4,
+    "block_no": 15,
+    "block_type": 0,
+    "bbox": [
+      42.77711486816406,
+      232.84934997558594,
+      295.7781066894531,
+      241.39634704589844
+    ],
+    "text": "Range\n0–87\n0–80\n0–87\n0–89\n"
+  },
+  {
+    "page": 4,
+    "block_no": 16,
+    "block_type": 0,
+    "bbox": [
+      37.1141357421875,
+      244.1333465576172,
+      46.438140869140625,
+      252.6803436279297
+    ],
+    "text": "Sex\n"
+  },
+  {
+    "page": 4,
+    "block_no": 17,
+    "block_type": 0,
+    "bbox": [
+      42.78413391113281,
+      255.41734313964844,
+      308.1681213378906,
+      263.96435546875
+    ],
+    "text": "Female\n539 (57·6%)\n107 (46·9%)\n646 (55·5%)\n2700 (65·5%)\n"
+  },
+  {
+    "page": 4,
+    "block_no": 18,
+    "block_type": 0,
+    "bbox": [
+      42.7911376953125,
+      266.70135498046875,
+      308.0631408691406,
+      275.24835205078125
+    ],
+    "text": "Male\n396 (42·4%)\n121 (53·1%)\n517 (44·5%)\n1419 (34·5%)\n"
+  },
+  {
+    "page": 4,
+    "block_no": 19,
+    "block_type": 0,
+    "bbox": [
+      42.79815673828125,
+      277.9853515625,
+      285.5721435546875,
+      286.5323486328125
+    ],
+    "text": "Missing\n0\n0\n0\n1\n"
+  },
+  {
+    "page": 4,
+    "block_no": 20,
+    "block_type": 0,
+    "bbox": [
+      37.135162353515625,
+      289.26934814453125,
+      88.78816986083984,
+      297.81634521484375
+    ],
+    "text": "ASA physical status\n"
+  },
+  {
+    "page": 4,
+    "block_no": 21,
+    "block_type": 0,
+    "bbox": [
+      42.80516052246094,
+      300.54632568359375,
+      309.1412048339844,
+      309.100341796875
+    ],
+    "text": "Grade 1–2\n678 (72·6%)\n153 (67·1%)\n831 (71·5%)\n3658 (88·8%)\n"
+  },
+  {
+    "page": 4,
+    "block_no": 22,
+    "block_type": 0,
+    "bbox": [
+      42.80516052246094,
+      311.83734130859375,
+      307.3211669921875,
+      320.38433837890625
+    ],
+    "text": "Grade 3–5\n256 (27·4%)\n75 (32·9%)\n331 (28·5%)\n461 (11·2%)\n"
+  },
+  {
+    "page": 4,
+    "block_no": 23,
+    "block_type": 0,
+    "bbox": [
+      42.81214904785156,
+      323.121337890625,
+      285.5861511230469,
+      331.6683349609375
+    ],
+    "text": "Missing\n1 \n0\n1 \n1\n"
+  },
+  {
+    "page": 4,
+    "block_no": 24,
+    "block_type": 0,
+    "bbox": [
+      37.149169921875,
+      334.40533447265625,
+      79.89116668701172,
+      342.95233154296875
+    ],
+    "text": "Known diabetes\n"
+  },
+  {
+    "page": 4,
+    "block_no": 25,
+    "block_type": 0,
+    "bbox": [
+      42.81916809082031,
+      345.6893310546875,
+      309.56817626953125,
+      354.236328125
+    ],
+    "text": "No\n889 (95·1%)\n213 (93·4%)\n1102 (94·8%)\n3988 (96·9%)\n"
+  },
+  {
+    "page": 4,
+    "block_no": 26,
+    "block_type": 0,
+    "bbox": [
+      42.81916809082031,
+      356.97332763671875,
+      304.150146484375,
+      365.52032470703125
+    ],
+    "text": "Yes\n46 (4·9%)\n15 (6·6%)\n61 (5·2%)\n127 (3·1%)\n"
+  },
+  {
+    "page": 4,
+    "block_no": 27,
+    "block_type": 0,
+    "bbox": [
+      42.82615661621094,
+      368.25732421875,
+      285.6001281738281,
+      376.8043212890625
+    ],
+    "text": "Missing\n0\n0\n0\n5\n"
+  },
+  {
+    "page": 4,
+    "block_no": 28,
+    "block_type": 0,
+    "bbox": [
+      37.16313171386719,
+      379.54132080078125,
+      61.1241340637207,
+      388.08831787109375
+    ],
+    "text": "Smoking\n"
+  },
+  {
+    "page": 4,
+    "block_no": 29,
+    "block_type": 0,
+    "bbox": [
+      42.8331298828125,
+      390.8253173828125,
+      309.5261535644531,
+      399.372314453125
+    ],
+    "text": "No\n862 (92·2%)\n212 (93·0%)\n1074 (92·3%)\n3896 (94·6%)\n"
+  },
+  {
+    "page": 4,
+    "block_no": 30,
+    "block_type": 0,
+    "bbox": [
+      42.83311462402344,
+      402.10931396484375,
+      304.7311096191406,
+      410.65631103515625
+    ],
+    "text": "Yes\n73 (7·8%)\n16 (7·0%)\n89 (7·7%)\n221 (5·4%)\n"
+  },
+  {
+    "page": 4,
+    "block_no": 31,
+    "block_type": 0,
+    "bbox": [
+      42.84010314941406,
+      413.393310546875,
+      285.6141052246094,
+      421.9403076171875
+    ],
+    "text": "Missing\n0\n0\n0\n3\n"
+  },
+  {
+    "page": 4,
+    "block_no": 32,
+    "block_type": 0,
+    "bbox": [
+      37.1771240234375,
+      424.67730712890625,
+      64.51212310791016,
+      433.22430419921875
+    ],
+    "text": "HIV status\n"
+  },
+  {
+    "page": 4,
+    "block_no": 33,
+    "block_type": 0,
+    "bbox": [
+      42.84712219238281,
+      435.9613037109375,
+      308.0561218261719,
+      444.50830078125
+    ],
+    "text": "Known negative\n490 (52·4%)\n118 (51·8%)\n608 (52·3%)\n2380 (57·8%)\n"
+  },
+  {
+    "page": 4,
+    "block_no": 34,
+    "block_type": 0,
+    "bbox": [
+      42.84712219238281,
+      447.24530029296875,
+      304.40911865234375,
+      455.79229736328125
+    ],
+    "text": "Known positive\n21 (2·2%)\n3 (1·3%)\n24 (2·1%)\n91 (2·2%)\n"
+  },
+  {
+    "page": 4,
+    "block_no": 35,
+    "block_type": 0,
+    "bbox": [
+      42.85411071777344,
+      458.529296875,
+      308.9171447753906,
+      467.0762939453125
+    ],
+    "text": "Unknown\n424 (45·3%)\n107 (46·9%)\n531 (45·7%)\n1648 (40·0%)\n"
+  },
+  {
+    "page": 4,
+    "block_no": 36,
+    "block_type": 0,
+    "bbox": [
+      42.85411071777344,
+      469.81329345703125,
+      285.6280822753906,
+      478.36029052734375
+    ],
+    "text": "Missing\n0\n0\n0\n1\n"
+  },
+  {
+    "page": 4,
+    "block_no": 37,
+    "block_type": 0,
+    "bbox": [
+      37.19110107421875,
+      481.0972900390625,
+      94.423095703125,
+      489.644287109375
+    ],
+    "text": "Indication for surgery\n"
+  },
+  {
+    "page": 4,
+    "block_no": 38,
+    "block_type": 0,
+    "bbox": [
+      42.86109924316406,
+      492.38128662109375,
+      308.546142578125,
+      500.92828369140625
+    ],
+    "text": "Benign disease\n632 (67·7%)\n188 (82·5%)\n820 (70·6%)\n2262 (54·9%)\n"
+  },
+  {
+    "page": 4,
+    "block_no": 39,
+    "block_type": 0,
+    "bbox": [
+      42.86810302734375,
+      503.665283203125,
+      304.85015869140625,
+      512.2122802734375
+    ],
+    "text": "Malignant disease\n91 (9·7%)\n20 (8·8%)\n111 (9·6%)\n256 (6·2%)\n"
+  },
+  {
+    "page": 4,
+    "block_no": 40,
+    "block_type": 0,
+    "bbox": [
+      42.8751220703125,
+      514.9492797851562,
+      308.23114013671875,
+      523.4962768554688
+    ],
+    "text": "Obstetric\n179 (19·2%)\n11 (4·8%)\n190 (16·4%)\n1492 (36·2%)\n"
+  },
+  {
+    "page": 4,
+    "block_no": 41,
+    "block_type": 0,
+    "bbox": [
+      42.882110595703125,
+      526.2332763671875,
+      304.8641357421875,
+      534.7802734375
+    ],
+    "text": "Trauma\n32 (3·4%)\n9 (3·9%)\n41 (3·5%)\n107 (2·6%)\n"
+  },
+  {
+    "page": 4,
+    "block_no": 42,
+    "block_type": 0,
+    "bbox": [
+      42.889129638671875,
+      537.4976196289062,
+      285.54449462890625,
+      546.0642700195312
+    ],
+    "text": "Missing\n1\n0\n1\n3\n"
+  },
+  {
+    "page": 4,
+    "block_no": 43,
+    "block_type": 0,
+    "bbox": [
+      37.107513427734375,
+      548.7745971679688,
+      85.88351440429688,
+      557.32861328125
+    ],
+    "text": "Operative factors\n"
+  },
+  {
+    "page": 4,
+    "block_no": 44,
+    "block_type": 0,
+    "bbox": [
+      37.107513427734375,
+      560.0656127929688,
+      84.32951354980469,
+      568.6126098632812
+    ],
+    "text": "Timing of surgery\n"
+  },
+  {
+    "page": 4,
+    "block_no": 45,
+    "block_type": 0,
+    "bbox": [
+      42.77751159667969,
+      571.349609375,
+      308.4765625,
+      579.8966064453125
+    ],
+    "text": "Elective\n287 (30·7%)\n53 (23·2%)\n340 (29·2%)\n1466 (35·6%)\n"
+  },
+  {
+    "page": 4,
+    "block_no": 46,
+    "block_type": 0,
+    "bbox": [
+      42.77751159667969,
+      582.6336059570312,
+      308.9455871582031,
+      591.1806030273438
+    ],
+    "text": "Emergency\n648 (69·3%)\n175 (76·8%)\n823 (70·8%)\n2654 (64·4%)\n"
+  },
+  {
+    "page": 4,
+    "block_no": 47,
+    "block_type": 0,
+    "bbox": [
+      37.10752868652344,
+      593.9176025390625,
+      99.63153076171875,
+      602.464599609375
+    ],
+    "text": "Prophylactic antibiotics\n"
+  },
+  {
+    "page": 4,
+    "block_no": 48,
+    "block_type": 0,
+    "bbox": [
+      42.77752685546875,
+      605.2015991210938,
+      307.74853515625,
+      613.7485961914062
+    ],
+    "text": "No\n235 (25·1%)\n23 (10·1%)\n258 (22·2%)\n784 (19·0%)\n"
+  },
+  {
+    "page": 4,
+    "block_no": 49,
+    "block_type": 0,
+    "bbox": [
+      42.784515380859375,
+      616.485595703125,
+      307.95855712890625,
+      625.0325927734375
+    ],
+    "text": "Yes\n700 (74·9%)\n205 (89·9%)\n905 (77·8%)\n3336 (81·0%)\n"
+  },
+  {
+    "page": 4,
+    "block_no": 50,
+    "block_type": 0,
+    "bbox": [
+      42.791534423828125,
+      627.7695922851562,
+      81.8795394897461,
+      644.8145751953125
+    ],
+    "text": "Cefepime plus \nmetronidazole\n"
+  },
+  {
+    "page": 4,
+    "block_no": 51,
+    "block_type": 0,
+    "bbox": [
+      127.54753112792969,
+      627.7695922851562,
+      304.7805480957031,
+      636.3165893554688
+    ],
+    "text": "48 (5·1%)\n13 (5·7%)\n61 (5·2%)\n230 (5·6%)\n"
+  },
+  {
+    "page": 4,
+    "block_no": 52,
+    "block_type": 0,
+    "bbox": [
+      42.79852294921875,
+      647.5515747070312,
+      308.154541015625,
+      656.0985717773438
+    ],
+    "text": "Ceftriaxone\n247 (26·4%)\n41 (18·0%)\n288 (24·8%)\n1083 (26·3%)\n"
+  },
+  {
+    "page": 4,
+    "block_no": 53,
+    "block_type": 0,
+    "bbox": [
+      42.80552673339844,
+      658.8355712890625,
+      87.47252655029297,
+      675.8805541992188
+    ],
+    "text": "Ceftriaxone plus \nmetronidazole\n"
+  },
+  {
+    "page": 4,
+    "block_no": 54,
+    "block_type": 0,
+    "bbox": [
+      125.13252258300781,
+      658.8355712890625,
+      307.9305419921875,
+      667.382568359375
+    ],
+    "text": "153 (16·4%)\n35 (15·4%)\n188 (16·2%)\n754 (18·3%)\n"
+  },
+  {
+    "page": 4,
+    "block_no": 55,
+    "block_type": 0,
+    "bbox": [
+      42.81254577636719,
+      678.6175537109375,
+      87.51454162597656,
+      695.66259765625
+    ],
+    "text": "Cefuroxime plus \nceftazidime\n"
+  },
+  {
+    "page": 4,
+    "block_no": 56,
+    "block_type": 0,
+    "bbox": [
+      127.89754486083984,
+      678.6175537109375,
+      304.5776062011719,
+      687.16455078125
+    ],
+    "text": "36 (3·9%)\n21 (9·2%)\n57 (4·9%)\n66 (1·6%)\n"
+  },
+  {
+    "page": 4,
+    "block_no": 57,
+    "block_type": 0,
+    "bbox": [
+      42.81956481933594,
+      698.3995361328125,
+      91.72856903076172,
+      715.444580078125
+    ],
+    "text": "Ciprofloxacin plus \nmetronidazole\n"
+  },
+  {
+    "page": 4,
+    "block_no": 58,
+    "block_type": 0,
+    "bbox": [
+      128.24057006835938,
+      698.3995361328125,
+      304.61956787109375,
+      706.946533203125
+    ],
+    "text": "70 (7·5%)\n17 (7·5%)\n87 (7·5%)\n400 (9·7%)\n"
+  },
+  {
+    "page": 4,
+    "block_no": 59,
+    "block_type": 0,
+    "bbox": [
+      42.826568603515625,
+      718.1815795898438,
+      307.9655456542969,
+      726.7285766601562
+    ],
+    "text": "Other\n146 (15·6%)\n78 (34·2%)\n224 (19·3%)\n803 (19·5%)\n"
+  },
+  {
+    "page": 4,
+    "block_no": 60,
+    "block_type": 0,
+    "bbox": [
+      241.76657104492188,
+      729.465576171875,
+      324.38055419921875,
+      738.0125732421875
+    ],
+    "text": "(Table continues on next page)\n"
+  },
+  {
+    "page": 5,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      507.8327941894531,
+      35.70822525024414,
+      544.2528076171875,
+      50.372222900390625
+    ],
+    "text": "Articles\n"
+  },
+  {
+    "page": 5,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      36.850399017333984,
+      772.451171875,
+      564.0948486328125,
+      781.0051879882812
+    ],
+    "text": "www.thelancet.com/lancetgh   Vol 12   November 2024\t\ne1820\n"
+  },
+  {
+    "page": 5,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      36.8468017578125,
+      127.18222045898438,
+      253.1348114013672,
+      214.91317749023438
+    ],
+    "text": "new to this analysis study or who had originally taken \npart in the FALCON trial, was invited to participate, \nalthough only one response was required per hospital. A \nsecure online link was made available. Respondents \nentered data directly onto the REDCap web application,20 \nbased in the secure servers in the University of \nBirmingham (Birmingham, UK). For continuous data, a \nmean average was calculated.\n"
+  },
+  {
+    "page": 5,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      36.8468017578125,
+      215.17416381835938,
+      253.1219482421875,
+      269.9151916503906
+    ],
+    "text": "Entries that were missing SSI status, which was the \nprimary outcome from the FALCON trial, were excluded \nin the same manner as the original analysis.4 Missing \ndatapoints from the hospital-level survey were promptly \nqueried\n"
+  },
+  {
+    "page": 5,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      36.850399017333984,
+      280.16070556640625,
+      253.13841247558594,
+      445.89300537109375
+    ],
+    "text": "Statistical analysis\nCategorical \noutcomes \nwere \nsummarised \nusing \nfrequencies and proportions and continuous outcomes \nwere summarised using medians and IQRs. The primary \nanalysis was modelled using mixed-effects multivariable \nlogistic regression adjusting for ASA grade, timing of \nsurgery (emergency or elective), and intraoperative \ncontamination. Hospital was included as a random \neffect. Adjusted odds ratios, 95% CIs, and p values from \ntwo-sided tests are presented for the multivariable \nanalysis of the primary outcome and for point estimates \nof results. These factors were chosen because they were \ninherent properties of operative procedures and known \nto have an effect on the incidence of SSIs, and hence \nwere also most likely to affect MDR.\n"
+  },
+  {
+    "page": 5,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      36.850399017333984,
+      446.15399169921875,
+      253.12037658691406,
+      522.8789672851562
+    ],
+    "text": "Similar summary statistics for the primary outcome \nare also presented across the following groups: specific \nmicroorganisms and operative factors, whether patients \nunderwent clean-contaminated versus contaminated or \ndirty surgery, and across different countries. p<0·05 was \nconsidered to indicate statistical significance. Analyses \nwere performed with Stata SE version 16.1.\n"
+  },
+  {
+    "page": 5,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      36.850399017333984,
+      533.1607055664062,
+      253.13836669921875,
+      577.9152221679688
+    ],
+    "text": "Role of the funding source\nThe funder of the study had no role in study design, data \ncollection, data analysis, data interpretation, or writing of \nthe report.\n"
+  },
+  {
+    "page": 5,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      36.850399017333984,
+      586.689208984375,
+      253.138916015625,
+      753.8992309570312
+    ],
+    "text": "Results\nBetween Dec 10, 2018, and Sept 7, 2020, 5788 patients \nwere recruited to the FALCON trial. Because the primary \ntrial has been reported and compared patients with and \nwithout SSIs,4 this current analysis focuses on patients \nwith SSI only, and 4120 patients without SSIs were \nexcluded (figure 1). Overall, 1163 of 5284 patients (22·0% \n[95% CI 20·9–23·2]) at 50 hospitals were diagnosed with \nan SSI in the FALCON trial. Of these patients with SSIs, \n228 of 1163 (19·6% [17·4–22·0]) had a wound swab taken \n(table). 935 (80·4%) patients did not have a swab taken, \namong whom 195 (20·9% [18·3–23·6]) were from \nhospitals (n=15) that did not have capacity to carry out \nmicrobiological analysis and 740 (79·1% [76·4–81·7]) were \nfrom hospitals (n=35) that had capacity but did not swab \n"
+  },
+  {
+    "page": 5,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      262.201904296875,
+      633.1642456054688,
+      478.4897766113281,
+      731.88525390625
+    ],
+    "text": "the SSI wound (appendix 3 p 4). The demographics of \npatients who had a swab taken versus those who did not \nare shown in the table. The 35 hospitals with testing \ncapacity were based in all seven countries (Benin, India, \nMexico, Nigeria, Ghana, Rwanda, and South Africa). \nMissing datapoints from the original dataset in this \ncurrent analysis amounted to less than 0·8% of the total \ndatapoints. There were no missing datapoints in the \nhospital-level survey.\n"
+  },
+  {
+    "page": 5,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      262.201904296875,
+      732.146240234375,
+      478.4809265136719,
+      753.8812255859375
+    ],
+    "text": "200 (87·7%) patients had a wound swab that cultured a \nmicroorganism. 235 microorganisms were detected, \n"
+  },
+  {
+    "page": 5,
+    "block_no": 10,
+    "block_type": 0,
+    "bbox": [
+      357.7322998046875,
+      133.9259033203125,
+      495.52020263671875,
+      150.97789001464844
+    ],
+    "text": "Patients with SSI, included in the analyses of this \nstudy\n"
+  },
+  {
+    "page": 5,
+    "block_no": 11,
+    "block_type": 0,
+    "bbox": [
+      505.2362976074219,
+      133.9259033203125,
+      559.1503295898438,
+      167.97386169433594
+    ],
+    "text": "Patients without \nSSI, excluded from \nthe analyses of this \nstudy (n=4120)\n"
+  },
+  {
+    "page": 5,
+    "block_no": 12,
+    "block_type": 0,
+    "bbox": [
+      357.7322998046875,
+      172.97886657714844,
+      398.4512939453125,
+      190.0238494873047
+    ],
+    "text": "No swab taken \n(n=935)\n"
+  },
+  {
+    "page": 5,
+    "block_no": 13,
+    "block_type": 0,
+    "bbox": [
+      407.0542907714844,
+      172.97886657714844,
+      439.0653076171875,
+      190.0238494873047
+    ],
+    "text": "Swab taken \n(n=228)\n"
+  },
+  {
+    "page": 5,
+    "block_no": 14,
+    "block_type": 0,
+    "bbox": [
+      455.529296875,
+      172.97886657714844,
+      480.4703063964844,
+      190.0238494873047
+    ],
+    "text": "Total\n(n=1163)\n"
+  },
+  {
+    "page": 5,
+    "block_no": 15,
+    "block_type": 0,
+    "bbox": [
+      270.9602966308594,
+      195.0288543701172,
+      356.74517822265625,
+      203.5758514404297
+    ],
+    "text": "(Continued from previous page)\n"
+  },
+  {
+    "page": 5,
+    "block_no": 16,
+    "block_type": 0,
+    "bbox": [
+      270.9602966308594,
+      207.44688415527344,
+      350.3822326660156,
+      215.99388122558594
+    ],
+    "text": "Intraoperative contamination\n"
+  },
+  {
+    "page": 5,
+    "block_no": 17,
+    "block_type": 0,
+    "bbox": [
+      276.63031005859375,
+      218.7308807373047,
+      542.854248046875,
+      227.2778778076172
+    ],
+    "text": "Clean or clean-contaminated\n400 (42·8%)\n55 (24·1%)\n455 (39·1%)\n2464 (59·8%)\n"
+  },
+  {
+    "page": 5,
+    "block_no": 18,
+    "block_type": 0,
+    "bbox": [
+      276.63031005859375,
+      230.01487731933594,
+      542.154296875,
+      238.56187438964844
+    ],
+    "text": "Contaminated or dirty\n535 (57·2%)\n173 (75·9%)\n708 (60·9%)\n1656 (40·2%)\n"
+  },
+  {
+    "page": 5,
+    "block_no": 19,
+    "block_type": 0,
+    "bbox": [
+      270.9603271484375,
+      241.2988739013672,
+      288.63531494140625,
+      249.8458709716797
+    ],
+    "text": "Stoma\n"
+  },
+  {
+    "page": 5,
+    "block_no": 20,
+    "block_type": 0,
+    "bbox": [
+      276.6303405761719,
+      252.58287048339844,
+      542.9872436523438,
+      261.1298828125
+    ],
+    "text": "No\n863 (92·9%)\n194 (85·8%)\n1057 (91·5%)\n3958 (96·8%)\n"
+  },
+  {
+    "page": 5,
+    "block_no": 21,
+    "block_type": 0,
+    "bbox": [
+      276.63031005859375,
+      263.86688232421875,
+      538.1783447265625,
+      272.41387939453125
+    ],
+    "text": "Yes\n66 (7·1%)\n32 (14·2%)\n98 (8·5%)\n132 (3·2%)\n"
+  },
+  {
+    "page": 5,
+    "block_no": 22,
+    "block_type": 0,
+    "bbox": [
+      276.6372985839844,
+      275.15087890625,
+      519.411376953125,
+      283.6978759765625
+    ],
+    "text": "Missing\n6\n2\n8\n30\n"
+  },
+  {
+    "page": 5,
+    "block_no": 23,
+    "block_type": 0,
+    "bbox": [
+      270.9743347167969,
+      286.4278564453125,
+      320.12835693359375,
+      294.98187255859375
+    ],
+    "text": "30-day outcomes\n"
+  },
+  {
+    "page": 5,
+    "block_no": 24,
+    "block_type": 0,
+    "bbox": [
+      270.9743347167969,
+      297.7188720703125,
+      314.0663146972656,
+      306.265869140625
+    ],
+    "text": "Purulent wound\n"
+  },
+  {
+    "page": 5,
+    "block_no": 25,
+    "block_type": 0,
+    "bbox": [
+      276.64434814453125,
+      309.00286865234375,
+      540.306396484375,
+      317.54986572265625
+    ],
+    "text": "No\n381 (41·4%)\n40 (18·3%)\n421 (37·0%)\n4120 (100%)\n"
+  },
+  {
+    "page": 5,
+    "block_no": 26,
+    "block_type": 0,
+    "bbox": [
+      276.6513671875,
+      320.286865234375,
+      519.4254150390625,
+      328.8338623046875
+    ],
+    "text": "Yes\n539 (58·6%)\n179 (81·7%)\n718 (63·0%)\n0\n"
+  },
+  {
+    "page": 5,
+    "block_no": 27,
+    "block_type": 0,
+    "bbox": [
+      276.65838623046875,
+      331.57086181640625,
+      519.4324340820312,
+      340.11785888671875
+    ],
+    "text": "Missing\n15\n9\n24\n0\n"
+  },
+  {
+    "page": 5,
+    "block_no": 28,
+    "block_type": 0,
+    "bbox": [
+      270.99542236328125,
+      342.8548583984375,
+      312.015380859375,
+      351.40185546875
+    ],
+    "text": "Wound opened\n"
+  },
+  {
+    "page": 5,
+    "block_no": 29,
+    "block_type": 0,
+    "bbox": [
+      276.6654357910156,
+      354.13885498046875,
+      537.4434204101562,
+      362.68585205078125
+    ],
+    "text": "No\n432 (47·0%)\n66 (30·1%)\n498 (43·7%)\n4031 (97·8)\n"
+  },
+  {
+    "page": 5,
+    "block_no": 30,
+    "block_type": 0,
+    "bbox": [
+      276.6723937988281,
+      365.4228515625,
+      538.2343139648438,
+      373.9698486328125
+    ],
+    "text": "Yes\n488 (53·0%)\n153 (69·9%)\n641 (56·3%)\n89 (2·2%)\n"
+  },
+  {
+    "page": 5,
+    "block_no": 31,
+    "block_type": 0,
+    "bbox": [
+      276.67938232421875,
+      376.70684814453125,
+      519.4534301757812,
+      385.25384521484375
+    ],
+    "text": "Missing\n15\n9\n24\n0\n"
+  },
+  {
+    "page": 5,
+    "block_no": 32,
+    "block_type": 0,
+    "bbox": [
+      271.01641845703125,
+      387.9908447265625,
+      309.6773681640625,
+      396.537841796875
+    ],
+    "text": "Systemic fever\n"
+  },
+  {
+    "page": 5,
+    "block_no": 33,
+    "block_type": 0,
+    "bbox": [
+      276.6864318847656,
+      399.27484130859375,
+      543.0994262695312,
+      407.82183837890625
+    ],
+    "text": "No\n706 (76·7%)\n110 (50·2%)\n816 (71·6%)\n4049 (98·3%)\n"
+  },
+  {
+    "page": 5,
+    "block_no": 34,
+    "block_type": 0,
+    "bbox": [
+      276.68646240234375,
+      410.558837890625,
+      537.8704223632812,
+      419.1058349609375
+    ],
+    "text": "Yes\n214 (23·3%)\n109 (49·8%)\n323 (28·4%)\n71 (1·7%)\n"
+  },
+  {
+    "page": 5,
+    "block_no": 35,
+    "block_type": 0,
+    "bbox": [
+      276.6934509277344,
+      421.84283447265625,
+      519.467529296875,
+      430.38983154296875
+    ],
+    "text": "Missing\n15\n9\n24\n0\n"
+  },
+  {
+    "page": 5,
+    "block_no": 36,
+    "block_type": 0,
+    "bbox": [
+      271.030517578125,
+      433.1268310546875,
+      304.82647705078125,
+      441.673828125
+    ],
+    "text": "Re-admitted\n"
+  },
+  {
+    "page": 5,
+    "block_no": 37,
+    "block_type": 0,
+    "bbox": [
+      276.7005310058594,
+      444.41082763671875,
+      542.8544921875,
+      452.95782470703125
+    ],
+    "text": "No\n821 (89·2%)\n181 (83·0%)\n1002 (88·0%)\n4073 (98·9%)\n"
+  },
+  {
+    "page": 5,
+    "block_no": 38,
+    "block_type": 0,
+    "bbox": [
+      276.70751953125,
+      455.69482421875,
+      537.8355102539062,
+      464.2418212890625
+    ],
+    "text": "Yes\n99 (10·8%)\n37 (17·0%)\n136 (12·0%)\n46 (1·1%)\n"
+  },
+  {
+    "page": 5,
+    "block_no": 39,
+    "block_type": 0,
+    "bbox": [
+      276.71453857421875,
+      466.97882080078125,
+      519.488525390625,
+      475.52581787109375
+    ],
+    "text": "Missing\n15\n10\n25\n1\n"
+  },
+  {
+    "page": 5,
+    "block_no": 40,
+    "block_type": 0,
+    "bbox": [
+      271.051513671875,
+      478.2628173828125,
+      304.0984802246094,
+      486.809814453125
+    ],
+    "text": "Re-operated\n"
+  },
+  {
+    "page": 5,
+    "block_no": 41,
+    "block_type": 0,
+    "bbox": [
+      276.7215270996094,
+      489.54681396484375,
+      543.2394409179688,
+      498.09381103515625
+    ],
+    "text": "No\n827 (90·0%)\n180 (82·2%)\n1007 (88·5%)\n4096 (99·5%)\n"
+  },
+  {
+    "page": 5,
+    "block_no": 42,
+    "block_type": 0,
+    "bbox": [
+      276.72149658203125,
+      500.830810546875,
+      538.5215454101562,
+      509.3778076171875
+    ],
+    "text": "Yes\n92 (10·0%)\n39 (17·8%)\n131 (11·5%)\n21 (0·5%)\n"
+  },
+  {
+    "page": 5,
+    "block_no": 43,
+    "block_type": 0,
+    "bbox": [
+      276.728515625,
+      512.1148071289062,
+      519.5025634765625,
+      520.6618041992188
+    ],
+    "text": "Missing\n16\n9\n25\n3\n"
+  },
+  {
+    "page": 5,
+    "block_no": 44,
+    "block_type": 0,
+    "bbox": [
+      271.0655517578125,
+      523.3988037109375,
+      283.3365478515625,
+      531.94580078125
+    ],
+    "text": "Died\n"
+  },
+  {
+    "page": 5,
+    "block_no": 45,
+    "block_type": 0,
+    "bbox": [
+      276.7355651855469,
+      534.6828002929688,
+      542.8895263671875,
+      543.2297973632812
+    ],
+    "text": "No\n914 (98·0%)\n218 (95·6%)\n1132 (97·5%)\n4107 (99·8%)\n"
+  },
+  {
+    "page": 5,
+    "block_no": 46,
+    "block_type": 0,
+    "bbox": [
+      276.7425537109375,
+      545.966796875,
+      538.5355834960938,
+      554.5137939453125
+    ],
+    "text": "Yes\n19 (2·0%)\n10 (4·4%)\n29 (2·5%)\n9 (0·2%)\n"
+  },
+  {
+    "page": 5,
+    "block_no": 47,
+    "block_type": 0,
+    "bbox": [
+      276.7496337890625,
+      557.2293090820312,
+      519.4044799804688,
+      565.7977905273438
+    ],
+    "text": "Missing\n2\n0\n2\n4\n"
+  },
+  {
+    "page": 5,
+    "block_no": 48,
+    "block_type": 0,
+    "bbox": [
+      268.1250915527344,
+      571.2902221679688,
+      560.4628295898438,
+      596.230712890625
+    ],
+    "text": "Data are n (%) unless otherwise indicated. Percentages were calculated using number of patients with available data as \nthe denominator. Percentages might not add to 100% due to rounding. SSI=surgical-site infection. ASA=American \nSociety of Anesthesiologists.\n"
+  },
+  {
+    "page": 5,
+    "block_no": 49,
+    "block_type": 0,
+    "bbox": [
+      268.1250915527344,
+      603.8798217773438,
+      528.0841674804688,
+      612.433837890625
+    ],
+    "text": "Table: Demographics, operative factors, and 30-day outcomes of patients in the FALCON trial\n"
+  },
+  {
+    "page": 6,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      51.02360153198242,
+      35.70822525024414,
+      87.443603515625,
+      50.372222900390625
+    ],
+    "text": "Articles\n"
+  },
+  {
+    "page": 6,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      28.346399307250977,
+      772.451171875,
+      555.5751342773438,
+      781.0051879882812
+    ],
+    "text": "e1821\t\nwww.thelancet.com/lancetgh   Vol 12   November 2024\n"
+  },
+  {
+    "page": 6,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      344.4081115722656,
+      127.18222045898438,
+      560.6961669921875,
+      335.8829650878906
+    ],
+    "text": "because 35 swabs grew more than one microorganism, \nand 30 different microorganisms were reported. \nCompared with patients with no swab or no \nmicroorganism grown (n=28), patients with a positive \nmicroorganism identified (n=200) tended to be from \nhospitals situated in low-income countries, and tended \nto be younger than 18 years, male, ASA grade 3–5, \nundergoing \nemergency \nsurgery, \nundergoing \na \ncontaminated or dirty procedure, and to have benign \nsurgical pathology (appendix 3 p 5). Stomas were more \ncommon in the patients with a positive swab, which \nmight \nreflect \nan \nincreased \nnumber of \nheavily \ncontaminated surgical procedures that prevented safe \nbowel anastomosis, or the ongoing presence of an \nostomy that diverted effluence to the abdominal wall, \nwhich increased the risk of SSIs (appendix 3 p 5). \nPatients with an SSI who had a swab taken also appeared \nto be more symptomatic, with higher rates of tenderness, \nswelling, and redness (appendix 3 p 6).\n"
+  },
+  {
+    "page": 6,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      344.4081115722656,
+      336.1439514160156,
+      560.6962280273438,
+      423.8668518066406
+    ],
+    "text": "Ceftriaxone, a third-generation cephalosporin, was by \nfar the most common prophylactic antibiotic given to \npatients with SSIs. It was given alone in 288 patients \n(24·8% [95% CI 22·3–27·3]) and in combination with \nmetronidazole in 188 patients (17·6% [14·1–18·4]; table 1, \nappendix 3 p 7). Of the 235 microorganisms detected, \n77 (32·8% [26·8–39·2]) were susceptible to the \nprophylactic antibiotic given (appendix 3 p 8).\n"
+  },
+  {
+    "page": 6,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      344.4081115722656,
+      424.1278381347656,
+      560.6962280273438,
+      555.8427124023438
+    ],
+    "text": "Escherichia coli was the most common species \nidentified (89 of 235; 37·9% [95% CI 31·6–44·4]), \nfollowed by Klebsiella spp. (33 of 235; 14·0% [9·9–19·2], \nappendix 3 p 8). Gram-negative bacteria constituted \n179 of 235 (76·2% [70·2–81·5]) and four of 235 \n(1·7% [0·5–4·3]) were yeasts. Most organisms grown \nwere \nprimarily \nof \ngut \norigin \n(199 \nof \n235; \n84·7% [79·4–89·0]; 26 of 235 (11·0% [7·4–15·8]) were \nprimarily of skin origin and ten (4·3% [2·1–7·7]) could \nbe of either origin (appendix 3 pp 9, 15). Standard \nmicrobiological analysis practice in hospitals in the \nstudy is presented in figure 2.\n"
+  },
+  {
+    "page": 6,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      344.4080810546875,
+      556.103759765625,
+      560.6869506835938,
+      632.8287353515625
+    ],
+    "text": "For many wound swabs, details on the reported \nmicroorganisms were incomplete and often not subjected \nto extensive antibiotic susceptibility testing. For example, \nin several cases, the specific species was not reported and \nonly the genus was identified. The results reported here \nreflect the level of granularity available from the \nparticipating hospitals.\n"
+  },
+  {
+    "page": 6,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      344.4080810546875,
+      633.0897216796875,
+      560.6693115234375,
+      654.8247680664062
+    ],
+    "text": "MDR was identified in 120 of 235 (51·1% [95% CI \n44·5–57·6]) microorganisms. 56 of 235 (23·8% \n"
+  },
+  {
+    "page": 6,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      344.40960693359375,
+      692.0090942382812,
+      555.47314453125,
+      753.0631103515625
+    ],
+    "text": "Figure 2: Standard hospital microbiology practice for 200 swabs with \nisolated bacteria at 35 study hospitals\nAMR=antimicrobial resistance. CPE=carbapenem-resistant Enterobacteriaceae. \nCSLI=Clinical & Laboratory Standards Institute. ESBL=extended-spectrum \nbeta-lactamase. EUCAST=European Committee on Antimicrobial Susceptibility \nTesting. MDR=multidrug resistance. MRSA=methicillin-resistant S aureus. \nS aureus=Staphylococcus aureus. VRE=vancomycin-resistant Enterococcus. \n"
+  },
+  {
+    "page": 6,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      84.9572982788086,
+      177.05331420898438,
+      125.06880950927734,
+      203.00131225585938
+    ],
+    "text": "AMR deﬁnition\nCSLI criteria\nEUCAST criteria\n"
+  },
+  {
+    "page": 6,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      63.09130096435547,
+      210.06033325195312,
+      125.01029968261719,
+      236.00833129882812
+    ],
+    "text": "Transportation method\nTransport medium\nNo transport medium\n"
+  },
+  {
+    "page": 6,
+    "block_no": 10,
+    "block_type": 0,
+    "bbox": [
+      99.77729034423828,
+      243.06735229492188,
+      125.01029968261719,
+      269.0153503417969
+    ],
+    "text": "Culture\nAerobic\nAnaerobic\n"
+  },
+  {
+    "page": 6,
+    "block_no": 11,
+    "block_type": 0,
+    "bbox": [
+      112.82929229736328,
+      270.880859375,
+      125.01029205322266,
+      278.8173522949219
+    ],
+    "text": "Both\n"
+  },
+  {
+    "page": 6,
+    "block_no": 12,
+    "block_type": 0,
+    "bbox": [
+      62.96778869628906,
+      285.8763732910156,
+      125.10778045654297,
+      320.8268737792969
+    ],
+    "text": "Susceptibility testing\nCLSI Kirby-Bauer method\nNo deﬁnition used\nOther\n"
+  },
+  {
+    "page": 6,
+    "block_no": 13,
+    "block_type": 0,
+    "bbox": [
+      67.69978332519531,
+      327.8858947753906,
+      125.01678466796875,
+      371.8388977050781
+    ],
+    "text": "Swab culture medium\nBlood agar\nCooked meat media\nMacConkey agar\nOther\n"
+  },
+  {
+    "page": 6,
+    "block_no": 14,
+    "block_type": 0,
+    "bbox": [
+      74.29077911376953,
+      378.8979187011719,
+      125.01028442382812,
+      422.8509216308594
+    ],
+    "text": "Turnaround time, h\n0 to <24\n24 to <48\n48 to <72\n≥72\n"
+  },
+  {
+    "page": 6,
+    "block_no": 15,
+    "block_type": 0,
+    "bbox": [
+      54.283782958984375,
+      429.9099426269531,
+      125.01028442382812,
+      464.8604431152344
+    ],
+    "text": "Characterisation\nStandard bacteriological test\nAnalytical proﬁle index\nOther\n"
+  },
+  {
+    "page": 6,
+    "block_no": 16,
+    "block_type": 0,
+    "bbox": [
+      85.9517822265625,
+      471.9194641113281,
+      125.01029205322266,
+      497.8674621582031
+    ],
+    "text": "ESBL screening\nYes\nNo\n"
+  },
+  {
+    "page": 6,
+    "block_no": 17,
+    "block_type": 0,
+    "bbox": [
+      82.8382797241211,
+      504.9264831542969,
+      125.01029205322266,
+      530.87451171875
+    ],
+    "text": "MRSA screening\nYes\nNo\n"
+  },
+  {
+    "page": 6,
+    "block_no": 18,
+    "block_type": 0,
+    "bbox": [
+      88.24627685546875,
+      537.9334716796875,
+      125.01029205322266,
+      563.8815307617188
+    ],
+    "text": "VRE screening\nYes\nNo\n"
+  },
+  {
+    "page": 6,
+    "block_no": 19,
+    "block_type": 0,
+    "bbox": [
+      88.82477569580078,
+      570.9404907226562,
+      125.0102767944336,
+      596.8885498046875
+    ],
+    "text": "CPE screening\nYes\nNo\n"
+  },
+  {
+    "page": 6,
+    "block_no": 20,
+    "block_type": 0,
+    "bbox": [
+      57.072269439697266,
+      603.9474487304688,
+      125.06875610351562,
+      638.8980102539062
+    ],
+    "text": "Coliforms targeted during\nAMR testing\nYes\nNo\n"
+  },
+  {
+    "page": 6,
+    "block_no": 21,
+    "block_type": 0,
+    "bbox": [
+      73.78377532958984,
+      645.9569702148438,
+      125.01028442382812,
+      680.9075317382812
+    ],
+    "text": "S aureus targeted\nduring AMR testing\nYes\nNo\n"
+  },
+  {
+    "page": 6,
+    "block_no": 22,
+    "block_type": 0,
+    "bbox": [
+      33.50328063964844,
+      687.9664916992188,
+      125.02978515625,
+      722.9170532226562
+    ],
+    "text": "Non-fermentative Gram-negative\nbacilli targeted during AMR testing\nYes\nNo\n"
+  },
+  {
+    "page": 6,
+    "block_no": 23,
+    "block_type": 0,
+    "bbox": [
+      128.7449951171875,
+      729.1171264648438,
+      327.5979919433594,
+      737.0536499023438
+    ],
+    "text": "200\n0\n50\n100\n150\n"
+  },
+  {
+    "page": 6,
+    "block_no": 24,
+    "block_type": 0,
+    "bbox": [
+      197.5489959716797,
+      739.0296020507812,
+      257.218994140625,
+      746.9661254882812
+    ],
+    "text": "Proportion of swabs (%)\n"
+  },
+  {
+    "page": 6,
+    "block_no": 25,
+    "block_type": 0,
+    "bbox": [
+      148.69900512695312,
+      186.22711181640625,
+      155.07101440429688,
+      193.55311584472656
+    ],
+    "text": "44\n"
+  },
+  {
+    "page": 6,
+    "block_no": 26,
+    "block_type": 0,
+    "bbox": [
+      132.427001953125,
+      219.64111328125,
+      138.24700927734375,
+      226.9671173095703
+    ],
+    "text": "10\n"
+  },
+  {
+    "page": 6,
+    "block_no": 27,
+    "block_type": 0,
+    "bbox": [
+      143.9770050048828,
+      229.05511474609375,
+      149.7790069580078,
+      236.38111877441406
+    ],
+    "text": "35\n"
+  },
+  {
+    "page": 6,
+    "block_no": 28,
+    "block_type": 0,
+    "bbox": [
+      142.02101135253906,
+      252.70111083984375,
+      148.0150146484375,
+      260.0271301269531
+    ],
+    "text": "30\n"
+  },
+  {
+    "page": 6,
+    "block_no": 29,
+    "block_type": 0,
+    "bbox": [
+      140.02301025390625,
+      294.9951171875,
+      252.3130340576172,
+      302.3211364746094
+    ],
+    "text": "26\n77\n40\n"
+  },
+  {
+    "page": 6,
+    "block_no": 30,
+    "block_type": 0,
+    "bbox": [
+      132.70303344726562,
+      270.82110595703125,
+      170.61105346679688,
+      278.1471252441406
+    ],
+    "text": "11\n25\n9\n"
+  },
+  {
+    "page": 6,
+    "block_no": 31,
+    "block_type": 0,
+    "bbox": [
+      192.71502685546875,
+      252.70709228515625,
+      252.60702514648438,
+      260.0331115722656
+    ],
+    "text": "74\n39\n"
+  },
+  {
+    "page": 6,
+    "block_no": 32,
+    "block_type": 0,
+    "bbox": [
+      200.93502807617188,
+      229.06109619140625,
+      269.4310302734375,
+      236.38710021972656
+    ],
+    "text": "83\n46\n"
+  },
+  {
+    "page": 6,
+    "block_no": 33,
+    "block_type": 0,
+    "bbox": [
+      146.40701293945312,
+      219.6470947265625,
+      162.96102905273438,
+      226.9730987548828
+    ],
+    "text": "19\n7\n"
+  },
+  {
+    "page": 6,
+    "block_no": 34,
+    "block_type": 0,
+    "bbox": [
+      130.48301696777344,
+      261.6470947265625,
+      133.6690216064453,
+      268.9731140136719
+    ],
+    "text": "4\n"
+  },
+  {
+    "page": 6,
+    "block_no": 35,
+    "block_type": 0,
+    "bbox": [
+      131.38902282714844,
+      304.49908447265625,
+      134.5750274658203,
+      311.8251037597656
+    ],
+    "text": "4\n"
+  },
+  {
+    "page": 6,
+    "block_no": 36,
+    "block_type": 0,
+    "bbox": [
+      132.99703979492188,
+      346.2110900878906,
+      140.7310333251953,
+      353.537109375
+    ],
+    "text": "4\n6\n"
+  },
+  {
+    "page": 6,
+    "block_no": 37,
+    "block_type": 0,
+    "bbox": [
+      177.93702697753906,
+      355.6490783691406,
+      181.20103454589844,
+      362.97509765625
+    ],
+    "text": "6\n"
+  },
+  {
+    "page": 6,
+    "block_no": 38,
+    "block_type": 0,
+    "bbox": [
+      138.61302185058594,
+      304.49908447265625,
+      152.3410186767578,
+      311.8251037597656
+    ],
+    "text": "8\n13\n"
+  },
+  {
+    "page": 6,
+    "block_no": 39,
+    "block_type": 0,
+    "bbox": [
+      134.16102600097656,
+      313.6490783691406,
+      139.78903198242188,
+      320.97509765625
+    ],
+    "text": "15\n"
+  },
+  {
+    "page": 6,
+    "block_no": 40,
+    "block_type": 0,
+    "bbox": [
+      132.94302368164062,
+      355.3550720214844,
+      138.3790283203125,
+      362.68109130859375
+    ],
+    "text": "11\n"
+  },
+  {
+    "page": 6,
+    "block_no": 41,
+    "block_type": 0,
+    "bbox": [
+      133.8250274658203,
+      364.55908203125,
+      139.43502807617188,
+      371.8851013183594
+    ],
+    "text": "13\n"
+  },
+  {
+    "page": 6,
+    "block_no": 42,
+    "block_type": 0,
+    "bbox": [
+      133.59103393554688,
+      397.3250732421875,
+      139.20103454589844,
+      413.62109375
+    ],
+    "text": "11\n13\n"
+  },
+  {
+    "page": 6,
+    "block_no": 43,
+    "block_type": 0,
+    "bbox": [
+      135.81703186035156,
+      415.37908935546875,
+      141.7870330810547,
+      422.7051086425781
+    ],
+    "text": "18\n"
+  },
+  {
+    "page": 6,
+    "block_no": 44,
+    "block_type": 0,
+    "bbox": [
+      133.1290283203125,
+      439.1150817871094,
+      145.66903686523438,
+      455.26708984375
+    ],
+    "text": "25\n9\n"
+  },
+  {
+    "page": 6,
+    "block_no": 45,
+    "block_type": 0,
+    "bbox": [
+      132.70303344726562,
+      457.2350769042969,
+      138.1390380859375,
+      464.56109619140625
+    ],
+    "text": "11\n"
+  },
+  {
+    "page": 6,
+    "block_no": 46,
+    "block_type": 0,
+    "bbox": [
+      147.5770263671875,
+      481.4090881347656,
+      153.6670379638672,
+      488.735107421875
+    ],
+    "text": "42\n"
+  },
+  {
+    "page": 6,
+    "block_no": 47,
+    "block_type": 0,
+    "bbox": [
+      148.7470245361328,
+      513.5870971679688,
+      154.84303283691406,
+      520.9130859375
+    ],
+    "text": "45\n"
+  },
+  {
+    "page": 6,
+    "block_no": 48,
+    "block_type": 0,
+    "bbox": [
+      135.3370361328125,
+      547.26513671875,
+      147.7870330810547,
+      563.5010986328125
+    ],
+    "text": "30\n15\n"
+  },
+  {
+    "page": 6,
+    "block_no": 49,
+    "block_type": 0,
+    "bbox": [
+      136.41104125976562,
+      580.4390869140625,
+      146.14305114746094,
+      596.735107421875
+    ],
+    "text": "27\n18\n"
+  },
+  {
+    "page": 6,
+    "block_no": 50,
+    "block_type": 0,
+    "bbox": [
+      136.77703857421875,
+      622.1751098632812,
+      185.79104614257812,
+      638.4411010742188
+    ],
+    "text": "17\n53\n28\n"
+  },
+  {
+    "page": 6,
+    "block_no": 51,
+    "block_type": 0,
+    "bbox": [
+      140.3470458984375,
+      664.1751098632812,
+      146.49705505371094,
+      671.5010986328125
+    ],
+    "text": "29\n"
+  },
+  {
+    "page": 6,
+    "block_no": 52,
+    "block_type": 0,
+    "bbox": [
+      135.10304260253906,
+      673.8231201171875,
+      141.08505249023438,
+      681.1491088867188
+    ],
+    "text": "16\n"
+  },
+  {
+    "page": 6,
+    "block_no": 53,
+    "block_type": 0,
+    "bbox": [
+      140.34104919433594,
+      706.4691162109375,
+      146.49705505371094,
+      713.7951049804688
+    ],
+    "text": "28\n"
+  },
+  {
+    "page": 6,
+    "block_no": 54,
+    "block_type": 0,
+    "bbox": [
+      136.4230499267578,
+      715.5291137695312,
+      200.6170654296875,
+      722.8551025390625
+    ],
+    "text": "17\n38\n28\n"
+  },
+  {
+    "page": 6,
+    "block_no": 55,
+    "block_type": 0,
+    "bbox": [
+      185.5810546875,
+      706.4691162109375,
+      234.6190643310547,
+      713.7951049804688
+    ],
+    "text": "64\n25\n"
+  },
+  {
+    "page": 6,
+    "block_no": 56,
+    "block_type": 0,
+    "bbox": [
+      158.071044921875,
+      673.8231201171875,
+      186.3850555419922,
+      681.1491088867188
+    ],
+    "text": "15\n31\n"
+  },
+  {
+    "page": 6,
+    "block_no": 57,
+    "block_type": 0,
+    "bbox": [
+      190.43504333496094,
+      664.1751098632812,
+      248.50904846191406,
+      671.5010986328125
+    ],
+    "text": "71\n38\n"
+  },
+  {
+    "page": 6,
+    "block_no": 58,
+    "block_type": 0,
+    "bbox": [
+      214.78305053710938,
+      631.1151123046875,
+      220.74705505371094,
+      638.4411010742188
+    ],
+    "text": "19\n"
+  },
+  {
+    "page": 6,
+    "block_no": 59,
+    "block_type": 0,
+    "bbox": [
+      167.49105834960938,
+      621.941162109375,
+      214.1590576171875,
+      629.2671508789062
+    ],
+    "text": "49\n34\n"
+  },
+  {
+    "page": 6,
+    "block_no": 60,
+    "block_type": 0,
+    "bbox": [
+      171.00704956054688,
+      580.4451293945312,
+      223.69305419921875,
+      596.7411499023438
+    ],
+    "text": "54\n43\n48\n10\n"
+  },
+  {
+    "page": 6,
+    "block_no": 61,
+    "block_type": 0,
+    "bbox": [
+      166.9390411376953,
+      547.2711181640625,
+      217.81304931640625,
+      563.5071411132812
+    ],
+    "text": "52\n41\n50\n12\n"
+  },
+  {
+    "page": 6,
+    "block_no": 62,
+    "block_type": 0,
+    "bbox": [
+      217.65704345703125,
+      513.580078125,
+      295.0115966796875,
+      520.9191284179688
+    ],
+    "text": "100\n45\n"
+  },
+  {
+    "page": 6,
+    "block_no": 63,
+    "block_type": 0,
+    "bbox": [
+      207.8675994873047,
+      481.4020690917969,
+      270.00958251953125,
+      488.72808837890625
+    ],
+    "text": "83\n33\n"
+  },
+  {
+    "page": 6,
+    "block_no": 64,
+    "block_type": 0,
+    "bbox": [
+      143.3975830078125,
+      457.2280578613281,
+      154.95359802246094,
+      464.5540771484375
+    ],
+    "text": "11 4\n"
+  },
+  {
+    "page": 6,
+    "block_no": 65,
+    "block_type": 0,
+    "bbox": [
+      130.91159057617188,
+      490.5820617675781,
+      133.8035888671875,
+      497.9080810546875
+    ],
+    "text": "3\n"
+  },
+  {
+    "page": 6,
+    "block_no": 66,
+    "block_type": 0,
+    "bbox": [
+      130.80958557128906,
+      523.1680908203125,
+      138.1235809326172,
+      530.9680786132812
+    ],
+    "text": "2 8\n"
+  },
+  {
+    "page": 6,
+    "block_no": 67,
+    "block_type": 0,
+    "bbox": [
+      140.277587890625,
+      490.5820617675781,
+      164.36160278320312,
+      497.9080810546875
+    ],
+    "text": "19\n20\n"
+  },
+  {
+    "page": 6,
+    "block_no": 68,
+    "block_type": 0,
+    "bbox": [
+      142.99559020996094,
+      439.1080627441406,
+      250.95361328125,
+      455.26007080078125
+    ],
+    "text": "3\n17\n74\n46\n"
+  },
+  {
+    "page": 6,
+    "block_no": 69,
+    "block_type": 0,
+    "bbox": [
+      160.91159057617188,
+      415.3720703125,
+      196.4796142578125,
+      422.6980895996094
+    ],
+    "text": "36\n21\n"
+  },
+  {
+    "page": 6,
+    "block_no": 70,
+    "block_type": 0,
+    "bbox": [
+      147.68161010742188,
+      397.31207275390625,
+      195.77761840820312,
+      413.60809326171875
+    ],
+    "text": "42\n19\n12\n21\n"
+  },
+  {
+    "page": 6,
+    "block_no": 71,
+    "block_type": 0,
+    "bbox": [
+      144.099609375,
+      364.54608154296875,
+      147.36361694335938,
+      371.8721008300781
+    ],
+    "text": "6\n"
+  },
+  {
+    "page": 6,
+    "block_no": 72,
+    "block_type": 0,
+    "bbox": [
+      130.58761596679688,
+      388.1620788574219,
+      140.06761169433594,
+      395.48809814453125
+    ],
+    "text": "331\n"
+  },
+  {
+    "page": 6,
+    "block_no": 73,
+    "block_type": 0,
+    "bbox": [
+      149.51161193847656,
+      355.3420715332031,
+      160.95361328125,
+      371.5180969238281
+    ],
+    "text": "5\n37\n"
+  },
+  {
+    "page": 6,
+    "block_no": 74,
+    "block_type": 0,
+    "bbox": [
+      136.94760131835938,
+      337.1680603027344,
+      222.4835968017578,
+      344.49407958984375
+    ],
+    "text": "20\n53\n38\n"
+  },
+  {
+    "page": 6,
+    "block_no": 75,
+    "block_type": 0,
+    "bbox": [
+      147.33358764648438,
+      313.63604736328125,
+      159.66360473632812,
+      320.9620666503906
+    ],
+    "text": "12 5\n"
+  },
+  {
+    "page": 6,
+    "block_no": 76,
+    "block_type": 0,
+    "bbox": [
+      134.1815948486328,
+      261.634033203125,
+      141.07559204101562,
+      268.9600524902344
+    ],
+    "text": "3 5\n"
+  },
+  {
+    "page": 6,
+    "block_no": 77,
+    "block_type": 0,
+    "bbox": [
+      130.22158813476562,
+      195.51397705078125,
+      138.4835968017578,
+      203.04396057128906
+    ],
+    "text": "152\n"
+  },
+  {
+    "page": 6,
+    "block_no": 78,
+    "block_type": 0,
+    "bbox": [
+      216.53158569335938,
+      186.219970703125,
+      294.069580078125,
+      193.5459747314453
+    ],
+    "text": "97\n51\n"
+  },
+  {
+    "page": 6,
+    "block_no": 79,
+    "block_type": 0,
+    "bbox": [
+      130.40158081054688,
+      346.1979675292969,
+      133.1195831298828,
+      353.52398681640625
+    ],
+    "text": "1\n"
+  },
+  {
+    "page": 6,
+    "block_no": 80,
+    "block_type": 0,
+    "bbox": [
+      42.918701171875,
+      161.832275390625,
+      195.24050903320312,
+      169.76876831054688
+    ],
+    "text": "No MDR\nMDR present\nUnknown or not applicable\n"
+  },
+  {
+    "page": 7,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      507.8327941894531,
+      35.70822525024414,
+      544.2528076171875,
+      50.372222900390625
+    ],
+    "text": "Articles\n"
+  },
+  {
+    "page": 7,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      36.850399017333984,
+      772.451171875,
+      564.0948486328125,
+      781.0051879882812
+    ],
+    "text": "www.thelancet.com/lancetgh   Vol 12   November 2024\t\ne1822\n"
+  },
+  {
+    "page": 7,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      36.850399017333984,
+      435.18218994140625,
+      253.1473846435547,
+      588.9031372070312
+    ],
+    "text": "[18·5–29·8]) did not have MDR and 59 of 235 \n(25·1% [19·7–31·2]) did not have sufficient testing data \nto classify the microorganism (appendix 3 pp 8, 15). \nMDR was more commonly detected when the isolated \nmicro­organism was not susceptible to the preoperative \nprophylactic antibiotic given. There was sufficient \nprophylactic antibiotic coverage in 44·6% (31·3–58·5) \nof the non-MDR microorganisms, whereas in the \nMDR microorganisms, there was sufficient coverage \nin 26·7% (19·0–35·5; appendix p 8). In adjusted analysis, \nsufficient coverage for microorganisms by prophylactic \nantibiotics and regular availability of infection control \nteams were significantly associated with reduced MDR \n(figure 3).\n"
+  },
+  {
+    "page": 7,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      36.850399017333984,
+      589.1641845703125,
+      253.138427734375,
+      676.8871459960938
+    ],
+    "text": "Turnaround time (from sending the wound swab to \nreceiving the results) was reported to be 48 h or longer in \n149 of 200 cases (74·5% [95% CI 67·9–80·4]) and 72 h or \nlonger in 75 of 200 cases (37·5% [30·8–44·6], figure 2). \nAnalytical profile index, a classification of bacteria based \non biochemical tests that allows fast identification, was \nonly available for 29 of 200 cases (14·5% [9·9–20·2], \nfigure 2).\n"
+  },
+  {
+    "page": 7,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      36.85039520263672,
+      677.148193359375,
+      253.14735412597656,
+      753.8731689453125
+    ],
+    "text": "There were notable differences in the composition \nof MDR microorganisms in different circumstances. \nE coli and S aureus were the most common MDR \nmicroorganisms \nin \nclean-contaminated \nsurgeries, \nwhereas E coli and Klebsiella spp. were the most common \nMDR microorganisms in contaminated or dirty \nsurgeries (appendix 3 pp 2, 12). Differences were also \n"
+  },
+  {
+    "page": 7,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      262.20135498046875,
+      435.1381530761719,
+      478.4803771972656,
+      478.8691101074219
+    ],
+    "text": "seen between countries. In Nigeria, Klebsiella spp. and \nS aureus were the most common MDR microorganisms, \nwhereas in India and Ghana, E coli was the most \ncommon (appendix 3 p 13).\n"
+  },
+  {
+    "page": 7,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      262.20135498046875,
+      479.1300964355469,
+      478.4932861328125,
+      599.9111938476562
+    ],
+    "text": "The antibiotics most widely tested for susceptibility \nwere gentamicin (17·8% susceptibility), third-generation \ncephalosporins (16·6% susceptibility), second-generation \nfluroquinolones \n(11·2% \nsusceptibility), \nand \nanti­\npseudomonal \npenicillin \n(14·0% \nsusceptibility). \nChloram­phenicol had the highest overall susceptibility \nof 24·2%. Of those tested, microorganisms had \nno susceptibility (0%) to third-generation and fourth-\ngeneration fluroquinolones, isoniazid, clindamycin, \nmetronidazole, \nflucloxacillin \nand \nquinupristin–\ndalfopristin (figure 4A, appendix 3 p 10).\n"
+  },
+  {
+    "page": 7,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      262.2052917480469,
+      600.1722412109375,
+      478.484375,
+      687.8952026367188
+    ],
+    "text": "The antibiotics with highest levels of resistance, \nproportionally, were second-generation cephalosporins \n(77·4% resistance), third-generation cephalosporins \n(48·1% resistance), penicillin (43·1% resistance), and \nsecond-generation fluoroquinolones (42·2% resistance; \nfigure 4B, appendix 3 p 11). The most prescribed surgical \nprophylaxis drug was ceftriaxone, a third-generation \ncephalosporin.\n"
+  },
+  {
+    "page": 7,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      262.2052917480469,
+      696.689208984375,
+      478.49334716796875,
+      753.9132080078125
+    ],
+    "text": "Discussion\nThis study aimed to carry out a post-hoc analysis of SSI \nwound swabs from a randomised controlled trial. The \ntwo key findings were high levels of MDR, and low \ncapacity for microbiological testing alongside an absence \n"
+  },
+  {
+    "page": 7,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      36.60070037841797,
+      384.2695007324219,
+      450.7624206542969,
+      419.0735168457031
+    ],
+    "text": "Figure 3: Forest plot of adjusted analysis for MDR\nORs and 95% CIs were estimated from a mixed-effects logistic regression model adjusted for American Society of Anesthesiologists grade, timing of surgery \n(emergency or elective), intraoperative contamination, the use of triclosan-coated polydioxanone sutures, and 2% alcoholic chlorhexidine skin preparation. \nMDR=multidrug resistance. OR=odds ratio.\n"
+  },
+  {
+    "page": 7,
+    "block_no": 10,
+    "block_type": 0,
+    "bbox": [
+      43.627498626708984,
+      147.63351440429688,
+      105.70899200439453,
+      155.57650756835938
+    ],
+    "text": "Prophylactic antibiotics\n"
+  },
+  {
+    "page": 7,
+    "block_no": 11,
+    "block_type": 0,
+    "bbox": [
+      43.627498626708984,
+      157.8385009765625,
+      51.115501403808594,
+      165.77499389648438
+    ],
+    "text": "No\n"
+  },
+  {
+    "page": 7,
+    "block_no": 12,
+    "block_type": 0,
+    "bbox": [
+      43.627498626708984,
+      168.0369873046875,
+      51.875999450683594,
+      175.97348022460938
+    ],
+    "text": "Yes\n"
+  },
+  {
+    "page": 7,
+    "block_no": 13,
+    "block_type": 0,
+    "bbox": [
+      43.627498626708984,
+      178.22897338867188,
+      115.00398254394531,
+      186.17196655273438
+    ],
+    "text": "Origin of primary organism\n"
+  },
+  {
+    "page": 7,
+    "block_no": 14,
+    "block_type": 0,
+    "bbox": [
+      43.627498626708984,
+      188.4339599609375,
+      52.8380012512207,
+      196.37045288085938
+    ],
+    "text": "Gut\n"
+  },
+  {
+    "page": 7,
+    "block_no": 15,
+    "block_type": 0,
+    "bbox": [
+      43.627498626708984,
+      198.6324462890625,
+      54.242000579833984,
+      206.56893920898438
+    ],
+    "text": "Skin\n"
+  },
+  {
+    "page": 7,
+    "block_no": 16,
+    "block_type": 0,
+    "bbox": [
+      43.627498626708984,
+      208.82443237304688,
+      136.0444793701172,
+      216.76742553710938
+    ],
+    "text": "Covered by prophylactic antibiotics\n"
+  },
+  {
+    "page": 7,
+    "block_no": 17,
+    "block_type": 0,
+    "bbox": [
+      43.627498626708984,
+      219.0294189453125,
+      51.115501403808594,
+      226.96591186523438
+    ],
+    "text": "No\n"
+  },
+  {
+    "page": 7,
+    "block_no": 18,
+    "block_type": 0,
+    "bbox": [
+      43.627498626708984,
+      229.2279052734375,
+      51.875999450683594,
+      237.16439819335938
+    ],
+    "text": "Yes\n"
+  },
+  {
+    "page": 7,
+    "block_no": 19,
+    "block_type": 0,
+    "bbox": [
+      43.627498626708984,
+      239.4263916015625,
+      110.63600158691406,
+      247.36288452148438
+    ],
+    "text": "Unknown or not applicable\n"
+  },
+  {
+    "page": 7,
+    "block_no": 20,
+    "block_type": 0,
+    "bbox": [
+      43.627498626708984,
+      249.61837768554688,
+      104.9159927368164,
+      257.5613708496094
+    ],
+    "text": "Infection control teams\n"
+  },
+  {
+    "page": 7,
+    "block_no": 21,
+    "block_type": 0,
+    "bbox": [
+      43.627498626708984,
+      259.8233642578125,
+      57.29050064086914,
+      267.7598571777344
+    ],
+    "text": "None\n"
+  },
+  {
+    "page": 7,
+    "block_no": 22,
+    "block_type": 0,
+    "bbox": [
+      43.627498626708984,
+      270.0218505859375,
+      104.8445053100586,
+      277.9583435058594
+    ],
+    "text": "Yes: ad hoc or on request\n"
+  },
+  {
+    "page": 7,
+    "block_no": 23,
+    "block_type": 0,
+    "bbox": [
+      43.627498626708984,
+      280.2203369140625,
+      113.56749725341797,
+      288.1568298339844
+    ],
+    "text": "Yes: regular (daily or weekly)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 24,
+    "block_type": 0,
+    "bbox": [
+      43.627498626708984,
+      290.4123229980469,
+      100.56098175048828,
+      298.3553161621094
+    ],
+    "text": "Antibiotic availability\n"
+  },
+  {
+    "page": 7,
+    "block_no": 25,
+    "block_type": 0,
+    "bbox": [
+      43.627498626708984,
+      300.6173095703125,
+      89.72549438476562,
+      308.5538024902344
+    ],
+    "text": "Generally available\n"
+  },
+  {
+    "page": 7,
+    "block_no": 26,
+    "block_type": 0,
+    "bbox": [
+      43.627498626708984,
+      310.8157958984375,
+      99.41050720214844,
+      318.7522888183594
+    ],
+    "text": "Needs to be ordered in\n"
+  },
+  {
+    "page": 7,
+    "block_no": 27,
+    "block_type": 0,
+    "bbox": [
+      43.627498626708984,
+      321.0077819824219,
+      104.41548919677734,
+      328.9507751464844
+    ],
+    "text": "Payment for treatment\n"
+  },
+  {
+    "page": 7,
+    "block_no": 28,
+    "block_type": 0,
+    "bbox": [
+      43.62749481201172,
+      331.2127685546875,
+      105.05900573730469,
+      339.1492614746094
+    ],
+    "text": "Patient: health insurance\n"
+  },
+  {
+    "page": 7,
+    "block_no": 29,
+    "block_type": 0,
+    "bbox": [
+      43.62749481201172,
+      341.4112548828125,
+      97.4020004272461,
+      349.3477478027344
+    ],
+    "text": "Patient: out of pocket\n"
+  },
+  {
+    "page": 7,
+    "block_no": 30,
+    "block_type": 0,
+    "bbox": [
+      151.7030029296875,
+      157.812255859375,
+      184.41751098632812,
+      165.74874877929688
+    ],
+    "text": "   1/45 (2·2%)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 31,
+    "block_type": 0,
+    "bbox": [
+      151.7030029296875,
+      168.0107421875,
+      188.4345245361328,
+      175.94723510742188
+    ],
+    "text": "44/45 (97·8%)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 32,
+    "block_type": 0,
+    "bbox": [
+      151.7030029296875,
+      188.41424560546875,
+      187.87548828125,
+      196.35073852539062
+    ],
+    "text": "42/45 (93·3%)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 33,
+    "block_type": 0,
+    "bbox": [
+      151.7030029296875,
+      198.61273193359375,
+      184.52149963378906,
+      206.54922485351562
+    ],
+    "text": "   3/45 (6·7%)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 34,
+    "block_type": 0,
+    "bbox": [
+      151.7030029296875,
+      219.0162353515625,
+      188.2784881591797,
+      226.95272827148438
+    ],
+    "text": "22/45 (48·9%)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 35,
+    "block_type": 0,
+    "bbox": [
+      151.7030029296875,
+      229.2147216796875,
+      188.35653686523438,
+      237.15121459960938
+    ],
+    "text": "20/45 (44·4%)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 36,
+    "block_type": 0,
+    "bbox": [
+      151.7030029296875,
+      239.4132080078125,
+      184.52149963378906,
+      247.34970092773438
+    ],
+    "text": "   3/45 (6·7%)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 37,
+    "block_type": 0,
+    "bbox": [
+      151.7030029296875,
+      259.8101806640625,
+      187.8105010986328,
+      267.7466735839844
+    ],
+    "text": "   7/45 (15·6%)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 38,
+    "block_type": 0,
+    "bbox": [
+      151.7030029296875,
+      270.0086669921875,
+      188.35653686523438,
+      277.9451599121094
+    ],
+    "text": "20/45 (44·4%)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 39,
+    "block_type": 0,
+    "bbox": [
+      151.7030029296875,
+      280.2071533203125,
+      188.13552856445312,
+      288.1436462402344
+    ],
+    "text": "18/45 (40·0%)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 40,
+    "block_type": 0,
+    "bbox": [
+      151.7030029296875,
+      300.6041564941406,
+      188.87001037597656,
+      308.5406494140625
+    ],
+    "text": "40/45 (88·9%)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 41,
+    "block_type": 0,
+    "bbox": [
+      151.7030029296875,
+      310.8026428222656,
+      187.16700744628906,
+      318.7391357421875
+    ],
+    "text": "   5/45 (11·1%)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 42,
+    "block_type": 0,
+    "bbox": [
+      151.7030029296875,
+      331.19964599609375,
+      187.16700744628906,
+      339.1361389160156
+    ],
+    "text": "   5/45 (11·1%)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 43,
+    "block_type": 0,
+    "bbox": [
+      151.7030029296875,
+      341.39813232421875,
+      188.87001037597656,
+      349.3346252441406
+    ],
+    "text": "40/45 (88·9%)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 44,
+    "block_type": 0,
+    "bbox": [
+      198.97750854492188,
+      157.79913330078125,
+      235.4230194091797,
+      165.73562622070312
+    ],
+    "text": "   5/102 (4·9%)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 45,
+    "block_type": 0,
+    "bbox": [
+      198.97750854492188,
+      167.99761962890625,
+      237.74351501464844,
+      175.93411254882812
+    ],
+    "text": "97/102 (95·1%)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 46,
+    "block_type": 0,
+    "bbox": [
+      198.97750854492188,
+      188.401123046875,
+      238.302490234375,
+      196.33761596679688
+    ],
+    "text": "92/102 (90·2%)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 47,
+    "block_type": 0,
+    "bbox": [
+      198.97750854492188,
+      198.599609375,
+      234.9615020751953,
+      206.53610229492188
+    ],
+    "text": "10/102 (9·8%)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 48,
+    "block_type": 0,
+    "bbox": [
+      198.97750854492188,
+      219.00311279296875,
+      238.19850158691406,
+      226.93960571289062
+    ],
+    "text": "69/102 (67·7%)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 49,
+    "block_type": 0,
+    "bbox": [
+      198.97750854492188,
+      229.20159912109375,
+      237.58099365234375,
+      237.13809204101562
+    ],
+    "text": "28/102 (27·5%)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 50,
+    "block_type": 0,
+    "bbox": [
+      198.97750854492188,
+      239.40008544921875,
+      235.4230194091797,
+      247.33657836914062
+    ],
+    "text": "   5/102 (4·9%)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 51,
+    "block_type": 0,
+    "bbox": [
+      198.97750854492188,
+      259.79705810546875,
+      238.22451782226562,
+      267.7335510253906
+    ],
+    "text": "30/102 (29·4%)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 52,
+    "block_type": 0,
+    "bbox": [
+      199.62750244140625,
+      269.99554443359375,
+      238.23751831054688,
+      277.9320373535156
+    ],
+    "text": "51/102 (50·0%)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 53,
+    "block_type": 0,
+    "bbox": [
+      199.62750244140625,
+      280.19403076171875,
+      238.40000915527344,
+      288.1305236816406
+    ],
+    "text": "21/102 (20·6%)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 54,
+    "block_type": 0,
+    "bbox": [
+      198.97750854492188,
+      300.5910339355469,
+      238.302490234375,
+      308.52752685546875
+    ],
+    "text": "92/102 (90·2%)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 55,
+    "block_type": 0,
+    "bbox": [
+      198.97750854492188,
+      310.7895202636719,
+      234.9615020751953,
+      318.72601318359375
+    ],
+    "text": "10/102 (9·8%)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 56,
+    "block_type": 0,
+    "bbox": [
+      199.4650115966797,
+      331.1865234375,
+      237.50953674316406,
+      339.1230163574219
+    ],
+    "text": "18/102 (17·7%)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 57,
+    "block_type": 0,
+    "bbox": [
+      198.97750854492188,
+      341.385009765625,
+      238.39349365234375,
+      349.3215026855469
+    ],
+    "text": "84/102 (82·3%)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 58,
+    "block_type": 0,
+    "bbox": [
+      414.35498046875,
+      157.39599609375,
+      429.3180236816406,
+      165.33248901367188
+    ],
+    "text": "1 (ref)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 59,
+    "block_type": 0,
+    "bbox": [
+      414.35498046875,
+      167.594482421875,
+      455.5584716796875,
+      175.53097534179688
+    ],
+    "text": "0·57 (0·06–5·25)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 60,
+    "block_type": 0,
+    "bbox": [
+      414.35498046875,
+      187.99798583984375,
+      429.3180236816406,
+      195.93447875976562
+    ],
+    "text": "1 (ref)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 61,
+    "block_type": 0,
+    "bbox": [
+      414.35498046875,
+      198.19647216796875,
+      455.23345947265625,
+      206.13296508789062
+    ],
+    "text": "1·34 (0·33–5·34)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 62,
+    "block_type": 0,
+    "bbox": [
+      414.35498046875,
+      218.59344482421875,
+      429.3180236816406,
+      226.52993774414062
+    ],
+    "text": "1 (ref)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 63,
+    "block_type": 0,
+    "bbox": [
+      414.35498046875,
+      228.79193115234375,
+      456.5205078125,
+      236.72842407226562
+    ],
+    "text": "0·43 (0·19–0·96)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 64,
+    "block_type": 0,
+    "bbox": [
+      414.35498046875,
+      238.99041748046875,
+      456.00048828125,
+      246.92691040039062
+    ],
+    "text": "0·59 (0·12–2·99)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 65,
+    "block_type": 0,
+    "bbox": [
+      414.35498046875,
+      259.38739013671875,
+      429.3180236816406,
+      267.3238830566406
+    ],
+    "text": "1 (ref)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 66,
+    "block_type": 0,
+    "bbox": [
+      414.35498046875,
+      269.58587646484375,
+      456.14349365234375,
+      277.5223693847656
+    ],
+    "text": "0·66 (0·24–1·81)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 67,
+    "block_type": 0,
+    "bbox": [
+      414.35498046875,
+      279.78436279296875,
+      455.2399597167969,
+      287.7208557128906
+    ],
+    "text": "0·32 (0·11–0·93)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 68,
+    "block_type": 0,
+    "bbox": [
+      414.35498046875,
+      300.1813659667969,
+      429.3180236816406,
+      308.11785888671875
+    ],
+    "text": "1 (ref)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 69,
+    "block_type": 0,
+    "bbox": [
+      414.35498046875,
+      310.3798522949219,
+      456.11749267578125,
+      318.31634521484375
+    ],
+    "text": "0·88 (0·24–3·23)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 70,
+    "block_type": 0,
+    "bbox": [
+      414.35498046875,
+      330.7833557128906,
+      429.3180236816406,
+      338.7198486328125
+    ],
+    "text": "1 (ref)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 71,
+    "block_type": 0,
+    "bbox": [
+      414.35498046875,
+      340.9818420410156,
+      456.052490234375,
+      348.9183349609375
+    ],
+    "text": "0·79 (0·26–2·39)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 72,
+    "block_type": 0,
+    "bbox": [
+      151.70297241210938,
+      132.75436401367188,
+      470.801025390625,
+      140.69735717773438
+    ],
+    "text": "No MDR\nMDR present\n Adjusted OR (95% CI)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 73,
+    "block_type": 0,
+    "bbox": [
+      308.2716979980469,
+      367.0315856933594,
+      341.88970947265625,
+      374.96807861328125
+    ],
+    "text": "OR (log scale)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 74,
+    "block_type": 0,
+    "bbox": [
+      246.8336944580078,
+      356.5990905761719,
+      402.0537109375,
+      364.5370788574219
+    ],
+    "text": "1\n10\n0·2\n0·1\n2\n5\n0·05\n0·5\n"
+  },
+  {
+    "page": 8,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      51.02360153198242,
+      35.70822525024414,
+      87.443603515625,
+      50.372222900390625
+    ],
+    "text": "Articles\n"
+  },
+  {
+    "page": 8,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      28.346399307250977,
+      772.451171875,
+      555.5751342773438,
+      781.0051879882812
+    ],
+    "text": "e1823\t\nwww.thelancet.com/lancetgh   Vol 12   November 2024\n"
+  },
+  {
+    "page": 8,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      33.48899841308594,
+      235.73178100585938,
+      111.84001922607422,
+      263.216796875
+    ],
+    "text": "Figure 4: Proportional \nantibiotic susceptibility (A) \nand proportional antibiotic \n"
+  },
+  {
+    "page": 8,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      38.689998626708984,
+      263.41278076171875,
+      111.84001159667969,
+      271.966796875
+    ],
+    "text": "resistance (B) by bacterial \n"
+  },
+  {
+    "page": 8,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      33.810997009277344,
+      272.16278076171875,
+      111.875,
+      298.216796875
+    ],
+    "text": "species\nSusceptibility and resistance \nwere defined by ISO 20776-1 \n"
+  },
+  {
+    "page": 8,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      33.82499694824219,
+      298.4197998046875,
+      111.87499237060547,
+      315.716796875
+    ],
+    "text": "standard or European \nCommittee on Antimicrobial \n"
+  },
+  {
+    "page": 8,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      31.374998092651367,
+      315.9197998046875,
+      111.87499237060547,
+      341.966796875
+    ],
+    "text": "Susceptibility Testing \nstandards. The y axis shows \nthe individual antibiotics (top \n"
+  },
+  {
+    "page": 8,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      34.875,
+      342.1697998046875,
+      111.875,
+      350.716796875
+    ],
+    "text": "row) and their class (bottom \n"
+  },
+  {
+    "page": 8,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      38.48699951171875,
+      350.9197998046875,
+      111.87498474121094,
+      359.466796875
+    ],
+    "text": "row). Higher values (nearer \n"
+  },
+  {
+    "page": 8,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      28.652000427246094,
+      359.6697998046875,
+      111.87499237060547,
+      376.966796875
+    ],
+    "text": "100% and darker colour) \nindicate a higher proportion of \n"
+  },
+  {
+    "page": 8,
+    "block_no": 10,
+    "block_type": 0,
+    "bbox": [
+      30.213001251220703,
+      377.1697998046875,
+      111.87500762939453,
+      411.966796875
+    ],
+    "text": "microorganisms were \nsusceptible to the specific \nantibiotic, out of all swabs \ntested for that antibiotic. Grey \n"
+  },
+  {
+    "page": 8,
+    "block_no": 11,
+    "block_type": 0,
+    "bbox": [
+      37.08000183105469,
+      412.1697998046875,
+      111.87500762939453,
+      420.716796875
+    ],
+    "text": "indicates that the antibiotic \n"
+  },
+  {
+    "page": 8,
+    "block_no": 12,
+    "block_type": 0,
+    "bbox": [
+      49.967002868652344,
+      420.9197998046875,
+      111.875,
+      429.466796875
+    ],
+    "text": "was not tested for that \n"
+  },
+  {
+    "page": 8,
+    "block_no": 13,
+    "block_type": 0,
+    "bbox": [
+      38.689998626708984,
+      429.6697998046875,
+      111.875,
+      455.716796875
+    ],
+    "text": "microorganism. \nASP=antipseudomonal \npenicillin. AZT=aztreonam. \n"
+  },
+  {
+    "page": 8,
+    "block_no": 14,
+    "block_type": 0,
+    "bbox": [
+      30.506999969482422,
+      455.9197998046875,
+      111.87500762939453,
+      473.216796875
+    ],
+    "text": "CAR=carbapenem. \nCAZ=ceftazidime. CFZ-1=first-\n"
+  },
+  {
+    "page": 8,
+    "block_no": 15,
+    "block_type": 0,
+    "bbox": [
+      35.672996520996094,
+      473.4197998046875,
+      111.87500762939453,
+      499.466796875
+    ],
+    "text": "generation cephalosporin. \nCFZ-2=second-generation \ncephalosporin. CFZ-3=third-\n"
+  },
+  {
+    "page": 8,
+    "block_no": 16,
+    "block_type": 0,
+    "bbox": [
+      40.61499786376953,
+      499.6697998046875,
+      111.87500762939453,
+      508.216796875
+    ],
+    "text": "generation cephalosporin. \n"
+  },
+  {
+    "page": 8,
+    "block_no": 17,
+    "block_type": 0,
+    "bbox": [
+      49.77099609375,
+      508.4197998046875,
+      111.87500762939453,
+      516.966796875
+    ],
+    "text": "CHL=chloramphenicol. \n"
+  },
+  {
+    "page": 8,
+    "block_no": 18,
+    "block_type": 0,
+    "bbox": [
+      58.97599411010742,
+      517.1697998046875,
+      111.87500762939453,
+      543.216796875
+    ],
+    "text": "CLI=clindamycin. \nDAP=daptomycin. \nERY=erythromycin. \n"
+  },
+  {
+    "page": 8,
+    "block_no": 19,
+    "block_type": 0,
+    "bbox": [
+      31.39599609375,
+      543.4197998046875,
+      111.87498474121094,
+      560.716796875
+    ],
+    "text": "FID=fidaxomicin. \nFOS=fosfomycin. FLU-1=first-\n"
+  },
+  {
+    "page": 8,
+    "block_no": 20,
+    "block_type": 0,
+    "bbox": [
+      34.70699691772461,
+      560.9197998046875,
+      111.875,
+      569.466796875
+    ],
+    "text": "generation fluoroquinolone. \n"
+  },
+  {
+    "page": 8,
+    "block_no": 21,
+    "block_type": 0,
+    "bbox": [
+      29.218997955322266,
+      569.6697998046875,
+      111.87499237060547,
+      586.966796875
+    ],
+    "text": "FLU-2=second-generation \nfluoroquinolone. FLU-3=third-\n"
+  },
+  {
+    "page": 8,
+    "block_no": 22,
+    "block_type": 0,
+    "bbox": [
+      34.70699691772461,
+      587.1697998046875,
+      111.875,
+      595.716796875
+    ],
+    "text": "generation fluoroquinolone. \n"
+  },
+  {
+    "page": 8,
+    "block_no": 23,
+    "block_type": 0,
+    "bbox": [
+      41.85399627685547,
+      595.9197998046875,
+      111.87499237060547,
+      604.466796875
+    ],
+    "text": "FLU-4=fourth-generation \n"
+  },
+  {
+    "page": 8,
+    "block_no": 24,
+    "block_type": 0,
+    "bbox": [
+      62.01399612426758,
+      604.6697998046875,
+      111.87500762939453,
+      621.966796875
+    ],
+    "text": "fluoroquinolone. \nFLU=flucloxacillin. \n"
+  },
+  {
+    "page": 8,
+    "block_no": 25,
+    "block_type": 0,
+    "bbox": [
+      33.32799530029297,
+      622.1697998046875,
+      111.875,
+      639.466796875
+    ],
+    "text": "GEN=gentamicin. \nISO=isoniazid. LZD=linezolid. \n"
+  },
+  {
+    "page": 8,
+    "block_no": 26,
+    "block_type": 0,
+    "bbox": [
+      54.25799560546875,
+      639.6697998046875,
+      111.87498474121094,
+      648.216796875
+    ],
+    "text": "MET=metronidazole. \n"
+  },
+  {
+    "page": 8,
+    "block_no": 27,
+    "block_type": 0,
+    "bbox": [
+      57.24699401855469,
+      648.4197998046875,
+      111.87499237060547,
+      656.966796875
+    ],
+    "text": "NIT=nitrofurantoin. \n"
+  },
+  {
+    "page": 8,
+    "block_no": 28,
+    "block_type": 0,
+    "bbox": [
+      58.86399459838867,
+      657.1697998046875,
+      111.875,
+      674.466796875
+    ],
+    "text": "PEN=penicillin. \nPIV=pivmecillinam. \n"
+  },
+  {
+    "page": 8,
+    "block_no": 29,
+    "block_type": 0,
+    "bbox": [
+      28.27399444580078,
+      674.6697998046875,
+      111.95199584960938,
+      691.966796875
+    ],
+    "text": "POL=polymyxin B. \nQ–D=quinupristin–dalfopristin. \n"
+  },
+  {
+    "page": 8,
+    "block_no": 30,
+    "block_type": 0,
+    "bbox": [
+      54.64299011230469,
+      692.1697998046875,
+      111.87498474121094,
+      709.466796875
+    ],
+    "text": "RIF=rifampicin. \nTRI=trimethoprim or \n"
+  },
+  {
+    "page": 8,
+    "block_no": 31,
+    "block_type": 0,
+    "bbox": [
+      60.38298797607422,
+      709.6697998046875,
+      110.55200958251953,
+      718.216796875
+    ],
+    "text": "sulfamethoxazole–\n"
+  },
+  {
+    "page": 8,
+    "block_no": 32,
+    "block_type": 0,
+    "bbox": [
+      64.27499389648438,
+      718.4197998046875,
+      111.87500762939453,
+      735.716796875
+    ],
+    "text": "trimethoprim. \nTET=tetracycline. \n"
+  },
+  {
+    "page": 8,
+    "block_no": 33,
+    "block_type": 0,
+    "bbox": [
+      61.06199645996094,
+      735.9197998046875,
+      111.87499237060547,
+      753.216796875
+    ],
+    "text": "TGC=tigecycline. \nVAN=vancomycin.\n"
+  },
+  {
+    "page": 8,
+    "block_no": 34,
+    "block_type": 0,
+    "bbox": [
+      134.02540588378906,
+      162.91058349609375,
+      220.24142456054688,
+      393.0816955566406
+    ],
+    "text": "Enterobacter aerogenes\nStaphylocccus spp.\nKlebsiella ozaenae\nAcinetobacter baumanni\nKlebsiella aerogenes\nMorganella morganii\nRaoultella terrigena\nAerococcus spp.\nProteus spp.\nEnterobacter cloacae\nPseudomonas spp.\nAcinetobacter spp.\nCitrobacter spp.\nProteus penneri\nCoagulase-negative Staphylococcus\nProteus mirabilis\nEnterococcus faecium\nKlebsiella oxytoca\nEnterococcus spp.\nAcinetobacter parvus\nKlebsiella pneumoniae\nEnterobacter spp.\nStaphylococcus aureus\nEscherichia coli\nPseudomonas aeruginosa\nKlebsiella spp.\nStreptococcus spp.\n"
+  },
+  {
+    "page": 8,
+    "block_no": 35,
+    "block_type": 0,
+    "bbox": [
+      122.77349090576172,
+      259.7001037597656,
+      130.70999145507812,
+      299.876708984375
+    ],
+    "text": "Bacterial species\n"
+  },
+  {
+    "page": 8,
+    "block_no": 36,
+    "block_type": 0,
+    "bbox": [
+      215.0399932861328,
+      132.126708984375,
+      220.20799255371094,
+      142.51370239257812
+    ],
+    "text": "A\n"
+  },
+  {
+    "page": 8,
+    "block_no": 37,
+    "block_type": 0,
+    "bbox": [
+      134.02540588378906,
+      438.0286865234375,
+      220.24142456054688,
+      668.22607421875
+    ],
+    "text": "Aerococcus spp.\nRaoultella terrigena\nEnterobacter aerogenes\nStaphylocccus spp.\nKlebsiella ozaenae\nMorganella morganii\nKlebsiella aerogenes\nAcinetobacter baumanni\nCoagulase-negative Staphylococcus\nKlebsiella oxytoca\nPseudomonas spp.\nProteus spp.\nEnterobacter cloacae\nAcinetobacter spp.\nCitrobacter spp.\nStreptococcus spp.\nProteus penneri\nProteus mirabilis\nEnterococcus faecium\nAcinetobacter parvus\nEnterococcus spp.\nKlebsiella spp\nEnterobacter spp\nEscherichia coli\nPseudomonas aeruginosa\nKlebsiella pneumoniae\nStaphylococcus aureus\n"
+  },
+  {
+    "page": 8,
+    "block_no": 38,
+    "block_type": 0,
+    "bbox": [
+      122.77349090576172,
+      535.8171997070312,
+      130.70999145507812,
+      575.9937133789062
+    ],
+    "text": "Bacterial species\n"
+  },
+  {
+    "page": 8,
+    "block_no": 39,
+    "block_type": 0,
+    "bbox": [
+      220.27783203125,
+      671.4581298828125,
+      295.96343994140625,
+      687.8849487304688
+    ],
+    "text": "GEN\nCHL\nTRI\nCAR\nCFZ-1\nCFZ-2\nCFZ-3\n"
+  },
+  {
+    "page": 8,
+    "block_no": 40,
+    "block_type": 0,
+    "bbox": [
+      303.6758728027344,
+      671.4857177734375,
+      552.0775756835938,
+      688.4732666015625
+    ],
+    "text": "POL\nFLU-1\nFLU-2\nFLU-3\nFLU-4\nVAN\nTGC\nISO\nCLI\nDAP\nERY\nFID\nAZT\nNIT\nMET\nLZD\nASP\nFLU\nPEN\nPIV\nFOS\nRIF\nQ–D\nTET\n"
+  },
+  {
+    "page": 8,
+    "block_no": 41,
+    "block_type": 0,
+    "bbox": [
+      292.9759521484375,
+      672.5750122070312,
+      305.8682861328125,
+      685.4673461914062
+    ],
+    "text": "CAZ\n"
+  },
+  {
+    "page": 8,
+    "block_no": 42,
+    "block_type": 0,
+    "bbox": [
+      200.741943359375,
+      689.5189819335938,
+      263.0163269042969,
+      721.670166015625
+    ],
+    "text": "Aminoglycoside\nAmphenicol\nAntifolate\nCarbapenem\n"
+  },
+  {
+    "page": 8,
+    "block_no": 43,
+    "block_type": 0,
+    "bbox": [
+      254.4884796142578,
+      689.9602661132812,
+      283.0504150390625,
+      718.5220947265625
+    ],
+    "text": "Cephalosporin\n"
+  },
+  {
+    "page": 8,
+    "block_no": 44,
+    "block_type": 0,
+    "bbox": [
+      259.0705871582031,
+      688.1783447265625,
+      315.3203430175781,
+      737.7754516601562
+    ],
+    "text": "Cephalosporin + \nbeta-lactamase inhibitor\nColistin\n"
+  },
+  {
+    "page": 8,
+    "block_no": 45,
+    "block_type": 0,
+    "bbox": [
+      307.7301330566406,
+      689.8923950195312,
+      339.9534912109375,
+      722.1156616210938
+    ],
+    "text": "Fluoroquinolone\n"
+  },
+  {
+    "page": 8,
+    "block_no": 46,
+    "block_type": 0,
+    "bbox": [
+      338.3921203613281,
+      689.65478515625,
+      386.6528625488281,
+      716.45166015625
+    ],
+    "text": "Glycopeptide\nGlycylcycline\nIsoniazid\n"
+  },
+  {
+    "page": 8,
+    "block_no": 47,
+    "block_type": 0,
+    "bbox": [
+      390.9464416503906,
+      689.6336059570312,
+      412.1514587402344,
+      710.8385620117188
+    ],
+    "text": "Macrolide\n"
+  },
+  {
+    "page": 8,
+    "block_no": 48,
+    "block_type": 0,
+    "bbox": [
+      410.9847106933594,
+      689.5444946289062,
+      467.89630126953125,
+      722.4592895507812
+    ],
+    "text": "Monobactam\nNitrofuran\nNitroimidazole\nOxazolidinonone\n"
+  },
+  {
+    "page": 8,
+    "block_no": 49,
+    "block_type": 0,
+    "bbox": [
+      474.4978942871094,
+      689.3408203125,
+      494.2095031738281,
+      709.0523681640625
+    ],
+    "text": "Penicillin\n"
+  },
+  {
+    "page": 8,
+    "block_no": 50,
+    "block_type": 0,
+    "bbox": [
+      495.3634948730469,
+      689.2941284179688,
+      550.5737915039062,
+      718.7257080078125
+    ],
+    "text": "Phosphonic\nRifampicin\nStreptogramin\nTetracycline\n"
+  },
+  {
+    "page": 8,
+    "block_no": 51,
+    "block_type": 0,
+    "bbox": [
+      375.40509033203125,
+      739.2706909179688,
+      400.2935485839844,
+      747.2072143554688
+    ],
+    "text": "Antibiotic\n"
+  },
+  {
+    "page": 8,
+    "block_no": 52,
+    "block_type": 0,
+    "bbox": [
+      215.30360412597656,
+      407.1861877441406,
+      219.94461059570312,
+      417.57318115234375
+    ],
+    "text": "B\n"
+  },
+  {
+    "page": 8,
+    "block_no": 53,
+    "block_type": 0,
+    "bbox": [
+      225.4521026611328,
+      134.41839599609375,
+      268.42364501953125,
+      142.35488891601562
+    ],
+    "text": "Susceptibility (%)\n"
+  },
+  {
+    "page": 8,
+    "block_no": 54,
+    "block_type": 0,
+    "bbox": [
+      224.2301025390625,
+      151.6239013671875,
+      317.1540832519531,
+      159.56039428710938
+    ],
+    "text": "0\n25\n50\n75\n100\n"
+  },
+  {
+    "page": 8,
+    "block_no": 55,
+    "block_type": 0,
+    "bbox": [
+      225.2841033935547,
+      409.0657958984375,
+      260.9886169433594,
+      417.0022888183594
+    ],
+    "text": "Resistance (%)\n"
+  },
+  {
+    "page": 8,
+    "block_no": 56,
+    "block_type": 0,
+    "bbox": [
+      224.23110961914062,
+      426.27130126953125,
+      317.15509033203125,
+      434.2077941894531
+    ],
+    "text": "0\n25\n50\n75\n100\n"
+  },
+  {
+    "page": 9,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      507.8327941894531,
+      35.70822525024414,
+      544.2528076171875,
+      50.372222900390625
+    ],
+    "text": "Articles\n"
+  },
+  {
+    "page": 9,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      36.850399017333984,
+      772.451171875,
+      564.0948486328125,
+      781.0051879882812
+    ],
+    "text": "www.thelancet.com/lancetgh   Vol 12   November 2024\t\ne1824\n"
+  },
+  {
+    "page": 9,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      36.84660339355469,
+      127.18222045898438,
+      253.1384735107422,
+      335.91314697265625
+    ],
+    "text": "of infection control teams. Around half of hospitals that \nperformed microbiological testing had regular reviews by \ninfection control teams and more than a third had no \nreviews by infection control teams. Despite widespread \nuse of prophylactic antibiotics, they were frequently \nineffective, which is associated with a substantial increase \nin MDR organisms. Data are scarce from LMICs and the \nlittle evidence that has emerged is concerning. A study \nfrom Uganda of 83 patients with SSIs found that \n86·0% of aerobic bacteria isolated were MDR.21,22 A study \nfrom Benin found that 41·2% of the bacteria isolated \nfrom SSIs were MDR.23 A 2024 meta-analysis of \n59 \narticles \nidentified \nthat \nthe \ntop \nthree \nSSI \nmicroorganisms had very high levels of AMR \n(48% methicillin resistance in S aureus, 64% in E coli, and \nup to 85% in Klebsiella pneumoniae).24 AMR is particularly \nchallenging in LMICs with a scarcity of microbial data, \nlower levels of awareness, and widespread lack of local \nguidelines.\n"
+  },
+  {
+    "page": 9,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      36.84660339355469,
+      336.17413330078125,
+      253.1419677734375,
+      445.91314697265625
+    ],
+    "text": "The findings in this study sit within and expand upon \nthe Mapping Antimicrobial Resistance and Antimicrobial \nUse Partnership9 involving 14 African countries, which \nidentified that only 1·3% of laboratories across the \n14 countries perform bacteriological testing and \n12 of the 14 countries have a drug resistance index at \nleast twice the benchmark of 25%.25 Poor access to \nmicrobiology diagnostics and overuse and misuse of \nantimicrobials are major drivers in the development \nof MDR.8,26\n"
+  },
+  {
+    "page": 9,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      36.8507080078125,
+      446.18218994140625,
+      253.133056640625,
+      577.9132080078125
+    ],
+    "text": "Optimising targeted antibiotic treatment requires a full \ncomplement of microbiology services, stewardship, \neducation, and appropriate antimicrobial use. Substantial \ninvestment is required in infrastructure and workforce, \nwhich poses significant challenges in resource-limited \nsettings.27,28 When patients pay for their own health care, \ndiagnosis and treatment of SSI can be beyond the means \nof public health-care systems and can lead to catastrophic \nexpenditure for patients and families.3,14,29 Worsening \nMDR could outpace efforts to expand microbiological \ninfrastructure and services and lead to extensive \nuntreatable SSIs.26\n"
+  },
+  {
+    "page": 9,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      36.854000091552734,
+      578.1822509765625,
+      253.14202880859375,
+      753.8892211914062
+    ],
+    "text": "A strength of this study is its scope, reporting data \nacross 35 hospitals from seven LMICs, providing a \ncomprehensive overview of the testing capacity and \nMDR on the front line. This study is based on high-\nquality, prospectively collected data from dedicated \nresearch teams as part of a randomised controlled trial, \nmaking this a generalisable snapshot of the current \nenvironment. A limitation of this study was that, \nalthough it was included in the FALCON protocol \nwritten before the trial, this was a post-hoc prospective \nsecondary analysis of a randomised controlled trial, and \nmicroorganism analysis was not the primary outcome of \nthe FALCON trial. Other limitations include: we were \nunable to report the exact reason that swabs were or \nwere not taken; due to current practices in hospitals, we \nwere unable to capture wound swab data on MDR and \n"
+  },
+  {
+    "page": 9,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      262.20501708984375,
+      127.15621948242188,
+      478.5022888183594,
+      335.8569641113281
+    ],
+    "text": "microorganisms in every SSI; due to limited testing \ncapacity, a substantial number of microorganisms could \nnot be classified as MDR or not MDR by the accepted \ndefinition; we could not specify the cases where SSI was \nprevented by antibiotics, although we suspect this was \nproportionately very low because we found that antibiotic \nuse was almost entirely non-targeted; detailed data on \nspecific factors that influenced prophylactic antibiotic \nuse were not available (based on national or regional \nguidelines, the patient’s choice, or intraoperative \nfindings); and granular information on the laboratory \ntesting conditions, quality controls, culture mediums, \nand transport was beyond the scope of this study and \nrequires a larger, separate study, designed specifically to \nanswer these questions. The hospital-level survey was \nnot intended to be exhaustive, because it was intended to \nsupport the secondary analysis from the primary trial. It \nwas intended to identify unmet needs and areas for \nfocusing future research.\n"
+  },
+  {
+    "page": 9,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      262.2048034667969,
+      336.1179504394531,
+      478.49310302734375,
+      588.8890991210938
+    ],
+    "text": "To prevent worsening MDR, goal-directed future \nresearch and initiatives are needed. First, prevention \nefforts are essential. These will reduce overall antibiotic \nconsumption and can be cost-effective and implemented \nin all settings, even where resources are limited. For \nexample, the ChEETAh randomised controlled trial has \nshown that a change of gloves and instruments before \nwound closure significantly reduces SSI.30 Second, global \nmapping of local microorganism patterns by way of an \nactive and responsive surveillance network will be key to \neffective, targeted antibiotic use. Third, evidence-based \nbest practice must be implemented on the front line, \nfacilitated by communication between departments, \neducation of staff, and behavioural change through \nawareness and team building. Fourth, the effectiveness \nof a dedicated infection control team needs to be explored \nand a cost-effectiveness model is needed. Finally, when \nSSIs do occur, capacity for microorganism testing is \ncrucial for targeted treatment instead of broad-spectrum \nantibiotic use. To achieve this targeted antibiotic \ntreatment, effective, rapid, low-cost diagnostic tools are \nneeded. Evidence-based prescribing on local microbial \nand resistance patterns should be the standard of care.\n"
+  },
+  {
+    "page": 9,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      262.2047119140625,
+      589.1500854492188,
+      478.4837646484375,
+      676.9192504882812
+    ],
+    "text": "In conclusion, systemic weaknesses exist in the \ntesting capacity and prevention of MDR in LMIC \nhospitals. These weaknesses are associated with non-\ntargeted antibiotic use and high levels of AMR. Future \nresearch should be directed towards development of \nguidelines, and implementation of infection control \nteams to educate staff and patients to reduce the burden \nof MDR SSIs.\n"
+  },
+  {
+    "page": 9,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      262.2047119140625,
+      680.6151733398438,
+      477.0345458984375,
+      750.629150390625
+    ],
+    "text": "Contributors\nThe role of all coauthors is shown in appendix 3 (pp 117–122). \nThe writing group, which consisted of the microbiology expert group \nand the surgical expert group, contributed to conceptualisation, \nmethodology, data curation, analysis, investigation, writing of the \noriginal draft, and review and editing, and have accessed and verified the \ndata. EL (UK), SRV (India), and AB (UK) were responsible for the \ndecision to submit the manuscript for publication.\n"
+  },
+  {
+    "page": 10,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      51.02360153198242,
+      35.70822525024414,
+      87.443603515625,
+      50.372222900390625
+    ],
+    "text": "Articles\n"
+  },
+  {
+    "page": 10,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      28.346399307250977,
+      772.451171875,
+      555.5751342773438,
+      781.0051879882812
+    ],
+    "text": "e1825\t\nwww.thelancet.com/lancetgh   Vol 12   November 2024\n"
+  },
+  {
+    "page": 10,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      119.05380249023438,
+      128.74249267578125,
+      327.65386962890625,
+      181.25650024414062
+    ],
+    "text": "Equitable partnership declaration\nThe authors of this paper have submitted an equitable partnership \ndeclaration (appendix 4). This statement allows researchers to describe \nhow their work engages with researchers, communities, and \nenvironments in the countries of study. This statement is part of \nThe Lancet Global Health’s broader goal to decolonise global health.\n"
+  },
+  {
+    "page": 10,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      119.05380249023438,
+      185.49151611328125,
+      222.31784057617188,
+      203.00552368164062
+    ],
+    "text": "Declaration of interests\nWe declare no competing interests.\n"
+  },
+  {
+    "page": 10,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      119.05380249023438,
+      207.24053955078125,
+      318.8338317871094,
+      233.50454711914062
+    ],
+    "text": "Data sharing\nData sharing requests will be considered by the writing group upon \nwritten request to the corresponding author.\n"
+  },
+  {
+    "page": 10,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      119.05380249023438,
+      237.73956298828125,
+      331.1048278808594,
+      281.5035705566406
+    ],
+    "text": "Acknowledgments\nThis research was funded by a National Institute for Health and Care \nResearch (NIHR) Global Health Research Unit Grant (NIHR 16.136.79). \nThe views expressed are those of the authors and not necessarily those \nof the NIHR or the UK Department of Health and Social Care.\n"
+  },
+  {
+    "page": 10,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      119.05380249023438,
+      285.7385559082031,
+      334.2880859375,
+      663.5233764648438
+    ],
+    "text": "References\n1\t\nBiccard BM, Madiba TE, Kluyts H-L, et al. Perioperative patient \noutcomes in the African Surgical Outcomes Study: a 7-day \nprospective observational cohort study. Lancet 2018; 391: 1589–98.\n2\t\nBhangu A, Ademuyiwa AO, Aguilera ML, et al. Surgical site \ninfection after gastrointestinal surgery in high-income, middle-\nincome, and low-income countries: a prospective, international, \nmulticentre cohort study. Lancet Infect Dis 2018; 18: 516–25.\n3\t\nAlkaaki A, Al-Radi OO, Khoja A, et al. Surgical site infection \nfollowing abdominal surgery: a prospective cohort study. Can J Surg \n2019; 62: 111–17.\n4\t\nAdemuyiwa AO, Hardy P, Runigamugabo E, et al. Reducing \nsurgical site infections in low-income and middle-income countries \n(FALCON): a pragmatic, multicentre, stratified, randomised \ncontrolled trial. Lancet 2021; 398: 1687–99.\n5\t\nAllegranzi B, Zayed B, Bischoff P, et al. New WHO \nrecommendations on intraoperative and postoperative measures for \nsurgical site infection prevention: an evidence-based global \nperspective. Lancet Infect Dis 2016; 16: e288–303.\n6\t\nKlein EY, Milkowska-Shibata M, Tseng KK, et al. Assessment of \nWHO antibiotic consumption and access targets in 76 countries, \n2000–15: an analysis of pharmaceutical sales data. Lancet Infect Dis \n2021; 21: 107–15.\n7\t\nKlein EY, Van Boeckel TP, Martinez EM, et al. Global increase and \ngeographic convergence in antibiotic consumption between 2000 \nand 2015. Proc Natl Acad Sci USA 2018; 115: E3463–70.\n8\t\nWHO. Antimicrobial resistance. 2023. https://www.who.int/news-\nroom/fact-sheets/detail/antimicrobial-resistance (accessed \nNov 30, 2023).\n9\t\nAfrica Centres for Disease Control and Prevention. Mapping \nAntimicrobial Resistance and Antimicrobial Use Partnership \n(MAAP) country reports. https://africacdc.org/download/mapping-\nantimicrobial-resistance-and-antimicrobial-use-partnership-maap-\ncountry-reports (accessed Oct 24, 2023).\n10\t\nThe Fleming Fund. About the Fleming Fund. https://www.\nflemingfund.org/about-us (accessed Oct 24, 2023).\n11\t\nGordon N, Aggarwal V, Amos B, et al. The UK Fleming Fund: \ndeveloping AMR surveillance capacity in low- and middle-income \ncountries. Int J Infect Dis 2020; 101: 40.\n12\t\nTanwar J, Das S, Fatima Z, Hameed S. Multidrug resistance: \nan emerging crisis. Interdiscip Perspect Infect Dis 2014; \n2014: 541340.\n13\t\nMurray CJL, Ikuta KS, Sharara F, et al. Global burden of bacterial \nantimicrobial resistance in 2019: a systematic analysis. Lancet 2022; \n399: 629–55.\n"
+  },
+  {
+    "page": 10,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      344.4081115722656,
+      128.8334197998047,
+      559.6563110351562,
+      289.6883850097656
+    ],
+    "text": "14\t\nDadgostar P. Antimicrobial resistance: implications and costs. \nInfect Drug Resist 2019; 12: 3903–10.\n15\t\nNIHR Global Health Research Unit on Global Surgery. Pragmatic \nmulticentre factorial randomized controlled trial testing measures to \nreduce surgical site infection in low- and middle-income countries: \nstudy protocol of the FALCON trial. Colorectal Dis 2021; 23: 298–306.\n16\t\nVandenbroucke JP, von Elm E, Altman DG, et al. Strengthening the \nReporting of Observational Studies in Epidemiology (STROBE): \nexplanation and elaboration. Ann Intern Med 2007; 147: W163-94.\n17\t\nBorchardt RA, Tzizik D. Update on surgical site infections: the new \nCDC guidelines. JAAPA 2018; 31: 52–54.\n18\t\nCusack TP, Ashley EA, Ling CL, et al. Time to switch from CLSI to \nEUCAST? A Southeast Asian perspective. Clin Microbiol Infect 2019; \n25: 782–85.\n19\t\nMagiorakos AP, Srinivasan A, Carey RB, et al. Multidrug-resistant, \nextensively drug-resistant and pandrug-resistant bacteria: \nan international expert proposal for interim standard definitions for \nacquired resistance. Clin Microbiol Infect 2012; 18: 268–81.\n20\t Harris PA, Taylor R, Thielke R, Payne J, Gonzalez N, Conde JG. \n"
+  },
+  {
+    "page": 10,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      344.408203125,
+      289.3373718261719,
+      558.0201416015625,
+      356.52301025390625
+    ],
+    "text": "Research electronic data capture (REDCap)—a metadata-driven \nmethodology and workflow process for providing translational \nresearch informatics support. J Biomed Inform 2009; 42: 377–81.\n21\t\nHope D, Ampaire L, Oyet C, Muwanguzi E, Twizerimana H, \nApecu RO. Antimicrobial resistance in pathogenic aerobic bacteria \ncausing surgical site infections in Mbarara regional referral \nhospital, southwestern Uganda. Sci Rep 2019; 9: 17299.\n22\t Sartelli M, C Hardcastle T, Catena F, et al. Antibiotic use in low and \n"
+  },
+  {
+    "page": 10,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      344.408203125,
+      356.1719970703125,
+      542.0670776367188,
+      381.9403991699219
+    ],
+    "text": "middle-income countries and the challenges of antimicrobial \nresistance in surgery. Antibiotics (Basel) 2020; 9: 497.\n23\t Adrien HM, Alexandre AS, Tobome SR, et al. Epidemiological \n"
+  },
+  {
+    "page": 10,
+    "block_no": 10,
+    "block_type": 0,
+    "bbox": [
+      344.408203125,
+      381.5893859863281,
+      559.609130859375,
+      448.77508544921875
+    ],
+    "text": "aspects of surgical site infections in an income country. The case of \nregional hospital center, Borgou (Benin). Int J Med Res Health Sci \n2017; 3: 29–33.\n24\t\nMonk EJM, Jones TPW, Bongomin F, et al. Antimicrobial resistance \nin bacterial wound, skin, soft tissue and surgical site infections in \nCentral, Eastern, Southern and Western Africa: a systematic review \nand meta-analysis. PLoS Glob Public Health 2024; 4: e0003077.\n25\t African Society of Laboratory Medicine. Incomplete antimicrobial \n"
+  },
+  {
+    "page": 10,
+    "block_no": 11,
+    "block_type": 0,
+    "bbox": [
+      344.408203125,
+      448.424072265625,
+      557.6630859375,
+      490.1924133300781
+    ],
+    "text": "resistance (AMR) data in Africa: the crisis within the crisis. 2022. \nhttps://aslm.org/wp-content/uploads/2022/09/ASLM_MAAP-\nPolicy-Brief_Embargoed-until-15-Sept-6AM-GMT.pdf?x89467 \n(accessed Oct 24, 2023).\n26\t WHO. Global action plan on antimicrobial resistance. 2016. https://\n"
+  },
+  {
+    "page": 10,
+    "block_no": 12,
+    "block_type": 0,
+    "bbox": [
+      344.408203125,
+      489.8414001464844,
+      555.3932495117188,
+      549.0269775390625
+    ],
+    "text": "iris.who.int/bitstream/handle/10665/193736/9789241509763_eng.\npdf?sequence=1 (accessed Oct 24, 2023).\n27\t\nMonahan M, Glasbey J, Roberts TE, et al. The costs of surgical site \ninfection after abdominal surgery in middle-income countries: key \nresource use in wound infection (KIWI) study. J Hosp Infect 2023; \n136: 38–44.\n28\t Rickard J, Beilman G, Forrester J, et al. Surgical infections in low- \n"
+  },
+  {
+    "page": 10,
+    "block_no": 13,
+    "block_type": 0,
+    "bbox": [
+      344.4082946777344,
+      548.676025390625,
+      550.2763061523438,
+      574.4443359375
+    ],
+    "text": "and middle-income countries: a global assessment of the burden \nand management needs. Surg Infect (Larchmt) 2020; 21: 478–94.\n29\t Badia JM, Casey AL, Petrosillo N, Hudson PM, Mitchell SA, \n"
+  },
+  {
+    "page": 10,
+    "block_no": 14,
+    "block_type": 0,
+    "bbox": [
+      344.4082946777344,
+      574.0933837890625,
+      554.357421875,
+      607.8616943359375
+    ],
+    "text": "Crosby C. Impact of surgical site infection on healthcare costs and \npatient outcomes: a systematic review in six European countries. \nJ Hosp Inf 2017; 96: 1–15.\n30\t NIHR Global Research Health Unit on Global Surgery. Routine \n"
+  },
+  {
+    "page": 10,
+    "block_no": 15,
+    "block_type": 0,
+    "bbox": [
+      358.5815124511719,
+      607.5107421875,
+      543.33935546875,
+      639.8646850585938
+    ],
+    "text": "sterile glove and instrument change at the time of abdominal \nwound closure to prevent surgical site infection (ChEETAh): \na pragmatic, cluster-randomised trial in seven low-income and \nmiddle-income countries. Lancet 2022; 400: 1767–76.\n"
+  },
+  {
+    "page": 10,
+    "block_no": 16,
+    "block_type": 0,
+    "bbox": [
+      46.053001403808594,
+      146.51620483398438,
+      110.551513671875,
+      154.45919799804688
+    ],
+    "text": "See Online for appendix 4\n"
+  }
+]
