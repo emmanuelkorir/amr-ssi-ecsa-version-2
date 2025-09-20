@@ -1,0 +1,3050 @@
+[
+  {
+    "page": 1,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      463.9306945800781,
+      38.018272399902344,
+      550.5711669921875,
+      48.192771911621094
+    ],
+    "text": "SAGE Open Medicine\n"
+  },
+  {
+    "page": 1,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      62.364227294921875,
+      733.3593139648438,
+      552.0438232421875,
+      772.6793212890625
+    ],
+    "text": "Creative Commons Non Commercial CC BY-NC: This article is distributed under the terms of the Creative Commons  \nAttribution-NonCommercial 4.0 License (https://creativecommons.org/licenses/by-nc/4.0/) which permits non-commercial use, \nreproduction and distribution of the work without further permission provided the original work is attributed as specified on the SAGE and Open \nAccess pages (https://us.sagepub.com/en-us/nam/open-access-at-sage).\n"
+  },
+  {
+    "page": 1,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      454.3586120605469,
+      110.9581298828125,
+      562.3946533203125,
+      117.94812774658203
+    ],
+    "text": "https://doi.org/10.1177/20503121231172345\n"
+  },
+  {
+    "page": 1,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      462.1543273925781,
+      67.78189086914062,
+      564.3405151367188,
+      126.9248046875
+    ],
+    "text": "SAGE Open Medicine\nVolume 11: 1­–13\n© The Author(s) 2023\nArticle reuse guidelines: \nsagepub.com/journals-permissions\nDOI: 10.1177/20503121231172345\njournals.sagepub.com/home/smo\n"
+  },
+  {
+    "page": 1,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      62.36220169067383,
+      601.1694946289062,
+      132.982177734375,
+      615.5335083007812
+    ],
+    "text": "Introduction\n"
+  },
+  {
+    "page": 1,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      62.358001708984375,
+      621.7435302734375,
+      305.9122619628906,
+      716.8134765625
+    ],
+    "text": "Surgical site infection (SSI) is an infection that occurs after \nsurgery in the part of the body where the surgery took place \ndue to contamination during the time of the operation.1,2 It is \nthe most common postoperative complication worldwide, \nrepresenting a major burden for patients and health systems.3 \nThe infection causes a significant amount of morbidity and \nmortality among patients, particularly those who live in low \nresource areas.4 SSIs occur within 30 days after the operative \n"
+  },
+  {
+    "page": 1,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      62.36220169067383,
+      74.41987609863281,
+      447.99432373046875,
+      175.95782470703125
+    ],
+    "text": "Incidence of surgical site infection,  \nbacterial isolate, and their antimicrobial \nsusceptibility pattern among patients who \nunderwent surgery at Dessie Comprehensive \nSpecialized Hospital, Northeast Ethiopia\n"
+  },
+  {
+    "page": 1,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      62.36220169067383,
+      209.9813232421875,
+      396.67120361328125,
+      224.52587890625
+    ],
+    "text": "Abdurrahman Ali1, Daniel Gebretsadik1\n and Kassu Desta2\n"
+  },
+  {
+    "page": 1,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      62.36220169067383,
+      260.07586669921875,
+      565.232177734375,
+      499.9858703613281
+    ],
+    "text": "Abstract\nObjective: Surgical site infection is the most common postoperative complication worldwide, representing a major burden \nfor patients and health systems. The aim of the study is to determine the incidence and bacterial profile that cause surgical \nsite infection among patients who underwent surgery in parts of Northeast Ethiopia.\nMethods: A health facility-based cross-sectional study was conducted in Dessie Comprehensive Specialized Hospital from \nJuly 22 to October 25, 2016. A total of 338 patients from the obstetrics and gynecology and general surgical wards were \nincluded, through consecutive sampling technique. The specimens were collected aseptically on the first day when the \npatients had presented with clinical evidence of infection and then sent to the microbiology laboratory. The data were \nentered and analyzed by SPSS version 20, and the results were explained by frequency distribution in tables and figures.\nResults: The majority of participants were female (74.3%) and more than half (61.2%) of the surgeries were performed in \nthe gynecology and obstetrics ward. Clinically, 49 patients (14.5%) were diagnosed as developing surgical site infection, and \nwound swabs were taken for bacteriological study. About 41 (83.7%) swabs showed bacterial growth, indicating 12.13% \noverall prevalence of bacterial surgical site infection. Out of 48 bacterial isolates, more than half (56.25%) of them were \nGram negative. The most frequent isolate was Staphylococcus aureus, 14 (66.67%), followed by Escherichia coli, 9 (33.33%). \nOut of the total bacterial isolates, 38 (79.2%) isolates were found to be multidrug resistant, and the rate of multidrug \nresistant was higher among Gram-negative isolates.\nConclusion: An average rate of surgical site infection was found to be reported and significant numbers of bacterial isolates \nwere also detected. The highest rate of surgical site infection was reported in prostate surgery, followed by small bowel, \nvaginal hysterectomy, and exploratory laparotomy surgical procedures. Periodic surveillance on the incidence rate and \nbacterial profile along with the determination of their antibiotic susceptibility should be performed.\n"
+  },
+  {
+    "page": 1,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      62.362205505371094,
+      517.0858764648438,
+      365.8621826171875,
+      540.9959106445312
+    ],
+    "text": "Keywords\nIncidence, surgical site infection, bacteria, antimicrobial resistance, Ethiopia\n"
+  },
+  {
+    "page": 1,
+    "block_no": 10,
+    "block_type": 0,
+    "bbox": [
+      62.36220169067383,
+      553.2056884765625,
+      256.85821533203125,
+      562.5256958007812
+    ],
+    "text": "Date received: 29 November 2022; accepted: 11 April 2023\n"
+  },
+  {
+    "page": 1,
+    "block_no": 11,
+    "block_type": 0,
+    "bbox": [
+      321.37799072265625,
+      608.9887084960938,
+      548.4579467773438,
+      658.5018920898438
+    ],
+    "text": "1\u0007Department of Medical Laboratory Science, College of Medicine and \nHealth Sciences, Wollo University, Dessie, Ethiopia\n2\u0007Department of Medical Laboratory Sciences, School of Allied Health \nSciences, College of Health Science, Addis Ababa University, Addis \nAbaba, Oromia, Ethiopia\n"
+  },
+  {
+    "page": 1,
+    "block_no": 12,
+    "block_type": 0,
+    "bbox": [
+      321.37799072265625,
+      666.973876953125,
+      558.7619018554688,
+      716.5018920898438
+    ],
+    "text": "Corresponding author:\nDaniel Gebretsadik, Department of Medical Laboratory Science, College \nof Medicine and Health Sciences, Wollo University, P.O. Box 1145, \nDessie, 1145, Ethiopia. \nEmail: gebretsadikd@gmail.com\n"
+  },
+  {
+    "page": 1,
+    "block_no": 13,
+    "block_type": 0,
+    "bbox": [
+      8.503899574279785,
+      -2.2912817001342773,
+      70.88499450683594,
+      8.225217819213867
+    ],
+    "text": "1172345 SMO0010.1177/20503121231172345SAGE Open MedicineAli et al.\nresearch-article2023\n"
+  },
+  {
+    "page": 1,
+    "block_no": 14,
+    "block_type": 0,
+    "bbox": [
+      62.36220169067383,
+      43.5098876953125,
+      117.39217376708984,
+      55.14988708496094
+    ],
+    "text": "Original Article\n"
+  },
+  {
+    "page": 2,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      49.606300354003906,
+      40.02960205078125,
+      549.6363525390625,
+      51.67959976196289
+    ],
+    "text": "2\t\nSAGE Open Medicine\n"
+  },
+  {
+    "page": 2,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      49.606292724609375,
+      67.46957397460938,
+      293.1282653808594,
+      138.53878784179688
+    ],
+    "text": "procedure (except in the case of added implants, when the \nduration extends to 1 year from the operation).2,5 In order to \nminimize the chance of occurrence of SSI, the patient, the \nhealthcare providers, and other stakeholders should be aware \nof and implement the different preventive measures before \nand after the surgical procedures.2,6\n"
+  },
+  {
+    "page": 2,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      49.60199737548828,
+      139.46878051757812,
+      293.14361572265625,
+      450.538818359375
+    ],
+    "text": "In different parts of the world, varied proportions of SSI \nhave been reported so far. A global, multicenter study across \n66 countries including low-income, middle-income, and \nhigh-income countries indicated that the overall incidence of \nSSI was 12.3%.7 Among study participants in Sierra Leone, \nthe incidence of SSI reported was 11.5%.8 A systematic \nreview and meta-analysis in sub-Saharan Africa indicated \nthat the pooled incidence of SSI was 14.8%.9 A relatively \nlow incidence rate of SSI was revealed in a study conducted \nin China.10 In Ethiopia, a similar study revealed the overall \nincidence of SSI to be 21.1%.11 The incidence of SSI in these \nstudies showed that the problem is still worsening in devel-\noping countries compared to developed countries. A study \nconducted in low- and middle-income countries showed \nanother rationale for the increasing burden of SSI in wide \nareas of those regions as well as globally.12 In different parts \nof the world, either elective or emergent types of surgery \nhave been performed at various points in time. In each of \nthese surgery types, various surgical procedures have been \naccomplished successfully. But the bad scenario is that \npatients who undergo these surgical procedures are highly \nvulnerable to SSI.13–15 These SSIs can be reduced while we \ncomply with infection prevention practices; this was demon-\nstrated by the reduction of SSIs during COVID-19, which \nincluded compliance with hand hygiene, universal mask \nusage, and social distancing practices.16,17\n"
+  },
+  {
+    "page": 2,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      49.6029052734375,
+      451.46881103515625,
+      293.14630126953125,
+      618.5387573242188
+    ],
+    "text": "In many studies in various locations, a variety of different \nbacterial pathogens are responsible for causing infection in \nthe surgical area. The majority of studies concluded that \nGram-negative pathogens are the primary cause of infec-\ntion.8,11,18–20 The frequently isolated Gram-negative bacterial \npathogens are Escherichia coli, Klebsiella species, \nPseudomonas species, and Proteus species.11,19 Although \nGram-positive bacterial pathogens are not the dominant iso-\nlates in general, but specifically some species like \nStaphylococcus aureus, coagulase-negative Staphylococcus \n(CoNS), and Streptococcus species were considered as the \ncause of devastating effect on the patients.11,19,21 These path-\nogens are exhibiting a prominent level of antibiogram resist-\nance against the tested drugs.22,23\n"
+  },
+  {
+    "page": 2,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      49.6029052734375,
+      619.4688110351562,
+      293.1562805175781,
+      738.5387573242188
+    ],
+    "text": "In Ethiopia, limited studies have been conducted on SSI \nand different outputs have also been forwarded about the dif-\nferent aspects of the problem.11,24–26 But still, there is a pau-\ncity of research on SSI in the country, particularly in the \nnortheastern part of Ethiopia. As a result, the current study \nwas carried out to fill this research gap by determining the \nprevalence of bacterial infection with their antibiograms in \nthe country’s northeastern region. The study provided the \nbacterial profile that can cause infection at surgical wards in \nthe health facility. It also provided the health facility’s \n"
+  },
+  {
+    "page": 2,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      308.6229248046875,
+      67.46878051757812,
+      552.1333618164062,
+      114.53878784179688
+    ],
+    "text": "stakeholders and physicians the spectrum of the problem. \nThe result of the current study rings an alarm for the antimi-\ncrobial stewardship activities in all cases of bacterial infec-\ntion in the health facilities.\n"
+  },
+  {
+    "page": 2,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      308.6221008300781,
+      130.89479064941406,
+      357.2341003417969,
+      145.2587890625
+    ],
+    "text": "Methods\n"
+  },
+  {
+    "page": 2,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      308.6221008300781,
+      151.2108154296875,
+      445.06219482421875,
+      165.17881774902344
+    ],
+    "text": "Study area, period, and design\n"
+  },
+  {
+    "page": 2,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      308.6221008300781,
+      171.46878051757812,
+      552.1728515625,
+      290.5387878417969
+    ],
+    "text": "From July 22 to October 25, 2016, a hospital-based cross-\nsectional study was conducted at Dessie Comprehensive \nSpecialized Hospital (DCSH). The hospital is situated in \nSouth Wollo Zone, Amhara Region, Northeast Ethiopia, and \nit is the only referral hospital in Wollo Province, which serves \nabout 8 million people including the neighboring regions. The \nhospital has more than 200 beds and offers different special-\nized services, including pediatrics, surgery, obstetrics and \ngynecology, orthopedics, and internal medicine. On average, \nabout 10 major operations are performed per day.\n"
+  },
+  {
+    "page": 2,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      308.6221008300781,
+      308.2068176269531,
+      355.55413818359375,
+      322.1748046875
+    ],
+    "text": "Population\n"
+  },
+  {
+    "page": 2,
+    "block_no": 10,
+    "block_type": 0,
+    "bbox": [
+      308.6220703125,
+      328.46881103515625,
+      552.1622314453125,
+      495.538818359375
+    ],
+    "text": "All patients who underwent surgery at the hospital were con-\nsidered as the source population. All patients from obstetrics \nand gynecology and general surgical wards who underwent \nclean and clean contaminated surgeries during the study period \nwere taken as the study population. Patients who were admit-\nted to obstetrics and gynecology and general surgical wards for \nsurgery and underwent clean or clean contaminated surgeries \nand/or those who were willing to give informed consent to par-\nticipate in this study were included. Patients with infection \noccurring 30 days after the operation if no implant was in place, \ninfection on the episiotomy, contaminated wounds, procedures \nin which healthy skin was not incised, such as opening \nabscesses, pediatrics below the age of 15 years, and orthopedic \nsurgeries were not included in this study.\n"
+  },
+  {
+    "page": 2,
+    "block_no": 11,
+    "block_type": 0,
+    "bbox": [
+      308.6221008300781,
+      516.206787109375,
+      472.90216064453125,
+      530.1748046875
+    ],
+    "text": "Sample size and sampling technique\n"
+  },
+  {
+    "page": 2,
+    "block_no": 12,
+    "block_type": 0,
+    "bbox": [
+      308.6221008300781,
+      536.4688110351562,
+      552.1721801757812,
+      619.5387573242188
+    ],
+    "text": "In this study, a total of 338 patients from the obstetrics and \ngynecology and general surgical wards who fulfilled the \ninclusion criteria during the study period were included. A \nconsecutive sampling technique was employed to select the \nstudy subjects.\nWe have considered 95% confidence interval, 11.4% pre-\nvious prevalence,27 and 4% margin of error (d)\n"
+  },
+  {
+    "page": 2,
+    "block_no": 13,
+    "block_type": 0,
+    "bbox": [
+      378.97369384765625,
+      637.808837890625,
+      474.47369384765625,
+      656.5387573242188
+    ],
+    "text": "n\nZ\np\np\n"
+  },
+  {
+    "page": 2,
+    "block_no": 14,
+    "block_type": 0,
+    "bbox": [
+      384.4436950683594,
+      633.8780517578125,
+      478.648681640625,
+      664.998779296875
+    ],
+    "text": "d\n \n \n \n=\n−\n(\n) ×\n(\n)\nα/2\n2\n"
+  },
+  {
+    "page": 2,
+    "block_no": 15,
+    "block_type": 0,
+    "bbox": [
+      441.7818908691406,
+      637.8125610351562,
+      460.1299133300781,
+      659.748779296875
+    ],
+    "text": "2\n1\n"
+  },
+  {
+    "page": 2,
+    "block_no": 16,
+    "block_type": 0,
+    "bbox": [
+      365.47369384765625,
+      676.9384765625,
+      491.70989990234375,
+      699.5787963867188
+    ],
+    "text": "n =\n×\n−\n(\n)\n(\n)\n"
+  },
+  {
+    "page": 2,
+    "block_no": 17,
+    "block_type": 0,
+    "bbox": [
+      381.16119384765625,
+      680.8488159179688,
+      487.8511962890625,
+      711.5032348632812
+    ],
+    "text": "[\n]\n 1 96\n0 114 1 0 114\n"
+  },
+  {
+    "page": 2,
+    "block_no": 18,
+    "block_type": 0,
+    "bbox": [
+      427.8211975097656,
+      698.56884765625,
+      445.3211975097656,
+      709.6387939453125
+    ],
+    "text": "0 04\n"
+  },
+  {
+    "page": 2,
+    "block_no": 19,
+    "block_type": 0,
+    "bbox": [
+      410.6299133300781,
+      677.9622802734375,
+      413.8799133300781,
+      685.1577758789062
+    ],
+    "text": "2\n"
+  },
+  {
+    "page": 2,
+    "block_no": 20,
+    "block_type": 0,
+    "bbox": [
+      394.09869384765625,
+      680.8438110351562,
+      472.84869384765625,
+      702.7532958984375
+    ],
+    "text": "2\n.\n.\n.\n"
+  },
+  {
+    "page": 2,
+    "block_no": 21,
+    "block_type": 0,
+    "bbox": [
+      432.8186950683594,
+      698.5638427734375,
+      435.3186950683594,
+      709.6337890625
+    ],
+    "text": ".\n"
+  },
+  {
+    "page": 2,
+    "block_no": 22,
+    "block_type": 0,
+    "bbox": [
+      320.6221008300781,
+      728.4688110351562,
+      348.7621154785156,
+      739.5387573242188
+    ],
+    "text": "n = 243\n"
+  },
+  {
+    "page": 3,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      62.36220169067383,
+      40.02960205078125,
+      562.3921508789062,
+      51.67959976196289
+    ],
+    "text": "Ali et al.\t\n3\n"
+  },
+  {
+    "page": 3,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      62.36212158203125,
+      67.46957397460938,
+      305.90216064453125,
+      114.53958129882812
+    ],
+    "text": "By adding 10% contingency, the final minimum calcu-\nlated sample size became 268. In order to increase the repre-\nsentativeness of the study, we enrolled 338 study subjects \nthat had visited the hospital during the study period.\n"
+  },
+  {
+    "page": 3,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      62.36220169067383,
+      131.206787109375,
+      129.50218200683594,
+      145.17478942871094
+    ],
+    "text": "Data collection\n"
+  },
+  {
+    "page": 3,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      62.36220169067383,
+      151.46878051757812,
+      305.9022521972656,
+      234.53878784179688
+    ],
+    "text": "Data regarding the study participants were collected through \nthe reviewing of the patient’s card and through microbiologi-\ncal techniques. The reviewed data were collected by the phy-\nsician from the patient card, and the data collectors were \nrequesting the patients themselves for confirmation. The \nmicrobiological data (information) were obtained via the \nlaboratory analysis of a swab from the wound site.\n"
+  },
+  {
+    "page": 3,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      62.36220169067383,
+      251.206787109375,
+      150.1661834716797,
+      265.1747741699219
+    ],
+    "text": "Specimen collection\n"
+  },
+  {
+    "page": 3,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      62.36220169067383,
+      271.46881103515625,
+      305.9122009277344,
+      450.538818359375
+    ],
+    "text": "The specimens were collected aseptically on the first day \nwhen the patients presented with clinical evidence of infec-\ntion (purulent drainage from the incision or drain) before the \nwound was cleaned with antiseptic. SSI cases were defined \nby surgical and obstetrics and gynecology residents who had \nprovided adequate information regarding the CDC SSI crite-\nria. The samples were collected by experienced nurses, from \nthe depth of the wound with strict aseptic precautions with \nthe help of sterile cotton swab sticks moistened with sterile \nsaline for bacteriological examination. Two swabs from each \nsample were obtained, one for the direct smear study and the \nother for an aerobic culture, which was immediately sent \n(with a maximum delay of 20 mins) to the Amhara Public \nHealth Institute (APHI)—Dessie branch in a separate sterile \ntest tube for investigation.\n"
+  },
+  {
+    "page": 3,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      62.36220169067383,
+      467.2068176269531,
+      169.09017944335938,
+      481.1748046875
+    ],
+    "text": "Laboratory investigation\n"
+  },
+  {
+    "page": 3,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      62.36220169067383,
+      487.46881103515625,
+      305.92205810546875,
+      726.5387573242188
+    ],
+    "text": "First direct microscopic examination was done via Gram \nstaining technique to look for pus cells and the bacteria. The \nfirst swab was used for making a smear by rolling the swab \nstick on a clean glass slide, which was then alcohol fixed and \nstained by the Gram staining technique following the standard \noperating procedure (SOP). The Gram-stained smear was \nexamined under a microscope and the bacteria were broadly \nclassified into cocci and bacilli, Gram positive or Gram nega-\ntive. This report was then correlated with the growth on the \nculture plates after 24–48 h. The second swab was inoculated \non sheep blood agar and MacConkey agar as well as Mannitol \nsalt agar and incubated at 37°C for 24–48 h under aerobic con-\nditions. The culture media were prepared by following the \nmanufacturer’s instructions as well as inputs from SOPs.28 \nThen, identification of the growth was performed by studying \nthe morphology of the colonies; smear from pure colonies \nwere prepared and stained with Gram stain; and a microscopic \nexamination was performed to aid the identification process. \nWhen there was a mixed growth, colonies of different mor-\nphological characteristics were subcultured on appropriate \n"
+  },
+  {
+    "page": 3,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      321.357177734375,
+      67.46878051757812,
+      564.9276733398438,
+      726.5787963867188
+    ],
+    "text": "media in order to obtain a pure colony. The isolated bacteria \nwere further microbiologically identified by using the rele-\nvant biochemical tests. The test for antibiotic susceptibility \nwas performed by using the Kirby–Bauer disc diffusion \nmethod on Mueller–Hinton agar using antibiotics according \nto the Clinical and Laboratory Standards Institute (CLSI) \nguideline.29 The Mueller–Hinton agar was enriched with 5% \nsheep blood in the case of fastidious bacteria like \nStreptococcus species. Several isolated colonies of similar \nmorphology were taken carefully and suspended in sterile \nnutrient broth and/or sterile normal saline. The suspension \nwas then gently agitated to get a uniform suspension and the \nturbidity of the suspension was matched with the McFarland \n0.5% barium sulfate opacity standard. A sterile swab was \ndipped into the suspension of the isolate, squeezed against \nthe side of the tube to remove excess fluid and spread over \nthe Mueller–Hinton agar plate following the SOP. Sensitivity \ndiscs for appropriate drugs were placed on the media and \nincubated at 37°C for 24 h.9 The final identification of the \nbacteria was made by taking into account the results of the \nvarious biochemical tests. Antibiotic susceptibility patterns \nwere reported by measuring the zone of inhibition on a mil-\nlimeter scale. The antibiotic discs were reported as suscepti-\nble, intermediate, susceptible-dose dependent, and resistant, \nbased on the criteria provided by CLSI document M100-S24. \nWe have used two 150 mm antimicrobial susceptibility testing \n(AST) plates for each of the Gram-positive bacterial isolate.\nMethicillin resistance for S. aureus and CoNS was deter-\nmined by a disc diffusion test using a cefoxitin (30 μg) disc \non Mueller–Hinton agar. Plates were incubated and main-\ntained at 33–35°C for 24 h. Results were interpreted accord-\ning to CLSI guidelines, that is, for S. aureus and CoNS, zone \ndiameters ⩽21 and ⩽24 mm, respectively, were considered \nresistant to methicillin. Extended Spectrum Beta-Lactamases \n(ESBL) production was screened on Mueller–Hinton agar \nwith a 30 μg ceftriaxone disc, and isolates with zone diame-\nters of ⩽25 mm were considered positive for ESBL screen-\ning according to CLSI guidelines and confirmed using the \ndouble disc approximation method. Discs containing ceftazi-\ndime (30 μg) and cefotaxime (30 μg) were placed 20 mm \ncenter-to-center with the amoxicillin/clavulanate (20/10 μg) \ndisc. The plate was then incubated at 37°C for 18–20 h. An \nenhanced zone of inhibition toward the amoxicillin/clavula-\nnate (20/10 μg) disc was considered positive for ESBL pro-\nduction.30 \nMultidrug-resistant \n(MDR) \nbacteria \nwere \nidentified based on the ECDC definition, in which a bacte-\nrium is classified as MDR when the isolate is non-suscepti-\nble to at least one agent in three or more antimicrobial \ncategories.31 For Gram-positive organisms, susceptibility \nwas tested against penicillin (10 units), ampicillin (10 μg), \nceftriaxone (30 μg), vancomycin (30 μg), gentamicin (10 μg), \nerythromycin (15 μg), tetracycline (30 μg), ciprofloxacin \n(5 μg), clindamycin (2 μg), trimethoprim/sulfamethoxazole \n(1.25/23.75 μg), tetracycline (30 μg), cefoxitin (30 μg), \ncefepime (30 μg), and chloramphenicol (30 μg). Gram-negative \n"
+  },
+  {
+    "page": 4,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      49.606300354003906,
+      40.02960205078125,
+      549.6363525390625,
+      51.67959976196289
+    ],
+    "text": "4\t\nSAGE Open Medicine\n"
+  },
+  {
+    "page": 4,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      49.5963134765625,
+      66.32957458496094,
+      293.1163635253906,
+      126.57957458496094
+    ],
+    "text": "organisms were tested against ampicillin (10 μg), amoxicillin/\nclavulanate (20/10 μg), ceftriaxone (30 μg), ceftazidime \n(30 μg), gentamicin (10 μg), ciprofloxacin (5 μg), trimetho-\nprim/sulfamethoxazole (1.25/23.75 μg), piperacillin (100 μg), \ncefepime (30 μg), cefoxitin (30 μg), and amikacin (30 μg).\n"
+  },
+  {
+    "page": 4,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      49.606300354003906,
+      143.21038818359375,
+      115.12628173828125,
+      157.1783905029297
+    ],
+    "text": "Quality control\n"
+  },
+  {
+    "page": 4,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      49.606300354003906,
+      163.47238159179688,
+      293.15631103515625,
+      354.5423889160156
+    ],
+    "text": "The reliability of the laboratory test results was ensured by \nimplementing quality control measures throughout the whole \nprocesses of the laboratory work. All materials, equipment, \nand procedures were adequately controlled. Aseptic tech-\nniques were followed in all the steps of specimen collection \nand inoculation onto culture media to minimize contamina-\ntion. All the culture media were prepared according to the \nmanufacturer’s instruction. SOPs for sample collection, \ntransport, culture, and susceptibility testing of the isolated \norganisms were followed to ensure procedural quality. \nInternational control bacterial strains were used in control-\nling the tests carried out in this study. Qualities of the culture \nmedia, antibiotic discs, as well as personal performance, \nwere controlled by reference strains, such as E. coli American \nType Culture Collection (ATCC) 25922, S. aureus ATCC \n25923, and Pseudomonas aeruginosa ATCC 27853.\n"
+  },
+  {
+    "page": 4,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      49.606300354003906,
+      367.0723876953125,
+      293.1163024902344,
+      426.5423889160156
+    ],
+    "text": "Statistical analysis.  The data were entered and analyzed by \nSPSS version 20 and the results were explained by frequency \ndistribution in tables and different figures. Descriptive anal-\nysis like simple frequency and cross tabulation were per-\nformed in order to obtain the distribution of data.\n"
+  },
+  {
+    "page": 4,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      49.606300354003906,
+      443.21038818359375,
+      146.43431091308594,
+      457.1783752441406
+    ],
+    "text": "Ethical considerations\n"
+  },
+  {
+    "page": 4,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      49.606300354003906,
+      463.4723815917969,
+      293.1463317871094,
+      642.5423583984375
+    ],
+    "text": "Ethical clearance was obtained from the Ethical Review \nCommittee of Addis Ababa University, College of Health \nScience, Department of Medical Laboratory Sciences. \nWritten permission to conduct the study in DCSH and APHI, \nDessie Branch, was requested from the administrators of \nboth institutions. Written informed consent was obtained \nfrom the subjects and legally authorized representative of the \nminor subjects for participation in the study. Information \nabout the study was given to the participants to ensure they \nhad the necessary information to provide informed consent. \nAppropriate counseling and assurance of confidentiality \nwere given to participants with worries and anxiety about the \nstudy. The study participants’ laboratory results were com-\nmunicated to the attending physician for use in guiding \npatients’ management.\n"
+  },
+  {
+    "page": 4,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      49.606300354003906,
+      656.8983764648438,
+      89.91429901123047,
+      671.2623901367188
+    ],
+    "text": "Results\n"
+  },
+  {
+    "page": 4,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      49.606300354003906,
+      677.2144165039062,
+      253.29428100585938,
+      705.1864013671875
+    ],
+    "text": "Sociodemographic characteristic of the study \nparticipants\n"
+  },
+  {
+    "page": 4,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      49.606300354003906,
+      711.472412109375,
+      293.1062316894531,
+      746.5423583984375
+    ],
+    "text": "Overall, a total of 338 patients who fulfilled the inclusion cri-\nteria were enrolled in this study and the majority of them \nwere female (74.3%). More than half (61.2%) of the surgeries \n"
+  },
+  {
+    "page": 4,
+    "block_no": 10,
+    "block_type": 0,
+    "bbox": [
+      308.6263122558594,
+      356.0323791503906,
+      552.1868286132812,
+      415.1023864746094
+    ],
+    "text": "were performed in the gynecology and obstetrics ward, while \nthe rest 38.8 % were in general surgery. Participants in the \nstudy ranged in age from 16 to 76 years old, with a mean age \nof 35.25 ± 15.07 years. The majority of study participants \n(42.6%) were between the ages of 25 and 34 years (Table 1).\n"
+  },
+  {
+    "page": 4,
+    "block_no": 11,
+    "block_type": 0,
+    "bbox": [
+      308.6221008300781,
+      431.77239990234375,
+      373.48211669921875,
+      445.7403869628906
+    ],
+    "text": "Culture results\n"
+  },
+  {
+    "page": 4,
+    "block_no": 12,
+    "block_type": 0,
+    "bbox": [
+      308.6221008300781,
+      452.0343933105469,
+      552.1722412109375,
+      571.1043701171875
+    ],
+    "text": "Forty-nine (14.5%) of the total study subjects were clinically \ndiagnosed with SSI, and wound swabs were collected from \nthese patients for bacteriological testing. Bacterial growth \nwas detected in 41 (83.7%) of the 49 wound swabs, resulting \nin a 12.13% overall prevalence of bacterial SSI. Single bac-\nteria were isolated from 34 (82.9%) of the samples with bac-\nterial growth, whereas the remaining seven (17.1%) of the \nsamples showed mixed bacterial growth. Out of 48 bacterial \nisolates, more than half (56.25%) of them were Gram nega-\ntive (Table 2).\n"
+  },
+  {
+    "page": 4,
+    "block_no": 13,
+    "block_type": 0,
+    "bbox": [
+      308.6221008300781,
+      585.7723999023438,
+      449.6221923828125,
+      599.7404174804688
+    ],
+    "text": "The rate and distribution of SSI\n"
+  },
+  {
+    "page": 4,
+    "block_no": 14,
+    "block_type": 0,
+    "bbox": [
+      308.6221008300781,
+      606.034423828125,
+      552.162109375,
+      689.1043701171875
+    ],
+    "text": "The rate of SSI was 16.8% and 9.2% in the general surgical \nward and the obstetrics and gynecology ward, respectively. \nAmong the procedures, the highest rate of SSI was found in \nprostate surgery (PRST), followed by small bowel (SB), \nvaginal hysterectomy (VHYS), and exploratory laparotomy \n(XLAP) with their respective rates of 22.2%, 21.1%, 20%, \nand 18.8% (Table 3).\n"
+  },
+  {
+    "page": 4,
+    "block_no": 15,
+    "block_type": 0,
+    "bbox": [
+      308.6221008300781,
+      703.7723999023438,
+      414.0422058105469,
+      717.7404174804688
+    ],
+    "text": "Bacterial etiology of SSI\n"
+  },
+  {
+    "page": 4,
+    "block_no": 16,
+    "block_type": 0,
+    "bbox": [
+      308.6221008300781,
+      724.034423828125,
+      552.1421508789062,
+      747.1043701171875
+    ],
+    "text": "The most predominant isolate among Gram-positive bacteria \nwas S. aureus (n = 14; 66.67%), followed by CoNS (n = 4; \n"
+  },
+  {
+    "page": 4,
+    "block_no": 17,
+    "block_type": 0,
+    "bbox": [
+      308.6221008300781,
+      66.97367095947266,
+      517.6290893554688,
+      88.19566345214844
+    ],
+    "text": "Table 1.  Sociodemographic characteristics of the study \nparticipants in DCSH, from July 22 to October 25, 2016.\n"
+  },
+  {
+    "page": 4,
+    "block_no": 18,
+    "block_type": 0,
+    "bbox": [
+      308.6221008300781,
+      96.20767211914062,
+      538.662109375,
+      106.69267272949219
+    ],
+    "text": "Variables\nNo\n%\n"
+  },
+  {
+    "page": 4,
+    "block_no": 19,
+    "block_type": 0,
+    "bbox": [
+      308.631103515625,
+      113.70364379882812,
+      548.8679809570312,
+      331.2248840332031
+    ],
+    "text": "Sex of the participant\n  Male\n87\n25.7\n  Female\n251\n74.3\nWard type\n  General surgery\n131\n38.8\n  Gynecology and obstetrics\n207\n61.2\nResidence\n  Rural\n164\n48.5\n  Urban\n174\n51.5\nAge in years\n  15–24\n74\n21.9\n  25–34\n144\n42.6\n  35–44\n34\n10.1\n  45–54\n28\n8.3\n  55–64\n38\n11.2\n  ⩾65\n20\n5.9\nMean ± SD\n35.25 ± 15.07\n \nMedian\n28\n \nRange\n16–76\n \n"
+  },
+  {
+    "page": 5,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      62.36220169067383,
+      40.02960205078125,
+      562.3921508789062,
+      51.67959976196289
+    ],
+    "text": "Ali et al.\t\n5\n"
+  },
+  {
+    "page": 5,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      62.3621826171875,
+      491.29962158203125,
+      305.90228271484375,
+      622.3695678710938
+    ],
+    "text": "19.05%). The principal organisms isolated as Gram-negative \nrods were E. coli (9, 33.33%), Klebsiella species (7, 25.93%), \nand Citrobacter freundii (3, 11.11%) (Figure 1).\nThe majority of the isolates were from cesarean sections, \naccounting for 15/48 (31.25%). Among these, S. aureus was \nthe most prevalent organism, which was detected in 6/15 \n(40%) samples, followed by Streptococci, Klebsiella spe-\ncies, and C. freundii. E. coli was the most common organism \nisolated from colon and prostate surgery specimens, which \nwere isolated from 3/7 (42.9%) and 2/5 (33.3%) specimens, \nrespectively (Table 4).\n"
+  },
+  {
+    "page": 5,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      62.36220169067383,
+      636.0341186523438,
+      199.60618591308594,
+      650.0021362304688
+    ],
+    "text": "Antibiotic susceptibility pattern\n"
+  },
+  {
+    "page": 5,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      62.36220169067383,
+      656.296142578125,
+      305.9022521972656,
+      715.3660888671875
+    ],
+    "text": "As presented in Table 5, 100% of the Staphylococcus species \nwere resistant to penicillin, whereas a moderate resistance \nwas observed for the rest of the antibiotics tested, including \ncotrimoxazole (55.6%), cefoxitin (55.6%), and tetracycline \n(38.9%). But all the Staphylococcus species were sensitive to \n"
+  },
+  {
+    "page": 5,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      321.3822326660156,
+      67.46615600585938,
+      564.9223022460938,
+      402.5361633300781
+    ],
+    "text": "chloramphenicol and 77.8% of them were also found to be \nsensitive to ciprofloxacin and clindamycin. About 66.67% of \nE. coli and two of the K. pneumoniae species were found to \nbe ESBL-producing strains. Out of 14 S. aureus species, 6 \n(42.86%) \nwere \nfound \nto \nbe \nmethicillin-resistant \nStaphylococcus aureus (MRSA), whereas all 4 CoNS spe-\ncies were found to be Methicillin-Resistant Coagulase nega-\ntive Staphylococcus (MRCoNS). All Enterobacteriaceae \nisolates showed a high degree of resistance to multiple anti-\nmicrobial agents tested: 91.3% for ampicillin, 87% for aug-\nmentin, and 73.9% for cotrimoxazole and ceftriaxone. A \nmoderate degree of resistance was observed for ciprofloxa-\ncin, cefepime, and gentamicin (52.2%, 47.8%, and 34.8%, \nrespectively). But 95.7% of the Enterobacteriaceae isolates \nwere found to be sensitive to amikacin (Table 5).\nOut of the total bacterial isolates, 38 (79.2%) isolates \nwere found to be MDR and the rate of MDR was higher \namong Gram-negative isolates. While considering specific \nbacterial species, the predominant rate of MDR was indi-\ncated in S. aureus, followed by E. coli and Klebsiella species \n(Table 6).\nOnly two bacterial isolates, one from the Gram positive \nand one from the Gram negative, were fully susceptible to \nthe tested antibiotics, whereas only two isolates from the \nGram-positive category were found to be resistant to the \nseven tested antibiotics. The trends in the number of antibi-\notic-resistant isolates revealed that Gram-negative isolates \nwere resistant to the most antibiotic classes (Figure 2).\n"
+  },
+  {
+    "page": 5,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      321.3778991699219,
+      419.8948059082031,
+      379.9498596191406,
+      434.2588195800781
+    ],
+    "text": "Discussion\n"
+  },
+  {
+    "page": 5,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      321.37762451171875,
+      440.46881103515625,
+      564.920166015625,
+      643.5387573242188
+    ],
+    "text": "Our study had focused on the determination of the preva-\nlence of SSIs, identification of the bacterial isolate responsi-\nble for SSIs, and investigation of the drug susceptibility \npattern of the isolate. This information was communicated \nwith the physician and the physician took appropriate action \nfor the better management of the health of their patients.\nIn this study, the rate of clinical SSI (14.5%) was slightly \nhigher than that in similar studies done in Addis Ababa, \nEthiopia (9.8%),32 and Alexandria, Egypt (2.3%),33 but it \nwas lower than that in other studies performed in the Harari \nregion, Mekelle, and Jimma, Ethiopia.11,23,25,34 It was also \nlower than a pooled prevalence report that was conducted in \nEthiopia.35 This difference across studies could be due to the \nfact that the rate of SSIs varies widely across study periods, \nbetween hospitals and between surgeons, suggesting that \nworking practices play a critical role in the prevention of \nthese infections.36\n"
+  },
+  {
+    "page": 5,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      321.377685546875,
+      644.4688110351562,
+      564.9177856445312,
+      715.5387573242188
+    ],
+    "text": "The overall culture-confirmed SSI rate in the present \nstudy was 12.1% (41/338). This is in agreement with studies \nperformed in Addis Ababa, Bahir Dar, and Mekelle, Ethiopia, \nas well as other studies conducted in India, which reported \n10.9%–17.7%.25,26,37–39 Whereas it was higher than that in \nstudies conducted in two European countries, Italy and \n"
+  },
+  {
+    "page": 5,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      62.36219787597656,
+      66.97379302978516,
+      278.5422058105469,
+      98.69877624511719
+    ],
+    "text": "Table 2.  Culture results of samples taken from the study \nparticipants suspected to develop SSI in DCSH, July 22 to \nOctober 25, 2016.\n"
+  },
+  {
+    "page": 5,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      202.1811981201172,
+      106.70779418945312,
+      302.56719970703125,
+      117.19279479980469
+    ],
+    "text": "Number\nPercent\n"
+  },
+  {
+    "page": 5,
+    "block_no": 10,
+    "block_type": 0,
+    "bbox": [
+      62.36619567871094,
+      124.20376586914062,
+      294.29620361328125,
+      215.20286560058594
+    ],
+    "text": "Culture result N = 49\n  Growth\n41\n83.7\n  No growth\n8\n16.3\n  Single bacterial growth\n34\n82.9\n  Mixed bacterial growth\n7\n17.1\nThe bacteria isolated N = 48\n  Gram-negative rods\n27\n56.25\n  Gram-positive cocci\n21\n43.75\n"
+  },
+  {
+    "page": 5,
+    "block_no": 11,
+    "block_type": 0,
+    "bbox": [
+      62.36219787597656,
+      242.48556518554688,
+      303.84124755859375,
+      263.7075500488281
+    ],
+    "text": "Table 3.  Distribution of SSI by surgical procedure in DCSH, July \n22 to October 25, 2016.\n"
+  },
+  {
+    "page": 5,
+    "block_no": 12,
+    "block_type": 0,
+    "bbox": [
+      62.36220169067383,
+      271.7196044921875,
+      302.8692626953125,
+      292.70758056640625
+    ],
+    "text": "Surgical \nprocedure\nTotal number of \nprocedures\nTotal number \nof SSI\nRate of SSI (%)\n"
+  },
+  {
+    "page": 5,
+    "block_no": 13,
+    "block_type": 0,
+    "bbox": [
+      62.34417724609375,
+      299.9706115722656,
+      268.6331787109375,
+      425.4757385253906
+    ],
+    "text": "APPY\n28\n3\n10.70\nCOLO\n34\n6\n17.60\nCSEC\n166\n12\n7.20\nHER\n15\n1\n6.70\nHYST\n27\n5\n18.50\nPRST\n18\n4\n22.20\nSB\n19\n4\n21.10\nVHYS\n10\n2\n20.00\nXLAP\n16\n3\n18.80\nOthers\n5\n1\n20.00\nTotal\n338\n41\n12.13\n"
+  },
+  {
+    "page": 5,
+    "block_no": 14,
+    "block_type": 0,
+    "bbox": [
+      62.36220169067383,
+      434.6506042480469,
+      300.0422058105469,
+      472.4586181640625
+    ],
+    "text": "APPY: appendix surgery; COLO: colon surgery; CSEC: cesarean section; \nHER: herniorraphy; HYST: abdominal hysterectomy; PRST: prostate \nsurgery; SB: small bowel surgery; VHYS: vaginal hysterectomy; XLAP: \nexploratory laparotomy.\n"
+  },
+  {
+    "page": 6,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      49.606300354003906,
+      40.02960205078125,
+      549.6363525390625,
+      51.67959976196289
+    ],
+    "text": "6\t\nSAGE Open Medicine\n"
+  },
+  {
+    "page": 6,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      344.5705871582031,
+      174.22897338867188,
+      370.7681579589844,
+      185.93258666992188
+    ],
+    "text": "66.67%\n"
+  },
+  {
+    "page": 6,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      147.42845153808594,
+      141.10372924804688,
+      173.62603759765625,
+      152.80734252929688
+    ],
+    "text": "19.05%\n"
+  },
+  {
+    "page": 6,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      204.83566284179688,
+      113.1567611694336,
+      226.5984649658203,
+      124.86038208007812
+    ],
+    "text": "9.52%\n"
+  },
+  {
+    "page": 6,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      235.89662170410156,
+      81.82466888427734,
+      257.659423828125,
+      93.52828979492188
+    ],
+    "text": "4.76%\n"
+  },
+  {
+    "page": 6,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      421.21661376953125,
+      144.59030151367188,
+      453.4233703613281,
+      155.97901916503906
+    ],
+    "text": "S. aureus\n"
+  },
+  {
+    "page": 6,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      421.21661376953125,
+      159.89700317382812,
+      439.86541748046875,
+      171.2857208251953
+    ],
+    "text": "CoNS\n"
+  },
+  {
+    "page": 6,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      421.21661376953125,
+      175.20407104492188,
+      464.6022033691406,
+      186.59278869628906
+    ],
+    "text": "Streptococci\n"
+  },
+  {
+    "page": 6,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      421.21661376953125,
+      190.51205444335938,
+      467.88238525390625,
+      201.90077209472656
+    ],
+    "text": "Enterococcus\n"
+  },
+  {
+    "page": 6,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      329.1776123046875,
+      292.736083984375,
+      355.37518310546875,
+      304.439697265625
+    ],
+    "text": "33.33%\n"
+  },
+  {
+    "page": 6,
+    "block_no": 10,
+    "block_type": 0,
+    "bbox": [
+      265.32379150390625,
+      355.1116638183594,
+      291.5213623046875,
+      366.8152770996094
+    ],
+    "text": "25.93%\n"
+  },
+  {
+    "page": 6,
+    "block_no": 11,
+    "block_type": 0,
+    "bbox": [
+      168.4234161376953,
+      338.58837890625,
+      194.62100219726562,
+      350.2919921875
+    ],
+    "text": "11.11%\n"
+  },
+  {
+    "page": 6,
+    "block_no": 12,
+    "block_type": 0,
+    "bbox": [
+      146.5644073486328,
+      314.32391357421875,
+      168.32720947265625,
+      326.02752685546875
+    ],
+    "text": "7.41%\n"
+  },
+  {
+    "page": 6,
+    "block_no": 13,
+    "block_type": 0,
+    "bbox": [
+      131.134521484375,
+      285.406005859375,
+      152.89732360839844,
+      297.109619140625
+    ],
+    "text": "7.41%\n"
+  },
+  {
+    "page": 6,
+    "block_no": 14,
+    "block_type": 0,
+    "bbox": [
+      164.00611877441406,
+      252.58688354492188,
+      254.55612182617188,
+      278.7494812011719
+    ],
+    "text": "7.41%\n3.70%\n3.70%\n"
+  },
+  {
+    "page": 6,
+    "block_no": 15,
+    "block_type": 0,
+    "bbox": [
+      402.1325988769531,
+      279.3660888671875,
+      422.7145080566406,
+      290.7547912597656
+    ],
+    "text": "E. coli\n"
+  },
+  {
+    "page": 6,
+    "block_no": 16,
+    "block_type": 0,
+    "bbox": [
+      402.1325988769531,
+      294.673095703125,
+      452.0260009765625,
+      306.0617980957031
+    ],
+    "text": "Klebsiella spp.\n"
+  },
+  {
+    "page": 6,
+    "block_no": 17,
+    "block_type": 0,
+    "bbox": [
+      402.1325988769531,
+      309.9810791015625,
+      438.22308349609375,
+      321.3697814941406
+    ],
+    "text": "C. freundii\n"
+  },
+  {
+    "page": 6,
+    "block_no": 18,
+    "block_type": 0,
+    "bbox": [
+      402.1325988769531,
+      325.2880859375,
+      468.09442138671875,
+      336.6767883300781
+    ],
+    "text": "Pseudomonas spp.\n"
+  },
+  {
+    "page": 6,
+    "block_no": 19,
+    "block_type": 0,
+    "bbox": [
+      402.1325988769531,
+      340.5960693359375,
+      451.6761474609375,
+      351.9847717285156
+    ],
+    "text": "Acitenobacter\n"
+  },
+  {
+    "page": 6,
+    "block_no": 20,
+    "block_type": 0,
+    "bbox": [
+      402.1325988769531,
+      355.9040832519531,
+      445.701904296875,
+      367.29278564453125
+    ],
+    "text": "M. morganii\n"
+  },
+  {
+    "page": 6,
+    "block_no": 21,
+    "block_type": 0,
+    "bbox": [
+      402.1325988769531,
+      371.2100830078125,
+      451.6236267089844,
+      382.5987854003906
+    ],
+    "text": "S. marcescens\n"
+  },
+  {
+    "page": 6,
+    "block_no": 22,
+    "block_type": 0,
+    "bbox": [
+      402.1325988769531,
+      386.5180969238281,
+      441.1796569824219,
+      397.90679931640625
+    ],
+    "text": "P. mirabilis\n"
+  },
+  {
+    "page": 6,
+    "block_no": 23,
+    "block_type": 0,
+    "bbox": [
+      49.606300354003906,
+      422.0010986328125,
+      527.2005004882812,
+      441.9861145019531
+    ],
+    "text": "Figure 1.  Distribution of pathogenic bacteria isolated from the study participants with SSI in DCSH, July 22 to October 25, 2016.\nSSI: surgical site infection; DCSH: Dessie Comprehensive Specialized Hospital.\n"
+  },
+  {
+    "page": 6,
+    "block_no": 24,
+    "block_type": 0,
+    "bbox": [
+      49.606300354003906,
+      469.13909912109375,
+      536.9295043945312,
+      479.912109375
+    ],
+    "text": "Table 4.  Distribution of pathogenic bacterial isolate in relation to type of surgical procedure in DCSH, July 22 to October 25, 2016.\n"
+  },
+  {
+    "page": 6,
+    "block_no": 25,
+    "block_type": 0,
+    "bbox": [
+      49.606300354003906,
+      487.87310791015625,
+      224.3772735595703,
+      498.35809326171875
+    ],
+    "text": "Bacterial isolate\nSurgical procedure\n"
+  },
+  {
+    "page": 6,
+    "block_no": 26,
+    "block_type": 0,
+    "bbox": [
+      156.15728759765625,
+      506.3771057128906,
+      550.2672119140625,
+      527.3651123046875
+    ],
+    "text": "APPY \nN = 4\nCOLO \nN = 7\nCSEC \nN = 15\nHER \nN = 1\nHYST \nN = 5\nPRST \nN = 6\nSB \nN = 4\nVHYS \nN = 2\nXLAP \nN = 3\nOTHERS \nN = 1\n"
+  },
+  {
+    "page": 6,
+    "block_no": 27,
+    "block_type": 0,
+    "bbox": [
+      49.497894287109375,
+      534.6280517578125,
+      518.605224609375,
+      671.6350708007812
+    ],
+    "text": "Staphylococcus aureus no\n1\n1\n6\n1\n1\n1\n1\n1\n1\n0\nCoNS no\n0\n1\n0\n0\n1\n1\n0\n0\n1\n0\nEnterococcus no\n0\n0\n0\n0\n0\n1\n0\n0\n0\n0\nStreptococci no\n0\n0\n2\n0\n0\n0\n0\n0\n0\n0\nEscherichia coli no\n1\n3\n1\n0\n1\n2\n0\n0\n1\n0\nPseudomonas sp. no\n0\n1\n0\n0\n0\n0\n0\n0\n0\n1\nProteus mirabilis no\n0\n0\n0\n0\n0\n0\n0\n1\n0\n0\nKlebsiella sp. no\n2\n1\n2\n0\n1\n0\n1\n0\n0\n0\nCitrobacter freundii no\n0\n0\n2\n0\n0\n0\n1\n0\n0\n0\nSerratia marcescens no\n0\n0\n1\n0\n0\n0\n0\n0\n0\n0\nAcinetobacter no\n0\n0\n1\n0\n0\n0\n1\n0\n0\n0\nMorganella morganii no\n0\n0\n0\n0\n1\n1\n0\n0\n0\n0\n"
+  },
+  {
+    "page": 6,
+    "block_no": 28,
+    "block_type": 0,
+    "bbox": [
+      49.606300354003906,
+      680.8040771484375,
+      550.3822631835938,
+      699.6201171875
+    ],
+    "text": "APPY: appendix surgery; COLO: colon surgery; CSEC: cesarean section; HER: herniorraphy; HYST: abdominal hysterectomy; PRST: prostate surgery; SB: \nsmall bowel surgery; VHYS: vaginal hysterectomy; XLAP: exploratory laparotomy.\n"
+  },
+  {
+    "page": 7,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      62.36220169067383,
+      40.02960205078125,
+      562.3921508789062,
+      51.67959976196289
+    ],
+    "text": "Ali et al.\t\n7\n"
+  },
+  {
+    "page": 7,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      59.88710021972656,
+      356.2906799316406,
+      70.66009521484375,
+      729.6378173828125
+    ],
+    "text": "Table 5.  Antibiotic resistance pattern of SSI bacterial isolates in DCSH, July 22 to October 25, 2016.\n"
+  },
+  {
+    "page": 7,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      78.62110137939453,
+      601.1567993164062,
+      89.1061019897461,
+      661.1777954101562
+    ],
+    "text": "Isolated bacteria\n"
+  },
+  {
+    "page": 7,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      97.1250991821289,
+      68.25764465332031,
+      118.11309814453125,
+      729.6408081054688
+    ],
+    "text": "Antibiotics\nStaphylococcus \naureus\nCoNS\nEnterococcus\nStreptococcus \nsp.\nEscherichia \ncoli\nPseudomonas \nsp.\nProteus \nmirabilis\nKlebsiellas \nsp.\nCitrobacter \nfreundii\nSerratia \nmarcescens\nAcinetobacter \nsp.\nMorganella \nmorganii\n"
+  },
+  {
+    "page": 7,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      125.12409973144531,
+      714.0888061523438,
+      135.60910034179688,
+      729.6497802734375
+    ],
+    "text": "ERY\n"
+  },
+  {
+    "page": 7,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      136.6260986328125,
+      106.27375793457031,
+      147.11109924316406,
+      729.6497802734375
+    ],
+    "text": "  Sensitive\n10\n1\n0\n1\n \n"
+  },
+  {
+    "page": 7,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      148.1280975341797,
+      106.27375793457031,
+      158.61309814453125,
+      729.6497802734375
+    ],
+    "text": "  Intermediate\n2\n0\n0\n0\n \n"
+  },
+  {
+    "page": 7,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      159.63009643554688,
+      106.27375793457031,
+      170.11509704589844,
+      729.6497802734375
+    ],
+    "text": "  Resistance\n2\n3\n1\n1\n \n"
+  },
+  {
+    "page": 7,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      171.13209533691406,
+      713.341796875,
+      181.61709594726562,
+      729.6497802734375
+    ],
+    "text": "PEN\n"
+  },
+  {
+    "page": 7,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      182.63409423828125,
+      106.27375793457031,
+      193.1190948486328,
+      729.6497802734375
+    ],
+    "text": "  Resistance\n14\n4\n1\n2\n \n"
+  },
+  {
+    "page": 7,
+    "block_no": 10,
+    "block_type": 0,
+    "bbox": [
+      194.13609313964844,
+      713.2517700195312,
+      204.62109375,
+      729.6497802734375
+    ],
+    "text": "CPR\n"
+  },
+  {
+    "page": 7,
+    "block_no": 11,
+    "block_type": 0,
+    "bbox": [
+      205.63809204101562,
+      104.27581787109375,
+      216.1230926513672,
+      729.6497802734375
+    ],
+    "text": "  Sensitive\n12\n2\n1\n1\n3\n2\n0\n0\n1\n"
+  },
+  {
+    "page": 7,
+    "block_no": 12,
+    "block_type": 0,
+    "bbox": [
+      217.1400909423828,
+      104.27587890625,
+      227.62509155273438,
+      729.6498413085938
+    ],
+    "text": "  Intermediate\n1\n0\n1\n0\n1\n1\n0\n0\n0\n"
+  },
+  {
+    "page": 7,
+    "block_no": 13,
+    "block_type": 0,
+    "bbox": [
+      228.64208984375,
+      104.27593994140625,
+      250.62908935546875,
+      729.6499633789062
+    ],
+    "text": "  Resistance\n1\n2\n7\n0\n3\n0\n1\n2\n1\nDA\n"
+  },
+  {
+    "page": 7,
+    "block_no": 14,
+    "block_type": 0,
+    "bbox": [
+      251.64608764648438,
+      106.27400207519531,
+      262.1310729980469,
+      729.6499633789062
+    ],
+    "text": "  Sensitive\n11\n3\n2\n \n"
+  },
+  {
+    "page": 7,
+    "block_no": 15,
+    "block_type": 0,
+    "bbox": [
+      263.1481018066406,
+      106.27400207519531,
+      273.6330871582031,
+      729.6500244140625
+    ],
+    "text": "  Intermediate\n0\n0\n0\n \n"
+  },
+  {
+    "page": 7,
+    "block_no": 16,
+    "block_type": 0,
+    "bbox": [
+      274.6501159667969,
+      106.27400207519531,
+      285.1351013183594,
+      729.6500244140625
+    ],
+    "text": "  Resistance\n3\n1\n0\n \n"
+  },
+  {
+    "page": 7,
+    "block_no": 17,
+    "block_type": 0,
+    "bbox": [
+      286.1521301269531,
+      714.0890502929688,
+      296.6371154785156,
+      729.6500244140625
+    ],
+    "text": "TET\n"
+  },
+  {
+    "page": 7,
+    "block_no": 18,
+    "block_type": 0,
+    "bbox": [
+      297.6541442871094,
+      106.27406311035156,
+      308.1391296386719,
+      729.6500244140625
+    ],
+    "text": "  Sensitive\n7\n2\n \n"
+  },
+  {
+    "page": 7,
+    "block_no": 19,
+    "block_type": 0,
+    "bbox": [
+      309.1561584472656,
+      106.27412414550781,
+      319.6411437988281,
+      729.6500854492188
+    ],
+    "text": "  Intermediate\n2\n0\n \n"
+  },
+  {
+    "page": 7,
+    "block_no": 20,
+    "block_type": 0,
+    "bbox": [
+      320.6581726074219,
+      106.27418518066406,
+      331.1431579589844,
+      729.650146484375
+    ],
+    "text": "  Resistance\n5\n2\n \n"
+  },
+  {
+    "page": 7,
+    "block_no": 21,
+    "block_type": 0,
+    "bbox": [
+      332.1601867675781,
+      713.05419921875,
+      342.6451721191406,
+      729.6502075195312
+    ],
+    "text": "CAF\n"
+  },
+  {
+    "page": 7,
+    "block_no": 22,
+    "block_type": 0,
+    "bbox": [
+      343.6622009277344,
+      106.26521301269531,
+      354.1471862792969,
+      729.6502075195312
+    ],
+    "text": "  Sensitive\n14\n4\n0\n \n"
+  },
+  {
+    "page": 7,
+    "block_no": 23,
+    "block_type": 0,
+    "bbox": [
+      355.1642150878906,
+      106.25617980957031,
+      365.6492004394531,
+      729.6412353515625
+    ],
+    "text": "  Intermediate\n0\n0\n0\n \n"
+  },
+  {
+    "page": 7,
+    "block_no": 24,
+    "block_type": 0,
+    "bbox": [
+      366.6662292480469,
+      106.24714660644531,
+      377.1512145996094,
+      729.6322021484375
+    ],
+    "text": "  Resistance\n0\n0\n1\n \n"
+  },
+  {
+    "page": 7,
+    "block_no": 25,
+    "block_type": 0,
+    "bbox": [
+      378.1682434082031,
+      710.408203125,
+      388.6532287597656,
+      729.6231689453125
+    ],
+    "text": "COT\n"
+  },
+  {
+    "page": 7,
+    "block_no": 26,
+    "block_type": 0,
+    "bbox": [
+      389.6702575683594,
+      104.24017333984375,
+      400.1552429199219,
+      729.6231689453125
+    ],
+    "text": "  Sensitive\n6\n1\n3\n1\n0\n0\n0\n0\n"
+  },
+  {
+    "page": 7,
+    "block_no": 27,
+    "block_type": 0,
+    "bbox": [
+      401.1722717285156,
+      104.231201171875,
+      411.6572570800781,
+      729.6141967773438
+    ],
+    "text": "  Intermediate\n0\n1\n0\n0\n1\n0\n0\n1\n"
+  },
+  {
+    "page": 7,
+    "block_no": 28,
+    "block_type": 0,
+    "bbox": [
+      412.6742858886719,
+      104.22222900390625,
+      434.6612854003906,
+      729.605224609375
+    ],
+    "text": "  Resistance\n8\n2\n6\n0\n6\n3\n1\n1\nCN\n"
+  },
+  {
+    "page": 7,
+    "block_no": 29,
+    "block_type": 0,
+    "bbox": [
+      435.6783142089844,
+      104.22222900390625,
+      446.1632995605469,
+      729.5962524414062
+    ],
+    "text": "  Sensitive\n12\n4\n6\n1\n1\n4\n1\n0\n0\n2\n"
+  },
+  {
+    "page": 7,
+    "block_no": 30,
+    "block_type": 0,
+    "bbox": [
+      447.1803283691406,
+      104.22222900390625,
+      457.6653137207031,
+      729.5962524414062
+    ],
+    "text": "  Intermediate\n2\n0\n1\n0\n0\n0\n0\n0\n0\n0\n"
+  },
+  {
+    "page": 7,
+    "block_no": 31,
+    "block_type": 0,
+    "bbox": [
+      458.6823425292969,
+      104.22222900390625,
+      480.6693420410156,
+      729.5962524414062
+    ],
+    "text": "  Resistance\n0\n0\n2\n1\n0\n3\n2\n1\n2\n0\nCXT\n"
+  },
+  {
+    "page": 7,
+    "block_no": 32,
+    "block_type": 0,
+    "bbox": [
+      481.6863708496094,
+      104.2132568359375,
+      492.1713562011719,
+      729.5962524414062
+    ],
+    "text": "  Sensitive\n8\n0\n7\n1\n5\n1\n0\n2\n"
+  },
+  {
+    "page": 7,
+    "block_no": 33,
+    "block_type": 0,
+    "bbox": [
+      493.1883850097656,
+      104.20428466796875,
+      503.6733703613281,
+      729.5872802734375
+    ],
+    "text": "  Intermediate\n0\n0\n1\n0\n0\n0\n0\n0\n"
+  },
+  {
+    "page": 7,
+    "block_no": 34,
+    "block_type": 0,
+    "bbox": [
+      504.6903991699219,
+      104.1953125,
+      526.6774291992188,
+      729.5783081054688
+    ],
+    "text": "  Resistance\n6\n4\n1\n0\n2\n2\n1\n0\nCTR\n"
+  },
+  {
+    "page": 7,
+    "block_no": 35,
+    "block_type": 0,
+    "bbox": [
+      527.6943969726562,
+      106.19331359863281,
+      538.179443359375,
+      729.5693359375
+    ],
+    "text": "  Sensitive\n0\n0\n \n"
+  },
+  {
+    "page": 7,
+    "block_no": 36,
+    "block_type": 0,
+    "bbox": [
+      539.1964111328125,
+      106.19331359863281,
+      549.6814575195312,
+      729.5693359375
+    ],
+    "text": "  Intermediate\n0\n0\n \n"
+  },
+  {
+    "page": 7,
+    "block_no": 37,
+    "block_type": 0,
+    "bbox": [
+      550.6984252929688,
+      106.19331359863281,
+      561.1834716796875,
+      729.5693359375
+    ],
+    "text": "  Resistance\n2\n2\n \n"
+  },
+  {
+    "page": 7,
+    "block_no": 38,
+    "block_type": 0,
+    "bbox": [
+      570.8404541015625,
+      69.54521942138672,
+      581.3164672851562,
+      111.2783203125
+    ],
+    "text": " (Continued)\n"
+  },
+  {
+    "page": 8,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      49.606300354003906,
+      40.02960205078125,
+      549.6363525390625,
+      51.67959976196289
+    ],
+    "text": "8\t\nSAGE Open Medicine\n"
+  },
+  {
+    "page": 8,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      99.12100219726562,
+      601.1567993164062,
+      109.60600280761719,
+      661.1777954101562
+    ],
+    "text": "Isolated bacteria\n"
+  },
+  {
+    "page": 8,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      117.625,
+      68.25764465332031,
+      138.61300659179688,
+      729.6408081054688
+    ],
+    "text": "Antibiotics\nStaphylococcus \naureus\nCoNS\nEnterococcus\nStreptococcus \nsp.\nEscherichia \ncoli\nPseudomonas \nsp.\nProteus \nmirabilis\nKlebsiellas \nsp.\nCitrobacter \nfreundii\nSerratia \nmarcescens\nAcinetobacter \nsp.\nMorganella \nmorganii\n"
+  },
+  {
+    "page": 8,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      145.62400817871094,
+      711.8477783203125,
+      156.1090087890625,
+      729.6497802734375
+    ],
+    "text": "PIPC\n"
+  },
+  {
+    "page": 8,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      157.12600708007812,
+      106.27375793457031,
+      167.6110076904297,
+      729.6497802734375
+    ],
+    "text": "  Sensitive\n0\n0\n \n"
+  },
+  {
+    "page": 8,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      168.6280059814453,
+      106.27375793457031,
+      179.11300659179688,
+      729.6497802734375
+    ],
+    "text": "  Intermediate\n0\n0\n \n"
+  },
+  {
+    "page": 8,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      180.1300048828125,
+      106.27375793457031,
+      190.61500549316406,
+      729.6497802734375
+    ],
+    "text": "  Resistance\n2\n2\n \n"
+  },
+  {
+    "page": 8,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      191.6320037841797,
+      710.7138061523438,
+      202.11700439453125,
+      729.6497802734375
+    ],
+    "text": "AMK\n"
+  },
+  {
+    "page": 8,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      203.13400268554688,
+      104.2847900390625,
+      213.61900329589844,
+      729.6497802734375
+    ],
+    "text": "  Sensitive\n9\n2\n1\n6\n3\n1\n2\n2\n"
+  },
+  {
+    "page": 8,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      214.63600158691406,
+      104.2938232421875,
+      225.12100219726562,
+      729.6588134765625
+    ],
+    "text": "  Intermediate\n0\n0\n0\n0\n0\n0\n0\n0\n"
+  },
+  {
+    "page": 8,
+    "block_no": 10,
+    "block_type": 0,
+    "bbox": [
+      226.13800048828125,
+      104.3028564453125,
+      248.125,
+      729.6768798828125
+    ],
+    "text": "  Resistance\n0\n0\n0\n1\n0\n0\n0\n0\nFEP\n"
+  },
+  {
+    "page": 8,
+    "block_no": 11,
+    "block_type": 0,
+    "bbox": [
+      249.14199829101562,
+      104.3118896484375,
+      259.6269836425781,
+      729.6768798828125
+    ],
+    "text": "  Sensitive\n1\n2\n1\n3\n1\n0\n0\n1\n"
+  },
+  {
+    "page": 8,
+    "block_no": 12,
+    "block_type": 0,
+    "bbox": [
+      260.6440124511719,
+      104.3209228515625,
+      271.1289978027344,
+      729.6859130859375
+    ],
+    "text": "  SDD\n0\n1\n0\n1\n1\n1\n0\n0\n"
+  },
+  {
+    "page": 8,
+    "block_no": 13,
+    "block_type": 0,
+    "bbox": [
+      272.1460266113281,
+      104.3299560546875,
+      294.1330261230469,
+      729.7039794921875
+    ],
+    "text": "  Resistance\n1\n6\n0\n3\n1\n0\n2\n1\nAMP\n"
+  },
+  {
+    "page": 8,
+    "block_no": 14,
+    "block_type": 0,
+    "bbox": [
+      295.1500549316406,
+      104.3299560546875,
+      305.6350402832031,
+      729.7039794921875
+    ],
+    "text": "  Sensitive\n1\n0\n1\n1\n0\n0\n0\n"
+  },
+  {
+    "page": 8,
+    "block_no": 15,
+    "block_type": 0,
+    "bbox": [
+      306.6520690917969,
+      104.3299560546875,
+      317.1370544433594,
+      729.7039794921875
+    ],
+    "text": "  Intermediate\n0\n0\n0\n0\n0\n0\n0\n"
+  },
+  {
+    "page": 8,
+    "block_no": 16,
+    "block_type": 0,
+    "bbox": [
+      318.1540832519531,
+      104.3299560546875,
+      340.1410827636719,
+      729.7039794921875
+    ],
+    "text": "  Resistance\n0\n9\n0\n6\n3\n1\n2\nAUG\n"
+  },
+  {
+    "page": 8,
+    "block_no": 17,
+    "block_type": 0,
+    "bbox": [
+      341.1581115722656,
+      104.3299560546875,
+      351.6430969238281,
+      729.7039794921875
+    ],
+    "text": "  Sensitive\n0\n1\n2\n0\n0\n0\n"
+  },
+  {
+    "page": 8,
+    "block_no": 18,
+    "block_type": 0,
+    "bbox": [
+      352.6601257324219,
+      104.3299560546875,
+      363.1451110839844,
+      729.7039794921875
+    ],
+    "text": "  Intermediate\n0\n0\n0\n0\n0\n0\n"
+  },
+  {
+    "page": 8,
+    "block_no": 19,
+    "block_type": 0,
+    "bbox": [
+      364.1621398925781,
+      104.3299560546875,
+      386.1491394042969,
+      729.7039794921875
+    ],
+    "text": "  Resistance\n9\n0\n5\n3\n1\n2\nCTR\n"
+  },
+  {
+    "page": 8,
+    "block_no": 20,
+    "block_type": 0,
+    "bbox": [
+      387.1661682128906,
+      104.3389892578125,
+      397.6511535644531,
+      729.7039794921875
+    ],
+    "text": "  Sensitive\n1\n1\n1\n2\n0\n0\n0\n1\n"
+  },
+  {
+    "page": 8,
+    "block_no": 21,
+    "block_type": 0,
+    "bbox": [
+      398.6681823730469,
+      104.3480224609375,
+      409.1531677246094,
+      729.7130126953125
+    ],
+    "text": "  Intermediate\n1\n0\n0\n1\n0\n0\n0\n0\n"
+  },
+  {
+    "page": 8,
+    "block_no": 22,
+    "block_type": 0,
+    "bbox": [
+      410.1701965332031,
+      104.3570556640625,
+      432.1571960449219,
+      729.7310791015625
+    ],
+    "text": "  Resistance\n0\n8\n0\n4\n3\n1\n2\n1\nVancomycin\n"
+  },
+  {
+    "page": 8,
+    "block_no": 23,
+    "block_type": 0,
+    "bbox": [
+      433.1742248535156,
+      106.36408996582031,
+      443.6592102050781,
+      729.7310791015625
+    ],
+    "text": "  Sensitive\n1\n2\n \n"
+  },
+  {
+    "page": 8,
+    "block_no": 24,
+    "block_type": 0,
+    "bbox": [
+      444.6762390136719,
+      106.37312316894531,
+      455.1612243652344,
+      729.7401123046875
+    ],
+    "text": "  Intermediate\n0\n0\n \n"
+  },
+  {
+    "page": 8,
+    "block_no": 25,
+    "block_type": 0,
+    "bbox": [
+      456.1782531738281,
+      106.38215637207031,
+      466.6632385253906,
+      729.7491455078125
+    ],
+    "text": "  Resistance\n0\n0\n \n"
+  },
+  {
+    "page": 8,
+    "block_no": 26,
+    "block_type": 0,
+    "bbox": [
+      467.6802673339844,
+      106.38215637207031,
+      489.6672668457031,
+      729.7581787109375
+    ],
+    "text": "ESBL\nPositive\n6\n2\n \n"
+  },
+  {
+    "page": 8,
+    "block_no": 27,
+    "block_type": 0,
+    "bbox": [
+      490.6842956542969,
+      106.38215637207031,
+      501.1692810058594,
+      729.7581787109375
+    ],
+    "text": "Negative\n3\n0\n \n"
+  },
+  {
+    "page": 8,
+    "block_no": 28,
+    "block_type": 0,
+    "bbox": [
+      510.302001953125,
+      75.173583984375,
+      529.1179809570312,
+      729.6378173828125
+    ],
+    "text": "ERY: erythromycin; PEN: penicillin; CPR: ciprofloxacin; DA: clindamycin; TET: tetracycline; CAF: chloramphenicol; COT: cotrimoxazole; CN: gentamicin; CXT: cefoxitin; FEP: cefepime; AMP: ampicillin; \nAUG: augmentin; CTR: ceftriaxone; PIPC: piperacillin; AMK: amikacin; CN: gentamicin.\n"
+  },
+  {
+    "page": 8,
+    "block_no": 29,
+    "block_type": 0,
+    "bbox": [
+      81.52490234375,
+      646.540771484375,
+      92.29789733886719,
+      729.6378173828125
+    ],
+    "text": "Table 5.  (Continued)\n"
+  },
+  {
+    "page": 9,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      62.36220169067383,
+      40.02960205078125,
+      562.3921508789062,
+      51.67959976196289
+    ],
+    "text": "Ali et al.\t\n9\n"
+  },
+  {
+    "page": 9,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      62.358001708984375,
+      357.40240478515625,
+      305.8979797363281,
+      512.8538818359375
+    ],
+    "text": "Turkey, which reported 2.6% and 4.3%, respectively.40,41 \nThis might be due to the fact that these studies were con-\nducted at a national level on a large and diverse group of \npeople as well as the availability of advanced infection con-\ntrol practices including advanced surgical techniques, \nimproved operating room ventilation, sterilization methods, \nbarriers, patient care, and safety. The poor state of infrastruc-\nture and equipment, unreliable supplies and quality of medi-\ncations, shortcomings in organizational management and \ninfection control, difficulties in the supply and training of \npersonnel, and severe underfinancing in the developing \nworld contribute to the difficulties in surgical safety and \npatient care.42\n"
+  },
+  {
+    "page": 9,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      62.360595703125,
+      513.783935546875,
+      305.90704345703125,
+      728.853759765625
+    ],
+    "text": "More than half of the pathogenic bacteria isolated from \npost-surgical wound infection in the present study were \nGram-negative rods (56.25%) and the rest were Gram-\npositive cocci (43.75%). This finding was in line with other \nstudies conducted in Bahir Dar, Addis Ababa, Hawassa, and \nMekelle, Ethiopia, as well as studies in Nigeria and \nIndia.22,25,26,32,43,44 A prospective cohort study conducted in \nSierra Leone indicates more than 83% of bacterial isolates \nwere Gram negative, and another study conducted in Ethiopia \nalso showed about 80% of the isolates were Gram-negative \nbacteria, which demonstrates that Gram-negative bacteria \nare still significant isolates in causing SSIs.8,11 On the con-\ntrary, other similar studies reported Gram-positive cocci as a \npredominant isolate over Gram-negative rods.5,39,45 The pre-\ndominance of Gram-negative rods in this study can be justi-\nfied by the fact that, as Jnaneshwara et al.28 explain, there has \nbeen an increase in postoperative wound infections caused \nby Gram-negative organisms in recent years. One source of \n"
+  },
+  {
+    "page": 9,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      321.37908935546875,
+      67.46383666992188,
+      564.934814453125,
+      330.538818359375
+    ],
+    "text": "variation in the bacterial isolates could be the variation in the \nwards in which the surgery procedures are performed.\nThe predominant isolates among the 21 Gram-positive \nisolates in this study were S. aureus 14 (66.67%), followed \nby CoNS (19.05%), Streptococcus species (9.52%), and \nEnterococcus species (4.76%). Among the 27 Gram-negative \nisolates, E. coli accounted for the highest proportion \n(33.33%), followed by Klebsiella species (25.93%) and C. \nfreundii (11.11%). Overall, S. aureus was the predominant \nisolate (29.2%), followed by E. coli (18.6%), Klebsiella spe-\ncies (14.6%), and CoNS (8.3%). Similar to the findings of \nthe present study, a study conducted in the Harari region of \nEthiopia indicated S. aureus and E. coli were the two most \npredominant isolates among the Gram-positive and Gram-\nnegative categories.23 In contrast to the current study, another \nsimilar study conducted in Ethiopia and Spain found E. coli \nto be the most common bacterial isolate rather than S. \naureus.11,46 Even though we did not differentiate the specific \nspecies of the genus Streptococcus in the isolates in this \nstudy, there were two isolates from the cesarean section. \nSimilarly, Group B Streptococcus is a major cause of cesar-\nean section SSI around the world.21\n"
+  },
+  {
+    "page": 9,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      321.37811279296875,
+      331.46881103515625,
+      564.91259765625,
+      522.5387573242188
+    ],
+    "text": "The bacterial profile in different surgical procedures was \nvariable in this study. The bacteria isolated in appendix sur-\ngery were two Klebsiella species, S. aureus, and E. coli (one \neach). Two independent previous studies also isolated these \norganisms in appendix surgery, even though, there was little \nvariation in the number between studies and additional iso-\nlates that were reported.47,48 In colon surgery, the most domi-\nnant isolate was E. coli (three), followed by S. aureus, CoNS, \nPseudomonas species, and Klebsiella species (one each). S. \naureus was the predominant isolate (six) in cesarean sec-\ntions, followed by Streptococcus species, Klebsiella species, \nand C. freundii (two each) and E. coli, S. marcescens, and \nAcinetobacter species (one each). S. aureus was also the pre-\ndominant isolates in cesarean section, as it was reported by \nprevious studies from Uganda and Nigeria, but the pattern in \nthe distribution of the entire isolates was different.47,48\n"
+  },
+  {
+    "page": 9,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      321.37310791015625,
+      523.4688110351562,
+      564.9081420898438,
+      726.5387573242188
+    ],
+    "text": "In this study, the highest resistance which is exhibited by \nEnterobacteriaceae isolates was for ampicillin (91.3%), fol-\nlowed by augmentin (87%), cotrimoxazole (82.6%), and cef-\ntriaxone (78.3). The resistance of Enterobacteriaceae isolates \nto ampicillin in this study was in line with previous studies \nconducted in Bahir Dar, Mekelle, Addis Ababa, and Hawassa, \nEthiopia, as well as Uganda, which reported 88.2%–\n96.5%.25,26,32,44,48 This study’s cotrimoxazole resistance by \nEnterobacteriaceae isolates was consistent with an Indian \nreport (88.3%), but it was slightly higher than reports from \nBahir Dar (64.7%) and Hawassa (58.6%).25,44,49 Ceftriaxone \nresistance by Enterobacteriaceae isolates in the present study \nwas in harmony with previous findings from Bahir Dar, \nMekelle, and Addis Ababa.25,26,32 This high rate of resistance \nfor ampicillin, augmentin, cotrimoxazole, and ceftriaxone \ncould be attributed to the fact that they are relatively cheap \nand/or widely prescribed in the empirical treatment of \n"
+  },
+  {
+    "page": 9,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      62.36219787597656,
+      66.97367095947266,
+      297.4152526855469,
+      98.69865417480469
+    ],
+    "text": "Table 6.  Frequency of multidrug-resistant bacteria in Gram-\npositive and Gram-negative bacteria isolated from SSI in DCSH, \nJuly 22 to October 25, 2016.\n"
+  },
+  {
+    "page": 9,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      62.36220169067383,
+      106.70767211914062,
+      182.25120544433594,
+      117.19267272949219
+    ],
+    "text": "Group of the isolate\nMDR\n"
+  },
+  {
+    "page": 9,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      163.03199768066406,
+      125.20767211914062,
+      252.09310913085938,
+      135.6926727294922
+    ],
+    "text": "Yes\nNo\n"
+  },
+  {
+    "page": 9,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      163.0290985107422,
+      143.71170043945312,
+      292.4941101074219,
+      154.1967010498047
+    ],
+    "text": "Number\n%\nNumber\n%\n"
+  },
+  {
+    "page": 9,
+    "block_no": 10,
+    "block_type": 0,
+    "bbox": [
+      62.25581359863281,
+      161.45968627929688,
+      301.59307861328125,
+      332.9728698730469
+    ],
+    "text": "Staphylococcus aureus\n9\n18.8\n5\n10.4\nCoNS\n3\n6.2\n1\n2.1\nEnterococcus\n1\n2.1\n0\n0\nStreptococcus sp.\n1\n2.1\n1\n2.1\nEscherichia coli\n8\n16.7\n1\n2.1\nPseudomonas sp.\n1\n2.1\n1\n2.1\nProteus mirabilis\n0\n0\n1\n2.1\nKlebsiella sp.\n7\n14.6\n0\n0\nCitrobacter freundii\n3\n6.2\n0\n0\nSerratia marcescens\n1\n2.1\n0\n0\nAcinetobacter sp.\n2\n4.2\n0\n0\nMorganella morganii\n2\n4.2\n0\n0\nTotal (N = 48)\n38\n79.2\n10\n20.8\nGram positive (N = 21)\n14\n66.7\n7\n33.3\nGram negative (N = 27)\n24\n88.9\n3\n11.1\n"
+  },
+  {
+    "page": 10,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      49.606300354003906,
+      40.02960205078125,
+      549.6363525390625,
+      51.67959976196289
+    ],
+    "text": "10\t\nSAGE Open Medicine\n"
+  },
+  {
+    "page": 10,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      49.60600280761719,
+      327.1195983886719,
+      293.1572265625,
+      710.1891479492188
+    ],
+    "text": "various bacterial infections. This can be justified by the fact \nthat in this study, ampicillin and ceftriaxone (alone or \ntogether with metronidazole) were the antibiotics given to \n97.1% of the patients who had received preoperative antibi-\notic prophylaxis. The rate of cefoxitin resistance in the pre-\nsent study was lower than that of a previous report from \nAddis Ababa, which reported 72.1%.32 Only 1 (4.3%) out of \nthe 23 Enterobacteriaceae isolates showed resistance to ami-\nkacin in this study. In contrast to this study, a study from \nIndia reported a resistance rate of 25.9% for amikacin.49 The \nlowest resistance for amikacin in the present study could be \ndue to the unavailability of this drug in the study setting.\nIn the present study, around 80% of all the isolates were \nfound to be MDR, which is higher than a study conducted in \nEgypt, which showed only 13% of the total isolates were \nMDR.33 The MDR rates for Gram-negative and Gram-\npositive isolates were 88.9% and 66.7%, respectively. The \noverall MDR rate in this study was slightly lower than that of \nthe previous reports from Bahir Dar and Hawassa, Ethiopia, \nwhich reported 97.6% and 93.2%, respectively.26,44 The rate \nof MDR among Gram-negative isolates in this study was \nalso relatively lower as compared to that of previous reports \nfrom Bahir Dar and Addis Ababa, Ethiopia.26,32 The reason \nfor the relatively lower rate of MDR in the present study \ncould be due to differences in defining MDR; in the afore-\nmentioned previous studies, isolates not susceptible to at \nleast two drugs were considered to be MDR.\nIn this study, most of the Gram-positive isolates (6 out of \n21) showed resistance to three classes of antibiotics, whereas \n2 out of the 21 Gram-positive isolates showed a resistance \npattern for seven classes of antibiotics. Concerning Gram-\nnegative isolates, most (12 out of 27) of them were resistant \n"
+  },
+  {
+    "page": 10,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      308.6294250488281,
+      327.11920166015625,
+      552.1494750976562,
+      458.189208984375
+    ],
+    "text": "to five classes of antibiotics. A maximum of six classes of \nantibiotics were resisted by four of the Gram-negative iso-\nlates. Although the rate of MDR in the present study was \nrelatively lower than that of the reports from Bahir Dar and \nAddis Ababa, Ethiopia, due to differences in defining MDR, \nit was still alarmingly high. This coincides with the fact that \nthe problem of MDR continues to grow, especially in devel-\noping countries, as a result of antimicrobial drug overuse, \noverdosing, drug prescription with an improper susceptibil-\nity test, unethical drug promotion, self-medication, and a \nlong duration of hospitalization.50\n"
+  },
+  {
+    "page": 10,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      308.62200927734375,
+      474.5451965332031,
+      437.16595458984375,
+      488.9092102050781
+    ],
+    "text": "Limitation of the study\n"
+  },
+  {
+    "page": 10,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      308.62200927734375,
+      495.11920166015625,
+      552.162109375,
+      614.1891479492188
+    ],
+    "text": "The study was conducted in a health facility that serves a \nhuge number of clients and also provides referral health ser-\nvices for outlying catchment areas. The current study was \nconducted in a single institution, but it would be more repre-\nsentative if it was conducted in several health facilities. We \nhave done the study only in general surgery and gynecology \nand obstetrics wards, but it would be good if we included \nother wards in the study area. Because of a lack of microbiol-\nogy laboratory facilities, we could not isolate anaerobic bac-\nterial pathogens from the study participants.\n"
+  },
+  {
+    "page": 10,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      308.62200927734375,
+      630.545166015625,
+      370.6259765625,
+      644.9091796875
+    ],
+    "text": "Conclusion\n"
+  },
+  {
+    "page": 10,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      308.62200927734375,
+      651.1192016601562,
+      552.1720581054688,
+      710.1891479492188
+    ],
+    "text": "In the present study, an average rate of SSI was found to be \nreported and significant numbers of bacterial isolates were \nalso detected. The rate of SSI was high in the general surgi-\ncal ward in comparison with that in the obstetrics and gyne-\ncology ward. The highest rate of SSI was reported in PRST, \n"
+  },
+  {
+    "page": 10,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      159.33120727539062,
+      211.775146484375,
+      193.60302734375,
+      234.155517578125
+    ],
+    "text": "1\n2\n"
+  },
+  {
+    "page": 10,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      219.8197784423828,
+      188.2896728515625,
+      223.85128784179688,
+      198.92730712890625
+    ],
+    "text": "4\n"
+  },
+  {
+    "page": 10,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      250.06008911132812,
+      164.80419921875,
+      254.0915985107422,
+      175.44183349609375
+    ],
+    "text": "6\n"
+  },
+  {
+    "page": 10,
+    "block_no": 10,
+    "block_type": 0,
+    "bbox": [
+      280.3004150390625,
+      200.03240966796875,
+      284.3319396972656,
+      210.6700439453125
+    ],
+    "text": "3\n"
+  },
+  {
+    "page": 10,
+    "block_no": 11,
+    "block_type": 0,
+    "bbox": [
+      166.05038452148438,
+      211.7672119140625,
+      375.06085205078125,
+      245.89031982421875
+    ],
+    "text": "1\n2\n2\n1\n0\n"
+  },
+  {
+    "page": 10,
+    "block_no": 12,
+    "block_type": 0,
+    "bbox": [
+      226.531005859375,
+      211.7672119140625,
+      230.56251525878906,
+      222.40484619140625
+    ],
+    "text": "2\n"
+  },
+  {
+    "page": 10,
+    "block_no": 13,
+    "block_type": 0,
+    "bbox": [
+      256.7713317871094,
+      188.28173828125,
+      291.0511169433594,
+      198.91937255859375
+    ],
+    "text": "4\n4\n"
+  },
+  {
+    "page": 10,
+    "block_no": 14,
+    "block_type": 0,
+    "bbox": [
+      314.2859802246094,
+      94.79296112060547,
+      322.3013000488281,
+      105.43059539794922
+    ],
+    "text": "12\n"
+  },
+  {
+    "page": 10,
+    "block_no": 15,
+    "block_type": 0,
+    "bbox": [
+      347.500244140625,
+      188.28173828125,
+      351.5317687988281,
+      198.91937255859375
+    ],
+    "text": "4\n"
+  },
+  {
+    "page": 10,
+    "block_no": 16,
+    "block_type": 0,
+    "bbox": [
+      377.7485046386719,
+      235.252685546875,
+      381.780029296875,
+      245.89031982421875
+    ],
+    "text": "0\n"
+  },
+  {
+    "page": 10,
+    "block_no": 17,
+    "block_type": 0,
+    "bbox": [
+      172.7695770263672,
+      211.7672119140625,
+      207.04139709472656,
+      222.40484619140625
+    ],
+    "text": "2\n2\n"
+  },
+  {
+    "page": 10,
+    "block_no": 18,
+    "block_type": 0,
+    "bbox": [
+      233.25816345214844,
+      164.7962646484375,
+      237.2896728515625,
+      175.43389892578125
+    ],
+    "text": "6\n"
+  },
+  {
+    "page": 10,
+    "block_no": 19,
+    "block_type": 0,
+    "bbox": [
+      261.4151306152344,
+      117.82530975341797,
+      269.4304504394531,
+      128.46295166015625
+    ],
+    "text": "10\n"
+  },
+  {
+    "page": 10,
+    "block_no": 20,
+    "block_type": 0,
+    "bbox": [
+      293.7388000488281,
+      153.05352783203125,
+      297.77032470703125,
+      163.691162109375
+    ],
+    "text": "7\n"
+  },
+  {
+    "page": 10,
+    "block_no": 21,
+    "block_type": 0,
+    "bbox": [
+      321.9037170410156,
+      82.60503387451172,
+      329.9190368652344,
+      93.24266815185547
+    ],
+    "text": "13\n"
+  },
+  {
+    "page": 10,
+    "block_no": 22,
+    "block_type": 0,
+    "bbox": [
+      354.2273864746094,
+      164.7962646484375,
+      358.2589111328125,
+      175.43389892578125
+    ],
+    "text": "6\n"
+  },
+  {
+    "page": 10,
+    "block_no": 23,
+    "block_type": 0,
+    "bbox": [
+      384.46771240234375,
+      211.7672119140625,
+      388.4992370605469,
+      222.40484619140625
+    ],
+    "text": "2\n"
+  },
+  {
+    "page": 10,
+    "block_no": 24,
+    "block_type": 0,
+    "bbox": [
+      141.51145935058594,
+      243.17926025390625,
+      145.54296875,
+      253.81689453125
+    ],
+    "text": "0\n"
+  },
+  {
+    "page": 10,
+    "block_no": 25,
+    "block_type": 0,
+    "bbox": [
+      141.51145935058594,
+      219.69378662109375,
+      145.54296875,
+      230.3314208984375
+    ],
+    "text": "2\n"
+  },
+  {
+    "page": 10,
+    "block_no": 26,
+    "block_type": 0,
+    "bbox": [
+      141.51145935058594,
+      196.20831298828125,
+      145.54296875,
+      206.845947265625
+    ],
+    "text": "4\n"
+  },
+  {
+    "page": 10,
+    "block_no": 27,
+    "block_type": 0,
+    "bbox": [
+      141.51145935058594,
+      172.73077392578125,
+      145.54296875,
+      183.368408203125
+    ],
+    "text": "6\n"
+  },
+  {
+    "page": 10,
+    "block_no": 28,
+    "block_type": 0,
+    "bbox": [
+      141.51145935058594,
+      149.24530029296875,
+      145.54296875,
+      159.8829345703125
+    ],
+    "text": "8\n"
+  },
+  {
+    "page": 10,
+    "block_no": 29,
+    "block_type": 0,
+    "bbox": [
+      137.61512756347656,
+      125.75981903076172,
+      145.63043212890625,
+      136.3974609375
+    ],
+    "text": "10\n"
+  },
+  {
+    "page": 10,
+    "block_no": 30,
+    "block_type": 0,
+    "bbox": [
+      137.61512756347656,
+      102.28227996826172,
+      145.63043212890625,
+      112.91991424560547
+    ],
+    "text": "12\n"
+  },
+  {
+    "page": 10,
+    "block_no": 31,
+    "block_type": 0,
+    "bbox": [
+      137.61512756347656,
+      78.78887176513672,
+      145.63043212890625,
+      89.42650604248047
+    ],
+    "text": "14\n"
+  },
+  {
+    "page": 10,
+    "block_no": 32,
+    "block_type": 0,
+    "bbox": [
+      160.68301391601562,
+      255.73297119140625,
+      389.421630859375,
+      266.37060546875
+    ],
+    "text": "Zero\nOne\nTwo\nThree\nFour\nFive\nSix\nSeven\n"
+  },
+  {
+    "page": 10,
+    "block_no": 33,
+    "block_type": 0,
+    "bbox": [
+      413.685302734375,
+      155.16741943359375,
+      458.2227783203125,
+      165.8050537109375
+    ],
+    "text": "Gram Posi\u001fve\n"
+  },
+  {
+    "page": 10,
+    "block_no": 34,
+    "block_type": 0,
+    "bbox": [
+      413.685302734375,
+      169.43206787109375,
+      461.6340637207031,
+      180.0697021484375
+    ],
+    "text": "Gram Nega\u001fve\n"
+  },
+  {
+    "page": 10,
+    "block_no": 35,
+    "block_type": 0,
+    "bbox": [
+      413.685302734375,
+      183.6859130859375,
+      429.91473388671875,
+      194.32354736328125
+    ],
+    "text": "Total\n"
+  },
+  {
+    "page": 10,
+    "block_no": 36,
+    "block_type": 0,
+    "bbox": [
+      49.606300354003906,
+      287.30828857421875,
+      523.3843994140625,
+      308.5302734375
+    ],
+    "text": "Figure 2.  Distribution of Gram-positive and Gram-negative bacteria based on their resistance for different number of classes of \nantibiotics in DCSH, July 22 to October 25, 2016.\n"
+  },
+  {
+    "page": 11,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      62.36220169067383,
+      40.02960205078125,
+      562.3921508789062,
+      51.67959976196289
+    ],
+    "text": "Ali et al.\t\n11\n"
+  },
+  {
+    "page": 11,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      62.3621826171875,
+      67.46957397460938,
+      305.8922424316406,
+      234.53958129882812
+    ],
+    "text": "followed by SB, VHYS, and XLAP surgical procedures. The \nnumber and percentage of Gram-negative rod isolates were \nfound to be relatively high. The predominant Gram-negative \nand Gram-positive isolates were E. coli and S. aureus, \nrespectively. Among the various surgical procedures, the \ncesarean section was found to have the highest rate of bacte-\nrial infection. S. aureus was the most prevalent organism in \nthis surgical procedure and E. coli was the most common \norganism isolated from colon and PRST. Different patterns \nof antibiotic resistance had been observed among various \nbacterial isolates and the rate of MDR was found to be \nhigher, particularly among Gram-negative isolates. Periodic \nsurveillance of the incidence rate and bacterial profile, as \nwell as antibiotic susceptibility testing, should be carried out.\n"
+  },
+  {
+    "page": 11,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      62.3621826171875,
+      246.8095703125,
+      155.16217041015625,
+      258.7795715332031
+    ],
+    "text": "Acknowledgements\n"
+  },
+  {
+    "page": 11,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      62.36220169067383,
+      263.3597717285156,
+      305.6501159667969,
+      339.3106994628906
+    ],
+    "text": "We deeply express our gratitude to Addis Ababa University and \nthe APHI-Dessie branch for all their necessary supports, without \nwhich this project would not have been possible. The authors \nwould like to thank the study participants and their families. The \nauthors would also like to acknowledge the laboratory personnel of \nthe DCSH for their cooperation leading up to the accomplishment \nof this study.\n"
+  },
+  {
+    "page": 11,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      62.36220169067383,
+      351.8088073730469,
+      161.6922149658203,
+      363.77880859375
+    ],
+    "text": "Author contributions\n"
+  },
+  {
+    "page": 11,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      62.36220169067383,
+      368.35980224609375,
+      305.6592102050781,
+      433.312744140625
+    ],
+    "text": "All authors were involved in proposal writing, designed the study, \nand participated in all implementation stages of the project. We \nwere all involved in laboratory work, analyzing the data and final-\nizing the manuscript. The authors were responsible for the critical \nrevision of the manuscript. All authors reviewed and approved the \nfinal manuscript.\n"
+  },
+  {
+    "page": 11,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      62.36220169067383,
+      445.8088073730469,
+      223.91220092773438,
+      457.77880859375
+    ],
+    "text": "Declaration of conflicting interests\n"
+  },
+  {
+    "page": 11,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      62.36220169067383,
+      462.35980224609375,
+      305.6321716308594,
+      494.31878662109375
+    ],
+    "text": "The author(s) declared no potential conflicts of interest with \nrespect to the research, authorship, and/or publication of this \narticle.\n"
+  },
+  {
+    "page": 11,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      62.36220169067383,
+      504.80877685546875,
+      99.96219635009766,
+      516.77880859375
+    ],
+    "text": "Funding\n"
+  },
+  {
+    "page": 11,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      62.36220169067383,
+      521.3598022460938,
+      303.3822326660156,
+      542.32080078125
+    ],
+    "text": "The author(s) received no financial support for the research, author-\nship, and/or publication of this article.\n"
+  },
+  {
+    "page": 11,
+    "block_no": 10,
+    "block_type": 0,
+    "bbox": [
+      62.36220169067383,
+      554.8087768554688,
+      133.9121856689453,
+      566.77880859375
+    ],
+    "text": "Ethics approval\n"
+  },
+  {
+    "page": 11,
+    "block_no": 11,
+    "block_type": 0,
+    "bbox": [
+      62.36220169067383,
+      571.3598022460938,
+      305.6412658691406,
+      614.3167724609375
+    ],
+    "text": "Ethical approval for this study was obtained from Ethical Review \nCommittee of Addis Ababa University, College of Health Science, \nDepartment of Medical Laboratory Sciences (DRERC/196/15/\nMLS)*.\n"
+  },
+  {
+    "page": 11,
+    "block_no": 12,
+    "block_type": 0,
+    "bbox": [
+      62.36220169067383,
+      625.8087768554688,
+      145.41220092773438,
+      637.77880859375
+    ],
+    "text": "Informed consent\n"
+  },
+  {
+    "page": 11,
+    "block_no": 13,
+    "block_type": 0,
+    "bbox": [
+      62.36220169067383,
+      642.3598022460938,
+      305.6412353515625,
+      663.32080078125
+    ],
+    "text": "Written informed consent was obtained from the subjects and \nlegally authorized representative of the minor subjects.\n"
+  },
+  {
+    "page": 11,
+    "block_no": 14,
+    "block_type": 0,
+    "bbox": [
+      62.36220169067383,
+      677.8087768554688,
+      137.4221954345703,
+      689.77880859375
+    ],
+    "text": "Data availability\n"
+  },
+  {
+    "page": 11,
+    "block_no": 15,
+    "block_type": 0,
+    "bbox": [
+      62.36220169067383,
+      694.3598022460938,
+      305.6412658691406,
+      726.3187866210938
+    ],
+    "text": "The authors confirm that all data underlying the findings are fully \navailable without restriction. All relevant data are within the \nmanuscript.\n"
+  },
+  {
+    "page": 11,
+    "block_no": 16,
+    "block_type": 0,
+    "bbox": [
+      321.37799072265625,
+      66.69879913330078,
+      369.01800537109375,
+      78.6688003540039
+    ],
+    "text": "ORCID iD\n"
+  },
+  {
+    "page": 11,
+    "block_no": 17,
+    "block_type": 0,
+    "bbox": [
+      321.37799072265625,
+      83.24980163574219,
+      548.8550415039062,
+      93.21279907226562
+    ],
+    "text": "Daniel Gebretsadik \n https://orcid.org/0000-0001-5032-5143\n"
+  },
+  {
+    "page": 11,
+    "block_no": 18,
+    "block_type": 0,
+    "bbox": [
+      321.37799072265625,
+      105.69879913330078,
+      373.3280334472656,
+      117.6688003540039
+    ],
+    "text": "References\n"
+  },
+  {
+    "page": 11,
+    "block_no": 19,
+    "block_type": 0,
+    "bbox": [
+      321.37799072265625,
+      122.24980163574219,
+      564.6749877929688,
+      726.104248046875
+    ],
+    "text": "\t 1.\t Spagnolo A, Ottria G, Amicizia D, et  al. Operating theatre \nquality and prevention of surgical site infections. J Preventive \nMed Hyg 2013; 54(3): 131.\n\t 2.\t Berríos-Torres SI, Umscheid CA, Bratzler DW, et al. Centers \nfor disease control and prevention guideline for the preven-\ntion of surgical site infection, 2017. JAMA Surg 2017; 152(8): \n784–791.\n\t 3.\t Mukagendaneza MJ, Munyaneza E, Muhawenayo E, et  al. \nIncidence, root causes, and outcomes of surgical site infec-\ntions in a tertiary care hospital in Rwanda: a prospective obser-\nvational cohort study. Patient Saf Surg 2019; 13(1): 1–8.\n\t 4.\t Mehtar S, Wanyoro A, Ogunsola F, et al. Implementation of \nsurgical site infection surveillance in low-and middle-income \ncountries: a position statement for the International Society for \nInfectious Diseases. Int J Infect Dis 2020; 100: 123–131.\n\t 5.\t Pal N and Guhathakurta R. Surgical site infection in surgery \nward at a tertiary care hospital: the infection rate and the bac-\nteriological profile. IOSR J Pharm 2012; 2(5): 1–5.\n\t 6.\t Chauveaux D. Preventing surgical-site infections: measures \nother than antibiotics. Orthop Traumatol Surg Res 2015; \n101(1): S77–S83.\n\t 7.\t Sawyer RG and Evans HL. Surgical site infection—the next \nfrontier in global surgery. Lancet Infect Dis 2018; 18(5): 477–\n478.\n\t 8.\t Lakoh S, Yi L, Sevalie S, et  al. Incidence and risk fac-\ntors of surgical site infections and related antibiotic resist-\nance in Freetown, Sierra Leone: a prospective cohort study. \nAntimicrob Resist Infect Control 2022; 11(1): 1–12.\n\t 9.\t Ngah JE, Bénet T and Djibrilla Y. Incidence of surgical site \ninfections in sub-Saharan Africa: systematic review and meta-\nanalysis. Pan Afr Med J 2016; 24: 171.\n\t10.\t Li Z, Gao J, Song L, et al. Risk factors for surgical site infec-\ntion after emergency abdominal surgery: a multicenter cross-\nsectional study in China. Chin J Gastrointest Surg 2020; \n23(11): 1043–1050.\n\t11.\t Misha G, Chelkeba L and Melaku T. Bacterial profile and \nantimicrobial susceptibility patterns of isolates among patients \ndiagnosed with surgical site infection at a tertiary teaching \nhospital in Ethiopia: a prospective cohort study. Ann Clin \nMicrobiol Antimicrob 2021; 20(1): 1–10.\n\t12.\t Ademuyiwa AO, Hardy P, Runigamugabo E, et al. Reducing \nsurgical site infections in low-income and middle-income \ncountries (FALCON): a pragmatic, multicentre, stratified, \nrandomised controlled trial. Lancet 2021; 398(10312): 1687–\n1699.\n\t13.\t Velin L, Umutesi G, Riviello R, et al. Surgical site infections \nand antimicrobial resistance after cesarean section delivery in \nrural Rwanda. Ann Global Health 2021; 87(1): 77.\n\t14.\t Bediako-Bowan AA, Kurtzhals JA, Mølbak K, et  al. High \nrates of multi-drug resistant gram-negative organisms asso-\nciated with surgical site infections in a teaching hospital in \nGhana. BMC Infect Dis 2020; 20(1): 1–9.\n\t15.\t Bediako-Bowan A, Owusu E, Debrah S, et al. Surveillance of \nsurgical site infection in a teaching hospital in Ghana: a pro-\nspective cohort study. J Hosp Infect 2020; 104(3): 321–327.\n"
+  },
+  {
+    "page": 12,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      49.606300354003906,
+      40.02960205078125,
+      549.6363525390625,
+      51.67959976196289
+    ],
+    "text": "12\t\nSAGE Open Medicine\n"
+  },
+  {
+    "page": 12,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      49.606300354003906,
+      67.66679382324219,
+      292.8944091796875,
+      715.51318359375
+    ],
+    "text": "\t16.\t Pantvaidya G, Joshi S, Nayak P, et al. Surgical Site Infections \nin patients undergoing major oncological surgery during the \nCOVID-19 paNdemic (SCION): a propensity-matched analy-\nsis. J Surg Oncol 2022; 125(3): 327–335.\n\t17.\t Cappelli S, Corallino D, Clementi M, et al. Surgical site infec-\ntions in patients undergoing breast oncological surgery during \nthe lockdown: an unexpected lesson from the COVID-19 pan-\ndemic. G Chir 2022; 42(2): e02.\n\t18.\t Lubega A, Joel B and Justina Lucy N. Incidence and etiol-\nogy of surgical site infections among emergency postoperative \npatients in Mbarara regional referral hospital, South Western \nUganda. Surg Res Pract 2017; 2017: 6365172.\n\t19.\t El-Saed A, Balkhy HH, Alshamrani MM, et al. High contribu-\ntion and impact of resistant gram negative pathogens causing \nsurgical site infections at a multi-hospital healthcare system in \nSaudi Arabia, 2007–2016. BMC Infect Dis 2020; 20(1): 1–9.\n\t20.\t El-Kholy AA, Elanany MG, Sherif MM, et al. High preva-\nlence of VIM, KPC, and NDM expression among surgical site \ninfection pathogens in patients having emergency surgery. \nSurg Infect 2018; 19(6): 629–633.\n\t21.\t Collin SM, Shetty N, Guy R, et al. Group B Streptococcus in \nsurgical site and non-invasive bacterial infections worldwide: \na systematic review and meta-analysis. Int J Infect Dis 2019; \n83: 116–129.\n\t22.\t Singh PP, Begum R and Singh S. Identification and anti-\nbiogram of the micro-organisms isolated from postoperative \nwound infections among patients admitted in the hospital \nTMMC and RC Moradabad. EJBPS 2015; 2(4): 932–942.\n\t23.\t Shakir A, Abate D, Tebeje F, et al. Magnitude of surgical site \ninfections, bacterial etiologies, associated factors and antimi-\ncrobial susceptibility patterns of isolates among post-operative \npatients in Harari Region Public Hospitals, Harar, Eastern \nEthiopia. Infect Drug Resist 2021; 14: 4629.\n\t24.\t Legesse Laloto T, Hiko Gemeda D and Abdella SH. Incidence \nand predictors of surgical site infection in Ethiopia: prospec-\ntive cohort. BMC Infect Dis 2017; 17(1): 1–9.\n\t25.\t Mengesha RE, Kasa BG-S, Saravanan M, et al. Aerobic bac-\nteria in post surgical wound infections and pattern of their \nantimicrobial susceptibility in Ayder Teaching and Referral \nHospital, Mekelle, Ethiopia. BMC Res Notes 2014; 7(1): 1–6.\n\t26.\t Mulu W, Kibru G, Beyene G, et al. Postoperative nosocomial \ninfections and antimicrobial resistance pattern of bacteria \nisolates among patients admitted at Felege Hiwot Referral \nHospital, Bahirdar, Ethiopia. Ethiop J Health Sci 2012; 22(1): \n7–18.\n\t27.\t Amenu D, Belachew T and Araya F. Surgical site infection rate \nand risk factors among obstetric cases of Jimma University \nSpecialized Hospital, Southwest Ethiopia. Ethiop J Health Sci \n2011; 21(2): 91–100.\n\t28.\t Jnaneshwara K, Singh RE, Lava R, et al. The bacterial profile \nof the postoperative wound infection in a South Indian hospi-\ntal. Int J Pharm Chem Biol Sci 2015; 5(3): 676–682.\n\t29.\t Humphries RM and Linscott AJ. Practical guidance for clini-\ncal microbiology laboratories: diagnosis of bacterial gastroen-\nteritis. Clin Microbiol Rev 2015; 28(1): 3–31.\n\t30.\t Goyal A, Prasad K, Prasad A, et al. Extended spectrum beta-\nlactamases in Escherichia coli & Klebsiella pneumoniae & \nassociated risk factors. Indian J Med Res 2009; 129(6): 695–\n700.\n"
+  },
+  {
+    "page": 12,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      308.6263122558594,
+      67.54924011230469,
+      551.9146118164062,
+      715.3956298828125
+    ],
+    "text": "\t31.\t Magiorakos A-P, Srinivasan A, Carey RB, et al. Multidrug-\nresistant, extensively drug-resistant and pandrug-resistant \nbacteria: an international expert proposal for interim standard \ndefinitions for acquired resistance. Clin Microbiol Infect 2012; \n18(3): 268–281.\n\t32.\t Dessie W, Mulugeta G, Fentaw S, et  al. Pattern of bacte-\nrial pathogens and their susceptibility isolated from surgical \nsite infections at selected referral hospitals, Addis Ababa, \nEthiopia. Int J Microbiol 2016; 2016: 2418902.\n\t33.\t Raouf M, Ghazal T, Kassem M, et al. Surveillance of surgi-\ncal-site infections and antimicrobial resistance patterns in a \ntertiary hospital in Alexandria, Egypt. J Infect Dev Countries \n2020; 14(03): 277–283.\n\t34.\t Misha G, Chelkeba L and Melaku T. Incidence, risk fac-\ntors and outcomes of surgical site infections among patients \nadmitted to Jimma Medical Center, South West Ethiopia: \nProspective cohort study. Ann Med Surg 2021; 65: 102247.\n\t35.\t Birhanu Y and Endalamaw A. Surgical site infection and \npathogens in Ethiopia: a systematic review and meta-analysis. \nPatient Safe Surg 2020; 14(1): 1–8.\n\t36.\t Adams-Howell P, Bhabra M, Enright M, et al. Taking a zero \ntolerance approach to preventable surgical site infections in \nUK hospitals [Internet]. Clean-safe-care: NHS (UK), 2006 \n[actualizado 2011; citado octubre de 2011].\n\t37.\t Patil HV, Mohite ST, Karande G, et al. Incidence, bacteriol-\nogy and risk factors of surgical site infection (SSI) at tertiary \ncare teaching hospital. Res J Pharm Biol Chem Sci 2015; 6(2): \n1870–1880.\n\t38.\t Negi V, Pal S, Juyal D, et al. Bacteriological profile of surgi-\ncal site infections and their antibiogram: a study from resource \nconstrained rural setting of Uttarakhand state, India. J Clin \nDiagn Res 2015; 9(10): DC17.\n\t39.\t Kalayu AA, Diriba K, Girma C, et al. Incidence and bacterial \netiologies of surgical site infections in a Public Hospital, Addis \nAbaba, Ethiopia. Open Microbiol J 2019; 13(1): 301–307.\n\t40.\t Leblebicioglu H, Erben N, Rosenthal VD, et  al. Surgical \nsite infection rates in 16 cities in Turkey: findings of the \nInternational Nosocomial Infection Control Consortium \n(INICC). Am J Infect Control 2015; 43(1): 48–52.\n\t41.\t Marchi M, Pan A, Gagliotti C, et al. The Italian national sur-\ngical site infection surveillance programme and its positive \nimpact, 2009 to 2011. Eurosurveillance 2014; 19(21): 20815.\n\t42.\t World Health Organization. World alliance for patient safety. \nWHO guidelines for safe surgery. Available at: http://www-\ngawandecom/documents/WHOGuidelinesforSafeSurgerypdf \n(2008, accessed 16 September 2022).\n\t43.\t Makanjuola OB, Olowe OA and Adeyankinnu AF. Bacterial \nagents of surgical site infections in South-Western Nigeria. \nAm J Biomed Sci 2013; 5(4): 217–225.\n\t44.\t Dessalegn L, Shimelis T, Tadesse E, et al. Aerobic bacterial \nisolates from post-surgical wound and their antimicrobial sus-\nceptibility pattern: a hospital based cross-sectional study. J \nMed Res 2014; 3(2): 18–23.\n\t45.\t Ahmed MI. Prevalence of nosocomial wound infection among \npostoperative patients and antibiotics patterns at teaching hos-\npital in Sudan. North Am J Med Sci 2012; 4(1): 29.\n\t46.\t Múñez E, Ramos A, de Espejo TÁ, et  al. Microbiology of \nsurgical site infections in abdominal tract surgery patients. \nCirugía Española (English Edition) 2011; 89(9): 606–612.\n"
+  },
+  {
+    "page": 13,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      62.36220169067383,
+      40.02960205078125,
+      562.3921508789062,
+      51.67959976196289
+    ],
+    "text": "Ali et al.\t\n13\n"
+  },
+  {
+    "page": 13,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      62.36219787597656,
+      67.66679382324219,
+      305.6412353515625,
+      143.61770629882812
+    ],
+    "text": "\t47.\t Yah S, Yusuf E and Haruna T. Patterns of antibiotics suscepti-\nbility of isolates and plasmid analysis of Staphylococcus from \nsurgical site infections in Nigeria. Int J Biol Chem Sci 2009; \n3(4): 810–818.\n\t48.\t Anguzu J and Olila D. Drug sensitivity patterns of bacterial \nisolates from septic post-operative wounds in a regional refer-\nral hospital in Uganda. Afr Health Sci 2007; 7(3): 148–154.\n"
+  },
+  {
+    "page": 13,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      321.3822021484375,
+      67.65769958496094,
+      564.670166015625,
+      143.60861206054688
+    ],
+    "text": "\t49.\t Rao R, Sumathi S, Anuradha K, et al. Bacteriology of postop-\nerative wound infections. Int J Pharm Biomed Res 2013; 4(2): \n72–76.\n\t50.\t Godebo G, Kibru G and Tassew H. Multidrug-resistant \nbacterial isolates in infected wounds at Jimma University \nSpecialized Hospital, Ethiopia. Ann Clin Microbiol Antimicrob \n2013; 12(1): 1–7.\n"
+  }
+]
