@@ -1,0 +1,612 @@
+{
+  "study": {
+    "study_id": "Abayneh2022-Ethiopia-MizanTepi-2021-01",
+    "title": "Assessment of Bacterial Profiles and Antimicrobial Susceptibility Pattern of Isolates Among Patients Diagnosed with Surgical Site Infections at Mizan-Tepi University Teaching Hospital, Southwest Ethiopia: A Prospective Observational Cohort Study",
+    "authors": [
+      "Mengistu Abayneh",
+      "Molla Asnake",
+      "Dassalegn Muleta",
+      "Asnake Simieneh"
+    ],
+    "journal": "Infection and Drug Resistance",
+    "year_publication": 2022,
+    "doi": "10.2147/IDR.S357704",
+    "country_list": [
+      "Ethiopia"
+    ],
+    "country_iso3": "ETH",
+    "region_classification": "ECSA",
+    "surgical_specialty": [
+      "obstetrics/gynecology",
+      "general",
+      "urology",
+      "other"
+    ],
+    "language": "English",
+    "data_source_type": "published_full_text",
+    "ownership_type": "public",
+    "bed_capacity": 139
+  },
+  "design": {
+    "study_design": "cohort",
+    "randomized": false,
+    "prospective": true,
+    "single_center": true,
+    "multi_center": false,
+    "inclusion_criteria_text": "All patients who underwent a surgical procedure at Mizan-Tepi university teaching hospital during the study period were included. Follow-up for 30 days post-procedure for SSI.",
+    "exclusion_criteria_text": "Patients who developed postoperative wound infections later than 30 days, patients with infected burn wounds, and those with an initial diagnosis suggestive of infection were excluded.",
+    "sample_frame": "patients",
+    "unit_of_analysis": "patient",
+    "duplicate_publication_likelihood": false
+  },
+  "setting": {
+    "facility_level": "tertiary",
+    "urban_rural": "mixed",
+    "care_setting": "hospital",
+    "country_specific_sites": [
+      "Mizan-Tepi University Teaching Hospital, Mizan-Aman, Southwest Ethiopia"
+    ]
+  },
+  "eligibility": {
+    "population": "All patients undergoing surgical procedures at Mizan-Tepi University Teaching Hospital during June–September 2021.",
+    "classification": "mixed",
+    "intervention": "Antibiotic prophylaxis (ceftriaxone alone or with metronidazole, ampicillin)",
+    "comparator": "Alternative antibiotic prophylaxis regimens",
+    "outcomes_reported": [
+      "ssi_incidence",
+      "amr_prevalence"
+    ],
+    "timeframe_years": "June–September 2021",
+    "setting_types": [
+      "hospital",
+      "surgical_unit"
+    ],
+    "included_designs": [
+      "cohort"
+    ],
+    "excluded_designs": [
+      "case_control",
+      "cross_sectional",
+      "rct",
+      "surveillance",
+      "other"
+    ]
+  },
+  "timeframe": {
+    "data_collection_start_year": 2021,
+    "data_collection_start_month": 6,
+    "data_collection_end_year": 2021,
+    "data_collection_end_month": 9,
+    "follow_up_window_days": 30
+  },
+  "populations": [
+    {
+      "arm_id": "overall",
+      "description": "All patients undergoing surgical procedures during study period",
+      "n_participants": 262,
+      "n_procedures": 262,
+      "age_group": "mixed",
+      "elective_emergency": "mixed",
+      "wound_class": "unspecified",
+      "comorbidities_key": "Anemia 3.1%, cardiac disorder 2.3%, diabetes 1.9%, respiratory disease 1.5%, malignancy 1.5%, HIV/AIDS 1.5%",
+      "surgical_specialties": [
+        "obstetrics/gynecology",
+        "general",
+        "urology",
+        "other"
+      ],
+      "provenance": {
+        "page": 4,
+        "section_heading": "Socio-Demographic Characteristics and Magnitude of SSIs",
+        "text_snippet": "In this study, a total of 262 patients underwent surgical procedures, all of whom were followed up during the study."
+      }
+    }
+  ],
+  "definitions": {
+    "ssi_definition_standard": [
+      "CDC_NHSN",
+      "WHO"
+    ],
+    "ssi_window_days": 30,
+    "amr_definition_standard": [
+      "CLSI"
+    ],
+    "breakpoint_version": "CLSI 2018",
+    "resistance_definition_text": "Multidrug-resistance (MDR) is considered as resistance to three or more classes of antibiotics.",
+    "outcome_definitions_text": "SSI defined per CDC-NHSN and WHO criteria; MDR defined as resistance to ≥3 antibiotic classes.",
+    "specimen_type": [
+      "wound_swab"
+    ]
+  },
+  "lab_methods": {
+    "specimen_collection_method": "Aseptic collection of two wound swabs from at least 1 cm2 area of viable wound tissue before cleaning with antiseptic.",
+    "culture_method": "Swabs cultured onto MacConkey and mannitol salt agar; incubated 24–48h at 35–37°C; identification by Gram stain, colony characteristics, catalase/oxidase, biochemical tests.",
+    "AST_method": [
+      "disk_diffusion"
+    ],
+    "QC_measures": "Escherichia coli ATCC 25922 and Staphylococcus aureus ATCC 25923 used as quality control strains.",
+    "organism_identification_method": "Manual (Gram stain, colony characteristics, biochemical tests)",
+    "contamination_handling": "Wound base irrigated with saline to avoid skin flora contamination; aseptic technique throughout.",
+    "lab_capacity_notes": "No blood agar used; no molecular techniques performed due to resource limitations."
+  },
+  "outcomes": {
+    "ssi_incidence": [
+      {
+        "arm_id": "overall",
+        "denominator_type": "patients",
+        "ssi_type": "overall",
+        "n_ssi_events": 33,
+        "n_total": 262,
+        "rate_as_reported": {
+          "value": 12.6,
+          "unit": "percent"
+        },
+        "ascertainment_window_days": 30,
+        "data_period": {
+          "start_year": 2021,
+          "end_year": 2021
+        },
+        "subgroup_labels": {
+          "country": "Ethiopia",
+          "facility_level": "tertiary",
+          "setting": "hospital"
+        },
+        "notes": "SSI events within 30 days post-procedure.",
+        "provenance": {
+          "page": 4,
+          "section_heading": "Socio-Demographic Characteristics and Magnitude of SSIs",
+          "text_snippet": "Of these, 33/262 (12.6%) developed SSIs within 30 days of the procedure."
+        }
+      }
+    ],
+    "amr_proportions": [
+      {
+        "arm_id": "overall",
+        "pathogen": "Escherichia coli",
+        "antibiotic": "ampicillin",
+        "who_class": "critically_important",
+        "n_tested": 12,
+        "n_resistant": 12,
+        "n_susceptible": 0,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2018",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2021,
+          "end_year": 2021
+        },
+        "mdr_definition_text": "Resistance to three or more classes of antibiotics.",
+        "n_mdr": 12,
+        "zone_diameter_unit": "mm",
+        "notes": "100% resistance to ampicillin among E. coli isolates.",
+        "provenance": {
+          "page": 9,
+          "section_heading": "Table 4 Prevalence of Antimicrobial Resistance Pattern of Bacteria Isolated from Patients Diagnosed with SSIs (n = 41)",
+          "table_id": "Table 4",
+          "text_snippet": "Ampicillin (10 µg)\n12 (100.0)"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "ampicillin",
+        "who_class": "critically_important",
+        "n_tested": 8,
+        "n_resistant": 7,
+        "n_susceptible": 1,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2018",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2021,
+          "end_year": 2021
+        },
+        "mdr_definition_text": "Resistance to three or more classes of antibiotics.",
+        "n_mdr": 8,
+        "mrsa_detection_method": "cefoxitin disk",
+        "zone_diameter_unit": "mm",
+        "notes": "87.5% resistance to ampicillin; 37.5% MRSA by cefoxitin disk.",
+        "provenance": {
+          "page": 9,
+          "section_heading": "Table 4 Prevalence of Antimicrobial Resistance Pattern of Bacteria Isolated from Patients Diagnosed with SSIs (n = 41)",
+          "table_id": "Table 4",
+          "text_snippet": "Ampicillin (10 µg)\n7 (87.5)"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Escherichia coli",
+        "antibiotic": "amoxicillin-clavulanate",
+        "who_class": "critically_important",
+        "n_tested": 12,
+        "n_resistant": 11,
+        "n_susceptible": 1,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2018",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2021,
+          "end_year": 2021
+        },
+        "mdr_definition_text": "Resistance to three or more classes of antibiotics.",
+        "n_mdr": 12,
+        "zone_diameter_unit": "mm",
+        "notes": "91.7% resistance to amoxicillin-clavulanate among E. coli isolates.",
+        "provenance": {
+          "page": 9,
+          "section_heading": "Table 4 Prevalence of Antimicrobial Resistance Pattern of Bacteria Isolated from Patients Diagnosed with SSIs (n = 41)",
+          "table_id": "Table 4",
+          "text_snippet": "AMC (30 µg)\n11(91.7)"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "cefoxitin",
+        "who_class": "critically_important",
+        "n_tested": 8,
+        "n_resistant": 3,
+        "n_susceptible": 5,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2018",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2021,
+          "end_year": 2021
+        },
+        "mdr_definition_text": "Resistance to three or more classes of antibiotics.",
+        "n_mdr": 8,
+        "mrsa_detection_method": "cefoxitin disk",
+        "zone_diameter_unit": "mm",
+        "notes": "37.5% MRSA by cefoxitin disk among S. aureus isolates.",
+        "provenance": {
+          "page": 9,
+          "section_heading": "Table 4 Prevalence of Antimicrobial Resistance Pattern of Bacteria Isolated from Patients Diagnosed with SSIs (n = 41)",
+          "table_id": "Table 4",
+          "text_snippet": "Cefoxitin (30 μg)\n3 (37.5)"
+        }
+      }
+    ],
+    "morbidity": [],
+    "mortality": [],
+    "reoperations": [],
+    "readmissions": [],
+    "length_of_stay": [],
+    "costs": [],
+    "risk_factors_effects": [
+      {
+        "exposure": "Age >50 years",
+        "outcome": "ssi_incidence",
+        "effect_measure": "percent",
+        "effect_value": 40.0,
+        "p_value": 0.001,
+        "adjusted": false,
+        "n_included": 20,
+        "notes": "SSI rate in age group >50 years: 8/20 (40.0%), statistically significant.",
+        "provenance": {
+          "page": 5,
+          "section_heading": "Table 1 Socio-Demographic and Clinical Characteristics of Study Participants",
+          "table_id": "Table 1",
+          "text_snippet": "Age in years\n>50\n20 (7.6)\n8 (40.0)\n12 (60.0)\n23.53 (0.001)*"
+        }
+      },
+      {
+        "exposure": "Diabetes mellitus",
+        "outcome": "ssi_incidence",
+        "effect_measure": "percent",
+        "effect_value": 60.0,
+        "p_value": 0.015,
+        "adjusted": false,
+        "n_included": 5,
+        "notes": "SSI rate in diabetic patients: 3/5 (60.0%), statistically significant.",
+        "provenance": {
+          "page": 7,
+          "section_heading": "Table 3 Co-Morbidity Conditions Among Study Participants",
+          "table_id": "Table 3",
+          "text_snippet": "Diabetes mellitus\nYes\n5 (1.9)\n3 (60.0)\n2 (40.0)\n10.36 (0.015)*"
+        }
+      },
+      {
+        "exposure": "Anemia",
+        "outcome": "ssi_incidence",
+        "effect_measure": "percent",
+        "effect_value": 50.0,
+        "p_value": 0.001,
+        "adjusted": false,
+        "n_included": 8,
+        "notes": "SSI rate in anemic patients: 4/8 (50.0%), statistically significant.",
+        "provenance": {
+          "page": 7,
+          "section_heading": "Table 3 Co-Morbidity Conditions Among Study Participants",
+          "table_id": "Table 3",
+          "text_snippet": "Anemia\nYes\n8 (3.1)\n4 (50.0)\n4 (50.0)\n10.49 (0.001)*"
+        }
+      },
+      {
+        "exposure": "Contaminated wound",
+        "outcome": "ssi_incidence",
+        "effect_measure": "percent",
+        "effect_value": 39.3,
+        "p_value": 0.001,
+        "adjusted": false,
+        "n_included": 28,
+        "notes": "SSI rate in contaminated wounds: 11/28 (39.3%), statistically significant.",
+        "provenance": {
+          "page": 6,
+          "section_heading": "Table 2 Procedure and Clinical Related Characteristics of Study Participants",
+          "table_id": "Table 2",
+          "text_snippet": "Types of wound\nContaminated\n28 (10.7)\n11 (39.3)\n17 (60.7)\n20.29 (0.001)*"
+        }
+      },
+      {
+        "exposure": "ASA score ≥III",
+        "outcome": "ssi_incidence",
+        "effect_measure": "percent",
+        "effect_value": 45.4,
+        "p_value": 0.001,
+        "adjusted": false,
+        "n_included": 11,
+        "notes": "SSI rate in ASA score ≥III: 5/11 (45.4%), statistically significant.",
+        "provenance": {
+          "page": 6,
+          "section_heading": "Table 2 Procedure and Clinical Related Characteristics of Study Participants",
+          "table_id": "Table 2",
+          "text_snippet": "ASA score\n≥III\n11 (4.2)\n5 (45.4)\n6 (54.6)\n11.26 (0.001)*"
+        }
+      },
+      {
+        "exposure": "Ampicillin prophylaxis",
+        "outcome": "ssi_incidence",
+        "effect_measure": "percent",
+        "effect_value": 19.4,
+        "p_value": 0.01,
+        "adjusted": false,
+        "n_included": 98,
+        "notes": "SSI rate in patients receiving ampicillin prophylaxis: 19/98 (19.4%), statistically significant.",
+        "provenance": {
+          "page": 6,
+          "section_heading": "Table 2 Procedure and Clinical Related Characteristics of Study Participants",
+          "table_id": "Table 2",
+          "text_snippet": "Types of provided antibiotics prophylaxis\nAmpicillin\n98 (37.4)\n19 (19.4)\n79 (80.6)\n6.56 (0.010)*"
+        }
+      }
+    ]
+  },
+  "interventions": [
+    {
+      "type": "antibiotic_prophylaxis_protocol",
+      "description": "Use of ceftriaxone alone or with metronidazole versus ampicillin for surgical prophylaxis.",
+      "implementation_level": "facility",
+      "comparator": "Alternative antibiotic regimen (ampicillin vs ceftriaxone ± metronidazole)",
+      "outcomes_measured": [
+        "ssi_incidence"
+      ],
+      "effect_direction": "mixed",
+      "quantitative_effect": {
+        "effect_measure": "percent",
+        "effect_value": 8.5,
+        "n_total": 164,
+        "n_events": 14
+      },
+      "provenance": {
+        "page": 6,
+        "section_heading": "Table 2 Procedure and Clinical Related Characteristics of Study Participants",
+        "table_id": "Table 2",
+        "text_snippet": "Types of provided antibiotics prophylaxis\nCeftriaxone alone or with metronidazole\n164 (62.6)\n14 (8.5)\n150 (91.5)\n6.56 (0.010)*"
+      }
+    }
+  ],
+  "stewardship_guidelines": [],
+  "policy_capacity": [],
+  "qualitative_thematic": {
+    "codes": [
+      {
+        "theme": "burden_incidence",
+        "subtheme": "epidemiology of SSI",
+        "summary": "The study found a high SSI rate of 12.6% among surgical patients, with higher rates in specific subgroups.",
+        "evidence_quotes": [
+          {
+            "quote": "In this study, a total of 262 patients underwent surgical procedures, all of whom were followed up during the study. Of these, 33/262 (12.6%) developed SSIs within 30 days of the procedure.",
+            "page": 4,
+            "section": "Socio-Demographic Characteristics and Magnitude of SSIs"
+          }
+        ],
+        "location_context": "Mizan-Tepi University Teaching Hospital, Ethiopia",
+        "confidence": "high",
+        "provenance": {
+          "page": 4,
+          "section_heading": "Socio-Demographic Characteristics and Magnitude of SSIs",
+          "text_snippet": "Of these, 33/262 (12.6%) developed SSIs within 30 days of the procedure."
+        }
+      },
+      {
+        "theme": "amr_prevalence",
+        "subtheme": "resistance patterns and rates by pathogen/antibiotic",
+        "summary": "All Gram-negative isolates were resistant to ampicillin, and high rates of multidrug resistance were observed among both Gram-negative and Gram-positive bacteria.",
+        "evidence_quotes": [
+          {
+            "quote": "All (100.0%) Gram-negative isolates showed resistance toward ampicillin, and 91.7% of isolates were resistant toward amoxicillin-clavulanic acid.",
+            "page": 7,
+            "section": "Antimicrobial Resistance Profiles"
+          },
+          {
+            "quote": "Multidrug-resistance (MDR) towards three or more classes of antibiotics was 100.0%.",
+            "page": 7,
+            "section": "Antimicrobial Resistance Profiles"
+          }
+        ],
+        "location_context": "Mizan-Tepi University Teaching Hospital, Ethiopia",
+        "confidence": "high",
+        "provenance": {
+          "page": 7,
+          "section_heading": "Antimicrobial Resistance Profiles",
+          "text_snippet": "All (100.0%) Gram-negative isolates showed resistance toward ampicillin, and 91.7% of isolates were resistant toward amoxicillin-clavulanic acid."
+        }
+      },
+      {
+        "theme": "drivers_amr",
+        "subtheme": "inappropriate use, IPC gaps, diagnostics delays, policy failures, supply chain, workforce, patient factors",
+        "summary": "High resistance rates may be related to frequent and inappropriate use of antibiotics for therapeutic and prophylactic purposes.",
+        "evidence_quotes": [
+          {
+            "quote": "This significantly higher resistance may be related to the frequent and inappropriate use of these antibiotics for therapeutic and prophylactic purposes in human infections.",
+            "page": 10,
+            "section": "Discussion"
+          }
+        ],
+        "location_context": "Mizan-Tepi University Teaching Hospital, Ethiopia",
+        "confidence": "moderate",
+        "provenance": {
+          "page": 10,
+          "section_heading": "Discussion",
+          "text_snippet": "This significantly higher resistance may be related to the frequent and inappropriate use of these antibiotics for therapeutic and prophylactic purposes in human infections."
+        }
+      },
+      {
+        "theme": "prevention_control",
+        "subtheme": "IPC programs, bundles, surveillance practices",
+        "summary": "Periodic surveillance of bacterial profiles and antibiotic susceptibility testing, coupled with strict protocols for antibiotic administration and operative room regulations, is recommended.",
+        "evidence_quotes": [
+          {
+            "quote": "Therefore, periodic surveillance of the bacterial profile and antibiotic susceptibility testing coupled with the implementation of a strict protocol for antibiotic administration and operative room regulations is important to minimize the burden of SSIs with resistant bacteria pathogens.",
+            "page": 10,
+            "section": "Conclusion"
+          }
+        ],
+        "location_context": "Mizan-Tepi University Teaching Hospital, Ethiopia",
+        "confidence": "high",
+        "provenance": {
+          "page": 10,
+          "section_heading": "Conclusion",
+          "text_snippet": "Therefore, periodic surveillance of the bacterial profile and antibiotic susceptibility testing coupled with the implementation of a strict protocol for antibiotic administration and operative room regulations is important to minimize the burden of SSIs with resistant bacteria pathogens."
+        }
+      },
+      {
+        "theme": "evidence_gaps",
+        "subtheme": "explicit gaps and research priorities",
+        "summary": "The study did not use blood agar or molecular techniques, limiting detection of some pathogens and resistance genes.",
+        "evidence_quotes": [
+          {
+            "quote": "In this study, blood agar medium was not used to detect SSI-causing pathogens, which could undermine the prevalence and types of isolated bacteria. Due to resource issues, molecular techniques to provide more information to indicate specific antibiotic resistance genes have not been performed.",
+            "page": 10,
+            "section": "Limitations of This Study"
+          }
+        ],
+        "location_context": "Mizan-Tepi University Teaching Hospital, Ethiopia",
+        "confidence": "high",
+        "provenance": {
+          "page": 10,
+          "section_heading": "Limitations of This Study",
+          "text_snippet": "In this study, blood agar medium was not used to detect SSI-causing pathogens, which could undermine the prevalence and types of isolated bacteria. Due to resource issues, molecular techniques to provide more information to indicate specific antibiotic resistance genes have not been performed."
+        }
+      }
+    ]
+  },
+  "risk_of_bias": {
+    "tool_used": "not_reported",
+    "domain_judgements": {},
+    "overall_judgement": "not_reported",
+    "provenance": {}
+  },
+  "funding_conflicts": {
+    "funding_sources": [
+      "No funding was allocated for this study."
+    ],
+    "conflicts_of_interest": "The authors declare that they have no competing interest in this work.",
+    "provenance": {
+      "page": 11,
+      "section_heading": "Funding",
+      "text_snippet": "No funding was allocated for this study."
+    }
+  },
+  "notes_flags": [
+    {
+      "type": [
+        "missing_data"
+      ],
+      "detail": "No data on mortality, reoperations, readmissions, length of stay, costs, stewardship guidelines, or policy capacity.",
+      "provenance": {}
+    },
+    {
+      "type": [
+        "unit_unclear"
+      ],
+      "detail": "No explicit mention of per-procedure vs per-patient denominator for SSI incidence, but appears to be per-patient.",
+      "provenance": {
+        "page": 4,
+        "section_heading": "Socio-Demographic Characteristics and Magnitude of SSIs",
+        "text_snippet": "In this study, a total of 262 patients underwent surgical procedures, all of whom were followed up during the study."
+      }
+    }
+  ],
+  "provenance_index": [
+    {
+      "page": 4,
+      "section_heading": "Socio-Demographic Characteristics and Magnitude of SSIs",
+      "text_snippet": "Of these, 33/262 (12.6%) developed SSIs within 30 days of the procedure."
+    },
+    {
+      "page": 9,
+      "section_heading": "Table 4 Prevalence of Antimicrobial Resistance Pattern of Bacteria Isolated from Patients Diagnosed with SSIs (n = 41)",
+      "table_id": "Table 4",
+      "text_snippet": "Ampicillin (10 µg)\n12 (100.0)"
+    },
+    {
+      "page": 5,
+      "section_heading": "Table 1 Socio-Demographic and Clinical Characteristics of Study Participants",
+      "table_id": "Table 1",
+      "text_snippet": "Age in years\n>50\n20 (7.6)\n8 (40.0)\n12 (60.0)\n23.53 (0.001)*"
+    },
+    {
+      "page": 7,
+      "section_heading": "Table 3 Co-Morbidity Conditions Among Study Participants",
+      "table_id": "Table 3",
+      "text_snippet": "Diabetes mellitus\nYes\n5 (1.9)\n3 (60.0)\n2 (40.0)\n10.36 (0.015)*"
+    },
+    {
+      "page": 6,
+      "section_heading": "Table 2 Procedure and Clinical Related Characteristics of Study Participants",
+      "table_id": "Table 2",
+      "text_snippet": "Types of wound\nContaminated\n28 (10.7)\n11 (39.3)\n17 (60.7)\n20.29 (0.001)*"
+    },
+    {
+      "page": 10,
+      "section_heading": "Limitations of This Study",
+      "text_snippet": "In this study, blood agar medium was not used to detect SSI-causing pathogens, which could undermine the prevalence and types of isolated bacteria. Due to resource issues, molecular techniques to provide more information to indicate specific antibiotic resistance genes have not been performed."
+    },
+    {
+      "page": 11,
+      "section_heading": "Funding",
+      "text_snippet": "No funding was allocated for this study."
+    }
+  ],
+  "extraction_summary": {
+    "completeness_score": 75,
+    "missing_fields": [
+      "mortality",
+      "reoperations",
+      "readmissions",
+      "length_of_stay",
+      "costs",
+      "stewardship_guidelines",
+      "policy_capacity",
+      "qualitative method context",
+      "risk_of_bias tool and domains"
+    ],
+    "parser_warnings": [
+      "No data on clinical outcomes beyond SSI incidence and AMR proportions.",
+      "No explicit stewardship or policy capacity data.",
+      "No economic or length of stay data.",
+      "No risk of bias assessment reported."
+    ],
+    "confidence_overall": "high"
+  }
+}

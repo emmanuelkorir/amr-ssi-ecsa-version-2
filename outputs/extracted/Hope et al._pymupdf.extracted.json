@@ -1,0 +1,515 @@
+{
+  "study": {
+    "study_id": "Hope2019-Uganda-Mbarara-2015-01",
+    "title": "Antimicrobial resistance in pathogenic aerobic bacteria causing surgical site infections in Mbarara regional referral hospital, Southwestern Uganda",
+    "authors": [
+      "Derick Hope",
+      "Lucas Ampaire",
+      "Caesar Oyet",
+      "Enoch Muwanguzi",
+      "Hillary Twizerimana",
+      "Richard Onyuthi Apecu"
+    ],
+    "journal": "Scientific Reports",
+    "year_publication": 2019,
+    "doi": "10.1038/s41598-019-53712-2",
+    "country_list": [
+      "Uganda"
+    ],
+    "country_iso3": "UGA",
+    "region_classification": "ECSA",
+    "surgical_specialty": [
+      "obstetrics/gynecology",
+      "general",
+      "orthopedics"
+    ],
+    "language": "English",
+    "data_source_type": "published_full_text",
+    "ownership_type": "public"
+  },
+  "design": {
+    "study_design": "cross_sectional",
+    "randomized": false,
+    "prospective": false,
+    "single_center": true,
+    "multi_center": false,
+    "inclusion_criteria_text": "Postoperative patients in surgical, obstetrics/post-natal, gynecology, and orthopedics wards with clinical SSI within 30 days of operation who consented to participate.",
+    "sample_frame": "patients",
+    "unit_of_analysis": "patient",
+    "duplicate_publication_likelihood": false
+  },
+  "setting": {
+    "facility_level": "tertiary",
+    "urban_rural": "unspecified",
+    "care_setting": "hospital",
+    "country_specific_sites": [
+      "Mbarara Regional Referral Hospital"
+    ]
+  },
+  "eligibility": {
+    "population": "Postoperative patients with clinical SSI within 30 days of operation in surgical, obstetrics/post-natal, gynecology, and orthopedics wards.",
+    "classification": "mixed",
+    "intervention": "Antibiotic prophylaxis (ampicillin-cloxacillin, metronidazole, ceftriaxone, ciprofloxacin, gentamycin) and treatment as per local practice.",
+    "comparator": "None specified.",
+    "outcomes_reported": [
+      "amr_prevalence"
+    ],
+    "timeframe_years": "June to August, 2015",
+    "setting_types": [
+      "hospital",
+      "surgical_unit",
+      "ward"
+    ],
+    "included_designs": [
+      "cross_sectional"
+    ],
+    "excluded_designs": []
+  },
+  "timeframe": {
+    "data_collection_start_year": 2015,
+    "data_collection_start_month": 6,
+    "data_collection_end_year": 2015,
+    "data_collection_end_month": 8,
+    "follow_up_window_days": 30
+  },
+  "populations": [
+    {
+      "arm_id": "overall",
+      "description": "All postoperative patients with clinical SSI within 30 days of operation in surgical, obstetrics/post-natal, gynecology, and orthopedics wards.",
+      "n_participants": 83,
+      "age_group": "mixed",
+      "elective_emergency": "mixed",
+      "wound_class": "mixed",
+      "surgical_specialties": [
+        "obstetrics/gynecology",
+        "general",
+        "orthopedics"
+      ],
+      "provenance": {
+        "page": 2,
+        "section_heading": "Results",
+        "table_id": "Table 1",
+        "text_snippet": "A total of 83 wound swabs were collected from patients with clinical SSIs."
+      }
+    }
+  ],
+  "definitions": {
+    "ssi_definition_standard": [
+      "CDC_NHSN",
+      "study_defined"
+    ],
+    "ssi_window_days": 30,
+    "amr_definition_standard": [
+      "CLSI"
+    ],
+    "breakpoint_version": "CLSI 2012",
+    "resistance_definition_text": "MDR defined as non-susceptibility to at least one agent in three or more antimicrobial categories.",
+    "outcome_definitions_text": "SSI: infection within 30 days of operation; MDR: resistance to three or more antibiotics tested.",
+    "specimen_type": [
+      "wound_swab"
+    ]
+  },
+  "lab_methods": {
+    "specimen_collection_method": "Two wound swabs collected aseptically from each patient using sterile cotton swabs by experienced laboratory personnel on the day of presenting with clinical SSI and before application of antiseptics.",
+    "culture_method": "Blood agar, Chocolate agar, MacConkey agar; aerobic incubation at 35–37°C for 24–48 hours.",
+    "AST_method": [
+      "disk_diffusion"
+    ],
+    "QC_measures": "Standard Control strains of Escherichia coli ATCC 25922 and Staphylococcus aureus ATCC 25923 as per CLSI guidelines.",
+    "organism_identification_method": "Colony characteristics, Gram staining, conventional biochemical tests, API20E (BioMérieux) for difficult cases.",
+    "lab_capacity_notes": "Anaerobic culture not performed due to resource limitations."
+  },
+  "outcomes": {
+    "ssi_incidence": [],
+    "amr_proportions": [
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "ampicillin",
+        "who_class": "important",
+        "n_tested": 20,
+        "n_resistant": 20,
+        "n_susceptible": 0,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2012",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2015,
+          "end_year": 2015
+        },
+        "mdr_definition_text": "Resistance to three or more antibiotics tested.",
+        "n_mdr": 18,
+        "mrsa_detection_method": "Oxacillin disk diffusion",
+        "zone_diameter_unit": "mm",
+        "notes": "All S. aureus isolates resistant to ampicillin and oxacillin.",
+        "provenance": {
+          "page": 6,
+          "section_heading": "Antimicrobial Resistance pattern among the isolates",
+          "table_id": "Table 5",
+          "text_snippet": "All Staphylococcus aureus isolated were resistant to oxacillin and ampicillin"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "oxacillin",
+        "who_class": "important",
+        "n_tested": 20,
+        "n_resistant": 20,
+        "n_susceptible": 0,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2012",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2015,
+          "end_year": 2015
+        },
+        "mdr_definition_text": "Resistance to three or more antibiotics tested.",
+        "n_mdr": 18,
+        "mrsa_detection_method": "Oxacillin disk diffusion",
+        "zone_diameter_unit": "mm",
+        "notes": "All S. aureus isolates resistant to oxacillin.",
+        "provenance": {
+          "page": 6,
+          "section_heading": "Antimicrobial Resistance pattern among the isolates",
+          "table_id": "Table 5",
+          "text_snippet": "All Staphylococcus aureus isolated were resistant to oxacillin and ampicillin"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Klebsiella spp.",
+        "antibiotic": "ampicillin",
+        "who_class": "important",
+        "n_tested": 27,
+        "n_resistant": 27,
+        "n_susceptible": 0,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2012",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2015,
+          "end_year": 2015
+        },
+        "mdr_definition_text": "Resistance to three or more antibiotics tested.",
+        "n_mdr": 27,
+        "zone_diameter_unit": "mm",
+        "notes": "All Klebsiella spp. isolates were MDR and resistant to ampicillin.",
+        "provenance": {
+          "page": 6,
+          "section_heading": "Antimicrobial Resistance pattern among the isolates",
+          "table_id": "Table 5",
+          "text_snippet": "All the isolated Klebsiella spp were MDR."
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Klebsiella spp.",
+        "antibiotic": "ceftriaxone",
+        "who_class": "critically_important",
+        "n_tested": 27,
+        "n_resistant": 23,
+        "n_susceptible": 4,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2012",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2015,
+          "end_year": 2015
+        },
+        "mdr_definition_text": "Resistance to three or more antibiotics tested.",
+        "n_mdr": 27,
+        "zone_diameter_unit": "mm",
+        "notes": "High resistance to ceftriaxone among Klebsiella spp.",
+        "provenance": {
+          "page": 6,
+          "section_heading": "Antimicrobial Resistance pattern among the isolates",
+          "table_id": "Table 5",
+          "text_snippet": "Klebsiella species showed high resistance to ceftriaxone"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Escherichia coli",
+        "antibiotic": "ampicillin",
+        "who_class": "important",
+        "n_tested": 9,
+        "n_resistant": 9,
+        "n_susceptible": 0,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2012",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2015,
+          "end_year": 2015
+        },
+        "mdr_definition_text": "Resistance to three or more antibiotics tested.",
+        "n_mdr": 9,
+        "zone_diameter_unit": "mm",
+        "notes": "All E. coli isolates resistant to ampicillin.",
+        "provenance": {
+          "page": 6,
+          "section_heading": "Antimicrobial Resistance pattern among the isolates",
+          "table_id": "Table 5",
+          "text_snippet": "E. coli (%), n = 9\n9 (100)"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Escherichia coli",
+        "antibiotic": "ceftriaxone",
+        "who_class": "critically_important",
+        "n_tested": 9,
+        "n_resistant": 9,
+        "n_susceptible": 0,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2012",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2015,
+          "end_year": 2015
+        },
+        "mdr_definition_text": "Resistance to three or more antibiotics tested.",
+        "n_mdr": 9,
+        "zone_diameter_unit": "mm",
+        "notes": "All E. coli isolates resistant to ceftriaxone.",
+        "provenance": {
+          "page": 6,
+          "section_heading": "Antimicrobial Resistance pattern among the isolates",
+          "table_id": "Table 5",
+          "text_snippet": "E. coli (%), n = 9\n9 (100)"
+        }
+      }
+    ],
+    "morbidity": [],
+    "mortality": [],
+    "reoperations": [],
+    "readmissions": [],
+    "length_of_stay": [],
+    "costs": [],
+    "risk_factors_effects": [
+      {
+        "exposure": "Emergency surgery",
+        "outcome": "amr_infection",
+        "effect_measure": "OR",
+        "p_value": 0.0001,
+        "adjusted": false,
+        "notes": "Isolation rate higher in emergency (89.8%) compared to elective (70.59%), p=0.0001.",
+        "provenance": {
+          "page": 4,
+          "section_heading": "Laboratory results",
+          "table_id": "Table 4",
+          "text_snippet": "Isolation in the present study was found to be higher in emergency procedures compared to elective (p < 0.0001)"
+        }
+      },
+      {
+        "exposure": "Dirty wound class",
+        "outcome": "amr_infection",
+        "effect_measure": "OR",
+        "p_value": 0.0002,
+        "adjusted": false,
+        "notes": "Isolation rate higher in dirty wounds (100%) compared to other classes, p=0.0002.",
+        "provenance": {
+          "page": 4,
+          "section_heading": "Laboratory results",
+          "table_id": "Table 4",
+          "text_snippet": "Isolation rate in the current study was found to be more in dirty wounds... (p < 0.0002)"
+        }
+      }
+    ]
+  },
+  "interventions": [
+    {
+      "type": "antibiotic_prophylaxis_protocol",
+      "description": "All study participants received antibiotic prophylaxis, mostly ampicillin-cloxacillin, metronidazole, ceftriaxone, ciprofloxacin, gentamycin.",
+      "implementation_level": "facility",
+      "outcomes_measured": [
+        "amr_prevalence"
+      ],
+      "effect_direction": "unclear",
+      "provenance": {
+        "page": 2,
+        "section_heading": "Results",
+        "text_snippet": "All the study participants were subjected to antibiotic prophylaxis and the mostly used antibiotics included ampicillin-cloxacillin, metronidazole, ceftriaxone, ciprofloxacin and gentamycin."
+      }
+    }
+  ],
+  "stewardship_guidelines": [],
+  "policy_capacity": [],
+  "qualitative_thematic": {
+    "codes": [
+      {
+        "theme": "amr_prevalence",
+        "subtheme": "resistance patterns",
+        "summary": "High rates of multidrug resistance (MDR) were observed among both Gram-positive and Gram-negative isolates from SSI patients.",
+        "evidence_quotes": [
+          {
+            "quote": "Overall 86% of aerobic bacteria isolated were multidrug resistant (MDR) where 65.63% and 96.72% of Gram positive and Gram negative isolates were MDR respectively.",
+            "page": 1,
+            "section": "Abstract"
+          }
+        ],
+        "location_context": "Mbarara Regional Referral Hospital, Uganda",
+        "confidence": "high",
+        "provenance": {
+          "page": 1,
+          "section_heading": "Abstract",
+          "text_snippet": "Overall 86% of aerobic bacteria isolated were multidrug resistant (MDR)..."
+        }
+      },
+      {
+        "theme": "drivers_amr",
+        "subtheme": "inappropriate use",
+        "summary": "Irrational use of antibiotics is identified as a major driver of antimicrobial resistance in the study setting.",
+        "evidence_quotes": [
+          {
+            "quote": "This has majorly been attributed to increasing emergence of antimicrobial resistance due to irrational use of antibiotics.",
+            "page": 1,
+            "section": "Introduction"
+          }
+        ],
+        "location_context": "Mbarara Regional Referral Hospital, Uganda",
+        "confidence": "moderate",
+        "provenance": {
+          "page": 1,
+          "section_heading": "Introduction",
+          "text_snippet": "This has majorly been attributed to increasing emergence of antimicrobial resistance due to irrational use of antibiotics."
+        }
+      },
+      {
+        "theme": "prevention_control",
+        "subtheme": "IPC programs",
+        "summary": "Strict adherence to good sanitation practice and periodic surveillance of SSIs are recommended to reduce spread of drug-resistant pathogens.",
+        "evidence_quotes": [
+          {
+            "quote": "These findings necessitate judicious antibiotic use and calls for surveillance of SSIs periodically as well as strict adherence to good sanitation practice to reduce spread of drug-resistant pathogens.",
+            "page": 1,
+            "section": "Abstract"
+          }
+        ],
+        "location_context": "Mbarara Regional Referral Hospital, Uganda",
+        "confidence": "moderate",
+        "provenance": {
+          "page": 1,
+          "section_heading": "Abstract",
+          "text_snippet": "calls for surveillance of SSIs periodically as well as strict adherence to good sanitation practice"
+        }
+      }
+    ]
+  },
+  "risk_of_bias": {
+    "tool_used": "not_reported",
+    "domain_judgements": {},
+    "overall_judgement": "not_reported",
+    "provenance": {}
+  },
+  "funding_conflicts": {
+    "funding_sources": [],
+    "conflicts_of_interest": "The authors declare no competing interests.",
+    "provenance": {
+      "page": 10,
+      "section_heading": "Competing interests",
+      "text_snippet": "The authors declare no competing interests."
+    }
+  },
+  "notes_flags": [
+    {
+      "type": [
+        "missing_data"
+      ],
+      "detail": "SSI incidence (events and denominator) not reported; only patients with SSI included.",
+      "provenance": {
+        "page": 2,
+        "section_heading": "Results",
+        "text_snippet": "A total of 83 wound swabs were collected from patients with clinical SSIs."
+      }
+    },
+    {
+      "type": [
+        "missing_data"
+      ],
+      "detail": "No data on mortality, reoperations, readmissions, length of stay, or costs.",
+      "provenance": {}
+    },
+    {
+      "type": [
+        "unit_unclear"
+      ],
+      "detail": "No explicit reporting of SSI ascertainment window for outcomes; only inclusion criteria.",
+      "provenance": {
+        "page": 8,
+        "section_heading": "Sampling and data collection",
+        "text_snippet": "clinical SSI within 30 days of operation"
+      }
+    }
+  ],
+  "provenance_index": [
+    {
+      "page": 1,
+      "section_heading": "Abstract",
+      "text_snippet": "Overall 86% of aerobic bacteria isolated were multidrug resistant (MDR)..."
+    },
+    {
+      "page": 2,
+      "section_heading": "Results",
+      "table_id": "Table 1",
+      "text_snippet": "A total of 83 wound swabs were collected from patients with clinical SSIs."
+    },
+    {
+      "page": 4,
+      "section_heading": "Laboratory results",
+      "table_id": "Table 4",
+      "text_snippet": "Isolation in the present study was found to be higher in emergency procedures compared to elective (p < 0.0001)"
+    },
+    {
+      "page": 6,
+      "section_heading": "Antimicrobial Resistance pattern among the isolates",
+      "table_id": "Table 5",
+      "text_snippet": "All Staphylococcus aureus isolated were resistant to oxacillin and ampicillin"
+    },
+    {
+      "page": 10,
+      "section_heading": "Competing interests",
+      "text_snippet": "The authors declare no competing interests."
+    },
+    {
+      "page": 8,
+      "section_heading": "Sampling and data collection",
+      "text_snippet": "clinical SSI within 30 days of operation"
+    }
+  ],
+  "extraction_summary": {
+    "completeness_score": 70,
+    "missing_fields": [
+      "ssi_incidence",
+      "mortality",
+      "reoperations",
+      "readmissions",
+      "length_of_stay",
+      "costs",
+      "stewardship_guidelines",
+      "policy_capacity",
+      "qualitative method context",
+      "bed_capacity",
+      "surgical_volume_per_year"
+    ],
+    "parser_warnings": [
+      "No SSI incidence data; only SSI cases included.",
+      "No clinical outcome data beyond AMR proportions.",
+      "No economic or stewardship/policy data."
+    ],
+    "confidence_overall": "moderate"
+  }
+}

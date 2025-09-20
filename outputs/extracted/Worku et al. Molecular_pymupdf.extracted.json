@@ -1,0 +1,456 @@
+{
+  "study": {
+    "study_id": "Worku2024-Ethiopia-Multicenter-2020-2021-1",
+    "title": "Molecular characterization of carbapenemase and extended spectrum beta-lactamase producing Acinetobacter baumannii isolates causing surgical site infections in Ethiopia",
+    "authors": [
+      "Seble Worku",
+      "Tamrat Abebe",
+      "Berhanu Seyoum",
+      "Bikila Alemu",
+      "Gebrie Denkayehu",
+      "Tamrayehu Seyoum",
+      "Dawit Hailu Alemayehu",
+      "Alemseged Abdissa",
+      "Getachew Tesfaye Beyene",
+      "Adane Mihret",
+      "Göte Swedberg"
+    ],
+    "journal": "BMC Infectious Diseases",
+    "year_publication": 2024,
+    "doi": "10.1186/s12879-024-09362-5",
+    "country_list": [
+      "Ethiopia"
+    ],
+    "country_iso3": "ETH",
+    "region_classification": "ECSA",
+    "surgical_specialty": [
+      "general",
+      "orthopedics",
+      "pediatric",
+      "other"
+    ],
+    "language": "English",
+    "data_source_type": "published_full_text",
+    "ownership_type": "public"
+  },
+  "design": {
+    "study_design": "cross_sectional",
+    "randomized": false,
+    "prospective": false,
+    "single_center": false,
+    "multi_center": true,
+    "inclusion_criteria_text": "All age groups with clinically diagnosed SSI from different wards in all hospitals; diagnosis confirmed as SSI (pain, redness, edema, tenderness, gaping, abscess or purulent discharge, fever >38°C) from the surgical site within 30 days of the operation for those without implant.",
+    "exclusion_criteria_text": "Patients who had been on antibiotics within the preceding ten days.",
+    "sample_frame": "patients",
+    "unit_of_analysis": "patient",
+    "duplicate_publication_likelihood": false
+  },
+  "setting": {
+    "facility_level": "tertiary",
+    "urban_rural": "mixed",
+    "care_setting": "hospital",
+    "country_specific_sites": [
+      "Debre Tabor Comprehensive Specialized Hospital (DTCSH)",
+      "Hawassa University Comprehensive Specialized Hospital (HUCSH)",
+      "Jimma University Specialized Hospital (JUSH)",
+      "Tikur Anbessa Specialized Hospital (TASH)"
+    ]
+  },
+  "eligibility": {
+    "population": "All age groups with clinically diagnosed SSI from different wards in all hospitals; diagnosis confirmed as SSI (pain, redness, edema, tenderness, gaping, abscess or purulent discharge, fever >38°C) from the surgical site within 30 days of the operation for those without implant.",
+    "classification": "mixed",
+    "intervention": "Not specified; study focused on molecular characterization of ESBL and carbapenemase-producing Acinetobacter species isolated from SSI.",
+    "comparator": "None",
+    "outcomes_reported": [
+      "amr_prevalence"
+    ],
+    "timeframe_years": "July 2020 to August 2021",
+    "setting_types": [
+      "hospital",
+      "surgical_unit",
+      "ward",
+      "icu",
+      "mixed"
+    ],
+    "included_designs": [
+      "cross_sectional"
+    ],
+    "excluded_designs": []
+  },
+  "timeframe": {
+    "data_collection_start_year": 2020,
+    "data_collection_start_month": 7,
+    "data_collection_end_year": 2021,
+    "data_collection_end_month": 8,
+    "follow_up_window_days": 30
+  },
+  "populations": [
+    {
+      "arm_id": "overall",
+      "description": "All SSI patients enrolled at four tertiary hospitals in Ethiopia between July 2020 and August 2021.",
+      "n_participants": 752,
+      "age_group": "mixed",
+      "elective_emergency": "unspecified",
+      "wound_class": "unspecified",
+      "surgical_specialties": [
+        "general",
+        "orthopedics",
+        "pediatric",
+        "other"
+      ],
+      "provenance": {
+        "page": 3,
+        "section_heading": "Materials and methods",
+        "text_snippet": "A total of 752 clinically diagnosed cases of SSI from different wards in all hospitals were enrolled in the study."
+      }
+    },
+    {
+      "arm_id": "acinetobacter_positive",
+      "description": "SSI patients with Acinetobacter species isolated from wound cultures.",
+      "n_participants": 43,
+      "age_group": "mixed",
+      "elective_emergency": "unspecified",
+      "wound_class": "unspecified",
+      "surgical_specialties": [
+        "general",
+        "orthopedics",
+        "pediatric",
+        "other"
+      ],
+      "provenance": {
+        "page": 5,
+        "section_heading": "Results",
+        "table_id": "Table 2",
+        "text_snippet": "Acinetobacter species were identified from 43 patients."
+      }
+    }
+  ],
+  "definitions": {
+    "ssi_definition_standard": [
+      "study_defined"
+    ],
+    "ssi_window_days": 30,
+    "amr_definition_standard": [
+      "CLSI",
+      "study_defined"
+    ],
+    "breakpoint_version": "CLSI 2021",
+    "resistance_definition_text": "ESBL production confirmed by combination disk test (CDT) and decreased susceptibility to ceftriaxone, ceftazidime or cefotaxime according to CLSI recommendations.",
+    "outcome_definitions_text": "SSI defined as infection characterized by pain, redness, edema, tenderness, gaping, abscess or purulent discharge, fever >38°C from the surgical site within 30 days of operation for those without implant.",
+    "specimen_type": [
+      "wound_swab",
+      "aspirate"
+    ]
+  },
+  "lab_methods": {
+    "specimen_collection_method": "Surgical wound swabs or aspirates collected based on standard operation procedures.",
+    "culture_method": "Standardized laboratory protocol; colony characteristics, Gram staining, conventional biochemical tests; stored at −70°C and transported to AHRI; confirmed by MALDI-TOF MS.",
+    "AST_method": [
+      "disk_diffusion"
+    ],
+    "QC_measures": "Standard operating procedure (SOP) followed; double data entry; control strains (E. coli ATCC 25,922) for each new batch of agar plates; sterility of culture media checked by incubating 5% of prepared media; reagents checked against control strains; 0.5 McFarland standard densitometer used; Klebsiella pneumoniae ATCC® 700,603 used for ESBL screening; MALDI-TOF MS run included QC strains; PCR analysis used laboratory reference blaKPC and blaNDM genes as positive controls and E. coli ATCC1 25,922 as negative control.",
+    "organism_identification_method": "Matrix-Assisted Laser Desorption Ionization-Time of Flight Mass Spectrometry (MALDI-TOF MS)"
+  },
+  "outcomes": {
+    "ssi_incidence": [],
+    "amr_proportions": [
+      {
+        "arm_id": "acinetobacter_positive",
+        "pathogen": "Acinetobacter baumannii",
+        "antibiotic": "ceftriaxone",
+        "who_class": "critically_important",
+        "n_tested": 43,
+        "n_resistant": 41,
+        "n_susceptible": 2,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2021",
+        "specimen_type": "wound_swab",
+        "site": "surgical site/wound",
+        "data_period": {
+          "start_year": 2020,
+          "end_year": 2021
+        },
+        "esbl_test": "Combination Disk Test (CDT)",
+        "n_esbl_positive": 40,
+        "carbapenemase_test": "PCR and sequencing",
+        "carbapenemase_genes": "blaOXA, blaNDM",
+        "resistance_gene_markers": "blaCTX−M, blaTEM, blaOXA, blaNDM",
+        "zone_diameter_unit": "mm",
+        "notes": "95.3% (41/43) resistant to ceftriaxone; 93% (40/43) ESBL positive by CDT.",
+        "provenance": {
+          "page": 5,
+          "section_heading": "Prevalence of ESBL and carbapenemase producing Acinetobacter species",
+          "text_snippet": "Of the total 43 Acinetobacter isolates, 95.3% (41/43) were resistant to ceftriaxone, and 93% (40/43), were confirmed for ESBL production by combined disk-diffusion (CDT)"
+        }
+      },
+      {
+        "arm_id": "acinetobacter_positive",
+        "pathogen": "Acinetobacter baumannii",
+        "antibiotic": "ceftazidime",
+        "who_class": "critically_important",
+        "n_tested": 43,
+        "n_resistant": 41,
+        "n_susceptible": 2,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2021",
+        "specimen_type": "wound_swab",
+        "site": "surgical site/wound",
+        "data_period": {
+          "start_year": 2020,
+          "end_year": 2021
+        },
+        "esbl_test": "Combination Disk Test (CDT)",
+        "zone_diameter_unit": "mm",
+        "notes": "95.3% Acinetobacter species were resistant to ceftazidime.",
+        "provenance": {
+          "page": 10,
+          "section_heading": "Discussion",
+          "text_snippet": "In this study, 95.3% Acinetobacter species were resistant to ceftazidime."
+        }
+      },
+      {
+        "arm_id": "acinetobacter_positive",
+        "pathogen": "Acinetobacter baumannii",
+        "antibiotic": "imipenem",
+        "who_class": "critically_important",
+        "n_tested": 43,
+        "n_resistant": 37,
+        "n_susceptible": 6,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2021",
+        "specimen_type": "wound_swab",
+        "site": "surgical site/wound",
+        "data_period": {
+          "start_year": 2020,
+          "end_year": 2021
+        },
+        "carbapenemase_test": "PCR and sequencing",
+        "n_carbapenemase_positive": 37,
+        "carbapenemase_genes": "blaOXA, blaNDM",
+        "resistance_gene_markers": "blaOXA, blaNDM",
+        "zone_diameter_unit": "mm",
+        "notes": "85.7% (37/43) isolates were carbapenem-resistant.",
+        "provenance": {
+          "page": 10,
+          "section_heading": "Discussion",
+          "text_snippet": "In this finding 43 (85.7%) isolates were carbapenem-resistant"
+        }
+      }
+    ],
+    "morbidity": [],
+    "mortality": [],
+    "reoperations": [],
+    "readmissions": [],
+    "length_of_stay": [],
+    "costs": [],
+    "risk_factors_effects": []
+  },
+  "interventions": [],
+  "stewardship_guidelines": [],
+  "policy_capacity": [],
+  "qualitative_thematic": {
+    "codes": [
+      {
+        "theme": "amr_prevalence",
+        "subtheme": "resistance patterns and rates by pathogen/antibiotic",
+        "summary": "High prevalence of ESBL and carbapenemase-producing Acinetobacter baumannii was detected among SSI patients in Ethiopian hospitals, with alarming rates of resistance to ceftriaxone, ceftazidime, and carbapenems.",
+        "evidence_quotes": [
+          {
+            "quote": "The frequency of Acinetobacter species that produce metallobetalactamases (MBLs) and ESBLs that were found in this study is extremely scary and calls for strict infection prevention and control procedures in health facilities helps to set effective antibiotics stewardship.",
+            "page": 1,
+            "section": "Abstract"
+          },
+          {
+            "quote": "Of the total 43 Acinetobacter isolates, 95.3% (41/43) were resistant to ceftriaxone, and 93% (40/43), were confirmed for ESBL production by combined disk-diffusion (CDT)",
+            "page": 5,
+            "section": "Results"
+          },
+          {
+            "quote": "In this finding 43 (85.7%) isolates were carbapenem-resistant, which is similar with a study conducted in Pakistan (89.1%) [35].",
+            "page": 10,
+            "section": "Discussion"
+          }
+        ],
+        "location_context": "Ethiopia, four tertiary hospitals",
+        "confidence": "high",
+        "provenance": {
+          "page": 1,
+          "section_heading": "Abstract",
+          "text_snippet": "The frequency of Acinetobacter species that produce metallobetalactamases (MBLs) and ESBLs that were found in this study is extremely scary"
+        }
+      },
+      {
+        "theme": "drivers_amr",
+        "subtheme": "inappropriate use, IPC gaps, diagnostics delays, policy failures, supply chain, workforce, patient factors",
+        "summary": "Extensive antibiotic misuse and poor stewardship have contributed to the rapid spread of resistance to third generation cephalosporins and carbapenems among Acinetobacter species.",
+        "evidence_quotes": [
+          {
+            "quote": "However, due to extensive antibiotic misuse and poor stewardship, resistance to third generation cephalosporins has spread rapidly.",
+            "page": 2,
+            "section": "Introduction"
+          }
+        ],
+        "location_context": "Ethiopia, hospital settings",
+        "confidence": "moderate",
+        "provenance": {
+          "page": 2,
+          "section_heading": "Introduction",
+          "text_snippet": "due to extensive antibiotic misuse and poor stewardship, resistance to third generation cephalosporins has spread rapidly"
+        }
+      },
+      {
+        "theme": "prevention_control",
+        "subtheme": "IPC programs, bundles, surveillance practices",
+        "summary": "The high prevalence of ESBL and carbapenemase-producing Acinetobacter species highlights the urgent need for strict infection prevention and control measures in Ethiopian hospitals.",
+        "evidence_quotes": [
+          {
+            "quote": "The frequency of Acinetobacter species that produce metallobetalactamases (MBLs) and ESBLs that were found in this study is extremely scary and calls for strict infection prevention and control procedures in health facilities helps to set effective antibiotics stewardship.",
+            "page": 1,
+            "section": "Abstract"
+          },
+          {
+            "quote": "and highlights the need for infection prevention and control measures.",
+            "page": 11,
+            "section": "Conclusions"
+          }
+        ],
+        "location_context": "Ethiopia, hospital settings",
+        "confidence": "high",
+        "provenance": {
+          "page": 1,
+          "section_heading": "Abstract",
+          "text_snippet": "calls for strict infection prevention and control procedures in health facilities"
+        }
+      }
+    ]
+  },
+  "risk_of_bias": {
+    "tool_used": "not_reported",
+    "domain_judgements": {},
+    "overall_judgement": "not_reported",
+    "provenance": {}
+  },
+  "funding_conflicts": {
+    "funding_sources": [
+      "Addis Ababa University",
+      "Armauer Hansen Research Institute",
+      "Uppsala University",
+      "SIDA/SAREC bilateral research cooperation with Ethiopia",
+      "The Centre for Innovative Drug Development and Therapeutic Trials for Africa"
+    ],
+    "conflicts_of_interest": "The authors declare no competing interests.",
+    "provenance": {
+      "page": 11,
+      "section_heading": "Funding",
+      "text_snippet": "This study was sponsored by Addis Ababa University, Armauer Hansen Research Institute, Uppsala University, SIDA/SAREC bilateral research cooperation with Ethiopia and The Centre for Innovative Drug Development and Therapeutic Trials for Africa."
+    }
+  },
+  "notes_flags": [
+    {
+      "type": [
+        "missing_data"
+      ],
+      "detail": "No SSI incidence rates (events/denominator) reported; only AMR proportions for Acinetobacter species.",
+      "provenance": {
+        "page": 5,
+        "section_heading": "Results",
+        "text_snippet": "A total of 493 (65.5%) patients had a positive culture from 752 wound culture tests performed for patients diagnosed with surgical site infection. Acinetobacter species were identified from 43 patients."
+      }
+    },
+    {
+      "type": [
+        "missing_data"
+      ],
+      "detail": "No clinical outcomes (morbidity, mortality, reoperation, readmission, LOS, costs) reported.",
+      "provenance": {
+        "page": 10,
+        "section_heading": "Discussion",
+        "text_snippet": "This study examined the prevalence of novel beta-lactamase-mediated resistance mechanisms in cephalosporin- or carbapenem-resistant isolates among patients investigated for surgical site infection at four referral hospitals"
+      }
+    },
+    {
+      "type": [
+        "unit_unclear"
+      ],
+      "detail": "No explicit reporting of per-procedure vs per-patient denominator for SSI incidence.",
+      "provenance": {
+        "page": 3,
+        "section_heading": "Materials and methods",
+        "text_snippet": "A total of 752 clinically diagnosed cases of SSI from different wards in all hospitals were enrolled in the study."
+      }
+    }
+  ],
+  "provenance_index": [
+    {
+      "page": 1,
+      "section_heading": "Abstract",
+      "text_snippet": "The frequency of Acinetobacter species that produce metallobetalactamases (MBLs) and ESBLs that were found in this study is extremely scary"
+    },
+    {
+      "page": 2,
+      "section_heading": "Introduction",
+      "text_snippet": "due to extensive antibiotic misuse and poor stewardship, resistance to third generation cephalosporins has spread rapidly"
+    },
+    {
+      "page": 3,
+      "section_heading": "Materials and methods",
+      "text_snippet": "A total of 752 clinically diagnosed cases of SSI from different wards in all hospitals were enrolled in the study."
+    },
+    {
+      "page": 5,
+      "section_heading": "Results",
+      "table_id": "Table 2",
+      "text_snippet": "Acinetobacter species were identified from 43 patients."
+    },
+    {
+      "page": 5,
+      "section_heading": "Prevalence of ESBL and carbapenemase producing Acinetobacter species",
+      "text_snippet": "Of the total 43 Acinetobacter isolates, 95.3% (41/43) were resistant to ceftriaxone, and 93% (40/43), were confirmed for ESBL production by combined disk-diffusion (CDT)"
+    },
+    {
+      "page": 10,
+      "section_heading": "Discussion",
+      "text_snippet": "In this finding 43 (85.7%) isolates were carbapenem-resistant"
+    },
+    {
+      "page": 11,
+      "section_heading": "Funding",
+      "text_snippet": "This study was sponsored by Addis Ababa University, Armauer Hansen Research Institute, Uppsala University, SIDA/SAREC bilateral research cooperation with Ethiopia and The Centre for Innovative Drug Development and Therapeutic Trials for Africa."
+    }
+  ],
+  "extraction_summary": {
+    "completeness_score": 65,
+    "missing_fields": [
+      "ssi_incidence",
+      "morbidity",
+      "mortality",
+      "reoperations",
+      "readmissions",
+      "length_of_stay",
+      "costs",
+      "risk_factors_effects",
+      "interventions",
+      "stewardship_guidelines",
+      "policy_capacity",
+      "qualitative_thematic.method",
+      "qualitative_thematic.participants_n",
+      "qualitative_thematic.analysis_approach",
+      "qualitative_thematic.casp_appraisal",
+      "bed_capacity",
+      "surgical_volume_per_year",
+      "infection_control_program_present",
+      "stewardship_program_present"
+    ],
+    "parser_warnings": [
+      "No SSI incidence rates reported; only AMR proportions for Acinetobacter species.",
+      "No clinical outcomes (morbidity, mortality, reoperation, readmission, LOS, costs) reported.",
+      "No explicit reporting of per-procedure vs per-patient denominator for SSI incidence.",
+      "No risk of bias tool or assessment reported.",
+      "No stewardship guidelines or interventions described."
+    ],
+    "confidence_overall": "moderate"
+  }
+}

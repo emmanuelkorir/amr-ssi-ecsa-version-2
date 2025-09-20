@@ -1,0 +1,643 @@
+{
+  "study": {
+    "study_id": "Kefale2020-Ethiopia-FinoteSelam-2019-2020-1",
+    "title": "Surgical Site Infections and Prophylaxis Antibiotic Use in the Surgical Ward of Public Hospital in Western Ethiopia: A Hospital-Based Retrospective Cross-Sectional Study",
+    "authors": [
+      "Belayneh Kefale",
+      "Gobezie T Tegegne",
+      "Amsalu Degu",
+      "Mulugeta Molla",
+      "Yitayih Kefale"
+    ],
+    "journal": "Infection and Drug Resistance",
+    "year_publication": 2020,
+    "doi": "10.2147/IDR.S281097",
+    "country_list": [
+      "Ethiopia"
+    ],
+    "country_iso3": "ETH",
+    "region_classification": "ECSA",
+    "surgical_specialty": [
+      "general",
+      "obstetrics/gynecology",
+      "orthopedics",
+      "urology",
+      "gastrointestinal",
+      "other"
+    ],
+    "language": "English",
+    "data_source_type": "published_full_text",
+    "ownership_type": "public"
+  },
+  "design": {
+    "study_design": "cross_sectional",
+    "randomized": false,
+    "prospective": false,
+    "single_center": true,
+    "multi_center": false,
+    "inclusion_criteria_text": "All medical records of surgical patients admitted from 1st June 2019 to 31st May 2020 for elective or emergency surgical procedures with complete medical records were included.",
+    "exclusion_criteria_text": "Medical records that did not have complete information, such as list of surgical antibiotics prophylaxis, were excluded.",
+    "sample_frame": "patients",
+    "unit_of_analysis": "patient",
+    "duplicate_publication_likelihood": false
+  },
+  "setting": {
+    "facility_level": "tertiary",
+    "urban_rural": "mixed",
+    "care_setting": "hospital",
+    "country_specific_sites": [
+      "Finote Selam General Hospital, Finote-Selam town, Northwest Ethiopia"
+    ]
+  },
+  "eligibility": {
+    "population": "All patients admitted for elective or emergency surgical procedures at Finote Selam General Hospital from 1st June 2019 to 31st May 2020 with complete medical records.",
+    "classification": "mixed",
+    "intervention": "Surgical antibiotic prophylaxis regimens (ceftriaxone, metronidazole, cloxacillin, gentamicin, ciprofloxacillin)",
+    "comparator": "No prophylactic antibiotics, inappropriate use, alternative regimens",
+    "outcomes_reported": [
+      "ssi_incidence",
+      "risk_factors_effects"
+    ],
+    "timeframe_years": "1st June 2019 to 31st May 2020",
+    "setting_types": [
+      "hospital",
+      "surgical_unit"
+    ],
+    "included_designs": [
+      "cross_sectional"
+    ],
+    "excluded_designs": []
+  },
+  "timeframe": {
+    "data_collection_start_year": 2019,
+    "data_collection_start_month": 6,
+    "data_collection_end_year": 2020,
+    "data_collection_end_month": 5,
+    "follow_up_window_days": 30
+  },
+  "populations": [
+    {
+      "arm_id": "overall",
+      "description": "All surgical patients admitted for elective or emergency procedures at FSGH during study period",
+      "n_participants": 281,
+      "age_group": "mixed",
+      "elective_emergency": "mixed",
+      "wound_class": "unspecified",
+      "comorbidities_key": "25.6% had comorbid conditions",
+      "surgical_specialties": [
+        "general",
+        "gastrointestinal",
+        "gynecologic",
+        "urological",
+        "orthopedic",
+        "other"
+      ],
+      "provenance": {
+        "page": 5,
+        "section_heading": "Socio-Demographic and Clinical Characteristics",
+        "table_id": "Table 1",
+        "text_snippet": "In this study, 281 patients were assessed for SSI and appropriateness of surgical antibiotic prophylaxis use."
+      }
+    }
+  ],
+  "definitions": {
+    "ssi_definition_standard": [
+      "CDC_NHSN",
+      "WHO"
+    ],
+    "ssi_window_days": 30,
+    "outcome_definitions_text": "SSI defined as infection occurring at or near surgical incision within 30 days of operation or after one year in case of implant.",
+    "specimen_type": []
+  },
+  "lab_methods": {},
+  "outcomes": {
+    "ssi_incidence": [
+      {
+        "arm_id": "overall",
+        "denominator_type": "patients",
+        "ssi_type": "overall",
+        "n_ssi_events": 55,
+        "n_total": 281,
+        "rate_as_reported": {
+          "value": 19.6,
+          "unit": "percent"
+        },
+        "ascertainment_window_days": 30,
+        "data_period": {
+          "start_year": 2019,
+          "end_year": 2020
+        },
+        "subgroup_labels": {
+          "country": "Ethiopia",
+          "facility_level": "tertiary",
+          "setting": "hospital"
+        },
+        "notes": "SSI prevalence reported as 19.6% (95% CI: 18–21.1).",
+        "provenance": {
+          "page": 5,
+          "section_heading": "Prevalence of Surgical Site Infections",
+          "text_snippet": "The present study showed that 19.6% (95% CI: 18–21.1) of patients developed SSIs."
+        }
+      },
+      {
+        "arm_id": "overall",
+        "denominator_type": "patients",
+        "ssi_type": "superficial",
+        "n_ssi_events": 41,
+        "n_total": 281,
+        "rate_as_reported": {
+          "value": 14.5,
+          "unit": "percent"
+        },
+        "ascertainment_window_days": 30,
+        "data_period": {
+          "start_year": 2019,
+          "end_year": 2020
+        },
+        "subgroup_labels": {
+          "country": "Ethiopia",
+          "facility_level": "tertiary",
+          "setting": "hospital"
+        },
+        "notes": "Superficial SSI: 14.5% of patients.",
+        "provenance": {
+          "page": 5,
+          "section_heading": "Prevalence of Surgical Site Infections",
+          "text_snippet": "Of the developed SSI, 14.5%, 3% and 3% involved superficial, deep, and organ structures, respectively (Figure 1)."
+        }
+      },
+      {
+        "arm_id": "overall",
+        "denominator_type": "patients",
+        "ssi_type": "deep",
+        "n_ssi_events": 8,
+        "n_total": 281,
+        "rate_as_reported": {
+          "value": 3.0,
+          "unit": "percent"
+        },
+        "ascertainment_window_days": 30,
+        "data_period": {
+          "start_year": 2019,
+          "end_year": 2020
+        },
+        "subgroup_labels": {
+          "country": "Ethiopia",
+          "facility_level": "tertiary",
+          "setting": "hospital"
+        },
+        "notes": "Deep SSI: 3% of patients.",
+        "provenance": {
+          "page": 5,
+          "section_heading": "Prevalence of Surgical Site Infections",
+          "text_snippet": "Of the developed SSI, 14.5%, 3% and 3% involved superficial, deep, and organ structures, respectively (Figure 1)."
+        }
+      },
+      {
+        "arm_id": "overall",
+        "denominator_type": "patients",
+        "ssi_type": "organ_space",
+        "n_ssi_events": 8,
+        "n_total": 281,
+        "rate_as_reported": {
+          "value": 3.0,
+          "unit": "percent"
+        },
+        "ascertainment_window_days": 30,
+        "data_period": {
+          "start_year": 2019,
+          "end_year": 2020
+        },
+        "subgroup_labels": {
+          "country": "Ethiopia",
+          "facility_level": "tertiary",
+          "setting": "hospital"
+        },
+        "notes": "Organ/space SSI: 3% of patients.",
+        "provenance": {
+          "page": 5,
+          "section_heading": "Prevalence of Surgical Site Infections",
+          "text_snippet": "Of the developed SSI, 14.5%, 3% and 3% involved superficial, deep, and organ structures, respectively (Figure 1)."
+        }
+      }
+    ],
+    "amr_proportions": [],
+    "morbidity": [],
+    "mortality": [],
+    "reoperations": [],
+    "readmissions": [],
+    "length_of_stay": [
+      {
+        "group": "overall",
+        "notes": "Preoperative and postoperative duration of hospitalization reported in categories only.",
+        "provenance": {
+          "page": 5,
+          "section_heading": "Socio-Demographic and Clinical Characteristics",
+          "table_id": "Table 1",
+          "text_snippet": "Preoperative duration of hospitalization ≤1 day: 74.0%; >1 day: 26.0%. Postoperative duration: 1 day: 3.2%; 2 days: 40.2%; 3 days: 45.6%; 4 days: 11%."
+        }
+      }
+    ],
+    "costs": [],
+    "risk_factors_effects": [
+      {
+        "exposure": "Presence of comorbidity",
+        "outcome": [
+          "ssi_incidence"
+        ],
+        "effect_measure": "aOR",
+        "effect_value": 9.18,
+        "ci_lower": 5.17,
+        "ci_upper": 17.9,
+        "p_value": 0.001,
+        "adjusted": true,
+        "n_included": 281,
+        "notes": "Significant association between comorbidity and SSI.",
+        "provenance": {
+          "page": 7,
+          "section_heading": "Factors Associated with Surgical Site Infections",
+          "table_id": "Table 4",
+          "text_snippet": "presence of comorbidity (AOR=9.18, 95% CI: 5.17–17.9, p<0.001)"
+        }
+      },
+      {
+        "exposure": "Contaminated wound class",
+        "outcome": [
+          "ssi_incidence"
+        ],
+        "effect_measure": "aOR",
+        "effect_value": 6.01,
+        "ci_lower": 1.77,
+        "ci_upper": 16.8,
+        "p_value": 0.019,
+        "adjusted": true,
+        "n_included": 281,
+        "notes": "Contaminated wounds associated with increased SSI risk.",
+        "provenance": {
+          "page": 7,
+          "section_heading": "Factors Associated with Surgical Site Infections",
+          "table_id": "Table 4",
+          "text_snippet": "contaminated (AOR=6.01, 95% CI: 1.77–16.8, p=0.019)"
+        }
+      },
+      {
+        "exposure": "Dirty wound class",
+        "outcome": [
+          "ssi_incidence"
+        ],
+        "effect_measure": "aOR",
+        "effect_value": 7.2,
+        "ci_lower": 1.23,
+        "ci_upper": 12.1,
+        "p_value": 0.029,
+        "adjusted": true,
+        "n_included": 281,
+        "notes": "Dirty wounds associated with increased SSI risk.",
+        "provenance": {
+          "page": 7,
+          "section_heading": "Factors Associated with Surgical Site Infections",
+          "table_id": "Table 4",
+          "text_snippet": "dirty (AOR=7.20, 95% CI: 1.23–12.1, p=0.029)"
+        }
+      },
+      {
+        "exposure": "No prophylactic antibiotics",
+        "outcome": [
+          "ssi_incidence"
+        ],
+        "effect_measure": "aOR",
+        "effect_value": 6.63,
+        "ci_lower": 1.89,
+        "ci_upper": 19.3,
+        "p_value": 0.006,
+        "adjusted": true,
+        "n_included": 281,
+        "notes": "Not receiving prophylactic antibiotics associated with increased SSI risk.",
+        "provenance": {
+          "page": 7,
+          "section_heading": "Factors Associated with Surgical Site Infections",
+          "table_id": "Table 4",
+          "text_snippet": "devoid of prophylactic antibiotics (AOR=6.63, 95% CI: 1.89–19.3, p=0.006)"
+        }
+      },
+      {
+        "exposure": "Timing of prophylactic antibiotic administration between 1 hour and 2 hours before incision",
+        "outcome": [
+          "ssi_incidence"
+        ],
+        "effect_measure": "aOR",
+        "effect_value": 8.2,
+        "ci_lower": 4.34,
+        "ci_upper": 18.1,
+        "p_value": 0.001,
+        "adjusted": true,
+        "n_included": 281,
+        "notes": "Timing of SAP 1–2 hours before incision associated with increased SSI risk.",
+        "provenance": {
+          "page": 7,
+          "section_heading": "Factors Associated with Surgical Site Infections",
+          "table_id": "Table 4",
+          "text_snippet": "timing of prophylactic antibiotic administration between 1 hour and 2 hours before incision (AOR=8.2, 95% CI: 4.34–18.1, p=0.001)"
+        }
+      },
+      {
+        "exposure": "48 hours duration of surgical antimicrobial prophylaxis",
+        "outcome": [
+          "ssi_incidence"
+        ],
+        "effect_measure": "aOR",
+        "effect_value": 7.2,
+        "ci_lower": 1.23,
+        "ci_upper": 28.17,
+        "p_value": 0.027,
+        "adjusted": true,
+        "n_included": 281,
+        "notes": "48 hours SAP duration associated with increased SSI risk.",
+        "provenance": {
+          "page": 7,
+          "section_heading": "Factors Associated with Surgical Site Infections",
+          "table_id": "Table 4",
+          "text_snippet": "48 hours duration of surgical antimicrobial prophylaxis (AOR=7.20, 95% CI: 1.23–28.17, p=0.027)"
+        }
+      }
+    ]
+  },
+  "interventions": [
+    {
+      "type": "antibiotic_prophylaxis_protocol",
+      "description": "Surgical antibiotic prophylaxis regimens including ceftriaxone, metronidazole, cloxacillin, gentamicin, ciprofloxacillin; timing and duration assessed for appropriateness.",
+      "implementation_level": "facility",
+      "comparator": "No prophylactic antibiotics or inappropriate use",
+      "outcomes_measured": [
+        "ssi_incidence",
+        "risk_factors_effects"
+      ],
+      "effect_direction": "mixed",
+      "provenance": {
+        "page": 6,
+        "section_heading": "Prevalence of Surgical Site Infections",
+        "table_id": "Table 2",
+        "text_snippet": "Surgical antibiotic prophylaxis was administered for more than three-fourth of patients (88.6%)."
+      }
+    }
+  ],
+  "stewardship_guidelines": [
+    {
+      "guideline_name": "WHO SAP guidelines; American Society of Health-System Pharmacists, Infectious Diseases Society of America, Surgical Infection Society, Society for Healthcare Epidemiology of America",
+      "adherence_definition": "Appropriateness assessed by clinical pharmacists based on standard treatment guideline.",
+      "adherence_rate": {
+        "n_adherent": 218,
+        "n_total": 235,
+        "percent": 92.8
+      },
+      "antibiotics_used": [
+        "ceftriaxone",
+        "metronidazole",
+        "cloxacillin",
+        "gentamicin",
+        "ciprofloxacillin"
+      ],
+      "inappropriate_use_definition": "Use of antibiotics not indicated, inappropriate choice, timing, dose, frequency, route, or duration.",
+      "provenance": {
+        "page": 6,
+        "section_heading": "Prevalence of Surgical Site Infections",
+        "table_id": "Table 2",
+        "text_snippet": "Appropriateness of surgical antibiotic prophylaxis was assessed by clinical pharmacists based on the standard treatment guideline."
+      }
+    }
+  ],
+  "policy_capacity": [],
+  "qualitative_thematic": {
+    "codes": [
+      {
+        "theme": "burden_incidence",
+        "subtheme": "epidemiology of SSI",
+        "summary": "SSI prevalence was high (19.6%) among surgical patients at a tertiary hospital in Ethiopia.",
+        "evidence_quotes": [
+          {
+            "quote": "The present study showed that 19.6% (95% CI: 18–21.1) of patients developed SSIs.",
+            "page": 5,
+            "section": "Prevalence of Surgical Site Infections"
+          }
+        ],
+        "location_context": "Finote Selam General Hospital, Ethiopia",
+        "confidence": "high",
+        "provenance": {
+          "page": 5,
+          "section_heading": "Prevalence of Surgical Site Infections",
+          "text_snippet": "The present study showed that 19.6% (95% CI: 18–21.1) of patients developed SSIs."
+        }
+      },
+      {
+        "theme": "drivers_amr",
+        "subtheme": "inappropriate use, IPC gaps",
+        "summary": "Inappropriate timing and duration of prophylactic antibiotics, and lack of adequate infection control systems, were identified as drivers of SSI.",
+        "evidence_quotes": [
+          {
+            "quote": "The higher prevalence of SSI in our setting could be due to the lack of adequate infection control systems, poor practices, and inappropriate use of antibiotics.",
+            "page": 6,
+            "section": "Discussion"
+          }
+        ],
+        "location_context": "Finote Selam General Hospital, Ethiopia",
+        "confidence": "moderate",
+        "provenance": {
+          "page": 6,
+          "section_heading": "Discussion",
+          "text_snippet": "The higher prevalence of SSI in our setting could be due to the lack of adequate infection control systems, poor practices, and inappropriate use of antibiotics."
+        }
+      },
+      {
+        "theme": "prevention_control",
+        "subtheme": "IPC programs, bundles, surveillance practices",
+        "summary": "Adherence to recommended guidelines for SAP timing and duration is necessary to reduce SSI risk.",
+        "evidence_quotes": [
+          {
+            "quote": "Healthcare professionals should consider the above risk factors while they are undergoing surgical procedures. They should also adhere to the recommended treatment guideline to prescribe appropriate prophylactic surgical antibiotics.",
+            "page": 8,
+            "section": "Conclusion"
+          }
+        ],
+        "location_context": "Finote Selam General Hospital, Ethiopia",
+        "confidence": "moderate",
+        "provenance": {
+          "page": 8,
+          "section_heading": "Conclusion",
+          "text_snippet": "They should also adhere to the recommended treatment guideline to prescribe appropriate prophylactic surgical antibiotics."
+        }
+      },
+      {
+        "theme": "treatment_prophylaxis",
+        "subtheme": "prophylaxis regimens, therapeutic choices, adherence",
+        "summary": "Ceftriaxone and metronidazole were the most frequently used prophylactic antibiotics; 7.2% of regimens were inappropriate.",
+        "evidence_quotes": [
+          {
+            "quote": "Ceftriaxone and metronidazole (45.4%), and ceftriaxone (33.3%) were the most frequently used prophylactic antibiotics. Of the prescribed antibiotics, 7.2% were inappropriate.",
+            "page": 6,
+            "section": "Prevalence of Surgical Site Infections"
+          }
+        ],
+        "location_context": "Finote Selam General Hospital, Ethiopia",
+        "confidence": "high",
+        "provenance": {
+          "page": 6,
+          "section_heading": "Prevalence of Surgical Site Infections",
+          "table_id": "Table 3",
+          "text_snippet": "Ceftriaxone and metronidazole (45.4%), and ceftriaxone (33.3%) were the most frequently used prophylactic antibiotics."
+        }
+      },
+      {
+        "theme": "evidence_gaps",
+        "subtheme": "explicit gaps and research priorities",
+        "summary": "There is a paucity of data on SSI and antibiotic use in Northwest Ethiopia.",
+        "evidence_quotes": [
+          {
+            "quote": "Although several studies have been conducted on SSIs, with significant variations in different regions, there was a paucity of data in the Northwest part of Ethiopia.",
+            "page": 3,
+            "section": "Introduction"
+          }
+        ],
+        "location_context": "Northwest Ethiopia",
+        "confidence": "high",
+        "provenance": {
+          "page": 3,
+          "section_heading": "Introduction",
+          "text_snippet": "there was a paucity of data in the Northwest part of Ethiopia."
+        }
+      }
+    ],
+    "method": "document_review"
+  },
+  "risk_of_bias": {
+    "tool_used": "not_reported",
+    "domain_judgements": {},
+    "overall_judgement": "not_reported",
+    "provenance": {
+      "text_snippet": "No risk of bias assessment reported."
+    }
+  },
+  "funding_conflicts": {
+    "funding_sources": [],
+    "conflicts_of_interest": "The authors declare that they have no competing interests.",
+    "provenance": {
+      "page": 9,
+      "section_heading": "Disclosure",
+      "text_snippet": "The authors declare that they have no competing interests."
+    }
+  },
+  "notes_flags": [
+    {
+      "type": [
+        "missing_data"
+      ],
+      "detail": "No AMR laboratory data or resistance proportions reported.",
+      "provenance": {
+        "text_snippet": "No AMR laboratory data or resistance proportions reported."
+      }
+    },
+    {
+      "type": [
+        "missing_data"
+      ],
+      "detail": "No mortality, reoperation, or readmission outcomes reported.",
+      "provenance": {
+        "text_snippet": "No mortality, reoperation, or readmission outcomes reported."
+      }
+    },
+    {
+      "type": [
+        "missing_data"
+      ],
+      "detail": "No laboratory methods or specimen types described.",
+      "provenance": {
+        "text_snippet": "No laboratory methods or specimen types described."
+      }
+    },
+    {
+      "type": [
+        "unit_unclear"
+      ],
+      "detail": "Length of stay only reported in categorical days, not as mean/median.",
+      "provenance": {
+        "page": 5,
+        "section_heading": "Socio-Demographic and Clinical Characteristics",
+        "table_id": "Table 1",
+        "text_snippet": "Preoperative duration of hospitalization ≤1 day: 74.0%; >1 day: 26.0%. Postoperative duration: 1 day: 3.2%; 2 days: 40.2%; 3 days: 45.6%; 4 days: 11%."
+      }
+    }
+  ],
+  "provenance_index": [
+    {
+      "page": 5,
+      "section_heading": "Socio-Demographic and Clinical Characteristics",
+      "table_id": "Table 1",
+      "text_snippet": "In this study, 281 patients were assessed for SSI and appropriateness of surgical antibiotic prophylaxis use."
+    },
+    {
+      "page": 5,
+      "section_heading": "Prevalence of Surgical Site Infections",
+      "text_snippet": "The present study showed that 19.6% (95% CI: 18–21.1) of patients developed SSIs."
+    },
+    {
+      "page": 6,
+      "section_heading": "Prevalence of Surgical Site Infections",
+      "table_id": "Table 2",
+      "text_snippet": "Surgical antibiotic prophylaxis was administered for more than three-fourth of patients (88.6%)."
+    },
+    {
+      "page": 6,
+      "section_heading": "Prevalence of Surgical Site Infections",
+      "table_id": "Table 3",
+      "text_snippet": "Ceftriaxone and metronidazole (45.4%), and ceftriaxone (33.3%) were the most frequently used prophylactic antibiotics."
+    },
+    {
+      "page": 7,
+      "section_heading": "Factors Associated with Surgical Site Infections",
+      "table_id": "Table 4",
+      "text_snippet": "presence of comorbidity (AOR=9.18, 95% CI: 5.17–17.9, p<0.001)"
+    },
+    {
+      "page": 6,
+      "section_heading": "Discussion",
+      "text_snippet": "The higher prevalence of SSI in our setting could be due to the lack of adequate infection control systems, poor practices, and inappropriate use of antibiotics."
+    },
+    {
+      "page": 8,
+      "section_heading": "Conclusion",
+      "text_snippet": "They should also adhere to the recommended treatment guideline to prescribe appropriate prophylactic surgical antibiotics."
+    },
+    {
+      "page": 3,
+      "section_heading": "Introduction",
+      "text_snippet": "there was a paucity of data in the Northwest part of Ethiopia."
+    },
+    {
+      "page": 9,
+      "section_heading": "Disclosure",
+      "text_snippet": "The authors declare that they have no competing interests."
+    }
+  ],
+  "extraction_summary": {
+    "completeness_score": 65,
+    "missing_fields": [
+      "amr_proportions",
+      "lab_methods",
+      "mortality",
+      "reoperations",
+      "readmissions",
+      "costs",
+      "morbidity",
+      "policy_capacity",
+      "risk_of_bias (tool, domains)",
+      "length_of_stay (mean/median)",
+      "specimen_type"
+    ],
+    "parser_warnings": [
+      "No AMR laboratory data reported.",
+      "No clinical outcome data for mortality, reoperation, or readmission.",
+      "No laboratory methods described.",
+      "Length of stay only reported in categories."
+    ],
+    "confidence_overall": "moderate"
+  }
+}

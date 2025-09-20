@@ -1,0 +1,658 @@
+{
+  "study": {
+    "study_id": "Mengesha2014-Ethiopia-Ayder-2012-1",
+    "title": "Aerobic bacteria in post surgical wound infections and pattern of their antimicrobial susceptibility in Ayder Teaching and Referral Hospital, Mekelle, Ethiopia",
+    "authors": [
+      "Reiye Esayas Mengesha",
+      "Berhe Gebre-Slassie Kasa",
+      "Muthupandian Saravanan",
+      "Derbew Fikadu Berhe",
+      "Araya Gebreyesus Wasihun"
+    ],
+    "journal": "BMC Research Notes",
+    "year_publication": 2014,
+    "doi": "10.1186/1756-0500-7-575",
+    "country_list": [
+      "Ethiopia"
+    ],
+    "country_iso3": "ETH",
+    "region_classification": "ECSA",
+    "surgical_specialty": [
+      "general",
+      "orthopedics"
+    ],
+    "language": "English",
+    "data_source_type": "published_full_text",
+    "ownership_type": "public"
+  },
+  "design": {
+    "study_design": "cross_sectional",
+    "randomized": false,
+    "prospective": true,
+    "single_center": true,
+    "multi_center": false,
+    "inclusion_criteria_text": "Patients who had undergone surgery in general surgery and orthopaedic wards, and showed symptoms of infection clinically within 30 days of post surgical procedure.",
+    "exclusion_criteria_text": "Surgical patients with community-acquired pyogenic infections such as abscess, furuncle and carbuncles; patients with infection of an episiotomy; and patients with open fractures.",
+    "sample_frame": "patients",
+    "unit_of_analysis": "patient",
+    "duplicate_publication_likelihood": false
+  },
+  "setting": {
+    "facility_level": "tertiary",
+    "urban_rural": "unspecified",
+    "care_setting": "hospital",
+    "country_specific_sites": [
+      "Ayder Teaching and Referral Hospital, Mekelle"
+    ]
+  },
+  "eligibility": {
+    "population": "Patients who had undergone surgery in general surgery and orthopaedic wards, and showed symptoms of infection clinically within 30 days of post surgical procedure.",
+    "classification": "adult",
+    "intervention": "Pre-surgical antibiotic prophylaxis (Ceftriazone, Cloxacilline, or both)",
+    "comparator": "None specified",
+    "outcomes_reported": [
+      "ssi_incidence",
+      "amr_prevalence",
+      "risk_factors_effects"
+    ],
+    "timeframe_years": "January to June 2012",
+    "setting_types": [
+      "hospital",
+      "surgical_unit",
+      "ward"
+    ],
+    "included_designs": [
+      "cross_sectional"
+    ],
+    "excluded_designs": [
+      "case_control",
+      "rct",
+      "surveillance",
+      "other"
+    ],
+    "provenance": {
+      "page": 2,
+      "section_heading": "Methods",
+      "text_snippet": "Hospital based cross sectional study"
+    }
+  },
+  "timeframe": {
+    "data_collection_start_year": 2012,
+    "data_collection_start_month": 1,
+    "data_collection_end_year": 2012,
+    "data_collection_end_month": 6,
+    "follow_up_window_days": 30
+  },
+  "populations": [
+    {
+      "arm_id": "overall",
+      "description": "All patients with post-surgical wound infection enrolled in Ayder Teaching and Referral Hospital, Mekelle, Ethiopia, January-June 2012.",
+      "n_participants": 128,
+      "age_group": "adult",
+      "elective_emergency": "mixed",
+      "wound_class": "unspecified",
+      "surgical_specialties": [
+        "general",
+        "orthopedics"
+      ],
+      "provenance": {
+        "page": 3,
+        "section_heading": "Results",
+        "text_snippet": "A total of 128 patients (98 male and 30 female) with clinical signs of post surgical wound infections were enrolled."
+      }
+    }
+  ],
+  "definitions": {
+    "ssi_definition_standard": "study_defined",
+    "ssi_window_days": 30,
+    "amr_definition_standard": "CLSI",
+    "breakpoint_version": "CLSI 2011",
+    "resistance_definition_text": "Standard disc diffusion technique for drug susceptibility test (DST) as recommended by Clinical and Laboratory Standard Institute (CLSI).",
+    "outcome_definitions_text": "Postoperative wound infection: infection in the tissues of the incision and operative area that commonly occurs between the fifth and 30th days after surgery.",
+    "specimen_type": [
+      "wound_swab"
+    ],
+    "provenance": {
+      "page": 2,
+      "section_heading": "Methods",
+      "text_snippet": "Standard bacteriological methods were used for bacterial isolation and antimicrobial susceptibility pattern."
+    }
+  },
+  "lab_methods": {
+    "specimen_collection_method": "Two wound swabs collected using sterile cotton swabs from each patient, cleaned with normal saline and sterile gauze.",
+    "culture_method": "First swab for Gram stain; second swab inoculated into blood agar, MacConkey agar, and mannitol-salt agar, incubated at 37°C for 24–48 hours.",
+    "AST_method": [
+      "disk_diffusion"
+    ],
+    "QC_measures": "Reference strains P.aeruginosa (ATCC-27853), E.coli (ATCC-25922), S.aureus (ATCC-25923) used for identification and drug susceptibility testing.",
+    "organism_identification_method": "Gram stain, hemolytic activity, catalase reaction, coagulase test for Gram-positive; colony morphology, oxidase, TSI, SIM, citrate, urease for Gram-negative.",
+    "provenance": {
+      "page": 2,
+      "section_heading": "Methods",
+      "text_snippet": "Standard disc diffusion technique for drug susceptibility test (DST) was performed as recommended by Clinical and Laboratory Standard Institute (CLSI) [15]."
+    }
+  },
+  "outcomes": {
+    "ssi_incidence": [
+      {
+        "arm_id": "overall",
+        "denominator_type": "patients",
+        "ssi_type": "overall",
+        "n_ssi_events": 96,
+        "n_total": 128,
+        "rate_as_reported": {
+          "value": 75.0,
+          "unit": "percent"
+        },
+        "ascertainment_window_days": 30,
+        "data_period": {
+          "start_year": 2012,
+          "end_year": 2012
+        },
+        "subgroup_labels": {
+          "country": "Ethiopia",
+          "facility_level": "tertiary",
+          "setting": "hospital"
+        },
+        "notes": "SSI defined as infection within 30 days post-surgery; only aerobic bacteria cultured.",
+        "provenance": {
+          "page": 3,
+          "section_heading": "Results",
+          "text_snippet": "Bacterial growth was seen in 96/128(75%) of the patients yielding a total of 123 bacterial isolates."
+        }
+      }
+    ],
+    "amr_proportions": [
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "gentamicin",
+        "who_class": "critically_important",
+        "n_tested": 40,
+        "n_resistant": 4,
+        "n_susceptible": 36,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2011",
+        "specimen_type": "wound_swab",
+        "site": "surgical site/wound",
+        "data_period": {
+          "start_year": 2012,
+          "end_year": 2012
+        },
+        "zone_diameter_unit": "mm",
+        "notes": "100% susceptible to vancomycin; 90% resistant to tetracycline, ceftriazone, ampicillin.",
+        "provenance": {
+          "page": 4,
+          "table_id": "Table 3",
+          "text_snippet": "Gentamicin 4 (22.2)"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "vancomycin",
+        "who_class": "critically_important",
+        "n_tested": 40,
+        "n_resistant": 0,
+        "n_susceptible": 40,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2011",
+        "specimen_type": "wound_swab",
+        "site": "surgical site/wound",
+        "data_period": {
+          "start_year": 2012,
+          "end_year": 2012
+        },
+        "zone_diameter_unit": "mm",
+        "notes": "All S. aureus isolates were sensitive to vancomycin.",
+        "provenance": {
+          "page": 4,
+          "table_id": "Table 3",
+          "text_snippet": "Vancomycin -----"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Klebsiella spp.",
+        "antibiotic": "gentamicin",
+        "who_class": "critically_important",
+        "n_tested": 29,
+        "n_resistant": 8,
+        "n_susceptible": 21,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2011",
+        "specimen_type": "wound_swab",
+        "site": "surgical site/wound",
+        "data_period": {
+          "start_year": 2012,
+          "end_year": 2012
+        },
+        "zone_diameter_unit": "mm",
+        "notes": "27.8% resistant to gentamicin.",
+        "provenance": {
+          "page": 4,
+          "table_id": "Table 2",
+          "text_snippet": "Gentamicin 8 (27.8)"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Pseudomonas aeruginosa",
+        "antibiotic": "gentamicin",
+        "who_class": "critically_important",
+        "n_tested": 11,
+        "n_resistant": 0,
+        "n_susceptible": 11,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2011",
+        "specimen_type": "wound_swab",
+        "site": "surgical site/wound",
+        "data_period": {
+          "start_year": 2012,
+          "end_year": 2012
+        },
+        "zone_diameter_unit": "mm",
+        "notes": "All P. aeruginosa isolates were sensitive to gentamicin.",
+        "provenance": {
+          "page": 4,
+          "table_id": "Table 2",
+          "text_snippet": "Gentamicin ------"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Coagulase-negative staphylococci",
+        "antibiotic": "vancomycin",
+        "who_class": "critically_important",
+        "n_tested": 18,
+        "n_resistant": 0,
+        "n_susceptible": 18,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2011",
+        "specimen_type": "wound_swab",
+        "site": "surgical site/wound",
+        "data_period": {
+          "start_year": 2012,
+          "end_year": 2012
+        },
+        "zone_diameter_unit": "mm",
+        "notes": "All CoNS isolates were sensitive to vancomycin.",
+        "provenance": {
+          "page": 4,
+          "table_id": "Table 3",
+          "text_snippet": "Vancomycin ----"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Gram-negative bacteria (aggregate)",
+        "antibiotic": "gentamicin",
+        "who_class": "critically_important",
+        "n_tested": 65,
+        "n_resistant": 11,
+        "n_susceptible": 54,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2011",
+        "specimen_type": "wound_swab",
+        "site": "surgical site/wound",
+        "data_period": {
+          "start_year": 2012,
+          "end_year": 2012
+        },
+        "zone_diameter_unit": "mm",
+        "notes": "83.1% of Gram negative isolates were sensitive to gentamicin.",
+        "provenance": {
+          "page": 1,
+          "section_heading": "Abstract",
+          "text_snippet": "54/ 65 (83.1%) of Gram negative ... sensitive to Gentamicin"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Gram-positive bacteria (aggregate)",
+        "antibiotic": "vancomycin",
+        "who_class": "critically_important",
+        "n_tested": 58,
+        "n_resistant": 0,
+        "n_susceptible": 58,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2011",
+        "specimen_type": "wound_swab",
+        "site": "surgical site/wound",
+        "data_period": {
+          "start_year": 2012,
+          "end_year": 2012
+        },
+        "zone_diameter_unit": "mm",
+        "notes": "100% of Gram positive isolates were sensitive to vancomycin.",
+        "provenance": {
+          "page": 1,
+          "section_heading": "Abstract",
+          "text_snippet": "58/58 (100%) of Gram positive isolates were sensitive to Gentamicin and Vancomycin, respectively."
+        }
+      }
+    ],
+    "morbidity": [],
+    "mortality": [],
+    "reoperations": [],
+    "readmissions": [],
+    "length_of_stay": [],
+    "costs": [],
+    "risk_factors_effects": [
+      {
+        "exposure": "Longer duration from admission to discharge (>14 days)",
+        "outcome": "ssi_incidence",
+        "effect_measure": "aOR",
+        "effect_value": 4.92,
+        "ci_lower": 3.62,
+        "ci_upper": 6.96,
+        "p_value": 0.008,
+        "adjusted": true,
+        "n_included": 96,
+        "notes": "Multivariate logistic regression analysis for factors associated with bacterial isolation from post operative patients.",
+        "provenance": {
+          "page": 5,
+          "table_id": "Table 4",
+          "text_snippet": "Duration from operation to discharge >14 days 4.92 (3.62-6.96) p=0.008"
+        }
+      },
+      {
+        "exposure": "Wound class III",
+        "outcome": "ssi_incidence",
+        "effect_measure": "aOR",
+        "effect_value": 3.92,
+        "ci_lower": 1.73,
+        "ci_upper": 5.77,
+        "p_value": 0.029,
+        "adjusted": true,
+        "n_included": 96,
+        "notes": "Wound class III associated with higher odds of bacterial isolation.",
+        "provenance": {
+          "page": 5,
+          "table_id": "Table 4",
+          "text_snippet": "Class III 3.92 (1.73 - 5.77)"
+        }
+      },
+      {
+        "exposure": "Wound class IV",
+        "outcome": "ssi_incidence",
+        "effect_measure": "aOR",
+        "effect_value": 5.41,
+        "ci_lower": 2.81,
+        "ci_upper": 4.91,
+        "p_value": 0.029,
+        "adjusted": true,
+        "n_included": 96,
+        "notes": "Wound class IV associated with higher odds of bacterial isolation.",
+        "provenance": {
+          "page": 5,
+          "table_id": "Table 4",
+          "text_snippet": "Class IV 5.41 (2.81-4.91)"
+        }
+      },
+      {
+        "exposure": "Orthopaedic ward",
+        "outcome": "ssi_incidence",
+        "effect_measure": "aOR",
+        "effect_value": 4.13,
+        "ci_lower": 1.18,
+        "ci_upper": 3.1,
+        "p_value": 0.012,
+        "adjusted": true,
+        "n_included": 96,
+        "notes": "Orthopaedic ward associated with higher odds of bacterial isolation.",
+        "provenance": {
+          "page": 5,
+          "table_id": "Table 4",
+          "text_snippet": "Orthopaedic 4.13 (1.18 – 3.10) p=0.012"
+        }
+      },
+      {
+        "exposure": "Emergency operation",
+        "outcome": "ssi_incidence",
+        "effect_measure": "aOR",
+        "effect_value": 5.71,
+        "ci_lower": 2.09,
+        "ci_upper": 5.38,
+        "p_value": 0.038,
+        "adjusted": true,
+        "n_included": 96,
+        "notes": "Emergency operation associated with higher odds of bacterial isolation.",
+        "provenance": {
+          "page": 5,
+          "table_id": "Table 4",
+          "text_snippet": "Emergency 5.71 (2.09-5.38)"
+        }
+      }
+    ]
+  },
+  "interventions": [
+    {
+      "type": "antibiotic_prophylaxis_protocol",
+      "description": "Pre-surgical antibiotic prophylaxis with Cloxacilline, Ceftriazone, or both.",
+      "implementation_level": "facility",
+      "outcomes_measured": [
+        "ssi_incidence",
+        "amr_prevalence"
+      ],
+      "effect_direction": "harm",
+      "provenance": {
+        "page": 3,
+        "section_heading": "Results",
+        "text_snippet": "Sixty (46.87%), 36(28.12%) and 31(24.2%) of the patients were given Ceftriazone, Cloxacilline and combination of both, respectively for pre-surgical prophylaxis."
+      }
+    }
+  ],
+  "stewardship_guidelines": [],
+  "policy_capacity": [],
+  "qualitative_thematic": {
+    "codes": [
+      {
+        "theme": "burden_incidence",
+        "subtheme": "epidemiology of SSI (incidence, trends)",
+        "summary": "High prevalence of post-surgical wound infection (75%) observed in Ayder Teaching and Referral Hospital.",
+        "evidence_quotes": [
+          {
+            "quote": "Prevalence of was Post-operative wound infections rate in this current study was 75%",
+            "page": 1,
+            "section": "Abstract"
+          }
+        ],
+        "location_context": "Ethiopia, Ayder Teaching and Referral Hospital",
+        "confidence": "high",
+        "provenance": {
+          "page": 1,
+          "section_heading": "Abstract"
+        }
+      },
+      {
+        "theme": "amr_prevalence",
+        "subtheme": "resistance patterns and rates by pathogen/antibiotic",
+        "summary": "High rates of multidrug resistance (82.92%) among isolates, with most Gram-negative and Gram-positive bacteria sensitive only to gentamicin and vancomycin, respectively.",
+        "evidence_quotes": [
+          {
+            "quote": "multi drug resistance was seen in 102/123(82.92%) of the isolates leaving clinicians with few choices of drugs for the treatment of post surgical wound infected patients.",
+            "page": 1,
+            "section": "Abstract"
+          }
+        ],
+        "location_context": "Ethiopia, Ayder Teaching and Referral Hospital",
+        "confidence": "high",
+        "provenance": {
+          "page": 1,
+          "section_heading": "Abstract"
+        }
+      },
+      {
+        "theme": "drivers_amr",
+        "subtheme": "inappropriate use",
+        "summary": "Indiscriminate use and easy availability of antibiotics may contribute to high resistance rates.",
+        "evidence_quotes": [
+          {
+            "quote": "This remarkably higher resistance may be due to their easily availability and indiscriminate use of the drugs without proper prescription.",
+            "page": 5,
+            "section": "Discussion"
+          }
+        ],
+        "location_context": "Ethiopia, Ayder Teaching and Referral Hospital",
+        "confidence": "moderate",
+        "provenance": {
+          "page": 5,
+          "section_heading": "Discussion"
+        }
+      },
+      {
+        "theme": "prevention_control",
+        "subtheme": "surveillance practices",
+        "summary": "Periodic surveillance of bacteria and antibiotic susceptibility is recommended to prevent further emergence and spread of resistant pathogens.",
+        "evidence_quotes": [
+          {
+            "quote": "Therefore, periodic surveillance of bacteria and antibiotic susceptibility is important to prevent further emergence and spread of resistant bacteria pathogens.",
+            "page": 6,
+            "section": "Conclusion"
+          }
+        ],
+        "location_context": "Ethiopia, Ayder Teaching and Referral Hospital",
+        "confidence": "high",
+        "provenance": {
+          "page": 6,
+          "section_heading": "Conclusion"
+        }
+      },
+      {
+        "theme": "evidence_gaps",
+        "subtheme": "explicit gaps and research priorities",
+        "summary": "Lack of data on anaerobic bacteria and fungi in post-surgical wound infections is a limitation.",
+        "evidence_quotes": [
+          {
+            "quote": "The study did not isolate strict anaerobes bacteria and fungi, which could have increased the number of bacterial isolates reported as negative cultures.",
+            "page": 5,
+            "section": "Limitation"
+          }
+        ],
+        "location_context": "Ethiopia, Ayder Teaching and Referral Hospital",
+        "confidence": "high",
+        "provenance": {
+          "page": 5,
+          "section_heading": "Limitation"
+        }
+      }
+    ]
+  },
+  "risk_of_bias": {
+    "tool_used": "not_reported",
+    "domain_judgements": {},
+    "overall_judgement": "not_reported"
+  },
+  "funding_conflicts": {
+    "funding_sources": [
+      "Mekelle University College of Health Sciences grant"
+    ],
+    "conflicts_of_interest": "The authors declare that they have no competing interests.",
+    "provenance": {
+      "page": 6,
+      "section_heading": "Acknowledgement",
+      "text_snippet": "Mekelle University College of Health Sciences for giving grant to conduct the research."
+    }
+  },
+  "notes_flags": [
+    {
+      "type": [
+        "missing_data"
+      ],
+      "detail": "No data on mortality, reoperations, readmissions, length of stay, costs, or stewardship guidelines.",
+      "provenance": {
+        "page": 1,
+        "section_heading": "Abstract"
+      }
+    },
+    {
+      "type": [
+        "unit_unclear"
+      ],
+      "detail": "No explicit mention of bed capacity or surgical volume per year.",
+      "provenance": {
+        "page": 2,
+        "section_heading": "Methods"
+      }
+    },
+    {
+      "type": [
+        "missing_data"
+      ],
+      "detail": "No comorbidity data (e.g., HIV, diabetes) reported.",
+      "provenance": {
+        "page": 3,
+        "section_heading": "Results"
+      }
+    },
+    {
+      "type": [
+        "missing_data"
+      ],
+      "detail": "No information on infection control or stewardship program presence.",
+      "provenance": {
+        "page": 2,
+        "section_heading": "Methods"
+      }
+    }
+  ],
+  "provenance_index": [
+    {
+      "page": 1,
+      "section_heading": "Abstract",
+      "text_snippet": "Prevalence of was Post-operative wound infections rate in this current study was 75%"
+    },
+    {
+      "page": 4,
+      "table_id": "Table 2",
+      "text_snippet": "Antimicrobial resistance pattern of Gram-negative aerobic bacteria"
+    },
+    {
+      "page": 4,
+      "table_id": "Table 3",
+      "text_snippet": "Antimicrobial resistance pattern of Gram-positive aerobic bacteria"
+    },
+    {
+      "page": 5,
+      "table_id": "Table 4",
+      "text_snippet": "Multivariate logistic regression analysis for factors associated with bacterial isolation"
+    },
+    {
+      "page": 6,
+      "section_heading": "Acknowledgement",
+      "text_snippet": "Mekelle University College of Health Sciences for giving grant to conduct the research."
+    }
+  ],
+  "extraction_summary": {
+    "completeness_score": 80,
+    "missing_fields": [
+      "bed_capacity",
+      "surgical_volume_per_year",
+      "comorbidities_key",
+      "mortality",
+      "reoperations",
+      "readmissions",
+      "length_of_stay",
+      "costs",
+      "stewardship_guidelines",
+      "policy_capacity",
+      "lab_capacity_notes",
+      "GLASS_participation",
+      "risk_of_bias"
+    ],
+    "parser_warnings": [
+      "No data on mortality, LOS, costs, or stewardship guidelines.",
+      "No comorbidity data reported.",
+      "No explicit infection control or stewardship program information."
+    ],
+    "confidence_overall": "high"
+  }
+}

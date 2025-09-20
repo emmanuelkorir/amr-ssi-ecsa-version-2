@@ -1,0 +1,543 @@
+{
+  "study": {
+    "study_id": "Habteweld2023-Ethiopia-DebreBerhan-202210202301-01",
+    "title": "Surgical site infection and antimicrobial prophylaxis prescribing profile, and its determinants among hospitalized patients in Northeast Ethiopia: a hospital based cross-sectional study",
+    "authors": [
+      "Habtemariam Alekaw Habteweld",
+      "Mohammed Yimam",
+      "Abate Wondesen Tsige",
+      "Yehualashet Teshome Wondmkun",
+      "Bedilu Linger Endalifer",
+      "Kassahun Dires Ayenew"
+    ],
+    "journal": "Scientific Reports",
+    "year_publication": 2023,
+    "doi": "10.1038/s41598-023-41834-7",
+    "country_list": [
+      "Ethiopia"
+    ],
+    "country_iso3": "ETH",
+    "region_classification": "ECSA",
+    "surgical_specialty": [
+      "general",
+      "orthopedics",
+      "urology",
+      "other"
+    ],
+    "language": "English",
+    "data_source_type": "published_full_text",
+    "ownership_type": "public",
+    "bed_capacity": 39,
+    "surgical_volume_per_year": 960
+  },
+  "design": {
+    "study_design": "cross_sectional",
+    "randomized": false,
+    "prospective": true,
+    "single_center": true,
+    "multi_center": false,
+    "inclusion_criteria_text": "Adult patients of age >18 years, patients on at least one prophylaxis antibiotic, and wounds classified as clean, clean-contaminated, and contaminated.",
+    "exclusion_criteria_text": "Patients who received therapeutic antimicrobials during hospitalization before surgery for a comorbid condition and those with a history of previous admission for a similar surgical procedure were excluded. Patients with incomplete information were also excluded.",
+    "sample_frame": "patients",
+    "unit_of_analysis": "patient",
+    "duplicate_publication_likelihood": false
+  },
+  "setting": {
+    "facility_level": "tertiary",
+    "urban_rural": "urban",
+    "care_setting": "hospital",
+    "country_specific_sites": [
+      "Debre Berhan Comprehensive Specialized Hospital, Debre Berhan, Amhara, Ethiopia"
+    ]
+  },
+  "eligibility": {
+    "population": "Adult patients (>18 years) admitted for surgical procedures, receiving at least one prophylactic antibiotic, with wounds classified as clean, clean-contaminated, or contaminated.",
+    "classification": "adult",
+    "intervention": "Surgical antimicrobial prophylaxis (SAP) with one or two antibiotics, mainly ceftriaxone or ceftriaxone plus metronidazole.",
+    "comparator": "Appropriate vs inappropriate SAP use (selection, timing, duration); no explicit alternative regimens.",
+    "outcomes_reported": [
+      "ssi_incidence",
+      "risk_factors_effects"
+    ],
+    "timeframe_years": "October 1st, 2022 to January 31st, 2023",
+    "setting_types": [
+      "hospital",
+      "surgical_unit"
+    ],
+    "included_designs": [
+      "cross_sectional",
+      "prospective"
+    ],
+    "excluded_designs": [
+      "retrospective",
+      "case_control",
+      "rct",
+      "other"
+    ]
+  },
+  "timeframe": {
+    "data_collection_start_year": 2022,
+    "data_collection_start_month": 10,
+    "data_collection_end_year": 2023,
+    "data_collection_end_month": 1,
+    "follow_up_window_days": 30
+  },
+  "populations": [
+    {
+      "arm_id": "overall",
+      "description": "All eligible adult patients admitted for surgical procedures at DBCSH during study period",
+      "n_participants": 204,
+      "age_group": "adult",
+      "elective_emergency": "mixed",
+      "wound_class": "mixed",
+      "comorbidities_key": "22.1% had comorbidities (hypertension 40%, peptic ulcer disease 22.2%, HIV 13.3%, diabetes 13.3%, others 11.1%)",
+      "surgical_specialties": [
+        "general",
+        "orthopedics",
+        "urology",
+        "other"
+      ],
+      "provenance": {
+        "page": 4,
+        "section_heading": "Socio‑demographic related factor",
+        "table_id": "Table 1",
+        "text_snippet": "A total of 204 patients were assessed... Table 1"
+      }
+    }
+  ],
+  "definitions": {
+    "ssi_definition_standard": [
+      "study_defined"
+    ],
+    "ssi_window_days": 30,
+    "amr_definition_standard": [
+      "unspecified"
+    ],
+    "outcome_definitions_text": "SSI: infection at or near surgical incision within 30 days of operation or after one year in case of implant, confirmed by clinical signs and symptoms. Appropriate SAP: right antimicrobial, indication, timing, duration per guidelines.",
+    "specimen_type": []
+  },
+  "lab_methods": {
+    "lab_capacity_notes": "No culture and sensitivity testing performed; absence noted as limitation."
+  },
+  "outcomes": {
+    "ssi_incidence": [
+      {
+        "arm_id": "overall",
+        "denominator_type": "patients",
+        "ssi_type": "overall",
+        "n_ssi_events": 126,
+        "n_total": 204,
+        "rate_as_reported": {
+          "value": 61.8,
+          "unit": "percent"
+        },
+        "ascertainment_window_days": 30,
+        "data_period": {
+          "start_year": 2022,
+          "end_year": 2023
+        },
+        "subgroup_labels": {
+          "country": "Ethiopia",
+          "facility_level": "tertiary",
+          "setting": "hospital"
+        },
+        "notes": "SSI defined by clinical signs/symptoms; no microbiological confirmation.",
+        "provenance": {
+          "page": 5,
+          "section_heading": "Occurrence of SSI",
+          "table_id": "Table 2",
+          "text_snippet": "Occurrence of SSI. In our study 126 (61.8%) patients have developed SSI"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "denominator_type": "patients",
+        "ssi_type": "superficial",
+        "n_ssi_events": 73,
+        "n_total": 126,
+        "rate_as_reported": {
+          "value": 58,
+          "unit": "percent"
+        },
+        "ascertainment_window_days": 30,
+        "data_period": {
+          "start_year": 2022,
+          "end_year": 2023
+        },
+        "subgroup_labels": {
+          "country": "Ethiopia",
+          "facility_level": "tertiary",
+          "setting": "hospital"
+        },
+        "notes": "Among SSI cases, 58% were superficial incisional.",
+        "provenance": {
+          "page": 5,
+          "section_heading": "Occurrence of SSI",
+          "table_id": "Table 2",
+          "text_snippet": "Type of SSI. Superficial incisional 73 (58%)"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "denominator_type": "patients",
+        "ssi_type": "deep",
+        "n_ssi_events": 53,
+        "n_total": 126,
+        "rate_as_reported": {
+          "value": 42,
+          "unit": "percent"
+        },
+        "ascertainment_window_days": 30,
+        "data_period": {
+          "start_year": 2022,
+          "end_year": 2023
+        },
+        "subgroup_labels": {
+          "country": "Ethiopia",
+          "facility_level": "tertiary",
+          "setting": "hospital"
+        },
+        "notes": "Among SSI cases, 42% were deep incisional.",
+        "provenance": {
+          "page": 5,
+          "section_heading": "Occurrence of SSI",
+          "table_id": "Table 2",
+          "text_snippet": "Type of SSI. Deep incisional 53 (42%)"
+        }
+      }
+    ],
+    "amr_proportions": [],
+    "morbidity": [],
+    "mortality": [],
+    "reoperations": [],
+    "readmissions": [],
+    "length_of_stay": [],
+    "costs": [],
+    "risk_factors_effects": [
+      {
+        "exposure": "Duration of surgery >1 hour",
+        "outcome": [
+          "ssi_incidence"
+        ],
+        "effect_measure": "aOR",
+        "effect_value": 3.39,
+        "ci_lower": 1.24,
+        "ci_upper": 9.3,
+        "adjusted": true,
+        "covariates_adjusted_for": "Multivariable logistic regression; covariates not fully specified.",
+        "n_included": 204,
+        "notes": "Duration >1 hour independently associated with increased SSI risk.",
+        "provenance": {
+          "page": 6,
+          "section_heading": "Determinants of surgical site infection occurrence",
+          "table_id": "Table 3",
+          "text_snippet": "Duration of surgery >1 h, AOR = 3.39 (95% CI: 1.24–9.30)"
+        }
+      },
+      {
+        "exposure": "Inappropriate antimicrobial prophylaxis",
+        "outcome": [
+          "ssi_incidence"
+        ],
+        "effect_measure": "aOR",
+        "effect_value": 6.67,
+        "ci_lower": 1.05,
+        "ci_upper": 42.49,
+        "adjusted": true,
+        "covariates_adjusted_for": "Multivariable logistic regression; covariates not fully specified.",
+        "n_included": 204,
+        "notes": "Inappropriate SAP independently associated with increased SSI risk.",
+        "provenance": {
+          "page": 6,
+          "section_heading": "Determinants of surgical site infection occurrence",
+          "table_id": "Table 3",
+          "text_snippet": "Inappropriate SAP, AOR = 6.67 (95% CI: 1.05–42.49)"
+        }
+      }
+    ]
+  },
+  "interventions": [
+    {
+      "type": "antibiotic_prophylaxis_protocol",
+      "description": "Surgical antimicrobial prophylaxis with ceftriaxone (70.5%), ceftriaxone plus metronidazole (21.9%), metronidazole (5.7%), or ampicillin (1.9%) for prevention of SSI.",
+      "implementation_level": "facility",
+      "comparator": "Appropriate vs inappropriate SAP use (selection, timing, duration)",
+      "outcomes_measured": [
+        "ssi_incidence",
+        "risk_factors_effects"
+      ],
+      "effect_direction": "harm",
+      "quantitative_effect": {
+        "effect_measure": "aOR",
+        "effect_value": 6.67,
+        "ci_lower": 1.05,
+        "ci_upper": 42.49
+      },
+      "provenance": {
+        "page": 6,
+        "section_heading": "Determinants of surgical site infection occurrence",
+        "table_id": "Table 3",
+        "text_snippet": "Inappropriate SAP, AOR = 6.67 (95% CI: 1.05–42.49)"
+      }
+    }
+  ],
+  "stewardship_guidelines": [
+    {
+      "guideline_name": "ASHP, UpToDate v21.6, Ethiopian Ministry of Health",
+      "adherence_definition": "Appropriate SAP: right antimicrobial, indication, timing, duration per guideline.",
+      "adherence_rate": {
+        "n_adherent": 45,
+        "n_total": 204,
+        "percent": 22.1
+      },
+      "antibiotics_used": [
+        {
+          "name": "ceftriaxone",
+          "percent": 70.5
+        },
+        {
+          "name": "ceftriaxone + metronidazole",
+          "percent": 21.9
+        },
+        {
+          "name": "metronidazole",
+          "percent": 5.7
+        },
+        {
+          "name": "ampicillin",
+          "percent": 1.9
+        }
+      ],
+      "inappropriate_use_definition": "Inappropriate selection, timing, or duration of SAP.",
+      "provenance": {
+        "page": 4,
+        "section_heading": "Utilization pattern and appropriateness of SAP",
+        "figure_id": "Figure 2",
+        "text_snippet": "In this study, 159 (77.9%) patients were exposed to inappropriate use of surgical antimicrobial prophylaxis"
+      }
+    }
+  ],
+  "policy_capacity": [
+    {
+      "domain": "lab_capacity",
+      "status_text": "No culture and sensitivity testing performed for SSI diagnosis; absence noted as limitation.",
+      "indicators": {},
+      "provenance": {
+        "page": 7,
+        "section_heading": "Discussion",
+        "text_snippet": "absence of recommended prophylactic antibiotics use due to the lack of a culture and sensitivity study"
+      }
+    }
+  ],
+  "qualitative_thematic": {
+    "codes": [
+      {
+        "theme": "burden_incidence",
+        "subtheme": "epidemiology of SSI",
+        "summary": "SSI incidence was high (61.8%) among surgical patients, with most infections occurring before discharge.",
+        "evidence_quotes": [
+          {
+            "quote": "In our study 126 (61.8%) patients have developed SSI, of which 73 (58%) were superficial incisional SSI and the rest were deep incisional SSI.",
+            "page": 5,
+            "section": "Occurrence of SSI"
+          }
+        ],
+        "location_context": "Debre Berhan Comprehensive Specialized Hospital, Ethiopia",
+        "confidence": "high",
+        "provenance": {
+          "page": 5,
+          "section_heading": "Occurrence of SSI",
+          "table_id": "Table 2",
+          "text_snippet": "Occurrence of SSI. In our study 126 (61.8%) patients have developed SSI"
+        }
+      },
+      {
+        "theme": "drivers_amr",
+        "subtheme": "inappropriate use",
+        "summary": "Inappropriate selection, timing, and duration of SAP were common, with 77.9% of patients exposed to inappropriate prophylaxis.",
+        "evidence_quotes": [
+          {
+            "quote": "In this study, 159 (77.9%) patients were exposed to inappropriate use of surgical antimicrobial prophylaxis as per different guidelines.",
+            "page": 4,
+            "section": "Utilization pattern and appropriateness of SAP"
+          }
+        ],
+        "location_context": "Debre Berhan Comprehensive Specialized Hospital, Ethiopia",
+        "confidence": "high",
+        "provenance": {
+          "page": 4,
+          "section_heading": "Utilization pattern and appropriateness of SAP",
+          "figure_id": "Figure 2",
+          "text_snippet": "In this study, 159 (77.9%) patients were exposed to inappropriate use of surgical antimicrobial prophylaxis"
+        }
+      },
+      {
+        "theme": "prevention_control",
+        "subtheme": "surveillance practices",
+        "summary": "Absence of culture and sensitivity testing and lack of antimicrobial stewardship programs were noted as barriers to effective SSI prevention.",
+        "evidence_quotes": [
+          {
+            "quote": "The higher rate of SSI in the study area despite the institution of surgical antibiotic prophylaxis calls for the consideration of definitive laboratory diagnosis with culture and sensitivity study to come up with recommended antibiotics usage.",
+            "page": 7,
+            "section": "Conclusion"
+          }
+        ],
+        "location_context": "Debre Berhan Comprehensive Specialized Hospital, Ethiopia",
+        "confidence": "moderate",
+        "provenance": {
+          "page": 7,
+          "section_heading": "Conclusion",
+          "text_snippet": "calls for the consideration of definitive laboratory diagnosis with culture and sensitivity study"
+        }
+      },
+      {
+        "theme": "interventions_innovations",
+        "subtheme": "other",
+        "summary": "Recommendation to include clinical pharmacists in surgical ward teams to improve SAP utilization.",
+        "evidence_quotes": [
+          {
+            "quote": "Including clinical pharmacists in the surgical ward service team should be also considered to ensure proper surgical antibiotic prophylaxis utilization.",
+            "page": 7,
+            "section": "Conclusion"
+          }
+        ],
+        "location_context": "Debre Berhan Comprehensive Specialized Hospital, Ethiopia",
+        "confidence": "moderate",
+        "provenance": {
+          "page": 7,
+          "section_heading": "Conclusion",
+          "text_snippet": "Including clinical pharmacists in the surgical ward service team should be also considered"
+        }
+      },
+      {
+        "theme": "evidence_gaps",
+        "subtheme": "explicit gaps and research priorities",
+        "summary": "No microbiological confirmation of SSI; lack of data on AMR patterns and absence of culture and sensitivity testing.",
+        "evidence_quotes": [
+          {
+            "quote": "This means the pathogens responsible for surgical site infections may not have been covered by the prophylactic antibiotics or they may have developed resistance to these agents.",
+            "page": 6,
+            "section": "Discussion"
+          }
+        ],
+        "location_context": "Debre Berhan Comprehensive Specialized Hospital, Ethiopia",
+        "confidence": "high",
+        "provenance": {
+          "page": 6,
+          "section_heading": "Discussion",
+          "text_snippet": "pathogens responsible for surgical site infections may not have been covered"
+        }
+      }
+    ]
+  },
+  "risk_of_bias": {
+    "tool_used": "not_reported",
+    "domain_judgements": {},
+    "overall_judgement": "not_reported",
+    "provenance": {
+      "text_snippet": "No risk of bias assessment reported."
+    }
+  },
+  "funding_conflicts": {
+    "funding_sources": [
+      "This research received no specific grant from any funding agency in the public, commercial, or not-for-profit sectors."
+    ],
+    "conflicts_of_interest": "The authors declare no competing interests.",
+    "provenance": {
+      "page": 9,
+      "section_heading": "Funding",
+      "text_snippet": "This research received no specific grant from any funding agency"
+    }
+  },
+  "notes_flags": [
+    {
+      "type": [
+        "missing_data"
+      ],
+      "detail": "No AMR laboratory data or pathogen-antibiotic resistance proportions reported.",
+      "provenance": {
+        "page": 7,
+        "section_heading": "Discussion",
+        "text_snippet": "absence of recommended prophylactic antibiotics use due to the lack of a culture and sensitivity study"
+      }
+    },
+    {
+      "type": [
+        "unit_unclear"
+      ],
+      "detail": "No explicit mention of AMR definition standard or breakpoint version.",
+      "provenance": {
+        "page": 3,
+        "section_heading": "Operational definitions",
+        "text_snippet": "This is only confirmed by clinical signs and symptoms of surgical site infections."
+      }
+    }
+  ],
+  "provenance_index": [
+    {
+      "page": 4,
+      "section_heading": "Socio‑demographic related factor",
+      "table_id": "Table 1",
+      "text_snippet": "A total of 204 patients were assessed... Table 1"
+    },
+    {
+      "page": 5,
+      "section_heading": "Occurrence of SSI",
+      "table_id": "Table 2",
+      "text_snippet": "Occurrence of SSI. In our study 126 (61.8%) patients have developed SSI"
+    },
+    {
+      "page": 6,
+      "section_heading": "Determinants of surgical site infection occurrence",
+      "table_id": "Table 3",
+      "text_snippet": "Duration of surgery >1 h, AOR = 3.39 (95% CI: 1.24–9.30)"
+    },
+    {
+      "page": 4,
+      "section_heading": "Utilization pattern and appropriateness of SAP",
+      "figure_id": "Figure 2",
+      "text_snippet": "In this study, 159 (77.9%) patients were exposed to inappropriate use of surgical antimicrobial prophylaxis"
+    },
+    {
+      "page": 7,
+      "section_heading": "Conclusion",
+      "text_snippet": "calls for the consideration of definitive laboratory diagnosis with culture and sensitivity study"
+    },
+    {
+      "page": 9,
+      "section_heading": "Funding",
+      "text_snippet": "This research received no specific grant from any funding agency"
+    }
+  ],
+  "extraction_summary": {
+    "completeness_score": 70,
+    "missing_fields": [
+      "amr_proportions",
+      "lab_methods.specimen_collection_method",
+      "lab_methods.culture_method",
+      "lab_methods.AST_method",
+      "lab_methods.organism_identification_method",
+      "lab_methods.GLASS_participation",
+      "mortality",
+      "morbidity",
+      "reoperations",
+      "readmissions",
+      "length_of_stay",
+      "costs",
+      "qualitative_thematic.method",
+      "qualitative_thematic.participants_n",
+      "qualitative_thematic.analysis_approach",
+      "qualitative_thematic.casp_appraisal",
+      "risk_of_bias.tool_used",
+      "risk_of_bias.domain_judgements",
+      "risk_of_bias.overall_judgement"
+    ],
+    "parser_warnings": [
+      "No AMR laboratory data reported; unable to extract pathogen-antibiotic resistance proportions.",
+      "No risk of bias assessment reported.",
+      "No clinical outcome data for mortality, LOS, reoperation, or readmission.",
+      "No laboratory methods or microbiological confirmation of SSI."
+    ],
+    "confidence_overall": "moderate"
+  }
+}

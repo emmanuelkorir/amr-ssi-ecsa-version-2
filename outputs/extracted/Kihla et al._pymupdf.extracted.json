@@ -1,0 +1,741 @@
+{
+  "study": {
+    "study_id": "Akoachere2014-Cameroon-Buea-201010201103-01",
+    "title": "Risk factors for wound infection in health care facilities in Buea, Cameroon: aerobic bacterial pathogens and antibiogram of isolates",
+    "authors": [
+      "Akoachere Jane-Francis Tatah Kihla",
+      "Palle John Ngunde",
+      "Mbianda Soupsop Evelyn",
+      "Nkwelang Gerard",
+      "Roland Ndip Ndip"
+    ],
+    "journal": "Pan African Medical Journal",
+    "year_publication": 2014,
+    "doi": "10.11604/pamj.2014.18.6.2304",
+    "country_list": [
+      "Cameroon"
+    ],
+    "country_iso3": "CMR",
+    "region_classification": "ECSA",
+    "surgical_specialty": [
+      "general",
+      "other"
+    ],
+    "language": "English",
+    "data_source_type": "published_full_text",
+    "ownership_type": "mixed"
+  },
+  "design": {
+    "study_design": "cross_sectional",
+    "randomized": false,
+    "prospective": false,
+    "single_center": false,
+    "multi_center": true,
+    "inclusion_criteria_text": "Hospitalized patients with clinically diagnosed infected wounds (purulent discharge or signs of inflammation), consented to participate.",
+    "exclusion_criteria_text": "Patients not giving consent; wounds not clinically diagnosed as infected.",
+    "sample_frame": "patients",
+    "unit_of_analysis": "patient",
+    "duplicate_publication_likelihood": false
+  },
+  "setting": {
+    "facility_level": "mixed",
+    "urban_rural": "urban",
+    "care_setting": "hospital",
+    "country_specific_sites": [
+      "Mount Mary Health Center",
+      "Regional Hospital Annex"
+    ]
+  },
+  "eligibility": {
+    "population": "Hospitalized patients with clinically diagnosed infected wounds (burns, ulcers, open wounds, post-operative wounds) in Buea, Cameroon.",
+    "classification": "mixed",
+    "intervention": "Not specified; empiric antibiotic treatment and wound care as per local practice.",
+    "comparator": "None specified.",
+    "outcomes_reported": [
+      "ssi_incidence",
+      "amr_prevalence",
+      "morbidity"
+    ],
+    "timeframe_years": "October 2010 to March 2011",
+    "setting_types": [
+      "hospital",
+      "surgical_unit"
+    ],
+    "included_designs": [
+      "cross_sectional"
+    ],
+    "excluded_designs": []
+  },
+  "timeframe": {
+    "data_collection_start_year": 2010,
+    "data_collection_start_month": 10,
+    "data_collection_end_year": 2011,
+    "data_collection_end_month": 3
+  },
+  "populations": [
+    {
+      "arm_id": "overall",
+      "description": "All hospitalized patients with clinically diagnosed infected wounds (burns, ulcers, open wounds, post-operative wounds)",
+      "n_participants": 212,
+      "age_group": "mixed",
+      "elective_emergency": "unspecified",
+      "wound_class": "unspecified",
+      "comorbidities_key": "HIV: 6.6% (14/212); Diabetes: 2.8% (6/212)",
+      "surgical_specialties": [
+        "general",
+        "other"
+      ],
+      "provenance": {
+        "page": 3,
+        "section_heading": "Patients' profiles",
+        "table_id": "Table 1",
+        "text_snippet": "A total of 212 patients presenting with various types of wounds were enrolled in the study from October 2009 to March 2010."
+      }
+    }
+  ],
+  "definitions": {
+    "ssi_definition_standard": "study_defined",
+    "amr_definition_standard": "CLSI",
+    "breakpoint_version": "CLSI 2009",
+    "resistance_definition_text": "Susceptibility determined by disk diffusion technique (Kirby Bauer) per CLSI 2009; resistance defined by zone diameters compared to E. coli ATCC 25922 control.",
+    "outcome_definitions_text": "Infection defined by clinical diagnosis (purulent discharge or signs of inflammation). Morbidity as presence of infection; no explicit definitions for mortality, LOS, readmission, or cost.",
+    "specimen_type": [
+      "wound_swab"
+    ]
+  },
+  "lab_methods": {
+    "specimen_collection_method": "Swabs collected from wounds during dressing before cleaning with antiseptic; sterile Calcium alginate cotton swabs; one sample per patient.",
+    "culture_method": "Inoculation onto Blood agar, MacConkey agar, Nutrient agar, Mannitol Salt agar; aerobic incubation at 37°C for 24-48 hours.",
+    "AST_method": [
+      "disk_diffusion"
+    ],
+    "QC_measures": "Zone diameters compared with E. coli ATCC 25922 control.",
+    "organism_identification_method": "Morphology, colonial and Gram staining, oxidase, catalase, coagulase, motility, Kliger iron agar, API 20E assay.",
+    "contamination_handling": "Avoided contamination with skin flora during swab collection.",
+    "lab_capacity_notes": "No anaerobic cultures performed; limitation noted."
+  },
+  "outcomes": {
+    "ssi_incidence": [
+      {
+        "arm_id": "overall",
+        "denominator_type": "patients",
+        "ssi_type": "overall",
+        "n_ssi_events": 169,
+        "n_total": 212,
+        "rate_as_reported": {
+          "value": 79.7,
+          "unit": "percent"
+        },
+        "data_period": {
+          "start_year": 2010,
+          "end_year": 2011
+        },
+        "subgroup_labels": {
+          "country": "Cameroon",
+          "facility_level": "mixed",
+          "setting": "hospital"
+        },
+        "notes": "Infection defined by clinical diagnosis; includes all wound types.",
+        "provenance": {
+          "page": 3,
+          "section_heading": "Prevalence of bacteria in population",
+          "table_id": "Table 1",
+          "text_snippet": "Bacteria were isolated from 169 (79.7%) specimens (Table 1)."
+        }
+      },
+      {
+        "arm_id": "burns",
+        "denominator_type": "patients",
+        "ssi_type": "overall",
+        "n_ssi_events": 3,
+        "n_total": 3,
+        "rate_as_reported": {
+          "value": 100,
+          "unit": "percent"
+        },
+        "data_period": {
+          "start_year": 2010,
+          "end_year": 2011
+        },
+        "subgroup_labels": {
+          "country": "Cameroon",
+          "facility_level": "mixed",
+          "setting": "hospital"
+        },
+        "notes": "Burn wounds only.",
+        "provenance": {
+          "page": 7,
+          "section_heading": "Table 1: Risk factors of wound infection",
+          "table_id": "Table 1",
+          "text_snippet": "Burns 3 3 (100)"
+        }
+      },
+      {
+        "arm_id": "ulcers",
+        "denominator_type": "patients",
+        "ssi_type": "overall",
+        "n_ssi_events": 13,
+        "n_total": 15,
+        "rate_as_reported": {
+          "value": 86.7,
+          "unit": "percent"
+        },
+        "data_period": {
+          "start_year": 2010,
+          "end_year": 2011
+        },
+        "subgroup_labels": {
+          "country": "Cameroon",
+          "facility_level": "mixed",
+          "setting": "hospital"
+        },
+        "notes": "Ulcer wounds only.",
+        "provenance": {
+          "page": 7,
+          "section_heading": "Table 1: Risk factors of wound infection",
+          "table_id": "Table 1",
+          "text_snippet": "Ulcers 15 13 (86.7)"
+        }
+      },
+      {
+        "arm_id": "postoperative",
+        "denominator_type": "patients",
+        "ssi_type": "overall",
+        "n_ssi_events": 23,
+        "n_total": 29,
+        "rate_as_reported": {
+          "value": 79.3,
+          "unit": "percent"
+        },
+        "data_period": {
+          "start_year": 2010,
+          "end_year": 2011
+        },
+        "subgroup_labels": {
+          "country": "Cameroon",
+          "facility_level": "mixed",
+          "setting": "hospital"
+        },
+        "notes": "Post-operative wounds only.",
+        "provenance": {
+          "page": 7,
+          "section_heading": "Table 1: Risk factors of wound infection",
+          "table_id": "Table 1",
+          "text_snippet": "Post-operative 29 23 (79.3)"
+        }
+      },
+      {
+        "arm_id": "open_wounds",
+        "denominator_type": "patients",
+        "ssi_type": "overall",
+        "n_ssi_events": 130,
+        "n_total": 165,
+        "rate_as_reported": {
+          "value": 78.8,
+          "unit": "percent"
+        },
+        "data_period": {
+          "start_year": 2010,
+          "end_year": 2011
+        },
+        "subgroup_labels": {
+          "country": "Cameroon",
+          "facility_level": "mixed",
+          "setting": "hospital"
+        },
+        "notes": "Open wounds only.",
+        "provenance": {
+          "page": 7,
+          "section_heading": "Table 1: Risk factors of wound infection",
+          "table_id": "Table 1",
+          "text_snippet": "Open Wounds 165 130 (78.8)"
+        }
+      }
+    ],
+    "amr_proportions": [
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "ofloxacin",
+        "who_class": "critically_important",
+        "n_tested": 48,
+        "n_resistant": 0,
+        "n_susceptible": 48,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2009",
+        "specimen_type": "wound_swab",
+        "site": "wound",
+        "data_period": {
+          "start_year": 2010,
+          "end_year": 2011
+        },
+        "mdr_definition_text": "Resistance to at least two drugs (excluding oxacillin)",
+        "zone_diameter_unit": "mm",
+        "notes": "100% susceptible to ofloxacin",
+        "provenance": {
+          "page": 8,
+          "section_heading": "Table 4: Antibiotic susceptibility of isolates (%)",
+          "table_id": "Table 4",
+          "text_snippet": "Staph.aur au 100"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "oxacillin",
+        "who_class": "critically_important",
+        "n_tested": 48,
+        "n_resistant": 48,
+        "n_susceptible": 0,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2009",
+        "specimen_type": "wound_swab",
+        "site": "wound",
+        "data_period": {
+          "start_year": 2010,
+          "end_year": 2011
+        },
+        "mdr_definition_text": "Resistance to at least two drugs (excluding oxacillin)",
+        "zone_diameter_unit": "mm",
+        "notes": "100% resistant to oxacillin",
+        "provenance": {
+          "page": 8,
+          "section_heading": "Table 4: Antibiotic susceptibility of isolates (%)",
+          "table_id": "Table 4",
+          "text_snippet": "Staph.aur au ... OX 0"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "gentamicin",
+        "who_class": "critically_important",
+        "n_tested": 48,
+        "n_resistant": 6,
+        "n_susceptible": 42,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2009",
+        "specimen_type": "wound_swab",
+        "site": "wound",
+        "data_period": {
+          "start_year": 2010,
+          "end_year": 2011
+        },
+        "mdr_definition_text": "Resistance to at least two drugs (excluding oxacillin)",
+        "zone_diameter_unit": "mm",
+        "notes": "87.5% susceptible to gentamicin",
+        "provenance": {
+          "page": 8,
+          "section_heading": "Table 4: Antibiotic susceptibility of isolates (%)",
+          "table_id": "Table 4",
+          "text_snippet": "Staph.aur au ... GEN 87.5"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Pseudomonas aeruginosa",
+        "antibiotic": "ofloxacin",
+        "who_class": "critically_important",
+        "n_tested": 39,
+        "n_resistant": 0,
+        "n_susceptible": 39,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2009",
+        "specimen_type": "wound_swab",
+        "site": "wound",
+        "data_period": {
+          "start_year": 2010,
+          "end_year": 2011
+        },
+        "mdr_definition_text": "Resistance to at least two drugs (excluding oxacillin)",
+        "zone_diameter_unit": "mm",
+        "notes": "100% susceptible to ofloxacin",
+        "provenance": {
+          "page": 8,
+          "section_heading": "Table 4: Antibiotic susceptibility of isolates (%)",
+          "table_id": "Table 4",
+          "text_snippet": "P .aerug 100"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Pseudomonas aeruginosa",
+        "antibiotic": "gentamicin",
+        "who_class": "critically_important",
+        "n_tested": 39,
+        "n_resistant": 10,
+        "n_susceptible": 29,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2009",
+        "specimen_type": "wound_swab",
+        "site": "wound",
+        "data_period": {
+          "start_year": 2010,
+          "end_year": 2011
+        },
+        "mdr_definition_text": "Resistance to at least two drugs (excluding oxacillin)",
+        "zone_diameter_unit": "mm",
+        "notes": "74.4% susceptible to gentamicin",
+        "provenance": {
+          "page": 8,
+          "section_heading": "Table 4: Antibiotic susceptibility of isolates (%)",
+          "table_id": "Table 4",
+          "text_snippet": "P .aerug ... GEN 74.4"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Klebsiella pneumoniae",
+        "antibiotic": "ofloxacin",
+        "who_class": "critically_important",
+        "n_tested": 22,
+        "n_resistant": 0,
+        "n_susceptible": 22,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2009",
+        "specimen_type": "wound_swab",
+        "site": "wound",
+        "data_period": {
+          "start_year": 2010,
+          "end_year": 2011
+        },
+        "mdr_definition_text": "Resistance to at least two drugs (excluding oxacillin)",
+        "zone_diameter_unit": "mm",
+        "notes": "100% susceptible to ofloxacin",
+        "provenance": {
+          "page": 8,
+          "section_heading": "Table 4: Antibiotic susceptibility of isolates (%)",
+          "table_id": "Table 4",
+          "text_snippet": "K.pneum 100"
+        }
+      }
+    ],
+    "morbidity": [
+      {
+        "measure": "complications_other",
+        "n_events": 169,
+        "n_total": 212,
+        "definition_text": "Presence of wound infection as defined by clinical diagnosis.",
+        "subgroup_labels": {
+          "country": "Cameroon",
+          "facility_level": "mixed",
+          "setting": "hospital"
+        },
+        "notes": "No further breakdown of complications.",
+        "provenance": {
+          "page": 3,
+          "section_heading": "Prevalence of bacteria in population",
+          "table_id": "Table 1",
+          "text_snippet": "Bacteria were isolated from 169 (79.7%) specimens (Table 1)."
+        }
+      }
+    ],
+    "mortality": [],
+    "reoperations": [],
+    "readmissions": [],
+    "length_of_stay": [],
+    "costs": [],
+    "risk_factors_effects": [
+      {
+        "exposure": "HIV infection",
+        "outcome": "ssi_incidence",
+        "effect_measure": "proportion",
+        "effect_value": 85.7,
+        "adjusted": false,
+        "n_included": 14,
+        "notes": "12/14 HIV-infected patients had wound infection.",
+        "provenance": {
+          "page": 7,
+          "section_heading": "Table 1: Risk factors of wound infection",
+          "table_id": "Table 1",
+          "text_snippet": "HIV 14 12 (85.7)"
+        }
+      },
+      {
+        "exposure": "Diabetes",
+        "outcome": "ssi_incidence",
+        "effect_measure": "proportion",
+        "effect_value": 100,
+        "adjusted": false,
+        "n_included": 6,
+        "notes": "6/6 diabetic patients had wound infection.",
+        "provenance": {
+          "page": 7,
+          "section_heading": "Table 1: Risk factors of wound infection",
+          "table_id": "Table 1",
+          "text_snippet": "Diabetes 6 6 (100)"
+        }
+      }
+    ]
+  },
+  "interventions": [],
+  "stewardship_guidelines": [],
+  "policy_capacity": [
+    {
+      "domain": "lab_capacity",
+      "status_text": "No anaerobic cultures performed; limited to aerobic bacteria. QC by E. coli ATCC 25922 control.",
+      "indicators": {
+        "anaerobic_culture": "not available",
+        "QC_control": "E. coli ATCC 25922"
+      },
+      "provenance": {
+        "page": 4,
+        "section_heading": "Discussion",
+        "text_snippet": "No anaerobic cultures performed; limitation noted."
+      }
+    },
+    {
+      "domain": "infection_control",
+      "status_text": "Breakdown of sterilization equipment and lack of constant water supply during study period.",
+      "indicators": {
+        "sterilization_equipment": "broken",
+        "water_supply": "irregular"
+      },
+      "provenance": {
+        "page": 3,
+        "section_heading": "Discussion",
+        "text_snippet": "Water supply in participating hospitals during the time of study was not regular. ... sterilization machine ... broke down."
+      }
+    }
+  ],
+  "qualitative_thematic": {
+    "codes": [
+      {
+        "theme": "burden_incidence",
+        "subtheme": "epidemiology of SSI",
+        "summary": "Wound infection is a significant clinical challenge in Buea hospitals, with a high prevalence (79.7%) among hospitalized patients.",
+        "evidence_quotes": [
+          {
+            "quote": "Wound infection is a significant clinical challenge in hospitals in developing countries where proper healthcare delivery is hampered by limited resources.",
+            "page": 1,
+            "section": "Abstract"
+          },
+          {
+            "quote": "Bacteria were isolated from 169 (79.7%) specimens.",
+            "page": 3,
+            "section": "Results"
+          }
+        ],
+        "location_context": "Buea, Cameroon",
+        "confidence": "high",
+        "provenance": {
+          "page": 1,
+          "section_heading": "Abstract",
+          "text_snippet": "Wound infection is a significant clinical challenge..."
+        }
+      },
+      {
+        "theme": "amr_prevalence",
+        "subtheme": "resistance patterns and rates by pathogen/antibiotic",
+        "summary": "Predominant isolates (S. aureus, P. aeruginosa, K. pneumoniae) exhibited high rates of multidrug resistance, with all isolates resistant to oxacillin and susceptible to fluoroquinolones.",
+        "evidence_quotes": [
+          {
+            "quote": "Staphylococcus aureus, Pseudomonas aeruginosa and Klebsiella pneumoniae, the predominant isolates in all wound types exhibited a high preponderance of multidrug resistant strains.",
+            "page": 1,
+            "section": "Abstract"
+          },
+          {
+            "quote": "All isolates (100%) were susceptible to ofloxacin and pefloxacin but resistant to oxacillin.",
+            "page": 3,
+            "section": "Results"
+          }
+        ],
+        "location_context": "Buea, Cameroon",
+        "confidence": "high",
+        "provenance": {
+          "page": 3,
+          "section_heading": "Results",
+          "text_snippet": "All isolates (100%) were susceptible to ofloxacin and pefloxacin but resistant to oxacillin."
+        }
+      },
+      {
+        "theme": "drivers_amr",
+        "subtheme": "inappropriate use, IPC gaps, supply chain, workforce",
+        "summary": "High rate of infection attributed to lack of constant water supply, breakdown of sterilization equipment, and widespread empiric use and misuse of antibiotics.",
+        "evidence_quotes": [
+          {
+            "quote": "High rate of infection was attributed to lack of constant water supply and breakdown of sterilization equipment during the study period.",
+            "page": 1,
+            "section": "Abstract"
+          },
+          {
+            "quote": "These drugs are relatively cheap and are sold by unauthorized persons and without prescriptions. Their high level of misuse accounts for the high levels resistance observed.",
+            "page": 5,
+            "section": "Discussion"
+          }
+        ],
+        "location_context": "Buea, Cameroon",
+        "confidence": "high",
+        "provenance": {
+          "page": 5,
+          "section_heading": "Discussion",
+          "text_snippet": "sold by unauthorized persons and without prescriptions. Their high level of misuse accounts for the high levels resistance observed."
+        }
+      },
+      {
+        "theme": "prevention_control",
+        "subtheme": "IPC programs, surveillance practices",
+        "summary": "Findings reiterate the need to strengthen infection control and drug dispensing policies, and greater collaboration between microbiologists and medical practitioners.",
+        "evidence_quotes": [
+          {
+            "quote": "Findings reiterate the need to strengthen infection control and drug dispensing policies, and greater collaboration between microbiologists and medical practioners to stem the spread of resistant bacteria.",
+            "page": 1,
+            "section": "Abstract"
+          }
+        ],
+        "location_context": "Buea, Cameroon",
+        "confidence": "high",
+        "provenance": {
+          "page": 1,
+          "section_heading": "Abstract",
+          "text_snippet": "Findings reiterate the need to strengthen infection control and drug dispensing policies..."
+        }
+      },
+      {
+        "theme": "evidence_gaps",
+        "subtheme": "explicit gaps and research priorities",
+        "summary": "No anaerobic cultures performed; minimum inhibitory concentrations not determined; limitation in detection of polymicrobial and anaerobic infections.",
+        "evidence_quotes": [
+          {
+            "quote": "No anaerobic cultures performed; limitation noted.",
+            "page": 4,
+            "section": "Discussion"
+          },
+          {
+            "quote": "We did not determine the minimum inhibitory concentrations of potent antibiotics. This constituted another limitation to our study.",
+            "page": 4,
+            "section": "Discussion"
+          }
+        ],
+        "location_context": "Buea, Cameroon",
+        "confidence": "high",
+        "provenance": {
+          "page": 4,
+          "section_heading": "Discussion",
+          "text_snippet": "No anaerobic cultures performed; limitation noted."
+        }
+      }
+    ]
+  },
+  "risk_of_bias": {
+    "tool_used": "not_reported",
+    "domain_judgements": {},
+    "overall_judgement": "not_reported",
+    "provenance": {}
+  },
+  "funding_conflicts": {
+    "funding_sources": [
+      "Laboratory for Emerging Infectious Diseases",
+      "University of Buea (partial support for reagents)"
+    ],
+    "conflicts_of_interest": "The authors declare that they have no competing interests.",
+    "provenance": {
+      "page": 5,
+      "section_heading": "Acknowledgments",
+      "text_snippet": "This work was carried out in the Laboratory for Emerging Infectious Diseases and partially supported by the University of Buea in terms of some of the reagents used."
+    }
+  },
+  "notes_flags": [
+    {
+      "type": [
+        "missing_data"
+      ],
+      "detail": "No data on mortality, reoperations, readmissions, length of stay, or costs.",
+      "provenance": {}
+    },
+    {
+      "type": [
+        "unit_unclear"
+      ],
+      "detail": "SSI ascertainment window (days) not specified.",
+      "provenance": {
+        "page": 2,
+        "section_heading": "Methods",
+        "text_snippet": "Clinical diagnosis was based on the presence of purulent discharge or signs of inflammation."
+      }
+    },
+    {
+      "type": [
+        "missing_data"
+      ],
+      "detail": "No explicit stewardship guidelines or adherence rates reported.",
+      "provenance": {}
+    },
+    {
+      "type": [
+        "missing_data"
+      ],
+      "detail": "No economic data (costs, currency, price year) reported.",
+      "provenance": {}
+    }
+  ],
+  "provenance_index": [
+    {
+      "page": 1,
+      "section_heading": "Abstract",
+      "text_snippet": "Wound infection is a significant clinical challenge..."
+    },
+    {
+      "page": 3,
+      "section_heading": "Patients' profiles",
+      "table_id": "Table 1",
+      "text_snippet": "A total of 212 patients presenting with various types of wounds were enrolled in the study..."
+    },
+    {
+      "page": 3,
+      "section_heading": "Prevalence of bacteria in population",
+      "table_id": "Table 1",
+      "text_snippet": "Bacteria were isolated from 169 (79.7%) specimens (Table 1)."
+    },
+    {
+      "page": 7,
+      "section_heading": "Table 1: Risk factors of wound infection",
+      "table_id": "Table 1",
+      "text_snippet": "Burns 3 3 (100)"
+    },
+    {
+      "page": 8,
+      "section_heading": "Table 4: Antibiotic susceptibility of isolates (%)",
+      "table_id": "Table 4",
+      "text_snippet": "Staph.aur au 100"
+    },
+    {
+      "page": 5,
+      "section_heading": "Acknowledgments",
+      "text_snippet": "This work was carried out in the Laboratory for Emerging Infectious Diseases and partially supported by the University of Buea..."
+    },
+    {
+      "page": 4,
+      "section_heading": "Discussion",
+      "text_snippet": "No anaerobic cultures performed; limitation noted."
+    }
+  ],
+  "extraction_summary": {
+    "completeness_score": 70,
+    "missing_fields": [
+      "mortality",
+      "reoperations",
+      "readmissions",
+      "length_of_stay",
+      "costs",
+      "stewardship_guidelines",
+      "follow_up_window_days",
+      "bed_capacity",
+      "surgical_volume_per_year",
+      "interventions",
+      "qualitative method context"
+    ],
+    "parser_warnings": [
+      "No explicit SSI ascertainment window reported.",
+      "No economic or stewardship guideline data.",
+      "No mortality, LOS, or readmission outcomes."
+    ],
+    "confidence_overall": "moderate"
+  }
+}

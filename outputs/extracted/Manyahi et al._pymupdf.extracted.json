@@ -1,0 +1,494 @@
+{
+  "study": {
+    "study_id": "Manyahi2014-Tanzania-Muhimbili-2011-2012-1",
+    "title": "Predominance of multi-drug resistant bacterial pathogens causing surgical site infections in Muhimbili national hospital, Tanzania",
+    "authors": [
+      "Joel Manyahi",
+      "Mecky I Matee",
+      "Mtebe Majigo",
+      "Sabrina Moyo",
+      "Stephen E Mshana",
+      "Eligius F Lyamuya"
+    ],
+    "journal": "BMC Research Notes",
+    "year_publication": 2014,
+    "doi": "10.1186/1756-0500-7-500",
+    "country_list": [
+      "Tanzania"
+    ],
+    "country_iso3": "TZA",
+    "region_classification": "ECSA",
+    "surgical_specialty": [
+      "general",
+      "obstetrics/gynecology",
+      "orthopedics"
+    ],
+    "language": "English",
+    "data_source_type": "published_full_text",
+    "ownership_type": "public",
+    "bed_capacity": 1400
+  },
+  "design": {
+    "study_design": "cross_sectional",
+    "randomized": false,
+    "prospective": false,
+    "single_center": true,
+    "multi_center": false,
+    "inclusion_criteria_text": "All patients with clinical evidence of SSI as defined by the Centers for disease control and prevention (CDC) [13] were eligible for the study. Recruitment was done after obtaining an informed consent.",
+    "sample_frame": "patients",
+    "unit_of_analysis": "patient",
+    "duplicate_publication_likelihood": false
+  },
+  "setting": {
+    "facility_level": "tertiary",
+    "urban_rural": "urban",
+    "care_setting": "hospital",
+    "country_specific_sites": [
+      "Muhimbili National Hospital, Dar es Salaam"
+    ]
+  },
+  "eligibility": {
+    "population": "Patients with clinical evidence of SSI as defined by CDC, aged 18–80 years, recruited from general surgery, obstetrics and gynecology, and orthopedic wards.",
+    "classification": "adult",
+    "intervention": "Not specified; almost all patients (95%) had documentation of antimicrobial exposure within a month, with ceftriaxone, cloxacillin and amoxicillin-clavulanic acid the most frequently used.",
+    "comparator": "None specified",
+    "outcomes_reported": [
+      "amr_prevalence"
+    ],
+    "timeframe_years": "September 2011 to February 2012",
+    "setting_types": [
+      "hospital",
+      "surgical_unit",
+      "ward"
+    ],
+    "included_designs": [
+      "cross_sectional"
+    ],
+    "excluded_designs": []
+  },
+  "timeframe": {
+    "data_collection_start_year": 2011,
+    "data_collection_start_month": 9,
+    "data_collection_end_year": 2012,
+    "data_collection_end_month": 2
+  },
+  "populations": [
+    {
+      "arm_id": "overall",
+      "description": "All patients with clinical SSI recruited from general surgery, obstetrics/gynecology, and orthopedic wards.",
+      "n_participants": 100,
+      "age_group": "adult",
+      "elective_emergency": "unspecified",
+      "wound_class": "unspecified",
+      "surgical_specialties": [
+        "general",
+        "obstetrics/gynecology",
+        "orthopedics"
+      ],
+      "provenance": {
+        "page": 2,
+        "section_heading": "Patient recruitment",
+        "text_snippet": "A total of 100 patients were enrolled consecutively from general surgery, obstetrics and gynecology, and orthopedic wards."
+      }
+    }
+  ],
+  "definitions": {
+    "ssi_definition_standard": [
+      "CDC_NHSN"
+    ],
+    "amr_definition_standard": [
+      "CLSI"
+    ],
+    "breakpoint_version": "CLSI 2010",
+    "resistance_definition_text": "Multidrug resistant (MDR) was defined as acquired non-susceptibility to at least one agent in three or more antimicrobial categories [17].",
+    "specimen_type": [
+      "wound_swab",
+      "pus"
+    ]
+  },
+  "lab_methods": {
+    "specimen_collection_method": "Two pus swabs or pus collected aseptically from the depth of the wound and transported immediately to the laboratory in Amies transport media.",
+    "culture_method": "Cultured on blood agar and MacConkey agar, incubated aerobically at 37°C for 18–24 hours.",
+    "AST_method": [
+      "disk_diffusion"
+    ],
+    "QC_measures": "Quality of media, antibiotic disc as well as performance of a person carrying the tests was controlled by reference strains: Escherichia coli ATCC 25922, K. pneumoniae ATCC 700603 for ESBL, S.aureus ATCC 25923, and S.aureus ATCC 29213 for MRSA.",
+    "organism_identification_method": "Microscopic characteristics, colonial characteristics, biochemical tests, VITEK (BioMerieux, France), API 20E (BioMerieux, France)."
+  },
+  "outcomes": {
+    "ssi_incidence": [],
+    "amr_proportions": [
+      {
+        "arm_id": "overall",
+        "pathogen": "Escherichia coli",
+        "antibiotic": "ampicillin",
+        "who_class": "critically_important",
+        "n_tested": 13,
+        "n_resistant": 13,
+        "n_susceptible": 0,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2010",
+        "specimen_type": "wound_swab",
+        "site": "surgical site/wound",
+        "data_period": {
+          "start_year": 2011,
+          "end_year": 2012
+        },
+        "mdr_definition_text": "MDR defined as acquired non-susceptibility to at least one agent in three or more antimicrobial categories.",
+        "n_mdr": 13,
+        "esbl_test": "Double disc approximation method",
+        "n_esbl_positive": 12,
+        "zone_diameter_unit": "mm",
+        "provenance": {
+          "page": 3,
+          "section_heading": "Table 1",
+          "table_id": "Table 1",
+          "text_snippet": "E. coli (n = 13)\nAP 100%"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Escherichia coli",
+        "antibiotic": "amoxicillin-clavulanate",
+        "who_class": "critically_important",
+        "n_tested": 13,
+        "n_resistant": 12,
+        "n_susceptible": 1,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2010",
+        "specimen_type": "wound_swab",
+        "site": "surgical site/wound",
+        "data_period": {
+          "start_year": 2011,
+          "end_year": 2012
+        },
+        "mdr_definition_text": "MDR defined as acquired non-susceptibility to at least one agent in three or more antimicrobial categories.",
+        "n_mdr": 13,
+        "esbl_test": "Double disc approximation method",
+        "n_esbl_positive": 12,
+        "zone_diameter_unit": "mm",
+        "provenance": {
+          "page": 3,
+          "section_heading": "Table 1",
+          "table_id": "Table 1",
+          "text_snippet": "E. coli (n = 13)\nAMC 92%"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Escherichia coli",
+        "antibiotic": "ceftriaxone",
+        "who_class": "critically_important",
+        "n_tested": 13,
+        "n_resistant": 12,
+        "n_susceptible": 1,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2010",
+        "specimen_type": "wound_swab",
+        "site": "surgical site/wound",
+        "data_period": {
+          "start_year": 2011,
+          "end_year": 2012
+        },
+        "mdr_definition_text": "MDR defined as acquired non-susceptibility to at least one agent in three or more antimicrobial categories.",
+        "n_mdr": 13,
+        "esbl_test": "Double disc approximation method",
+        "n_esbl_positive": 12,
+        "zone_diameter_unit": "mm",
+        "provenance": {
+          "page": 3,
+          "section_heading": "Table 1",
+          "table_id": "Table 1",
+          "text_snippet": "E. coli (n = 13)\nCRO 92%"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "penicillin",
+        "who_class": "critically_important",
+        "n_tested": 18,
+        "n_resistant": 15,
+        "n_susceptible": 3,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2010",
+        "specimen_type": "wound_swab",
+        "site": "surgical site/wound",
+        "data_period": {
+          "start_year": 2011,
+          "end_year": 2012
+        },
+        "mdr_definition_text": "MDR defined as acquired non-susceptibility to at least one agent in three or more antimicrobial categories.",
+        "n_mdr": 8,
+        "mrsa_detection_method": "Cefoxitin disc diffusion (zone ≤21 mm)",
+        "zone_diameter_unit": "mm",
+        "notes": "44% (8/18) were MRSA strains",
+        "provenance": {
+          "page": 3,
+          "section_heading": "Table 1",
+          "table_id": "Table 1",
+          "text_snippet": "S. aureus (n = 18)\nP 83%"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Klebsiella pneumoniae",
+        "antibiotic": "ampicillin",
+        "who_class": "critically_important",
+        "n_tested": 16,
+        "n_resistant": 16,
+        "n_susceptible": 0,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2010",
+        "specimen_type": "wound_swab",
+        "site": "surgical site/wound",
+        "data_period": {
+          "start_year": 2011,
+          "end_year": 2012
+        },
+        "mdr_definition_text": "MDR defined as acquired non-susceptibility to at least one agent in three or more antimicrobial categories.",
+        "n_mdr": 14,
+        "esbl_test": "Double disc approximation method",
+        "n_esbl_positive": 11,
+        "zone_diameter_unit": "mm",
+        "provenance": {
+          "page": 3,
+          "section_heading": "Table 1",
+          "table_id": "Table 1",
+          "text_snippet": "K. pneumonia (n = 16)\nAP 100%"
+        }
+      }
+    ],
+    "morbidity": [],
+    "mortality": [],
+    "reoperations": [],
+    "readmissions": [],
+    "length_of_stay": [],
+    "costs": [],
+    "risk_factors_effects": []
+  },
+  "interventions": [
+    {
+      "type": "antibiotic_prophylaxis_protocol",
+      "description": "Almost all patients (95%) had documentation of antimicrobial exposure within a month, with ceftriaxone, cloxacillin and amoxicillin-clavulanic acid the most frequently used.",
+      "implementation_level": "facility",
+      "outcomes_measured": [
+        "amr_prevalence"
+      ],
+      "effect_direction": "harm",
+      "provenance": {
+        "page": 4,
+        "section_heading": "Demographical – clinical characteristics",
+        "text_snippet": "Almost all patients (95%) had documentation of antimicrobial exposure within a month, with ceftriaxone, cloxacillin and amoxicillin-clavulanic acid the most frequently used."
+      }
+    }
+  ],
+  "stewardship_guidelines": [],
+  "policy_capacity": [],
+  "qualitative_thematic": {
+    "codes": [
+      {
+        "theme": "amr_prevalence",
+        "subtheme": "resistance patterns and rates by pathogen/antibiotic",
+        "summary": "A high proportion (63%) of isolates causing SSIs were multidrug resistant, with 90% resistant to more than four classes of antibiotics.",
+        "evidence_quotes": [
+          {
+            "quote": "A high proportion (63%) of the isolates causing SSIs in this tertiary hospital were MDR, of which (90%) were resistant to more than four classes of antibiotics.",
+            "page": 1,
+            "section": "Abstract"
+          }
+        ],
+        "location_context": "Muhimbili National Hospital, Tanzania",
+        "confidence": "high",
+        "provenance": {
+          "page": 1,
+          "section_heading": "Abstract",
+          "text_snippet": "A high proportion (63%) of the isolates causing SSIs in this tertiary hospital were MDR, of which (90%) were resistant to more than four classes of antibiotics."
+        }
+      },
+      {
+        "theme": "drivers_amr",
+        "subtheme": "inappropriate use",
+        "summary": "High levels of antibiotic resistance may be attributed to inappropriate use of antimicrobial agents, affecting both cost and efficacy.",
+        "evidence_quotes": [
+          {
+            "quote": "The very high levels of antibiotics resistance seen in this study could be attributed, at least in part, to inappropriate use of antimicrobial agents affects both the cost and efficacy, thus favoring the emergence of resistant bacteria.",
+            "page": 6,
+            "section": "Discussion"
+          }
+        ],
+        "location_context": "Muhimbili National Hospital, Tanzania",
+        "confidence": "moderate",
+        "provenance": {
+          "page": 6,
+          "section_heading": "Discussion",
+          "text_snippet": "The very high levels of antibiotics resistance seen in this study could be attributed, at least in part, to inappropriate use of antimicrobial agents affects both the cost and efficacy, thus favoring the emergence of resistant bacteria."
+        }
+      },
+      {
+        "theme": "prevention_control",
+        "subtheme": "surveillance practices",
+        "summary": "The study highlights the need for urgent revision of perioperative antimicrobial prophylaxis and standardized antibiotic management.",
+        "evidence_quotes": [
+          {
+            "quote": "There is a very urgent need of revising the perioperative antimicrobial prophylaxis at this national referral Hospital to provide clinicians with standardized approach to the rational, safe and effective use of antibiotics management of SSI.",
+            "page": 6,
+            "section": "Conclusion"
+          }
+        ],
+        "location_context": "Muhimbili National Hospital, Tanzania",
+        "confidence": "high",
+        "provenance": {
+          "page": 6,
+          "section_heading": "Conclusion",
+          "text_snippet": "There is a very urgent need of revising the perioperative antimicrobial prophylaxis at this national referral Hospital to provide clinicians with standardized approach to the rational, safe and effective use of antibiotics management of SSI."
+        }
+      }
+    ]
+  },
+  "risk_of_bias": {
+    "tool_used": "not_reported",
+    "domain_judgements": {},
+    "overall_judgement": "not_reported",
+    "provenance": {}
+  },
+  "funding_conflicts": {
+    "funding_sources": [
+      "Belgium Technical Cooperation (Tanzania)"
+    ],
+    "conflicts_of_interest": "The authors declare that they have no competing interests.",
+    "provenance": {
+      "page": 6,
+      "section_heading": "Acknowledgements",
+      "text_snippet": "This work was supported by Belgium Technical Cooperation (Tanzania)."
+    }
+  },
+  "notes_flags": [
+    {
+      "type": [
+        "missing_data"
+      ],
+      "detail": "SSI incidence (events and denominator) not reported.",
+      "provenance": {
+        "page": 1,
+        "section_heading": "Abstract",
+        "text_snippet": "This study was done to determine the spectrum of bacterial isolates and their susceptibility patterns causing SSIs at Muhimbili National Hospital, Tanzania."
+      }
+    },
+    {
+      "type": [
+        "missing_data"
+      ],
+      "detail": "No data on mortality, reoperations, readmissions, length of stay, or costs.",
+      "provenance": {
+        "page": 1,
+        "section_heading": "Abstract",
+        "text_snippet": "This study was done to determine the spectrum of bacterial isolates and their susceptibility patterns causing SSIs at Muhimbili National Hospital, Tanzania."
+      }
+    },
+    {
+      "type": [
+        "unit_unclear"
+      ],
+      "detail": "SSI ascertainment window not specified.",
+      "provenance": {
+        "page": 2,
+        "section_heading": "Patient recruitment",
+        "text_snippet": "All patients with clinical evidence of SSI as defined by the Centers for disease control and prevention (CDC) [13] were eligible for the study."
+      }
+    }
+  ],
+  "provenance_index": [
+    {
+      "page": 1,
+      "section_heading": "Abstract",
+      "text_snippet": "A high proportion (63%) of the isolates causing SSIs in this tertiary hospital were MDR, of which (90%) were resistant to more than four classes of antibiotics."
+    },
+    {
+      "page": 2,
+      "section_heading": "Patient recruitment",
+      "text_snippet": "A total of 100 patients were enrolled consecutively from general surgery, obstetrics and gynecology, and orthopedic wards."
+    },
+    {
+      "page": 3,
+      "section_heading": "Table 1",
+      "table_id": "Table 1",
+      "text_snippet": "E. coli (n = 13)\nAP 100%"
+    },
+    {
+      "page": 3,
+      "section_heading": "Table 1",
+      "table_id": "Table 1",
+      "text_snippet": "E. coli (n = 13)\nAMC 92%"
+    },
+    {
+      "page": 3,
+      "section_heading": "Table 1",
+      "table_id": "Table 1",
+      "text_snippet": "E. coli (n = 13)\nCRO 92%"
+    },
+    {
+      "page": 3,
+      "section_heading": "Table 1",
+      "table_id": "Table 1",
+      "text_snippet": "S. aureus (n = 18)\nP 83%"
+    },
+    {
+      "page": 3,
+      "section_heading": "Table 1",
+      "table_id": "Table 1",
+      "text_snippet": "K. pneumonia (n = 16)\nAP 100%"
+    },
+    {
+      "page": 4,
+      "section_heading": "Demographical – clinical characteristics",
+      "text_snippet": "Almost all patients (95%) had documentation of antimicrobial exposure within a month, with ceftriaxone, cloxacillin and amoxicillin-clavulanic acid the most frequently used."
+    },
+    {
+      "page": 6,
+      "section_heading": "Discussion",
+      "text_snippet": "The very high levels of antibiotics resistance seen in this study could be attributed, at least in part, to inappropriate use of antimicrobial agents affects both the cost and efficacy, thus favoring the emergence of resistant bacteria."
+    },
+    {
+      "page": 6,
+      "section_heading": "Conclusion",
+      "text_snippet": "There is a very urgent need of revising the perioperative antimicrobial prophylaxis at this national referral Hospital to provide clinicians with standardized approach to the rational, safe and effective use of antibiotics management of SSI."
+    },
+    {
+      "page": 6,
+      "section_heading": "Acknowledgements",
+      "text_snippet": "This work was supported by Belgium Technical Cooperation (Tanzania)."
+    }
+  ],
+  "extraction_summary": {
+    "completeness_score": 65,
+    "missing_fields": [
+      "ssi_incidence",
+      "mortality",
+      "reoperations",
+      "readmissions",
+      "length_of_stay",
+      "costs",
+      "risk_factors_effects",
+      "stewardship_guidelines",
+      "policy_capacity",
+      "qualitative_thematic.method",
+      "qualitative_thematic.participants_n",
+      "qualitative_thematic.analysis_approach",
+      "qualitative_thematic.casp_appraisal"
+    ],
+    "parser_warnings": [
+      "No SSI incidence (events and denominator) reported.",
+      "No clinical outcome data (mortality, LOS, reoperation, readmission, costs).",
+      "SSI ascertainment window not specified.",
+      "No stewardship or policy capacity data.",
+      "No qualitative method details."
+    ],
+    "confidence_overall": "moderate"
+  }
+}

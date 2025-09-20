@@ -1,0 +1,584 @@
+{
+  "study": {
+    "study_id": "DeNardo2016-Tanzania-Dodoma-2013-1",
+    "title": "Post-caesarean section surgical site infections at a Tanzanian tertiary hospital: a prospective observational study",
+    "authors": [
+      "P. De Nardo",
+      "E. Gentilotti",
+      "B. Nguhuni",
+      "F. Vairo",
+      "Z. Chaula",
+      "E. Nicastri",
+      "M.M. Nassoro",
+      "N. Bevilacqua",
+      "A. Ismail",
+      "A. Savoldi",
+      "A. Zumla",
+      "G. Ippolito"
+    ],
+    "journal": "Journal of Hospital Infection",
+    "year_publication": 2016,
+    "doi": "10.1016/j.jhin.2016.02.021",
+    "country_list": [
+      "Tanzania"
+    ],
+    "country_iso3": "TZA",
+    "region_classification": "ECSA",
+    "surgical_specialty": [
+      "obstetrics/gynecology"
+    ],
+    "language": "English",
+    "data_source_type": "published_full_text",
+    "ownership_type": "public"
+  },
+  "design": {
+    "study_design": "cohort",
+    "randomized": false,
+    "prospective": true,
+    "single_center": true,
+    "multi_center": false,
+    "inclusion_criteria_text": "All pregnant women admitted to the DRRH Labour Ward who underwent an elective or emergency CS were eligible for enrolment within 24 h post CS.",
+    "sample_frame": "patients",
+    "unit_of_analysis": "patient",
+    "duplicate_publication_likelihood": false
+  },
+  "setting": {
+    "facility_level": "tertiary",
+    "urban_rural": "unspecified",
+    "care_setting": "hospital",
+    "country_specific_sites": [
+      "Dodoma Regional Referral Hospital (DRRH)",
+      "Makole Health Center (MHC)"
+    ],
+    "stewardship_program_present": false
+  },
+  "eligibility": {
+    "population": "All pregnant women who underwent an elective or emergency Caesarean Section.",
+    "population_classification": "adult",
+    "intervention": "Observational study. Existing antibiotic practices described include a three-day course of intravenous ceftriaxone plus metronidazole followed by oral ampicillin/cloxacillin plus metronidazole, typically administered post-operatively.",
+    "comparator": "No formal comparator. Pre-incision prophylaxis was rare (2.1% of patients).",
+    "outcomes_reported": [
+      "ssi_incidence",
+      "amr_prevalence"
+    ],
+    "timeframe_years": "2013",
+    "setting_types": [
+      "hospital",
+      "surgical_unit",
+      "outpatient"
+    ],
+    "included_designs": [
+      "prospective observational cohort study"
+    ],
+    "excluded_designs": []
+  },
+  "timeframe": {
+    "data_collection_start_year": 2013,
+    "data_collection_start_month": 8,
+    "data_collection_end_year": 2013,
+    "data_collection_end_month": 11,
+    "follow_up_window_days": 30
+  },
+  "populations": [
+    {
+      "arm_id": "overall",
+      "description": "All pregnant women undergoing Caesarean section who were successfully followed up for 30 days.",
+      "n_participants": 467,
+      "n_procedures": 467,
+      "age_group": "adult",
+      "elective_emergency": "mixed",
+      "wound_class": "unspecified",
+      "comorbidities_key": "HIV positive: 17/455 tested (3.7%). Diabetes screening performed in 236/467 (50.5%) women. Premature rupture of membranes (PROM): 11/467 (2.4%).",
+      "surgical_specialties": [
+        "obstetrics/gynecology"
+      ],
+      "provenance": {
+        "note": "1"
+      }
+    }
+  ],
+  "definitions": {
+    "ssi_definition_standard": "CDC_NHSN",
+    "ssi_window_days": 30,
+    "amr_definition_standard": "EUCAST",
+    "breakpoint_version": "Version 5.0, 2015",
+    "resistance_definition_text": "Antimicrobial susceptibility of isolates was determined using disc diffusion. MRSA was identified by using the diffusion method with oxacillin disc.",
+    "outcome_definitions_text": "SSIs were classified according to CDC definitions.",
+    "specimen_type": [
+      "wound_swab"
+    ]
+  },
+  "lab_methods": {
+    "specimen_collection_method": "A bacteriological swab was obtained, where possible, in every case of clinical suspicion of SSI by collecting the exudates from the open discharging wound.",
+    "culture_method": "Specimens were inoculated on Blood agar and MacConkey agar and incubated aerobically. Petri dishes were checked after 24 and 48 h.",
+    "AST_method": "disk_diffusion",
+    "organism_identification_method": "Conventional biochemical and physiological methods."
+  },
+  "outcomes": {
+    "ssi_incidence": [
+      {
+        "arm_id": "overall",
+        "surgical_specialty": "obstetrics/gynecology",
+        "denominator_type": "patients",
+        "ssi_type": "overall",
+        "n_ssi_events": 225,
+        "n_total": 467,
+        "rate_as_reported": {
+          "value": 48.2,
+          "unit": "percent"
+        },
+        "ascertainment_window_days": 30,
+        "data_period": {
+          "start_year": 2013,
+          "end_year": 2013
+        },
+        "provenance": {
+          "note": "2"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "surgical_specialty": "obstetrics/gynecology",
+        "denominator_type": "patients",
+        "ssi_type": "superficial",
+        "n_ssi_events": 138,
+        "n_total": 467,
+        "ascertainment_window_days": 30,
+        "data_period": {
+          "start_year": 2013,
+          "end_year": 2013
+        },
+        "notes": "The numerator (138) is for superficial SSIs among the 225 total SSIs. The denominator is the total cohort size.",
+        "provenance": {
+          "note": "3"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "surgical_specialty": "obstetrics/gynecology",
+        "denominator_type": "patients",
+        "ssi_type": "deep",
+        "n_ssi_events": 69,
+        "n_total": 467,
+        "ascertainment_window_days": 30,
+        "data_period": {
+          "start_year": 2013,
+          "end_year": 2013
+        },
+        "notes": "The numerator (69) is for deep SSIs among the 225 total SSIs. The denominator is the total cohort size.",
+        "provenance": {
+          "note": "3"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "surgical_specialty": "obstetrics/gynecology",
+        "denominator_type": "patients",
+        "ssi_type": "organ_space",
+        "n_ssi_events": 5,
+        "n_total": 467,
+        "ascertainment_window_days": 30,
+        "data_period": {
+          "start_year": 2013,
+          "end_year": 2013
+        },
+        "notes": "The numerator (5) is for organ/space SSIs among the 225 total SSIs. The denominator is the total cohort size.",
+        "provenance": {
+          "note": "3"
+        }
+      }
+    ],
+    "amr_proportions": [
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "oxacillin",
+        "who_class": "critically_important",
+        "n_tested": 43,
+        "n_resistant": 34,
+        "n_susceptible": 9,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "EUCAST",
+        "breakpoint_version": "Version 5.0, 2015",
+        "specimen_type": "wound_swab",
+        "site": "surgical_site",
+        "data_period": {
+          "start_year": 2013,
+          "end_year": 2013
+        },
+        "mrsa_detection_method": "diffusion method with oxacillin disc",
+        "notes": "Resistance to oxacillin is used to define Methicillin-resistant Staphylococcus aureus (MRSA).",
+        "provenance": {
+          "note": "4"
+        }
+      }
+    ],
+    "morbidity": [],
+    "mortality": [],
+    "reoperations": [],
+    "readmissions": [],
+    "length_of_stay": [
+      {
+        "group": "overall",
+        "mean_days": 2,
+        "n": 467,
+        "notes": "This is the average post-operative length of stay for the entire followed-up cohort, not stratified by SSI status.",
+        "provenance": {
+          "note": "5"
+        }
+      }
+    ],
+    "costs": [],
+    "risk_factors_effects": [
+      {
+        "exposure": "Senior doctor performing CS (vs. Junior doctor)",
+        "outcome": "ssi_incidence",
+        "effect_measure": "OR",
+        "effect_value": 0.64,
+        "ci_lower": 0.43,
+        "ci_upper": 0.97,
+        "p_value": 0.04,
+        "adjusted": false,
+        "n_included": 467,
+        "notes": "Univariate analysis. The text mentions this association did not remain significant in multivariate analysis (data not shown).",
+        "provenance": {
+          "note": "6"
+        }
+      },
+      {
+        "exposure": "Pfannestiel incision (vs. Midline vertical incision)",
+        "outcome": "ssi_incidence",
+        "effect_measure": "OR",
+        "effect_value": 0.3,
+        "ci_lower": 0.18,
+        "ci_upper": 0.5,
+        "p_value": 0.0001,
+        "adjusted": false,
+        "n_included": 423,
+        "notes": "Univariate analysis, p < 0.001. The text mentions this association did not remain significant in multivariate analysis (data not shown).",
+        "provenance": {
+          "note": "7"
+        }
+      },
+      {
+        "exposure": "Continuous intradermic suture (vs. Interrupted suture)",
+        "outcome": "ssi_incidence",
+        "effect_measure": "OR",
+        "effect_value": 0.26,
+        "ci_lower": 0.15,
+        "ci_upper": 0.45,
+        "p_value": 0.0001,
+        "adjusted": false,
+        "n_included": 398,
+        "notes": "Univariate analysis, p < 0.001 from Table II (continued).",
+        "provenance": {
+          "note": "8"
+        }
+      }
+    ]
+  },
+  "interventions": [
+    {
+      "type": "policy_change",
+      "description": "The paper notes that based on this study's findings, 'An intervention to implement evidence-based revisions of the surgical procedures and antibiotic prophylaxis at the DRRH Gynaecology and Obstetrics Department is continuing'.",
+      "implementation_level": "facility",
+      "outcomes_measured": [],
+      "effect_direction": "unclear",
+      "provenance": {
+        "note": "9"
+      }
+    }
+  ],
+  "stewardship_guidelines": [],
+  "policy_capacity": [
+    {
+      "domain": "antibiotic_policy",
+      "status_text": "No consistent protocol for the administration of antibiotic prophylaxis is available; antimicrobials are usually administered after the operation, and the choice depends on individual clinician’s preference.",
+      "provenance": {
+        "note": "10"
+      }
+    },
+    {
+      "domain": "workforce_training",
+      "status_text": "Surgical procedures performed by junior doctors (interns) were associated with a higher risk of SSI. The authors recommend on-the-job training and supervision.",
+      "provenance": {
+        "note": "11"
+      }
+    }
+  ],
+  "qualitative_thematic": {
+    "codes": [
+      {
+        "theme": "burden_incidence",
+        "subtheme": "other",
+        "summary": "The study documented an extremely high incidence of post-caesarean section SSI at 48.2%, which is substantially higher than other reports from the same country, indicating a significant local burden of infection.",
+        "evidence_quotes": [
+          {
+            "quote": "The detected incidence rate of post-CS SSI was extremely high, at 48.2%. A recent report from Tanzania documented a more than four-fold lower incidence of post-CS SSI compared with our study (10.9% vs 48.2%).",
+            "page": 3,
+            "section": "Discussion"
+          }
+        ],
+        "location_context": "Dodoma Regional Referral Hospital, Tanzania",
+        "confidence": "high",
+        "provenance": {
+          "note": "12"
+        }
+      },
+      {
+        "theme": "amr_prevalence",
+        "subtheme": "other",
+        "summary": "A very high MRSA prevalence of 79% among S. aureus isolates from SSIs was found, suggesting significant healthcare-associated transmission and a high burden of resistant pathogens.",
+        "evidence_quotes": [
+          {
+            "quote": "The MRSA prevalence rate (79%) also seems to suggest healthcare-associated infections...",
+            "page": 3,
+            "section": "Discussion"
+          }
+        ],
+        "location_context": "Dodoma Regional Referral Hospital, Tanzania",
+        "confidence": "high",
+        "provenance": {
+          "note": "13"
+        }
+      },
+      {
+        "theme": "drivers_amr",
+        "subtheme": "inappropriate_use",
+        "summary": "Inappropriate antibiotic use, particularly the administration of prophylaxis post-operatively rather than pre-incision and the use of third-generation cephalosporins, is cited as a likely driver of high infection and resistance rates.",
+        "evidence_quotes": [
+          {
+            "quote": "...inappropriate use of antibiotics, particularly third-generation cephalosporins.",
+            "page": 3,
+            "section": "Discussion"
+          },
+          {
+            "quote": "no consistent protocol for the administration of antibiotic prophylaxis is available and usually antimicrobials are administered after the operation...",
+            "page": 3,
+            "section": "Discussion"
+          }
+        ],
+        "location_context": "Dodoma Regional Referral Hospital, Tanzania",
+        "confidence": "high",
+        "provenance": {
+          "note": "14"
+        }
+      },
+      {
+        "theme": "drivers_amr",
+        "subtheme": "IPC_gaps",
+        "summary": "Likely contamination in the operating theatre and overcrowding in wards are highlighted as potential drivers of nosocomial infections.",
+        "evidence_quotes": [
+          {
+            "quote": "...probable contamination in the theatre during the operations.",
+            "page": 3,
+            "section": "Discussion"
+          },
+          {
+            "quote": "The overcrowding of labour rooms and post-delivery ward...need to be addressed to decrease the occurrence of nosocomial infections...",
+            "page": 3,
+            "section": "Discussion"
+          }
+        ],
+        "location_context": "Dodoma Regional Referral Hospital, Tanzania",
+        "confidence": "high",
+        "provenance": {
+          "note": "15"
+        }
+      },
+      {
+        "theme": "drivers_amr",
+        "subtheme": "workforce",
+        "summary": "Surgical procedures performed by less experienced junior doctors were associated with a higher risk of SSI, indicating that staff training and supervision are important determinants of surgical outcomes.",
+        "evidence_quotes": [
+          {
+            "quote": "Univariate analysis suggested that surgical procedures performed by interns were associated with a higher risk of SSI compared with those performed by senior doctors...",
+            "page": 3,
+            "section": "Discussion"
+          }
+        ],
+        "location_context": "Dodoma Regional Referral Hospital, Tanzania",
+        "confidence": "high",
+        "provenance": {
+          "note": "11"
+        }
+      },
+      {
+        "theme": "policy_capacity",
+        "subtheme": "stewardship_policy",
+        "summary": "The facility lacks both antimicrobial stewardship programs and consistent protocols for surgical antibiotic prophylaxis, highlighting a need to review and implement national and local guidelines.",
+        "evidence_quotes": [
+          {
+            "quote": "...the lack of antimicrobial stewardship, need to be addressed to decrease the occurrence of nosocomial infections and the burden of resistant bacteria.",
+            "page": 3,
+            "section": "Discussion"
+          },
+          {
+            "quote": "This ﬁnding may highlight a substantial need to review national guidelines and internal operative protocols on the management of pregnant women undergoing CS.",
+            "page": 3,
+            "section": "Discussion"
+          }
+        ],
+        "location_context": "Dodoma Regional Referral Hospital, Tanzania",
+        "confidence": "high",
+        "provenance": {
+          "note": "16"
+        }
+      }
+    ]
+  },
+  "risk_of_bias": {
+    "tool_used": "not_reported",
+    "overall_judgement": "not_reported"
+  },
+  "funding_conflicts": {
+    "funding_sources": [
+      "Italian Development Cooperation e Ministry of Foreign Affairs AID9562",
+      "‘Ricerca Corrente’ of the Italian Ministry of Health"
+    ],
+    "conflicts_of_interest": "None declared.",
+    "provenance": {
+      "note": "17"
+    }
+  },
+  "notes_flags": [
+    {
+      "type": "missing_data",
+      "detail": "High rate of loss to follow-up (197/664, 29.7%), which could introduce significant selection bias. Authors state no differences in baseline characteristics were found, but data were not shown.",
+      "provenance": {
+        "note": "18"
+      }
+    },
+    {
+      "type": "missing_data",
+      "detail": "Detailed antimicrobial susceptibility testing results for specific pathogen-antibiotic pairs are not provided, except for the MRSA rate among S. aureus isolates.",
+      "provenance": {
+        "note": "3"
+      }
+    },
+    {
+      "type": "missing_data",
+      "detail": "Multivariate analysis for risk factors was mentioned as being non-significant but the model, covariates, and results were not presented.",
+      "provenance": {
+        "note": "19"
+      }
+    },
+    {
+      "type": "inconsistency",
+      "detail": "The sum of SSI types (superficial=138, deep=69, organ/space=5) is 212. The total SSIs reported is 225. Table I notes 13 cases of unknown type, which accounts for the difference.",
+      "provenance": {
+        "note": "3"
+      }
+    }
+  ],
+  "provenance_index": [
+    {
+      "page": 2,
+      "section_heading": "Results",
+      "text_snippet": "The remaining 467 (70.3%) were followed up for 30 days after CS..."
+    },
+    {
+      "page": 3,
+      "table_id": "Table I",
+      "text_snippet": "Wound infection, no. (%) Yes 225 (48.2)"
+    },
+    {
+      "page": 3,
+      "table_id": "Table I",
+      "text_snippet": "Type of wound infection (N ¼ 225), no. (%)\nSuperﬁcial 138 (61.4)\nDeep 69 (30.6)\nInvolving organs/spaces 5 (2.3)\nUnknown 13 (5.7)"
+    },
+    {
+      "page": 3,
+      "section_heading": "Results",
+      "text_snippet": "Staphylococcus aureus...isolated in 43 (40.6%)...MRSA accounted for 34/43 (79%) of the S. aureus."
+    },
+    {
+      "page": 3,
+      "section_heading": "Results",
+      "text_snippet": "The average length of stay in the hospital after the surgical procedure was two days..."
+    },
+    {
+      "page": 4,
+      "table_id": "Table II",
+      "text_snippet": "Doctor Junior 172 (51) 165 (49) Ref.\nSenior 51 (40.2) 76 (59.8) 0.64 (0.43e0.97) 0.04a"
+    },
+    {
+      "page": 4,
+      "table_id": "Table II",
+      "text_snippet": "Incision type Midline vertical 198 (58) 143 (42) Ref.\nPfannestiel 24 (29.3) 58 (70.7) 0.30 (0.18e0.50) <0.001a"
+    },
+    {
+      "page": 5,
+      "table_id": "Table II (continued)",
+      "text_snippet": "Suture type Interrupted 190 (59) 137 (41) Ref.\nContinuous intradermic 20 (26.3) 56 (73.7) 0.26 (0.15e0.45) <0.001a"
+    },
+    {
+      "page": 3,
+      "section_heading": "Discussion",
+      "text_snippet": "An intervention to implement evidence-based revisions of the surgical procedures and antibiotic prophylaxis at the DRRH Gynaecology and Obstetrics Department is continuing."
+    },
+    {
+      "page": 3,
+      "section_heading": "Discussion",
+      "text_snippet": "At the DRRH, as in other Tanzanian settings, no consistent protocol for the administration of antibiotic prophylaxis is available and usually antimicrobials are administered after the operation; the type, dosage, and timing depends on the individual clinician’s preference."
+    },
+    {
+      "page": 3,
+      "section_heading": "Discussion",
+      "text_snippet": "Univariate analysis suggested that surgical procedures performed by interns were associated with a higher risk of SSI compared with those performed by senior doctors..."
+    },
+    {
+      "page": 3,
+      "section_heading": "Discussion",
+      "text_snippet": "The detected incidence rate of post-CS SSI was extremely high, at 48.2%. A recent report from Tanzania documented a more than four-fold lower incidence of post-CS SSI compared with our study (10.9% vs 48.2%)."
+    },
+    {
+      "page": 3,
+      "section_heading": "Discussion",
+      "text_snippet": "The MRSA prevalence rate (79%) also seems to suggest healthcare-associated infections..."
+    },
+    {
+      "page": 3,
+      "section_heading": "Discussion",
+      "text_snippet": "...inappropriate use of antibiotics, particularly third-generation cephalosporins."
+    },
+    {
+      "page": 3,
+      "section_heading": "Discussion",
+      "text_snippet": "The overcrowding of labour rooms and post-delivery ward, and the lack of antimicrobial stewardship, need to be addressed to decrease the occurrence of nosocomial infections..."
+    },
+    {
+      "page": 3,
+      "section_heading": "Discussion",
+      "text_snippet": "This ﬁnding may highlight a substantial need to review national guidelines and internal operative protocols on the management of pregnant women undergoing CS."
+    },
+    {
+      "page": 5,
+      "section_heading": "Funding sources",
+      "text_snippet": "This survey was supported by grants from the Italian Development Cooperation e Ministry of Foreign Affairs AID9562 and ‘Ricerca Corrente’ of the Italian Ministry of Health."
+    },
+    {
+      "page": 2,
+      "section_heading": "Results",
+      "text_snippet": "A total of 664 patients who delivered by CS during the study period were enrolled. Of these, 197 (29.7%) did not attend any clinical visit after the surgical procedure and all attempts to contact them by telephone failed; hence, no outcome was available."
+    },
+    {
+      "page": 3,
+      "section_heading": "Results",
+      "text_snippet": "None of these variables remained signﬁcant in multivariate analysis."
+    }
+  ],
+  "extraction_summary": {
+    "completeness_score": 85,
+    "missing_fields": [
+      "outcomes.mortality",
+      "outcomes.reoperations",
+      "outcomes.readmissions",
+      "outcomes.costs",
+      "risk_of_bias",
+      "design.exclusion_criteria_text"
+    ],
+    "parser_warnings": [],
+    "confidence_overall": "high"
+  }
+}

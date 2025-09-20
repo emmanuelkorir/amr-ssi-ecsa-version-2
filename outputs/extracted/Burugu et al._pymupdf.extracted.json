@@ -1,0 +1,458 @@
+{
+  "study": {
+    "study_id": "Burugu2022-Kenya-KenyattaNH-2022-01",
+    "title": "Occurrence of Post-Surgical Wound Infections, Bacterial Isolates, and their Susceptibility to Commonly Used Antibiotics at Kenyatta National Hospital, Kenya",
+    "authors": [
+      "Magdaline Burugu",
+      "Andrew Nyerere",
+      "Susan Odera",
+      "Lameck Ontweka"
+    ],
+    "journal": "International Journal of Science and Research (IJSR)",
+    "year_publication": 2022,
+    "doi": "10.21275/SR22705124816",
+    "country_list": [
+      "Kenya"
+    ],
+    "country_iso3": "KEN",
+    "region_classification": "ECSA",
+    "surgical_specialty": [
+      "general"
+    ],
+    "language": "English",
+    "data_source_type": "published_full_text",
+    "ownership_type": "public"
+  },
+  "design": {
+    "study_design": "cross_sectional",
+    "randomized": false,
+    "prospective": false,
+    "single_center": true,
+    "multi_center": false,
+    "inclusion_criteria_text": "Adult (>18 years), had undergone surgery at KNH, had an identifiable superficial SSI with signs: purulent exudate, swelling, erythema, pain, local temperature, peri wound cellulitis or surgeon’s diagnosis of infection after the surgical period, and consented.",
+    "exclusion_criteria_text": "Immunocompromised patients and those on long term treatment with corticosteroids.",
+    "sample_frame": "patients",
+    "unit_of_analysis": "patient",
+    "duplicate_publication_likelihood": false
+  },
+  "setting": {
+    "facility_level": "tertiary",
+    "urban_rural": "urban",
+    "care_setting": "hospital",
+    "country_specific_sites": [
+      "Kenyatta National Hospital"
+    ]
+  },
+  "eligibility": {
+    "population": "Adult patients (>18 years) admitted at the surgical ward after undergoing surgery at KNH with superficial SSI.",
+    "classification": "adult",
+    "intervention": "Not specified; study focused on occurrence and susceptibility, not intervention.",
+    "comparator": "None",
+    "outcomes_reported": [
+      "ssi_incidence",
+      "amr_prevalence"
+    ],
+    "timeframe_years": "Not explicitly stated; study conducted prior to August 2022.",
+    "setting_types": [
+      "hospital",
+      "surgical_unit"
+    ],
+    "included_designs": [
+      "cross_sectional"
+    ],
+    "excluded_designs": []
+  },
+  "timeframe": {},
+  "populations": [
+    {
+      "arm_id": "overall",
+      "description": "All adult patients (>18 years) admitted at the surgical ward after surgery at KNH with superficial SSI.",
+      "n_participants": 62,
+      "age_group": "adult",
+      "elective_emergency": "unspecified",
+      "wound_class": "unspecified",
+      "surgical_specialties": [
+        "general"
+      ],
+      "provenance": {
+        "page": 3,
+        "section_heading": "Methodology",
+        "text_snippet": "This was a cross sectional study conducted at the Kenyatta National hospital (KNH) using a population sample of 62 male and female adult patients admitted at the surgical ward after undergoing surgery."
+      }
+    }
+  ],
+  "definitions": {
+    "ssi_definition_standard": [
+      "study_defined"
+    ],
+    "amr_definition_standard": [
+      "study_defined"
+    ],
+    "resistance_definition_text": "Resistance determined by Kirby Bauer disk diffusion method; MRSA defined by Oxacillin disc; VRE by Vancomycin resistance.",
+    "outcome_definitions_text": "SSI defined as superficial infection with purulent exudate, swelling, erythema, pain, local temperature, peri wound cellulitis or surgeon’s diagnosis.",
+    "specimen_type": [
+      "wound_swab"
+    ]
+  },
+  "lab_methods": {
+    "specimen_collection_method": "Pus from surgical wounds collected using sterile cotton swabs and transported to laboratory.",
+    "culture_method": "Inoculation onto blood agar and MacConkey plates; incubation under CO2 and aerobic conditions.",
+    "AST_method": [
+      "disk_diffusion"
+    ],
+    "QC_measures": "Quality control with S. aureus ATCC 25923, E. coli ATCC 25922, P. aeruginosa ATCC 27853.",
+    "organism_identification_method": "Colonial morphology, Gram stain, conventional biochemical tests, API 20E for Gram-negatives.",
+    "contamination_handling": "Plates classified as mixed or pure growth."
+  },
+  "outcomes": {
+    "ssi_incidence": [
+      {
+        "arm_id": "overall",
+        "surgical_specialty": "general",
+        "denominator_type": "patients",
+        "ssi_type": "overall",
+        "n_ssi_events": 45,
+        "n_total": 62,
+        "rate_as_reported": {
+          "value": 72.6,
+          "unit": "percent"
+        },
+        "data_period": {},
+        "subgroup_labels": {
+          "country": "Kenya",
+          "facility_level": "tertiary",
+          "setting": "hospital"
+        },
+        "notes": "SSI defined as superficial infection; 45/62 samples had bacterial growth.",
+        "provenance": {
+          "page": 3,
+          "section_heading": "Results",
+          "text_snippet": "Out of the 62 pus samples that were collected, bacterial isolates were recovered from seven in ten samples (n=45, 72.6%)"
+        }
+      }
+    ],
+    "amr_proportions": [
+      {
+        "arm_id": "overall",
+        "pathogen": "Escherichia coli",
+        "antibiotic": "ceftriaxone",
+        "who_class": "critically_important",
+        "n_tested": 12,
+        "n_resistant": 11,
+        "n_susceptible": 1,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "study_defined",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {},
+        "zone_diameter_unit": "mm",
+        "notes": "91.7% resistance; n_resistant derived from percent and n_tested.",
+        "provenance": {
+          "page": 3,
+          "section_heading": "Antimicrobial susceptibility patterns",
+          "table_id": "Table 1",
+          "text_snippet": "E. coli showed high resistance to ceftriaxone (91.7%)."
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Proteus spp.",
+        "antibiotic": "ceftriaxone",
+        "who_class": "critically_important",
+        "n_tested": 4,
+        "n_resistant": 3,
+        "n_susceptible": 1,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "study_defined",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {},
+        "zone_diameter_unit": "mm",
+        "notes": "66.7% resistance; n_resistant derived from percent and n_tested.",
+        "provenance": {
+          "page": 4,
+          "section_heading": "Antimicrobial susceptibility patterns",
+          "table_id": "Table 1",
+          "text_snippet": "Proteus spp showed high resistance to Ceftazidime and Ceftriazone (66.7%)."
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "oxacillin",
+        "who_class": "critically_important",
+        "n_tested": 16,
+        "n_resistant": 9,
+        "n_susceptible": 7,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "study_defined",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {},
+        "mrsa_detection_method": "oxacillin disc",
+        "zone_diameter_unit": "mm",
+        "notes": "56.3% MRSA; n_resistant derived from percent and n_tested.",
+        "provenance": {
+          "page": 4,
+          "section_heading": "Antibiotics susceptibility pattern of Gram-positive Isolates",
+          "table_id": "Table 2",
+          "text_snippet": "In cases of Staphylococcusaureus 56.3% of the isolates were found resistant to Methicillin (Oxacillin)"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Enterococcus faecalis",
+        "antibiotic": "vancomycin",
+        "who_class": "critically_important",
+        "n_tested": 4,
+        "n_resistant": 3,
+        "n_susceptible": 1,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "study_defined",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {},
+        "zone_diameter_unit": "mm",
+        "notes": "75% resistance; n_resistant derived from percent and n_tested.",
+        "provenance": {
+          "page": 4,
+          "section_heading": "Antibiotics susceptibility pattern of Gram-positive Isolates",
+          "table_id": "Table 2",
+          "text_snippet": "3 of the isolates were Vancomycin (75%) resistant"
+        }
+      }
+    ],
+    "morbidity": [],
+    "mortality": [],
+    "reoperations": [],
+    "readmissions": [],
+    "length_of_stay": [],
+    "costs": [],
+    "risk_factors_effects": []
+  },
+  "interventions": [],
+  "stewardship_guidelines": [],
+  "policy_capacity": [],
+  "qualitative_thematic": {
+    "codes": [
+      {
+        "theme": "burden_incidence",
+        "subtheme": "epidemiology of SSI",
+        "summary": "SSI incidence among surgical patients at KNH was high, with 72.6% of samples showing bacterial growth.",
+        "evidence_quotes": [
+          {
+            "quote": "Out of the 62 pus samples that were collected, bacterial isolates were recovered from seven in ten samples (n=45, 72.6%)",
+            "page": 3,
+            "section": "Results"
+          }
+        ],
+        "location_context": "Kenya, Kenyatta National Hospital",
+        "confidence": "high",
+        "provenance": {
+          "page": 3,
+          "section_heading": "Results",
+          "text_snippet": "Out of the 62 pus samples that were collected, bacterial isolates were recovered from seven in ten samples (n=45, 72.6%)"
+        }
+      },
+      {
+        "theme": "amr_prevalence",
+        "subtheme": "resistance patterns and rates by pathogen/antibiotic",
+        "summary": "High rates of resistance were observed among Gram-negative and Gram-positive isolates, including 91.7% ceftriaxone resistance in E. coli and 56.3% MRSA among S. aureus.",
+        "evidence_quotes": [
+          {
+            "quote": "E. coli showed high resistance to ceftriaxone (91.7%).",
+            "page": 3,
+            "section": "Antimicrobial susceptibility patterns"
+          },
+          {
+            "quote": "In cases of Staphylococcusaureus 56.3% of the isolates were found resistant to Methicillin (Oxacillin)",
+            "page": 4,
+            "section": "Antibiotics susceptibility pattern of Gram-positive Isolates"
+          }
+        ],
+        "location_context": "Kenya, Kenyatta National Hospital",
+        "confidence": "high",
+        "provenance": {
+          "page": 3,
+          "section_heading": "Antimicrobial susceptibility patterns",
+          "table_id": "Table 1",
+          "text_snippet": "E. coli showed high resistance to ceftriaxone (91.7%)."
+        }
+      },
+      {
+        "theme": "drivers_amr",
+        "subtheme": "inappropriate use",
+        "summary": "Overuse and misuse of antibiotics, including prophylactic use, may contribute to high resistance rates observed.",
+        "evidence_quotes": [
+          {
+            "quote": "Resistance to Ceftriaxone and Ampicillin could be explained by they having been used as prophylaxis preoperatively hence increasing their use in patients. Over-use of antibiotics has been shown to contributes to organisms developing resistance.",
+            "page": 4,
+            "section": "Discussion"
+          }
+        ],
+        "location_context": "Kenya, Kenyatta National Hospital",
+        "confidence": "moderate",
+        "provenance": {
+          "page": 4,
+          "section_heading": "Discussion",
+          "text_snippet": "Resistance to Ceftriaxone and Ampicillin could be explained by they having been used as prophylaxis preoperatively hence increasing their use in patients."
+        }
+      },
+      {
+        "theme": "prevention_control",
+        "subtheme": "IPC programs, bundles, surveillance practices",
+        "summary": "The study recommends infection control measures and surveillance to minimize the incidence of SSIs and spread of resistant isolates.",
+        "evidence_quotes": [
+          {
+            "quote": "Control and prevention measures should be put into place as strategy to minimize the incidence of SSIs and the spread of resistance isolates.",
+            "page": 2,
+            "section": "Abstract"
+          },
+          {
+            "quote": "There is need for continuous surveillance genotypic characterization of clinical isolates and their antimicrobial susceptibility patterns.",
+            "page": 5,
+            "section": "Future Scope"
+          }
+        ],
+        "location_context": "Kenya, Kenyatta National Hospital",
+        "confidence": "moderate",
+        "provenance": {
+          "page": 2,
+          "section_heading": "Abstract",
+          "text_snippet": "Control and prevention measures should be put into place as strategy to minimize the incidence of SSIs and the spread of resistance isolates."
+        }
+      },
+      {
+        "theme": "evidence_gaps",
+        "subtheme": "explicit gaps and research priorities",
+        "summary": "The study highlights the need for national surveillance of antibiotic resistant organisms and further research including anaerobic cultures.",
+        "evidence_quotes": [
+          {
+            "quote": "There is need to develop National surveillance of antibiotic resistant organisms.",
+            "page": 5,
+            "section": "Future Scope"
+          },
+          {
+            "quote": "Future studies should be extended to include cultures under anaerobic conditions to establish presence of other bacteria that require such environment for growth.",
+            "page": 5,
+            "section": "Future Scope"
+          }
+        ],
+        "location_context": "Kenya, Kenyatta National Hospital",
+        "confidence": "moderate",
+        "provenance": {
+          "page": 5,
+          "section_heading": "Future Scope",
+          "text_snippet": "There is need to develop National surveillance of antibiotic resistant organisms."
+        }
+      }
+    ]
+  },
+  "risk_of_bias": {
+    "tool_used": "not_reported",
+    "domain_judgements": {},
+    "overall_judgement": "not_reported",
+    "provenance": {}
+  },
+  "funding_conflicts": {
+    "funding_sources": [],
+    "provenance": {}
+  },
+  "notes_flags": [
+    {
+      "type": [
+        "derived_events_from_percent"
+      ],
+      "detail": "n_resistant for AMR outcomes calculated from percent and n_tested for E. coli, Proteus spp., S. aureus, and E. faecalis.",
+      "provenance": {
+        "page": 3,
+        "section_heading": "Antimicrobial susceptibility patterns",
+        "table_id": "Table 1",
+        "text_snippet": "E. coli showed high resistance to ceftriaxone (91.7%)."
+      }
+    },
+    {
+      "type": [
+        "missing_data"
+      ],
+      "detail": "No data on mortality, morbidity, reoperations, readmissions, length of stay, costs, or risk factors effects.",
+      "provenance": {}
+    },
+    {
+      "type": [
+        "unit_unclear"
+      ],
+      "detail": "SSI ascertainment window (days) not specified.",
+      "provenance": {
+        "page": 3,
+        "section_heading": "Methodology",
+        "text_snippet": "had an identifiable superficial SSI with the following signs"
+      }
+    }
+  ],
+  "provenance_index": [
+    {
+      "page": 3,
+      "section_heading": "Methodology",
+      "text_snippet": "This was a cross sectional study conducted at the Kenyatta National hospital (KNH) using a population sample of 62 male and female adult patients admitted at the surgical ward after undergoing surgery."
+    },
+    {
+      "page": 3,
+      "section_heading": "Results",
+      "text_snippet": "Out of the 62 pus samples that were collected, bacterial isolates were recovered from seven in ten samples (n=45, 72.6%)"
+    },
+    {
+      "page": 3,
+      "section_heading": "Antimicrobial susceptibility patterns",
+      "table_id": "Table 1",
+      "text_snippet": "E. coli showed high resistance to ceftriaxone (91.7%)."
+    },
+    {
+      "page": 4,
+      "section_heading": "Antibiotics susceptibility pattern of Gram-positive Isolates",
+      "table_id": "Table 2",
+      "text_snippet": "In cases of Staphylococcusaureus 56.3% of the isolates were found resistant to Methicillin (Oxacillin)"
+    },
+    {
+      "page": 4,
+      "section_heading": "Discussion",
+      "text_snippet": "Resistance to Ceftriaxone and Ampicillin could be explained by they having been used as prophylaxis preoperatively hence increasing their use in patients."
+    },
+    {
+      "page": 2,
+      "section_heading": "Abstract",
+      "text_snippet": "Control and prevention measures should be put into place as strategy to minimize the incidence of SSIs and the spread of resistance isolates."
+    },
+    {
+      "page": 5,
+      "section_heading": "Future Scope",
+      "text_snippet": "There is need to develop National surveillance of antibiotic resistant organisms."
+    }
+  ],
+  "extraction_summary": {
+    "completeness_score": 70,
+    "missing_fields": [
+      "data_collection_start_year",
+      "data_collection_end_year",
+      "follow_up_window_days",
+      "mortality",
+      "morbidity",
+      "reoperations",
+      "readmissions",
+      "length_of_stay",
+      "costs",
+      "risk_factors_effects",
+      "interventions",
+      "stewardship_guidelines",
+      "policy_capacity",
+      "qualitative method context",
+      "funding/conflicts"
+    ],
+    "parser_warnings": [
+      "No explicit timeframe for data collection.",
+      "No outcome data for mortality, morbidity, reoperations, readmissions, LOS, costs, or risk factors.",
+      "SSI definition window not specified."
+    ],
+    "confidence_overall": "moderate"
+  }
+}

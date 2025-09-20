@@ -1,0 +1,63 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Qualitative thematic schema",
+  "type": "object",
+  "required": ["qualitative_thematic"],
+  "properties": {
+    "qualitative_thematic": {
+      "type": "object",
+      "required": ["codes"],
+      "properties": {
+        "method": {
+          "type": ["string", "null"],
+          "enum": [
+            "interviews",
+            "focus_groups",
+            "mixed",
+            "document_review",
+            "unspecified",
+            null
+          ]
+        },
+        "participant_type": { "type": ["string", "null"] },
+        "participants_n": { "type": ["integer", "null"], "minimum": 0 },
+        "analysis_approach": { "type": ["string", "null"] },
+        "casp_appraisal": { "type": ["string", "null"] },
+        "codes": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["theme", "summary", "evidence_quotes", "confidence"],
+            "properties": {
+              "theme": { "type": "string" },
+              "subtheme": { "type": ["string", "null"] },
+              "summary": { "type": "string", "minLength": 5 },
+              "evidence_quotes": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "required": ["quote"],
+                  "properties": {
+                    "quote": { "type": "string" },
+                    "page": { "type": ["integer", "null"], "minimum": 1 },
+                    "section": { "type": ["string", "null"] }
+                  },
+                  "additionalProperties": false
+                }
+              },
+              "location_context": { "type": ["string", "null"] },
+              "confidence": {
+                "type": "string",
+                "enum": ["high", "moderate", "low"]
+              },
+              "provenance": { "type": ["object", "null"] }
+            },
+            "additionalProperties": false
+          }
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}

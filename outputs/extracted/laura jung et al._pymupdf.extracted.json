@@ -1,0 +1,648 @@
+{
+  "study": {
+    "study_id": "Jung2023-Uganda-Mulago-2021Q4_2022Q1-01",
+    "title": "A case for routine microbial diagnostics: Results from antimicrobial susceptibility testing in post-traumatic wound infections at a Ugandan tertiary care hospital",
+    "authors": [
+      "Laura Jung",
+      "James Kiwanuka",
+      "Leah Mbabazi",
+      "Vivian Nakate",
+      "Joseph Musaazi",
+      "Hawah Nabajja",
+      "Henry Kajumbula",
+      "Christoph Lübbbert",
+      "Erisa Mwaka",
+      "Sara Nsibirwa",
+      "Amrei von Braun"
+    ],
+    "journal": "PLOS Global Public Health",
+    "year_publication": 2023,
+    "doi": "10.1371/journal.pgph.0001880",
+    "country_list": [
+      "Uganda"
+    ],
+    "country_iso3": "UGA",
+    "region_classification": "ECSA",
+    "surgical_specialty": [
+      "orthopedics/trauma"
+    ],
+    "language": "English",
+    "data_source_type": "published_full_text",
+    "ownership_type": "public",
+    "bed_capacity": 75
+  },
+  "design": {
+    "study_design": "cross_sectional",
+    "randomized": false,
+    "prospective": true,
+    "single_center": true,
+    "multi_center": false,
+    "inclusion_criteria_text": "Patients of all age groups on the MNRH orthopedic/trauma unit who developed clinical signs of wound infection (e.g. erythema /pus discharge) and/or fever.",
+    "exclusion_criteria_text": "Patients without clinical signs of wound infection but fever due to malaria or acute, untreated tuberculosis and patients participating in another study.",
+    "sample_frame": "patients",
+    "unit_of_analysis": "patient",
+    "duplicate_publication_likelihood": false
+  },
+  "setting": {
+    "facility_level": "tertiary",
+    "urban_rural": "urban",
+    "care_setting": "hospital",
+    "country_specific_sites": [
+      "Mulago National Referral Hospital, Kampala"
+    ],
+    "stewardship_program_present": false
+  },
+  "eligibility": {
+    "population": "Patients of all age groups on the MNRH orthopedic/trauma unit with clinical signs of wound infection (e.g. erythema /pus discharge) and/or fever.",
+    "classification": "mixed",
+    "intervention": "Empirical antimicrobial treatments, targeted treatments following microbiology testing and surgical treatments.",
+    "comparator": "Empirical treatment prior to AST-guided therapy.",
+    "outcomes_reported": [
+      "amr_prevalence",
+      "morbidity",
+      "mortality",
+      "length_of_stay"
+    ],
+    "timeframe_years": "October 2021 to January 2022",
+    "setting_types": [
+      "hospital",
+      "surgical_unit"
+    ],
+    "included_designs": [
+      "cross_sectional",
+      "observational"
+    ],
+    "excluded_designs": []
+  },
+  "timeframe": {
+    "data_collection_start_year": 2021,
+    "data_collection_start_month": 10,
+    "data_collection_end_year": 2022,
+    "data_collection_end_month": 1
+  },
+  "populations": [
+    {
+      "arm_id": "overall",
+      "description": "All patients with post-traumatic wound infections admitted to the orthopedic/trauma unit at Mulago National Referral Hospital.",
+      "n_participants": 124,
+      "age_group": "mixed",
+      "elective_emergency": "unspecified",
+      "wound_class": "unspecified",
+      "comorbidities_key": "HIV positive: 5.7%; Diabetes mellitus: 3.2%; Other pre-existing conditions: 3.2%",
+      "surgical_specialties": [
+        "orthopedics/trauma"
+      ],
+      "provenance": {
+        "page": 6,
+        "section_heading": "Table 1. Demographic and clinical characteristics of study population",
+        "table_id": "Table 1",
+        "text_snippet": "Demographic and clinical characteristics of study population (n = 124)"
+      }
+    }
+  ],
+  "definitions": {
+    "ssi_definition_standard": [
+      "WHO"
+    ],
+    "amr_definition_standard": [
+      "CLSI"
+    ],
+    "breakpoint_version": "CLSI 2020",
+    "resistance_definition_text": "Antimicrobial susceptibility tests were performed using a Kirby-Bauer disc diffusion method based on the 2020 CLSI standards.",
+    "outcome_definitions_text": "Clinical outcome categorized as complete recovery, minor disability, moderate disability, major disability, or death.",
+    "specimen_type": [
+      "wound_swab",
+      "blood"
+    ]
+  },
+  "lab_methods": {
+    "specimen_collection_method": "Wound swabs taken from all sites with clinical signs of infection by trained staff following the Levine method.",
+    "culture_method": "Wound swabs inoculated onto Chocolate, Blood and MacConkey agar and incubated in a 5–7% CO2 incubator. Blood cultures performed on BACTEC9120 or FX40 system and sub cultured onto Chocolate, Blood and MacConkey agar if positive.",
+    "AST_method": [
+      "disk_diffusion"
+    ],
+    "organism_identification_method": "Manual using colony morphology, gram stain characteristics and conventional biochemical tests according to laboratory SOPs and automated BD Phoenix instrument.",
+    "contamination_handling": "As wounds following trauma are a non-sterile environment, contaminants or skin-colonizing isolates might be sampled; results from wound swabs should be interpreted with caution.",
+    "lab_capacity_notes": "Laboratory constraints: some pathogens not identified to genus level; ESBL production could not be confirmed by reference method.",
+    "GLASS_participation": true
+  },
+  "outcomes": {
+    "ssi_incidence": [],
+    "amr_proportions": [
+      {
+        "arm_id": "overall",
+        "pathogen": "Escherichia coli",
+        "antibiotic": "ceftriaxone",
+        "who_class": "critically_important",
+        "n_tested": 45,
+        "n_resistant": 43,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2020",
+        "specimen_type": "wound_swab",
+        "site": "wound",
+        "data_period": {
+          "start_year": 2021,
+          "end_year": 2022
+        },
+        "esbl_test": "disk diffusion (cephalosporin/clavulanic acid combination)",
+        "zone_diameter_unit": "mm",
+        "provenance": {
+          "page": 8,
+          "section_heading": "Table 2. Most prevalent pathogens (n>20 isolates) and their resistance towards selected antimicrobials.",
+          "table_id": "Table 2",
+          "text_snippet": "E. coli N = 48 Ceftriaxone/Cefotaxime2 43/45 (95.7)"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Escherichia coli",
+        "antibiotic": "gentamicin",
+        "who_class": "critically_important",
+        "n_tested": 40,
+        "n_resistant": 22,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2020",
+        "specimen_type": "wound_swab",
+        "site": "wound",
+        "data_period": {
+          "start_year": 2021,
+          "end_year": 2022
+        },
+        "esbl_test": "disk diffusion (cephalosporin/clavulanic acid combination)",
+        "zone_diameter_unit": "mm",
+        "provenance": {
+          "page": 8,
+          "section_heading": "Table 2. Most prevalent pathogens (n>20 isolates) and their resistance towards selected antimicrobials.",
+          "table_id": "Table 2",
+          "text_snippet": "E. coli N = 48 Gentamicin 22/40 (55.0)"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Acinetobacter spp.",
+        "antibiotic": "gentamicin",
+        "who_class": "critically_important",
+        "n_tested": 39,
+        "n_resistant": 32,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2020",
+        "specimen_type": "wound_swab",
+        "site": "wound",
+        "data_period": {
+          "start_year": 2021,
+          "end_year": 2022
+        },
+        "zone_diameter_unit": "mm",
+        "provenance": {
+          "page": 8,
+          "section_heading": "Table 2. Most prevalent pathogens (n>20 isolates) and their resistance towards selected antimicrobials.",
+          "table_id": "Table 2",
+          "text_snippet": "Acinetobacter spp. N = 43 Gentamicin 32/39 (82.1)"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Klebsiella spp.",
+        "antibiotic": "ceftriaxone",
+        "who_class": "critically_important",
+        "n_tested": 32,
+        "n_resistant": 30,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2020",
+        "specimen_type": "wound_swab",
+        "site": "wound",
+        "data_period": {
+          "start_year": 2021,
+          "end_year": 2022
+        },
+        "zone_diameter_unit": "mm",
+        "provenance": {
+          "page": 8,
+          "section_heading": "Table 2. Most prevalent pathogens (n>20 isolates) and their resistance towards selected antimicrobials.",
+          "table_id": "Table 2",
+          "text_snippet": "Klebsiella spp. N = 34 Ceftriaxone/Cefotaxime2 30/32 (93.8)"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Pseudomonas aeruginosa",
+        "antibiotic": "gentamicin",
+        "who_class": "critically_important",
+        "n_tested": 24,
+        "n_resistant": 11,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2020",
+        "specimen_type": "wound_swab",
+        "site": "wound",
+        "data_period": {
+          "start_year": 2021,
+          "end_year": 2022
+        },
+        "zone_diameter_unit": "mm",
+        "provenance": {
+          "page": 8,
+          "section_heading": "Table 2. Most prevalent pathogens (n>20 isolates) and their resistance towards selected antimicrobials.",
+          "table_id": "Table 2",
+          "text_snippet": "P. aeruginosa N = 28 Gentamicin 11/24 (45.8)"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Enterococcus spp.",
+        "antibiotic": "vancomycin",
+        "who_class": "critically_important",
+        "n_tested": 20,
+        "n_resistant": 17,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2020",
+        "specimen_type": "wound_swab",
+        "site": "wound",
+        "data_period": {
+          "start_year": 2021,
+          "end_year": 2022
+        },
+        "zone_diameter_unit": "mm",
+        "notes": "Vancomycin resistance in 85% of Enterococcus spp. isolates.",
+        "provenance": {
+          "page": 8,
+          "section_heading": "3.2 Type and prevalence of pathogens and resistance patterns",
+          "text_snippet": "The majority (n = 17, 85%) of Enterococcus spp. isolates displayed vancomycin resistance."
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "methicillin",
+        "who_class": "critically_important",
+        "n_tested": 19,
+        "n_resistant": 4,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2020",
+        "specimen_type": "wound_swab",
+        "site": "wound",
+        "data_period": {
+          "start_year": 2021,
+          "end_year": 2022
+        },
+        "zone_diameter_unit": "mm",
+        "notes": "Four (21.1%) isolates were methicillin resistant.",
+        "provenance": {
+          "page": 8,
+          "section_heading": "3.2 Type and prevalence of pathogens and resistance patterns",
+          "text_snippet": "While Staphylococcus aureus was rarely isolated in our population (n = 19), four (21.1%) isolates were methicillin resistant."
+        }
+      }
+    ],
+    "morbidity": [
+      {
+        "measure": "complications_other",
+        "n_events": 112,
+        "n_total": 124,
+        "definition_text": "Minor, moderate, or major disability at discharge.",
+        "notes": "Only 12 patients (9.7%) recovered completely; 89.5% left with some disability.",
+        "provenance": {
+          "page": 9,
+          "section_heading": "Table 3. Clinical outcomes of study participants (n = 124).",
+          "table_id": "Table 3",
+          "text_snippet": "Minor disability 62 (50.0%), Moderate disability 28 (22.6%), Major disability 21 (16.9%)"
+        }
+      }
+    ],
+    "mortality": [
+      {
+        "measure": "in_hospital",
+        "n_deaths": 1,
+        "n_total": 124,
+        "rate_as_reported": {
+          "value": 0.8,
+          "unit": "percent"
+        },
+        "definition_text": "Death during hospital stay (intra-operative cardiac arrest).",
+        "notes": "A 23-year-old male patient died intra-operatively due to cardiac arrest.",
+        "provenance": {
+          "page": 9,
+          "section_heading": "Table 3. Clinical outcomes of study participants (n = 124).",
+          "table_id": "Table 3",
+          "text_snippet": "Death 1 (0.8%)"
+        }
+      }
+    ],
+    "reoperations": [],
+    "readmissions": [],
+    "length_of_stay": [
+      {
+        "group": "overall",
+        "median_days": 22,
+        "iqr_days": "15–41",
+        "n": 124,
+        "notes": "Median length of stay on the ward was 22 days (IQR 15–41 days).",
+        "provenance": {
+          "page": 8,
+          "section_heading": "3.4 Clinical outcomes",
+          "text_snippet": "The median length of stay on the ward was 22 days (IQR 15–41 days)."
+        }
+      }
+    ],
+    "costs": [],
+    "risk_factors_effects": []
+  },
+  "interventions": [
+    {
+      "type": "diagnostic_innovation",
+      "description": "Routine microbial diagnostics and AST performed for all patients with wound infections.",
+      "implementation_level": "facility",
+      "comparator": "Empirical treatment without diagnostics",
+      "outcomes_measured": [
+        "amr_prevalence",
+        "morbidity"
+      ],
+      "effect_direction": "benefit",
+      "provenance": {
+        "page": 8,
+        "section_heading": "3.3. Antibiotic prescriptions",
+        "text_snippet": "Upon review of AST results, the majority of patients (n = 111, 95.7%) required a change of antimicrobial treatment."
+      }
+    }
+  ],
+  "stewardship_guidelines": [],
+  "policy_capacity": [
+    {
+      "domain": "lab_capacity",
+      "status_text": "Microbiological diagnostics not routinely available; laboratory constraints in pathogen identification and ESBL confirmation.",
+      "indicators": {},
+      "provenance": {
+        "page": 11,
+        "section_heading": "5. Strength and limitations",
+        "text_snippet": "Due to laboratory constraints some pathogens were not identified to genus level, including Enterococcus spp. and Acinetobacter spp., and ESBL production could unfortunately not be confirmed by a reference method."
+      }
+    },
+    {
+      "domain": "GLASS_reporting",
+      "status_text": "Uganda implemented a structured national AMR surveillance program in alignment with WHO GLASS in 2015.",
+      "indicators": {},
+      "provenance": {
+        "page": 2,
+        "section_heading": "1.1 Antimicrobial resistance in Uganda",
+        "text_snippet": "Despite being the first African country to implement a structured national AMR surveillance program in alignment with the WHO Global Antimicrobial Resistance Surveillance System (GLASS) in 2015 [8]"
+      }
+    },
+    {
+      "domain": "AMR_national_action_plan",
+      "status_text": "National Action Plan on AMR published in 2018; strategic objectives on surveillance, diagnostics and access to antimicrobials.",
+      "indicators": {},
+      "provenance": {
+        "page": 2,
+        "section_heading": "1.1 Antimicrobial resistance in Uganda",
+        "text_snippet": "A National Action Plan (NAP) on AMR was published in 2018 [9] and set strategic objectives on surveillance, diagnostics and access to antimicrobials [10]."
+      }
+    }
+  ],
+  "qualitative_thematic": {
+    "codes": [
+      {
+        "theme": "amr_prevalence",
+        "subtheme": "resistance patterns and rates by pathogen/antibiotic",
+        "summary": "High rates of antimicrobial resistance were found across gram-negative and gram-positive species towards the most common empiric antibiotics.",
+        "evidence_quotes": [
+          {
+            "quote": "With 98% resistance towards ceftriaxone and 51% resistance towards gentamicin, a large proportion of all pathogens demonstrated resistance, or were intrinsically resistant, to the most commonly used empiric antibiotics.",
+            "page": 7,
+            "section": "3.2 Type and prevalence of pathogens and resistance patterns"
+          }
+        ],
+        "location_context": "Mulago National Referral Hospital, Kampala, Uganda",
+        "confidence": "high",
+        "provenance": {
+          "page": 7,
+          "section_heading": "3.2 Type and prevalence of pathogens and resistance patterns",
+          "text_snippet": "With 98% resistance towards ceftriaxone and 51% resistance towards gentamicin, a large proportion of all pathogens demonstrated resistance, or were intrinsically resistant, to the most commonly used empiric antibiotics."
+        }
+      },
+      {
+        "theme": "drivers_amr",
+        "subtheme": "inappropriate use, IPC gaps, diagnostics delays, policy failures, supply chain, workforce, patient factors",
+        "summary": "Empirical antibiotic treatment is commonly based on clinical judgement without knowledge of pathogen and resistance patterns, and self-prescription is prevalent.",
+        "evidence_quotes": [
+          {
+            "quote": "Empirical antibiotic treatment on the ward was commonly based on clinical judgement without knowledge of pathogen and resistance patterns. The ability to perform microbial testing was limited, since it is an unaffordable out-of-pocket expense for most patients in this setting.",
+            "page": 9,
+            "section": "4. Discussion"
+          },
+          {
+            "quote": "Over 80% of them bought antimicrobials directly in community drug shops or pharmacies without a medical prescription, which underlines the high prevalence of self-prescription in our sample, similar to the available literature [19,20].",
+            "page": 9,
+            "section": "4. Discussion"
+          }
+        ],
+        "location_context": "Mulago National Referral Hospital, Kampala, Uganda",
+        "confidence": "high",
+        "provenance": {
+          "page": 9,
+          "section_heading": "4. Discussion",
+          "text_snippet": "Empirical antibiotic treatment on the ward was commonly based on clinical judgement without knowledge of pathogen and resistance patterns."
+        }
+      },
+      {
+        "theme": "prevention_control",
+        "subtheme": "IPC programs, bundles, surveillance practices",
+        "summary": "Nosocomial infections are common, possibly due to long hospital stays and suboptimal infection prevention and control.",
+        "evidence_quotes": [
+          {
+            "quote": "Nosocomial infections might be more common in Uganda as hospital stays tend to be long due to treatment delays and IPC is often not optimal [44].",
+            "page": 9,
+            "section": "4. Discussion"
+          }
+        ],
+        "location_context": "Uganda",
+        "confidence": "moderate",
+        "provenance": {
+          "page": 9,
+          "section_heading": "4. Discussion",
+          "text_snippet": "Nosocomial infections might be more common in Uganda as hospital stays tend to be long due to treatment delays and IPC is often not optimal [44]."
+        }
+      },
+      {
+        "theme": "interventions_innovations",
+        "subtheme": "evaluated interventions and novel approaches",
+        "summary": "Routine microbial diagnostics and AST enabled targeted therapy and diversification of treatment options.",
+        "evidence_quotes": [
+          {
+            "quote": "The use of AST in our study enabled the diversification of treatment options and guided clinical decision-making.",
+            "page": 9,
+            "section": "4. Discussion"
+          }
+        ],
+        "location_context": "Mulago National Referral Hospital, Kampala, Uganda",
+        "confidence": "high",
+        "provenance": {
+          "page": 9,
+          "section_heading": "4. Discussion",
+          "text_snippet": "The use of AST in our study enabled the diversification of treatment options and guided clinical decision-making."
+        }
+      },
+      {
+        "theme": "policy_capacity",
+        "subtheme": "national/regional capacity, GLASS, stewardship policy",
+        "summary": "Uganda has a National Action Plan on AMR and participates in GLASS, but lacks routine lab-based surveillance and comprehensive stewardship programs.",
+        "evidence_quotes": [
+          {
+            "quote": "Despite being the first African country to implement a structured national AMR surveillance program in alignment with the WHO Global Antimicrobial Resistance Surveillance System (GLASS) in 2015 [8], the magnitude of AMR in Uganda remains largely unknown due to a lack of access to microbiological diagnostics.",
+            "page": 2,
+            "section": "1.1 Antimicrobial resistance in Uganda"
+          }
+        ],
+        "location_context": "Uganda",
+        "confidence": "high",
+        "provenance": {
+          "page": 2,
+          "section_heading": "1.1 Antimicrobial resistance in Uganda",
+          "text_snippet": "Despite being the first African country to implement a structured national AMR surveillance program in alignment with the WHO Global Antimicrobial Resistance Surveillance System (GLASS) in 2015 [8], the magnitude of AMR in Uganda remains largely unknown due to a lack of access to microbiological diagnostics."
+        }
+      }
+    ]
+  },
+  "risk_of_bias": {
+    "tool_used": "not_reported",
+    "domain_judgements": {},
+    "overall_judgement": "not_reported"
+  },
+  "funding_conflicts": {
+    "funding_sources": [
+      "Hospital Partnerships Program co-funded by Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH and Else-Kröner-Fresenius-Stiftung (EKFS) (grant number 81249888)",
+      "Open Access Publishing Fund of Leipzig University, supported by the German Research Foundation"
+    ],
+    "conflicts_of_interest": "The authors have declared that no competing interests exist.",
+    "role_of_funder": "The funders had no role in the design of the study; in the collection, analyses, or interpretation of data; in the writing of the manuscript, or in the decision to publish the results.",
+    "provenance": {
+      "page": 2,
+      "section_heading": "Funding",
+      "text_snippet": "The funders had no role in the design of the study; in the collection, analyses, or interpretation of data; in the writing of the manuscript, or in the decision to publish the results."
+    }
+  },
+  "notes_flags": [
+    {
+      "type": [
+        "missing_data"
+      ],
+      "detail": "No SSI incidence rates or events/denominator reported.",
+      "provenance": {
+        "page": 1,
+        "section_heading": "Abstract",
+        "text_snippet": "The aim of this study was to determine pathogen prevalence and antibiotic resistance patterns in patients with wound infections following trauma at a national referral hospital in Kampala, Uganda."
+      }
+    },
+    {
+      "type": [
+        "missing_data"
+      ],
+      "detail": "No explicit follow-up window for SSI ascertainment.",
+      "provenance": {
+        "page": 4,
+        "section_heading": "2.4 Data and sample collection",
+        "text_snippet": "Follow-up study visits were conducted two and four days after enrolment by the study staff on the ward. The final study visit was done upon discharge from the unit."
+      }
+    },
+    {
+      "type": [
+        "missing_data"
+      ],
+      "detail": "No cost or economic outcome data reported.",
+      "provenance": {
+        "page": 1,
+        "section_heading": "Abstract",
+        "text_snippet": "No cost or economic outcome data reported."
+      }
+    },
+    {
+      "type": [
+        "missing_data"
+      ],
+      "detail": "No stewardship guideline adherence rates reported.",
+      "provenance": {
+        "page": 2,
+        "section_heading": "1.1 Antimicrobial resistance in Uganda",
+        "text_snippet": "Comprehensive antimicrobial stewardship (AMS) is not routinely performed at Ugandan hospitals [11]."
+      }
+    }
+  ],
+  "provenance_index": [
+    {
+      "page": 1,
+      "section_heading": "Abstract",
+      "text_snippet": "The aim of this study was to determine pathogen prevalence and antibiotic resistance patterns in patients with wound infections following trauma at a national referral hospital in Kampala, Uganda."
+    },
+    {
+      "page": 6,
+      "section_heading": "Table 1. Demographic and clinical characteristics of study population",
+      "table_id": "Table 1",
+      "text_snippet": "Demographic and clinical characteristics of study population (n = 124)"
+    },
+    {
+      "page": 8,
+      "section_heading": "Table 2. Most prevalent pathogens (n>20 isolates) and their resistance towards selected antimicrobials.",
+      "table_id": "Table 2",
+      "text_snippet": "E. coli N = 48 Ceftriaxone/Cefotaxime2 43/45 (95.7)"
+    },
+    {
+      "page": 9,
+      "section_heading": "Table 3. Clinical outcomes of study participants (n = 124).",
+      "table_id": "Table 3",
+      "text_snippet": "Minor disability 62 (50.0%), Moderate disability 28 (22.6%), Major disability 21 (16.9%)"
+    },
+    {
+      "page": 9,
+      "section_heading": "Table 3. Clinical outcomes of study participants (n = 124).",
+      "table_id": "Table 3",
+      "text_snippet": "Death 1 (0.8%)"
+    },
+    {
+      "page": 8,
+      "section_heading": "3.4 Clinical outcomes",
+      "text_snippet": "The median length of stay on the ward was 22 days (IQR 15–41 days)."
+    },
+    {
+      "page": 8,
+      "section_heading": "3.3. Antibiotic prescriptions",
+      "text_snippet": "Upon review of AST results, the majority of patients (n = 111, 95.7%) required a change of antimicrobial treatment."
+    },
+    {
+      "page": 11,
+      "section_heading": "5. Strength and limitations",
+      "text_snippet": "Due to laboratory constraints some pathogens were not identified to genus level, including Enterococcus spp. and Acinetobacter spp., and ESBL production could unfortunately not be confirmed by a reference method."
+    },
+    {
+      "page": 2,
+      "section_heading": "1.1 Antimicrobial resistance in Uganda",
+      "text_snippet": "Despite being the first African country to implement a structured national AMR surveillance program in alignment with the WHO Global Antimicrobial Resistance Surveillance System (GLASS) in 2015 [8]"
+    }
+  ],
+  "extraction_summary": {
+    "completeness_score": 80,
+    "missing_fields": [
+      "ssi_incidence",
+      "follow_up_window_days",
+      "costs",
+      "stewardship_guidelines",
+      "risk_factors_effects",
+      "readmissions",
+      "reoperations",
+      "qualitative method context",
+      "sample size for qualitative",
+      "risk_of_bias tool and domains"
+    ],
+    "parser_warnings": [
+      "No SSI incidence rates or events/denominator reported.",
+      "No explicit follow-up window for SSI ascertainment.",
+      "No cost or economic outcome data reported.",
+      "No stewardship guideline adherence rates reported."
+    ],
+    "confidence_overall": "high"
+  }
+}

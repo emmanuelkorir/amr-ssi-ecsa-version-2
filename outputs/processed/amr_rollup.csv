@@ -1,0 +1,220 @@
+country,facility_level,setting,pathogen,antibiotic,specimen_type,year_start,year_end,n_studies,events,total,pct,ci95_low,ci95_high,logit,se_logit
+Cameroon,mixed,hospital,Klebsiella pneumoniae,ofloxacin,wound_swab,2010.0,2011.0,1,0,22,0.0,0.0,14.87,-3.806662,1.429841
+Cameroon,mixed,hospital,Pseudomonas aeruginosa,gentamicin,wound_swab,2010.0,2011.0,1,10,39,25.64,14.57,41.08,-1.064711,0.366719
+Cameroon,mixed,hospital,Pseudomonas aeruginosa,ofloxacin,wound_swab,2010.0,2011.0,1,0,39,0.0,0.0,8.97,-4.369448,1.423136
+Cameroon,mixed,hospital,Staphylococcus aureus,gentamicin,wound_swab,2010.0,2011.0,1,6,48,12.5,5.86,24.7,-1.94591,0.436436
+Cameroon,mixed,hospital,Staphylococcus aureus,ofloxacin,wound_swab,2010.0,2011.0,1,0,48,0.0,0.0,7.41,-4.574711,1.421485
+Cameroon,mixed,hospital,Staphylococcus aureus,oxacillin,wound_swab,2010.0,2011.0,1,48,48,100.0,92.59,100.0,4.574711,1.421485
+Democratic Republic of Congo,tertiary,hospital,Staphylococcus aureus,amoxicillin-clavulanate,wound_swab,2013.0,2013.0,1,9,74,12.16,6.53,21.53,-1.977163,0.355662
+Democratic Republic of Congo,tertiary,hospital,Staphylococcus aureus,ampicillin,wound_swab,2013.0,2013.0,1,58,74,78.38,67.73,86.23,1.287854,0.282385
+Democratic Republic of Congo,tertiary,hospital,Staphylococcus aureus,cefotaxime,wound_swab,2013.0,2013.0,1,30,74,40.54,30.09,51.92,-0.382992,0.236771
+Democratic Republic of Congo,tertiary,hospital,Staphylococcus aureus,ceftazidime,wound_swab,2013.0,2013.0,1,37,74,50.0,38.89,61.11,0.0,0.232495
+Democratic Republic of Congo,tertiary,hospital,Staphylococcus aureus,ciprofloxacin,wound_swab,2013.0,2013.0,1,50,74,67.57,56.27,77.14,0.733969,0.248328
+Democratic Republic of Congo,tertiary,hospital,Staphylococcus aureus,clindamycin,wound_swab,2013.0,2013.0,1,52,74,70.27,59.07,79.47,0.860201,0.254333
+Democratic Republic of Congo,tertiary,hospital,Staphylococcus aureus,cotrimoxazole,wound_swab,2013.0,2013.0,1,54,74,72.97,61.91,81.77,0.993252,0.26176
+Democratic Republic of Congo,tertiary,hospital,Staphylococcus aureus,erythromycin,wound_swab,2013.0,2013.0,1,51,74,68.92,57.66,78.31,0.796331,0.251169
+Democratic Republic of Congo,tertiary,hospital,Staphylococcus aureus,imipenem,wound_swab,2013.0,2013.0,1,0,74,0.0,0.0,4.94,-5.003946,1.418951
+Democratic Republic of Congo,tertiary,hospital,Staphylococcus aureus,vancomycin,wound_swab,2013.0,2013.0,1,11,74,14.86,8.51,24.69,-1.745239,0.326775
+Eritrea,tertiary,hospital,Escherichia coli,ampicillin,wound_swab,2017.0,2017.0,1,10,10,100.0,72.25,100.0,3.044522,1.447494
+Eritrea,tertiary,hospital,Escherichia coli,ceftazidime,wound_swab,2017.0,2017.0,1,9,10,90.0,59.58,98.21,2.197225,1.054093
+Eritrea,tertiary,hospital,Escherichia coli,ceftriaxone,wound_swab,2017.0,2017.0,1,8,10,80.0,49.02,94.33,1.386294,0.790569
+Eritrea,tertiary,hospital,Escherichia coli,gentamicin,wound_swab,2017.0,2017.0,1,7,10,70.0,39.68,89.22,0.847298,0.690066
+Eritrea,tertiary,hospital,Escherichia coli,trimethoprim-sulfamethoxazole,wound_swab,2017.0,2017.0,1,9,10,90.0,59.58,98.21,2.197225,1.054093
+Eritrea,tertiary,hospital,Staphylococcus aureus,clindamycin,wound_swab,2017.0,2017.0,1,5,20,25.0,11.19,46.87,-1.098612,0.516398
+Eritrea,tertiary,hospital,Staphylococcus aureus,erythromycin,wound_swab,2017.0,2017.0,1,5,20,25.0,11.19,46.87,-1.098612,0.516398
+Eritrea,tertiary,hospital,Staphylococcus aureus,oxacillin,wound_swab,2017.0,2017.0,1,14,20,70.0,48.1,85.45,0.847298,0.48795
+Eritrea,tertiary,hospital,Staphylococcus aureus,penicillin,wound_swab,2017.0,2017.0,1,20,20,100.0,83.89,100.0,3.713572,1.431356
+Eritrea,tertiary,hospital,Staphylococcus aureus,vancomycin,wound_swab,2017.0,2017.0,1,12,20,60.0,38.66,78.12,0.405465,0.456435
+Ethiopia,tertiary,hospital,Acinetobacter baumannii,ceftazidime,wound_swab,2020.0,2021.0,1,41,43,95.35,84.54,98.72,3.020425,0.724148
+Ethiopia,tertiary,hospital,Acinetobacter baumannii,ceftriaxone,wound_swab,2020.0,2021.0,1,41,43,95.35,84.54,98.72,3.020425,0.724148
+Ethiopia,tertiary,hospital,Acinetobacter baumannii,imipenem,wound_swab,2020.0,2021.0,1,37,43,86.05,72.74,93.44,1.819158,0.440106
+Ethiopia,tertiary,hospital,Coagulase-negative staphylococci,vancomycin,wound_swab,2012.0,2012.0,1,0,18,0.0,0.0,17.59,-3.610918,1.433197
+Ethiopia,tertiary,hospital,Enterobacteriaceae,ampicillin,wound_swab,2016.0,2016.0,1,21,23,91.3,73.2,97.58,2.351375,0.740013
+Ethiopia,tertiary,hospital,Escherichia coli,amoxicillin-clavulanate,wound_swab,2021.0,2021.0,1,11,12,91.67,64.61,98.51,2.397895,1.044466
+Ethiopia,tertiary,hospital,Escherichia coli,ampicillin,wound_swab,2016.0,2016.0,1,8,9,88.89,56.5,98.01,2.079442,1.06066
+Ethiopia,tertiary,hospital,Escherichia coli,ampicillin,wound_swab,2020.0,2021.0,1,96,102,94.12,87.76,97.28,2.772589,0.420813
+Ethiopia,tertiary,hospital,Escherichia coli,ampicillin,wound_swab,2021.0,2021.0,1,12,12,100.0,75.75,100.0,3.218876,1.442221
+Ethiopia,tertiary,hospital,Escherichia coli,ampicillin,wound_swab,2023.0,2023.0,1,5,6,83.33,43.65,96.99,1.609438,1.095445
+Ethiopia,tertiary,hospital,Escherichia coli,cefepime,wound_swab,2022.0,2022.0,1,26,29,89.66,73.61,96.42,2.159484,0.60975
+Ethiopia,tertiary,hospital,Escherichia coli,ceftazidime,wound_swab,2023.0,2023.0,1,5,6,83.33,43.65,96.99,1.609438,1.095445
+Ethiopia,tertiary,hospital,Escherichia coli,ceftriaxone,wound_swab,2020.0,2021.0,1,101,102,99.02,94.65,99.83,4.615121,1.004938
+Ethiopia,tertiary,hospital,Escherichia coli,imipenem,wound_swab,2020.0,2021.0,1,12,102,11.76,6.86,19.45,-2.014903,0.307318
+Ethiopia,tertiary,hospital,Escherichia coli,meropenem,wound_swab,2019.0,2019.0,1,0,9,0.0,0.0,29.92,-2.944439,1.450953
+Ethiopia,tertiary,hospital,Escherichia coli,meropenem,wound_swab,2022.0,2022.0,1,4,29,13.79,5.5,30.56,-1.832581,0.538516
+Ethiopia,tertiary,hospital,Gram-negative bacteria (aggregate),gentamicin,wound_swab,2012.0,2012.0,1,11,65,16.92,9.72,27.82,-1.591089,0.330798
+Ethiopia,tertiary,hospital,Gram-positive bacteria (aggregate),vancomycin,wound_swab,2012.0,2012.0,1,0,58,0.0,0.0,6.21,-4.762174,1.420244
+Ethiopia,tertiary,hospital,Klebsiella pneumoniae,ampicillin,wound_swab,2016.0,2016.0,1,7,7,100.0,64.57,100.0,2.70805,1.460593
+Ethiopia,tertiary,hospital,Klebsiella pneumoniae,cefepime,wound_swab,2022.0,2022.0,1,14,14,100.0,78.47,100.0,3.367296,1.43839
+Ethiopia,tertiary,hospital,Klebsiella pneumoniae,ceftriaxone,wound_swab,2017.0,2017.0,1,1,9,11.11,1.99,43.5,-2.079442,1.06066
+Ethiopia,tertiary,hospital,Klebsiella pneumoniae,chloramphenicol,wound_swab,2017.0,2017.0,1,2,6,33.33,9.68,70.0,-0.693147,0.866025
+Ethiopia,tertiary,hospital,Klebsiella pneumoniae,ciprofloxacin,wound_swab,2017.0,2017.0,1,1,9,11.11,1.99,43.5,-2.079442,1.06066
+Ethiopia,tertiary,hospital,Klebsiella pneumoniae,gentamicin,wound_swab,2017.0,2017.0,1,3,9,33.33,12.06,64.58,-0.693147,0.707107
+Ethiopia,tertiary,hospital,Klebsiella pneumoniae,meropenem,wound_swab,2022.0,2022.0,1,9,14,64.29,38.76,83.66,0.587787,0.557773
+Ethiopia,tertiary,hospital,Klebsiella spp.,ampicillin,wound_swab,2019.0,2019.0,1,14,17,82.35,58.97,93.81,1.540445,0.636209
+Ethiopia,tertiary,hospital,Klebsiella spp.,gentamicin,wound_swab,2012.0,2012.0,1,8,29,27.59,14.7,45.72,-0.965081,0.415474
+Ethiopia,tertiary,hospital,Klebsiella spp.,gentamicin,wound_swab,2019.0,2019.0,1,2,17,11.76,3.29,34.34,-2.014903,0.752773
+Ethiopia,tertiary,hospital,Klebsiella spp.,meropenem,wound_swab,2019.0,2019.0,1,2,17,11.76,3.29,34.34,-2.014903,0.752773
+Ethiopia,tertiary,hospital,Proteus spp.,ceftriaxone,wound_swab,2019.0,2019.0,1,6,6,100.0,60.97,100.0,2.564949,1.467599
+Ethiopia,tertiary,hospital,Pseudomonas aeruginosa,ampicillin,wound_swab,2019.0,2019.0,1,22,26,84.62,66.47,93.85,1.704748,0.543557
+Ethiopia,tertiary,hospital,Pseudomonas aeruginosa,ceftriaxone,wound_swab,2019.0,2019.0,1,8,8,100.0,67.56,100.0,2.833213,1.455214
+Ethiopia,tertiary,hospital,Pseudomonas aeruginosa,ciprofloxacin,wound_swab,2019.0,2019.0,1,5,26,19.23,8.51,37.88,-1.435085,0.497613
+Ethiopia,tertiary,hospital,Pseudomonas aeruginosa,ciprofloxacin,wound_swab,2023.0,2023.0,1,0,6,0.0,0.0,39.03,-2.564949,1.467599
+Ethiopia,tertiary,hospital,Pseudomonas aeruginosa,gentamicin,wound_swab,2012.0,2012.0,1,0,11,0.0,0.0,25.88,-3.135494,1.44463
+Ethiopia,tertiary,hospital,Pseudomonas aeruginosa,meropenem,wound_swab,2019.0,2019.0,1,6,26,23.08,11.03,42.05,-1.203973,0.465475
+Ethiopia,tertiary,hospital,Staphylococcus aureus,amoxicillin,wound_swab,2019.0,2019.0,1,27,31,87.1,71.15,94.87,1.909543,0.535758
+Ethiopia,tertiary,hospital,Staphylococcus aureus,ampicillin,wound_swab,2019.0,2019.0,1,22,31,70.97,53.41,83.9,0.893818,0.395684
+Ethiopia,tertiary,hospital,Staphylococcus aureus,ampicillin,wound_swab,2020.0,2021.0,1,117,153,76.47,69.15,82.49,1.178655,0.190591
+Ethiopia,tertiary,hospital,Staphylococcus aureus,ampicillin,wound_swab,2021.0,2021.0,1,7,8,87.5,52.91,97.76,1.94591,1.069045
+Ethiopia,tertiary,hospital,Staphylococcus aureus,cefoxitin,wound_swab,2016.0,2016.0,1,6,14,42.86,21.38,67.41,-0.287682,0.540062
+Ethiopia,tertiary,hospital,Staphylococcus aureus,cefoxitin,wound_swab,2020.0,2021.0,1,40,163,24.54,18.57,31.68,-1.123305,0.182017
+Ethiopia,tertiary,hospital,Staphylococcus aureus,cefoxitin,wound_swab,2021.0,2021.0,1,3,8,37.5,13.68,69.43,-0.510826,0.730297
+Ethiopia,tertiary,hospital,Staphylococcus aureus,cefoxitin,wound_swab,2023.0,2023.0,1,8,14,57.14,32.59,78.62,0.287682,0.540062
+Ethiopia,tertiary,hospital,Staphylococcus aureus,ceftriaxone,wound_swab,2017.0,2017.0,1,0,3,0.0,0.0,56.15,-1.94591,1.511858
+Ethiopia,tertiary,hospital,Staphylococcus aureus,chloramphenicol,wound_swab,2023.0,2023.0,1,1,14,7.14,1.27,31.47,-2.564949,1.037749
+Ethiopia,tertiary,hospital,Staphylococcus aureus,ciprofloxacin,wound_swab,2017.0,2017.0,1,1,4,25.0,4.56,69.94,-1.098612,1.154701
+Ethiopia,tertiary,hospital,Staphylococcus aureus,ciprofloxacin,wound_swab,2019.0,2019.0,1,5,31,16.13,7.09,32.63,-1.648659,0.488325
+Ethiopia,tertiary,hospital,Staphylococcus aureus,clindamycin,wound_swab,2019.0,2019.0,1,4,5,80.0,37.55,96.38,1.386294,1.118034
+Ethiopia,tertiary,hospital,Staphylococcus aureus,erythromycin,wound_swab,2019.0,2019.0,1,4,5,80.0,37.55,96.38,1.386294,1.118034
+Ethiopia,tertiary,hospital,Staphylococcus aureus,gentamicin,wound_swab,2012.0,2012.0,1,4,40,10.0,3.96,23.05,-2.197225,0.527046
+Ethiopia,tertiary,hospital,Staphylococcus aureus,penicillin,wound_swab,2016.0,2016.0,1,14,14,100.0,78.47,100.0,3.367296,1.43839
+Ethiopia,tertiary,hospital,Staphylococcus aureus,penicillin,wound_swab,2019.0,2019.0,1,3,5,60.0,23.07,88.24,0.405465,0.912871
+Ethiopia,tertiary,hospital,Staphylococcus aureus,penicillin,wound_swab,2020.0,2021.0,1,138,153,90.2,84.45,93.97,2.219203,0.27187
+Ethiopia,tertiary,hospital,Staphylococcus aureus,penicillin,wound_swab,2023.0,2023.0,1,8,14,57.14,32.59,78.62,0.287682,0.540062
+Ethiopia,tertiary,hospital,Staphylococcus aureus,vancomycin,wound_swab,2012.0,2012.0,1,0,40,0.0,0.0,8.76,-4.394449,1.422916
+Ethiopia,tertiary,hospital,Staphylococcus aureus,vancomycin,wound_swab,2019.0,2019.0,1,3,31,9.68,3.35,24.9,-2.233592,0.607493
+Ethiopia,tertiary,hospital,Staphylococcus aureus,vancomycin,wound_swab,2020.0,2021.0,2,1,193,0.52,0.09,2.88,-5.257495,1.002601
+Gabon,tertiary,hospital,Escherichia coli,ampicillin,urine,2009.0,2009.0,1,13,14,92.86,68.53,98.73,2.564949,1.037749
+Gabon,tertiary,hospital,Escherichia coli,ceftriaxone,urine,2009.0,2009.0,1,5,14,35.71,16.34,61.24,-0.587787,0.557773
+Gabon,tertiary,hospital,Klebsiella pneumoniae,ceftriaxone,urine,2009.0,2009.0,1,3,6,50.0,18.76,81.24,0.0,0.816497
+Gabon,tertiary,hospital,Staphylococcus aureus,cloxacillin,wound_swab,2009.0,2009.0,1,0,14,0.0,0.0,21.53,-3.367296,1.43839
+Kenya,tertiary,hospital,Acinetobacter baumannii,amikacin,wound_swab,2018.0,2019.0,1,6,11,54.55,28.01,78.73,0.182322,0.60553
+Kenya,tertiary,hospital,Coagulase-negative staphylococci,amoxicillin-clavulanate,,2008.0,2009.0,1,2,5,40.0,11.76,76.93,-0.405465,0.912871
+Kenya,tertiary,hospital,Coagulase-negative staphylococci,ampicillin,,2008.0,2009.0,1,4,5,80.0,37.55,96.38,1.386294,1.118034
+Kenya,tertiary,hospital,Coagulase-negative staphylococci,azithromycin,,2008.0,2009.0,1,3,5,60.0,23.07,88.24,0.405465,0.912871
+Kenya,tertiary,hospital,Coagulase-negative staphylococci,cefuroxime,,2008.0,2009.0,1,3,5,60.0,23.07,88.24,0.405465,0.912871
+Kenya,tertiary,hospital,Coagulase-negative staphylococci,chloramphenicol,,2008.0,2009.0,1,2,5,40.0,11.76,76.93,-0.405465,0.912871
+Kenya,tertiary,hospital,Coagulase-negative staphylococci,ciprofloxacin,,2008.0,2009.0,1,1,5,20.0,3.62,62.45,-1.386294,1.118034
+Kenya,tertiary,hospital,Coagulase-negative staphylococci,doxycycline,,2008.0,2009.0,1,3,5,60.0,23.07,88.24,0.405465,0.912871
+Kenya,tertiary,hospital,Coagulase-negative staphylococci,netilmicin,,2008.0,2009.0,1,0,5,0.0,0.0,43.45,-2.397895,1.477098
+Kenya,tertiary,hospital,Coagulase-negative staphylococci,oxacillin,,2008.0,2009.0,1,0,5,0.0,0.0,43.45,-2.397895,1.477098
+Kenya,tertiary,hospital,Coagulase-negative staphylococci,vancomycin,,2008.0,2009.0,1,0,5,0.0,0.0,43.45,-2.397895,1.477098
+Kenya,tertiary,hospital,Enterococcus faecalis,vancomycin,wound_swab,,,1,3,4,75.0,30.06,95.44,1.098612,1.154701
+Kenya,tertiary,hospital,Escherichia coli,amoxicillin-clavulanate,,2008.0,2009.0,1,3,4,75.0,30.06,95.44,1.098612,1.154701
+Kenya,tertiary,hospital,Escherichia coli,ampicillin,wound_swab,2018.0,2019.0,1,11,12,91.67,64.61,98.51,2.397895,1.044466
+Kenya,tertiary,hospital,Escherichia coli,cefotaxime,,2008.0,2009.0,1,1,4,25.0,4.56,69.94,-1.098612,1.154701
+Kenya,tertiary,hospital,Escherichia coli,ceftriaxone,wound_swab,,,1,11,12,91.67,64.61,98.51,2.397895,1.044466
+Kenya,tertiary,hospital,Escherichia coli,cefuroxime,,2008.0,2009.0,1,2,4,50.0,15.0,85.0,0.0,1.0
+Kenya,tertiary,hospital,Escherichia coli,chloramphenicol,wound_swab,2018.0,2019.0,1,7,12,58.33,31.95,80.67,0.336472,0.58554
+Kenya,tertiary,hospital,Escherichia coli,chloramphenicol,,2008.0,2009.0,1,2,4,50.0,15.0,85.0,0.0,1.0
+Kenya,tertiary,hospital,Escherichia coli,ciprofloxacin,,2008.0,2009.0,1,2,4,50.0,15.0,85.0,0.0,1.0
+Kenya,tertiary,hospital,Escherichia coli,co-trimoxazole,,2008.0,2009.0,1,3,4,75.0,30.06,95.44,1.098612,1.154701
+Kenya,tertiary,hospital,Escherichia coli,doxycycline,,2008.0,2009.0,1,3,4,75.0,30.06,95.44,1.098612,1.154701
+Kenya,tertiary,hospital,Escherichia coli,gentamicin,,2008.0,2009.0,1,2,4,50.0,15.0,85.0,0.0,1.0
+Kenya,tertiary,hospital,Klebsiella spp.,amoxicillin-clavulanate,,2008.0,2009.0,1,2,3,66.67,20.77,93.85,0.693147,1.224745
+Kenya,tertiary,hospital,Klebsiella spp.,cefotaxime,,2008.0,2009.0,1,2,3,66.67,20.77,93.85,0.693147,1.224745
+Kenya,tertiary,hospital,Klebsiella spp.,cefuroxime,,2008.0,2009.0,1,0,3,0.0,0.0,56.15,-1.94591,1.511858
+Kenya,tertiary,hospital,Klebsiella spp.,chloramphenicol,,2008.0,2009.0,1,1,3,33.33,6.15,79.23,-0.693147,1.224745
+Kenya,tertiary,hospital,Klebsiella spp.,ciprofloxacin,,2008.0,2009.0,1,0,3,0.0,0.0,56.15,-1.94591,1.511858
+Kenya,tertiary,hospital,Klebsiella spp.,co-trimoxazole,,2008.0,2009.0,1,2,3,66.67,20.77,93.85,0.693147,1.224745
+Kenya,tertiary,hospital,Klebsiella spp.,doxycycline,,2008.0,2009.0,1,1,3,33.33,6.15,79.23,-0.693147,1.224745
+Kenya,tertiary,hospital,Klebsiella spp.,gentamicin,,2008.0,2009.0,1,2,3,66.67,20.77,93.85,0.693147,1.224745
+Kenya,tertiary,hospital,Kluyvera spp.,amoxicillin-clavulanate,,2008.0,2009.0,1,2,4,50.0,15.0,85.0,0.0,1.0
+Kenya,tertiary,hospital,Kluyvera spp.,cefotaxime,,2008.0,2009.0,1,2,4,50.0,15.0,85.0,0.0,1.0
+Kenya,tertiary,hospital,Kluyvera spp.,cefuroxime,,2008.0,2009.0,1,1,4,25.0,4.56,69.94,-1.098612,1.154701
+Kenya,tertiary,hospital,Kluyvera spp.,chloramphenicol,,2008.0,2009.0,1,1,4,25.0,4.56,69.94,-1.098612,1.154701
+Kenya,tertiary,hospital,Kluyvera spp.,ciprofloxacin,,2008.0,2009.0,1,1,4,25.0,4.56,69.94,-1.098612,1.154701
+Kenya,tertiary,hospital,Kluyvera spp.,co-trimoxazole,,2008.0,2009.0,1,0,4,0.0,0.0,48.99,-2.197225,1.490712
+Kenya,tertiary,hospital,Kluyvera spp.,doxycycline,,2008.0,2009.0,1,3,4,75.0,30.06,95.44,1.098612,1.154701
+Kenya,tertiary,hospital,Kluyvera spp.,gentamicin,,2008.0,2009.0,1,1,4,25.0,4.56,69.94,-1.098612,1.154701
+Kenya,tertiary,hospital,Proteus spp.,ceftriaxone,wound_swab,,,1,3,4,75.0,30.06,95.44,1.098612,1.154701
+Kenya,tertiary,hospital,Pseudomonas aeruginosa,cefepime,,2008.0,2009.0,1,2,4,50.0,15.0,85.0,0.0,1.0
+Kenya,tertiary,hospital,Pseudomonas aeruginosa,ceftazidime,,2008.0,2009.0,1,2,4,50.0,15.0,85.0,0.0,1.0
+Kenya,tertiary,hospital,Pseudomonas aeruginosa,ceftriaxone,,2008.0,2009.0,1,1,4,25.0,4.56,69.94,-1.098612,1.154701
+Kenya,tertiary,hospital,Pseudomonas aeruginosa,ciprofloxacin,,2008.0,2009.0,1,3,4,75.0,30.06,95.44,1.098612,1.154701
+Kenya,tertiary,hospital,Pseudomonas aeruginosa,gentamicin,,2008.0,2009.0,1,2,4,50.0,15.0,85.0,0.0,1.0
+Kenya,tertiary,hospital,Pseudomonas aeruginosa,imipenem,,2008.0,2009.0,1,2,4,50.0,15.0,85.0,0.0,1.0
+Kenya,tertiary,hospital,Pseudomonas aeruginosa,piperacillin,,2008.0,2009.0,1,2,4,50.0,15.0,85.0,0.0,1.0
+Kenya,tertiary,hospital,Pseudomonas aeruginosa,piperacillin-tazobactam,,2008.0,2009.0,1,3,4,75.0,30.06,95.44,1.098612,1.154701
+Kenya,tertiary,hospital,Staphylococcus aureus,amoxicillin-clavulanate,,2008.0,2009.0,1,1,10,10.0,1.79,40.42,-2.197225,1.054093
+Kenya,tertiary,hospital,Staphylococcus aureus,ampicillin,pus_swab,2008.0,2009.0,1,6,10,60.0,31.27,83.18,0.405465,0.645497
+Kenya,tertiary,hospital,Staphylococcus aureus,ampicillin,wound_swab,2018.0,2019.0,1,21,22,95.45,78.2,99.19,3.044522,1.023533
+Kenya,tertiary,hospital,Staphylococcus aureus,azithromycin,,2008.0,2009.0,1,3,10,30.0,10.78,60.32,-0.847298,0.690066
+Kenya,tertiary,hospital,Staphylococcus aureus,cefuroxime,,2008.0,2009.0,1,1,10,10.0,1.79,40.42,-2.197225,1.054093
+Kenya,tertiary,hospital,Staphylococcus aureus,chloramphenicol,wound_swab,2018.0,2019.0,1,1,22,4.55,0.81,21.8,-3.044522,1.023533
+Kenya,tertiary,hospital,Staphylococcus aureus,chloramphenicol,,2008.0,2009.0,1,2,10,20.0,5.67,50.98,-1.386294,0.790569
+Kenya,tertiary,hospital,Staphylococcus aureus,ciprofloxacin,wound_swab,2018.0,2019.0,1,3,22,13.64,4.75,33.34,-1.845827,0.621261
+Kenya,tertiary,hospital,Staphylococcus aureus,ciprofloxacin,,2008.0,2009.0,1,5,10,50.0,23.66,76.34,0.0,0.632456
+Kenya,tertiary,hospital,Staphylococcus aureus,doxycycline,,2008.0,2009.0,1,4,10,40.0,16.82,68.73,-0.405465,0.645497
+Kenya,tertiary,hospital,Staphylococcus aureus,netilmicin,,2008.0,2009.0,1,0,10,0.0,0.0,27.75,-3.044522,1.447494
+Kenya,tertiary,hospital,Staphylococcus aureus,oxacillin,wound_swab,2018.0,2019.0,1,13,22,59.09,38.73,76.74,0.367725,0.433629
+Kenya,tertiary,hospital,Staphylococcus aureus,oxacillin,wound_swab,,,1,9,16,56.25,33.18,76.9,0.251314,0.503953
+Kenya,tertiary,hospital,Staphylococcus aureus,oxacillin,,2008.0,2009.0,1,1,10,10.0,1.79,40.42,-2.197225,1.054093
+Kenya,tertiary,hospital,Staphylococcus aureus,vancomycin,wound_swab,2018.0,2019.0,1,2,22,9.09,2.53,27.82,-2.302585,0.74162
+Kenya,tertiary,hospital,Staphylococcus aureus,vancomycin,,2008.0,2009.0,1,0,10,0.0,0.0,27.75,-3.044522,1.447494
+Malawi,tertiary,hospital,Acinetobacter baumannii,cefotaxime,wound_swab,2023.0,2023.0,1,1,1,100.0,20.65,100.0,1.098612,1.632993
+Malawi,tertiary,hospital,Acinetobacter baumannii,ceftriaxone,wound_swab,2023.0,2023.0,1,1,1,100.0,20.65,100.0,1.098612,1.632993
+Malawi,tertiary,hospital,Acinetobacter baumannii,ciprofloxacin,wound_swab,2023.0,2023.0,1,1,1,100.0,20.65,100.0,1.098612,1.632993
+Malawi,tertiary,hospital,Acinetobacter baumannii,gentamicin,wound_swab,2023.0,2023.0,1,0,1,0.0,0.0,79.35,-1.098612,1.632993
+Malawi,tertiary,hospital,Acinetobacter baumannii,tigecycline,wound_swab,2023.0,2023.0,1,1,1,100.0,20.65,100.0,1.098612,1.632993
+Malawi,tertiary,hospital,Enterobacteriaceae,amikacin,wound_swab,2023.0,2023.0,1,0,1,0.0,0.0,79.35,-1.098612,1.632993
+Malawi,tertiary,hospital,Enterobacteriaceae,chloramphenicol,wound_swab,2023.0,2023.0,1,1,1,100.0,20.65,100.0,1.098612,1.632993
+Malawi,tertiary,hospital,Enterobacteriaceae,ciprofloxacin,wound_swab,2023.0,2023.0,1,0,1,0.0,0.0,79.35,-1.098612,1.632993
+Malawi,tertiary,hospital,Enterobacteriaceae,co-trimoxazole,wound_swab,2023.0,2023.0,1,1,1,100.0,20.65,100.0,1.098612,1.632993
+Malawi,tertiary,hospital,Enterobacteriaceae,gentamicin,wound_swab,2023.0,2023.0,1,0,1,0.0,0.0,79.35,-1.098612,1.632993
+Malawi,tertiary,hospital,Enterobacteriaceae,meropenem,wound_swab,2023.0,2023.0,1,0,1,0.0,0.0,79.35,-1.098612,1.632993
+Malawi,tertiary,hospital,Enterobacteriaceae,tigecycline,wound_swab,2023.0,2023.0,1,0,1,0.0,0.0,79.35,-1.098612,1.632993
+Malawi,tertiary,hospital,Staphylococcus aureus,cefoxitin,wound_swab,2023.0,2023.0,1,3,3,100.0,43.85,100.0,1.94591,1.511858
+Malawi,tertiary,hospital,Staphylococcus aureus,clindamycin,wound_swab,2023.0,2023.0,1,3,3,100.0,43.85,100.0,1.94591,1.511858
+Malawi,tertiary,hospital,Staphylococcus aureus,erythromycin,wound_swab,2023.0,2023.0,1,3,3,100.0,43.85,100.0,1.94591,1.511858
+Malawi,tertiary,hospital,Staphylococcus aureus,gentamicin,wound_swab,2023.0,2023.0,1,3,3,100.0,43.85,100.0,1.94591,1.511858
+Rwanda,secondary,hospital,Acinetobacter baumannii complex,ceftriaxone,wound_swab,2019.0,2020.0,1,9,9,100.0,70.08,100.0,2.944439,1.450953
+Rwanda,secondary,hospital,Enterobacter cloacae complex,ceftriaxone,wound_swab,2019.0,2020.0,1,8,8,100.0,67.56,100.0,2.833213,1.455214
+Rwanda,secondary,hospital,Escherichia coli,ceftriaxone,wound_swab,2019.0,2020.0,1,3,3,100.0,43.85,100.0,1.94591,1.511858
+Rwanda,secondary,hospital,Klebsiella pneumoniae,ceftriaxone,wound_swab,2019.0,2020.0,1,8,8,100.0,67.56,100.0,2.833213,1.455214
+Rwanda,secondary,hospital,Proteus spp.,ceftriaxone,wound_swab,2019.0,2020.0,1,7,8,87.5,52.91,97.76,1.94591,1.069045
+Rwanda,secondary,hospital,Staphylococcus aureus,cefoxitin,wound_swab,2019.0,2020.0,1,2,2,100.0,34.24,100.0,1.609438,1.549193
+Tanzania,tertiary,hospital,Enterococcus faecalis,ampicillin,wound_swab,2024.0,2024.0,1,1,3,33.33,6.15,79.23,-0.693147,1.224745
+Tanzania,tertiary,hospital,Escherichia coli,amoxicillin-clavulanate,wound_swab,2011.0,2012.0,1,12,13,92.31,66.69,98.63,2.484907,1.040833
+Tanzania,tertiary,hospital,Escherichia coli,ampicillin,wound_swab,2011.0,2012.0,1,13,13,100.0,77.19,100.0,3.295837,1.440165
+Tanzania,tertiary,hospital,Escherichia coli,ampicillin,wound_swab,2013.0,2015.0,1,13,19,68.42,46.01,84.64,0.77319,0.493548
+Tanzania,tertiary,hospital,Escherichia coli,ampicillin,wound_swab,2024.0,2024.0,1,10,11,90.91,62.26,98.38,2.302585,1.048809
+Tanzania,tertiary,hospital,Escherichia coli,ceftriaxone,wound_swab,2011.0,2012.0,1,12,13,92.31,66.69,98.63,2.484907,1.040833
+Tanzania,tertiary,hospital,Klebsiella pneumoniae,ampicillin,wound_swab,2011.0,2012.0,1,16,16,100.0,80.64,100.0,3.496508,1.435481
+Tanzania,tertiary,hospital,Klebsiella spp.,ampicillin,wound_swab,2013.0,2015.0,1,24,26,92.31,75.86,97.86,2.484907,0.73598
+Tanzania,tertiary,hospital,Klebsiella spp.,multiple_classes,wound_swab,2013.0,2013.0,1,4,4,100.0,51.01,100.0,2.197225,1.490712
+Tanzania,tertiary,hospital,Klebsiella spp.,multiple_classes,wound_swab,2015.0,2015.0,1,3,7,42.86,15.82,74.95,-0.287682,0.763763
+Tanzania,tertiary,hospital,Proteus spp.,ampicillin,wound_swab,2013.0,2015.0,1,21,28,75.0,56.64,87.32,1.098612,0.436436
+Tanzania,tertiary,hospital,Proteus spp.,cefazolin,wound_swab,2013.0,2015.0,1,23,28,82.14,64.41,92.12,1.526056,0.493435
+Tanzania,tertiary,hospital,Pseudomonas aeruginosa,ceftazidime,wound_swab,2024.0,2024.0,1,1,4,25.0,4.56,69.94,-1.098612,1.154701
+Tanzania,tertiary,hospital,Staphylococcus aureus,cefoxitin,wound_swab,2013.0,2015.0,1,6,22,27.27,13.15,48.15,-0.980829,0.478714
+Tanzania,tertiary,hospital,Staphylococcus aureus,ceftriaxone,wound_swab,2024.0,2024.0,1,4,7,57.14,25.05,84.18,0.287682,0.763763
+Tanzania,tertiary,hospital,Staphylococcus aureus,oxacillin,wound_swab,2013.0,2013.0,2,68,86,79.07,69.32,86.33,1.329136,0.265069
+Tanzania,tertiary,hospital,Staphylococcus aureus,oxacillin,wound_swab,2015.0,2015.0,1,3,14,21.43,7.57,47.59,-1.299283,0.651339
+Tanzania,tertiary,hospital,Staphylococcus aureus,penicillin,wound_swab,2011.0,2012.0,1,15,18,83.33,60.78,94.16,1.609438,0.632456
+Tanzania,tertiary,hospital,Staphylococcus aureus,penicillin,wound_swab,2013.0,2015.0,1,22,22,100.0,85.13,100.0,3.806662,1.429841
+Uganda,tertiary,hospital,Acinetobacter spp.,gentamicin,wound_swab,2021.0,2022.0,1,32,39,82.05,67.33,91.02,1.519826,0.417261
+Uganda,tertiary,hospital,Enterococcus spp.,vancomycin,wound_swab,2021.0,2022.0,1,17,20,85.0,63.96,94.76,1.734601,0.626224
+Uganda,tertiary,hospital,Escherichia coli,ampicillin,wound_swab,2015.0,2015.0,1,9,9,100.0,70.08,100.0,2.944439,1.450953
+Uganda,tertiary,hospital,Escherichia coli,ceftazidime,wound_swab,2017.0,2018.0,1,11,11,100.0,74.12,100.0,3.135494,1.44463
+Uganda,tertiary,hospital,Escherichia coli,ceftriaxone,wound_swab,2015.0,2015.0,1,9,9,100.0,70.08,100.0,2.944439,1.450953
+Uganda,tertiary,hospital,Escherichia coli,ceftriaxone,wound_swab,2017.0,2018.0,1,11,11,100.0,74.12,100.0,3.135494,1.44463
+Uganda,tertiary,hospital,Escherichia coli,ceftriaxone,wound_swab,2021.0,2022.0,1,43,45,95.56,85.17,98.77,3.068053,0.723364
+Uganda,tertiary,hospital,Escherichia coli,gentamicin,wound_swab,2021.0,2022.0,1,22,40,55.0,39.83,69.29,0.200671,0.317821
+Uganda,tertiary,hospital,Klebsiella species,ceftazidime,wound_swab,2017.0,2018.0,1,40,44,90.91,78.84,96.41,2.302585,0.524404
+Uganda,tertiary,hospital,Klebsiella species,ceftriaxone,wound_swab,2017.0,2018.0,1,43,44,97.73,88.19,99.6,3.7612,1.011561
+Uganda,tertiary,hospital,Klebsiella spp.,ampicillin,wound_swab,2015.0,2015.0,1,27,27,100.0,87.54,100.0,4.007333,1.427012
+Uganda,tertiary,hospital,Klebsiella spp.,ceftriaxone,wound_swab,2015.0,2015.0,1,23,27,85.19,67.52,94.08,1.7492,0.541736
+Uganda,tertiary,hospital,Klebsiella spp.,ceftriaxone,wound_swab,2021.0,2022.0,1,30,32,93.75,79.85,98.27,2.70805,0.730297
+Uganda,tertiary,hospital,Pseudomonas aeruginosa,gentamicin,wound_swab,2021.0,2022.0,1,11,24,45.83,27.89,64.93,-0.167054,0.409673
+Uganda,tertiary,hospital,Staphylococcus aureus,ampicillin,wound_swab,2015.0,2015.0,1,20,20,100.0,83.89,100.0,3.713572,1.431356
+Uganda,tertiary,hospital,Staphylococcus aureus,chloramphenicol,wound_swab,2007.0,2007.0,1,15,17,88.24,65.66,96.71,2.014903,0.752773
+Uganda,tertiary,hospital,Staphylococcus aureus,ciprofloxacin,wound_swab,2007.0,2007.0,1,12,17,70.59,46.87,86.72,0.875469,0.532291
+Uganda,tertiary,hospital,Staphylococcus aureus,clindamycin,wound_swab,2007.0,2007.0,1,0,17,0.0,0.0,18.43,-3.555348,1.434274
+Uganda,tertiary,hospital,Staphylococcus aureus,co-trimoxazole,wound_swab,2007.0,2007.0,1,15,17,88.24,65.66,96.71,2.014903,0.752773
+Uganda,tertiary,hospital,Staphylococcus aureus,erythromycin,wound_swab,2007.0,2007.0,1,15,17,88.24,65.66,96.71,2.014903,0.752773
+Uganda,tertiary,hospital,Staphylococcus aureus,gentamicin,wound_swab,2007.0,2007.0,1,10,17,58.82,36.01,78.39,0.356675,0.492805
+Uganda,tertiary,hospital,Staphylococcus aureus,methicillin,wound_swab,2017.0,2018.0,1,31,34,91.18,77.04,96.95,2.335375,0.604642
+Uganda,tertiary,hospital,Staphylococcus aureus,methicillin,wound_swab,2021.0,2022.0,1,4,19,21.05,8.51,43.33,-1.321756,0.562731
+Uganda,tertiary,hospital,Staphylococcus aureus,oxacillin,wound_swab,2007.0,2007.0,1,17,54,31.48,20.68,44.74,-0.777705,0.293003
+Uganda,tertiary,hospital,Staphylococcus aureus,oxacillin,wound_swab,2015.0,2015.0,1,20,20,100.0,83.89,100.0,3.713572,1.431356
+Uganda,tertiary,hospital,Staphylococcus aureus,vancomycin,wound_swab,2007.0,2007.0,1,0,17,0.0,0.0,18.43,-3.555348,1.434274

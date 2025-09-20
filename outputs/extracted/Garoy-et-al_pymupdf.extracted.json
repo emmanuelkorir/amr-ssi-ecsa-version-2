@@ -1,0 +1,650 @@
+{
+  "study": {
+    "study_id": "Garoy2021-Eritrea-AsmaraHospitals-2017-01",
+    "title": "Magnitude of Multidrug Resistance among Bacterial Isolates from Surgical Site Infections in Two National Referral Hospitals in Asmara, Eritrea",
+    "authors": [
+      "Eyob Yohannes Garoy",
+      "Yacob Berhane Gebreab",
+      "Oliver Okoth Achila",
+      "Nobiel Tecklebrhan",
+      "Hermon Michael Tsegai",
+      "Alex Zecarias Hailu",
+      "Abrehet Marikos Buthuamlak",
+      "Tewelde Ghide Asfaga",
+      "Mohammed Elfatih Hamida"
+    ],
+    "journal": "International Journal of Microbiology",
+    "year_publication": 2021,
+    "doi": "10.1155/2021/6690222",
+    "country_list": [
+      "Eritrea"
+    ],
+    "country_iso3": "ERI",
+    "region_classification": "ECSA",
+    "surgical_specialty": [
+      "general",
+      "orthopedics",
+      "other"
+    ],
+    "language": "English",
+    "data_source_type": "published_full_text",
+    "ownership_type": "public"
+  },
+  "design": {
+    "study_design": "cross_sectional",
+    "randomized": false,
+    "prospective": true,
+    "single_center": false,
+    "multi_center": true,
+    "inclusion_criteria_text": "Male and female patients admitted in the hospital surgical wards after surgery who developed infection after 48 hours of admission. Pediatric patients meeting criteria included.",
+    "sample_frame": "patients",
+    "unit_of_analysis": "patient",
+    "duplicate_publication_likelihood": false
+  },
+  "setting": {
+    "facility_level": "tertiary",
+    "urban_rural": "urban",
+    "care_setting": "hospital",
+    "country_specific_sites": [
+      "Halibet National Referral Hospital",
+      "Orotta National Referral Hospital"
+    ],
+    "infection_control_program_present": false,
+    "stewardship_program_present": false
+  },
+  "eligibility": {
+    "population": "Male and female patients (including pediatric) admitted in surgical wards after surgery, developed infection after 48 hours of admission.",
+    "classification": "mixed",
+    "intervention": "Not specified; standard care, no stewardship or protocol described.",
+    "comparator": "None specified.",
+    "outcomes_reported": [
+      "amr_prevalence"
+    ],
+    "timeframe_years": "February–May 2017",
+    "setting_types": [
+      "hospital",
+      "surgical_unit"
+    ],
+    "included_designs": [
+      "cross_sectional"
+    ],
+    "excluded_designs": []
+  },
+  "timeframe": {
+    "data_collection_start_year": 2017,
+    "data_collection_start_month": 2,
+    "data_collection_end_year": 2017,
+    "data_collection_end_month": 5
+  },
+  "populations": [
+    {
+      "arm_id": "overall",
+      "description": "All patients with surgical site infection admitted to Halibet and Orotta National Referral Hospitals, Asmara, Eritrea, Feb–May 2017.",
+      "n_participants": 83,
+      "age_group": "mixed",
+      "elective_emergency": "unspecified",
+      "wound_class": "unspecified",
+      "surgical_specialties": [
+        "general",
+        "orthopedics",
+        "other"
+      ],
+      "provenance": {
+        "page": 3,
+        "section_heading": "3.1. General Characteristics of the Study Participants and Associated Surgical Procedures",
+        "table_id": "Table 1",
+        "text_snippet": "This study enrolled 83 patients—25(30.1%) were females and 58 (69.9%) were males."
+      }
+    }
+  ],
+  "definitions": {
+    "ssi_definition_standard": "unspecified",
+    "amr_definition_standard": "CLSI",
+    "breakpoint_version": "CLSI 2017 (M100-S25)",
+    "resistance_definition_text": "Multidrug-resistant (MDR) was defined as nonsusceptibility to at least one agent in ≥3 antimicrobial drug classes.",
+    "outcome_definitions_text": "No explicit definitions for mortality, LOS, readmission, or cost components.",
+    "specimen_type": [
+      "wound_swab"
+    ]
+  },
+  "lab_methods": {
+    "specimen_collection_method": "Levine’s technique; sterile cotton-tipped applicator rotated over 1 cm2 area for 5 seconds, double wound swabs taken.",
+    "culture_method": "Gram stain, inoculation into MacConkey agar, chocolate agar, and mannitol salt agar; incubated aerobically at 35–37°C for 24–48 hours.",
+    "AST_method": [
+      "disk_diffusion"
+    ],
+    "QC_measures": "Reference strains including S. aureus (ATCC-25923), E. coli (ATCC-25922), and P. aeruginosa (ATCC-27853) used for quality control.",
+    "organism_identification_method": "Morphological characterization and biochemical tests (coagulase, catalase, mannitol fermentation, DNase, TSI, urease, citrate, SIM).",
+    "lab_capacity_notes": "Testing performed at National Health Laboratory Bacteriology Laboratory; no anaerobic culture or molecular characterization performed."
+  },
+  "outcomes": {
+    "ssi_incidence": [],
+    "amr_proportions": [
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "penicillin",
+        "who_class": "important",
+        "n_tested": 20,
+        "n_resistant": 20,
+        "n_susceptible": 0,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2017 (M100-S25)",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2017,
+          "end_year": 2017
+        },
+        "mdr_definition_text": "MDR: nonsusceptibility to at least one agent in ≥3 antimicrobial drug classes.",
+        "n_mdr": 17,
+        "mrsa_detection_method": "disk diffusion (oxacillin disk)",
+        "zone_diameter_unit": "mm",
+        "notes": "All S. aureus isolates resistant to penicillin; 70% MRSA phenotype.",
+        "provenance": {
+          "page": 4,
+          "section_heading": "3.3. Antimicrobial Resistance Pattern: Gram-Positive Isolates",
+          "text_snippet": "20 (100%) of the isolates were resistant to penicillin, 14 (70%) were resistant oxacillin, and 12 (60%) were resistant to vancomycin."
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "oxacillin",
+        "who_class": "important",
+        "n_tested": 20,
+        "n_resistant": 14,
+        "n_susceptible": 6,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2017 (M100-S25)",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2017,
+          "end_year": 2017
+        },
+        "mdr_definition_text": "MDR: nonsusceptibility to at least one agent in ≥3 antimicrobial drug classes.",
+        "n_mdr": 17,
+        "mrsa_detection_method": "disk diffusion (oxacillin disk)",
+        "zone_diameter_unit": "mm",
+        "notes": "MRSA phenotype observed in 70% of isolates.",
+        "provenance": {
+          "page": 4,
+          "section_heading": "3.3. Antimicrobial Resistance Pattern: Gram-Positive Isolates",
+          "text_snippet": "14 (70%) were resistant oxacillin"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "vancomycin",
+        "who_class": "critically_important",
+        "n_tested": 20,
+        "n_resistant": 12,
+        "n_susceptible": 8,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2017 (M100-S25)",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2017,
+          "end_year": 2017
+        },
+        "mdr_definition_text": "MDR: nonsusceptibility to at least one agent in ≥3 antimicrobial drug classes.",
+        "n_mdr": 17,
+        "mrsa_detection_method": "disk diffusion (oxacillin disk)",
+        "zone_diameter_unit": "mm",
+        "notes": "Vancomycin resistance observed in 60% of isolates; disk diffusion method used.",
+        "provenance": {
+          "page": 4,
+          "section_heading": "3.3. Antimicrobial Resistance Pattern: Gram-Positive Isolates",
+          "text_snippet": "12 (60%) were resistant to vancomycin"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "clindamycin",
+        "who_class": "critically_important",
+        "n_tested": 20,
+        "n_resistant": 5,
+        "n_susceptible": 15,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2017 (M100-S25)",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2017,
+          "end_year": 2017
+        },
+        "mdr_definition_text": "MDR: nonsusceptibility to at least one agent in ≥3 antimicrobial drug classes.",
+        "n_mdr": 17,
+        "mrsa_detection_method": "disk diffusion (oxacillin disk); D-test for inducible resistance",
+        "zone_diameter_unit": "mm",
+        "notes": "Clindamycin resistance observed in 25% of isolates.",
+        "provenance": {
+          "page": 4,
+          "section_heading": "3.3. Antimicrobial Resistance Pattern: Gram-Positive Isolates",
+          "text_snippet": "5 (25%) were resistant to clindamycin"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "erythromycin",
+        "who_class": "important",
+        "n_tested": 20,
+        "n_resistant": 5,
+        "n_susceptible": 15,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2017 (M100-S25)",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2017,
+          "end_year": 2017
+        },
+        "mdr_definition_text": "MDR: nonsusceptibility to at least one agent in ≥3 antimicrobial drug classes.",
+        "n_mdr": 17,
+        "mrsa_detection_method": "disk diffusion (oxacillin disk); D-test for inducible resistance",
+        "zone_diameter_unit": "mm",
+        "notes": "Erythromycin resistance observed in 25% of isolates.",
+        "provenance": {
+          "page": 4,
+          "section_heading": "3.3. Antimicrobial Resistance Pattern: Gram-Positive Isolates",
+          "text_snippet": "A similar proportion of isolates were resistant to Erythromycin"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Escherichia coli",
+        "antibiotic": "ampicillin",
+        "who_class": "critically_important",
+        "n_tested": 10,
+        "n_resistant": 10,
+        "n_intermediate": 0,
+        "n_susceptible": 0,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2017 (M100-S25)",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2017,
+          "end_year": 2017
+        },
+        "mdr_definition_text": "MDR: nonsusceptibility to at least one agent in ≥3 antimicrobial drug classes.",
+        "n_mdr": 10,
+        "zone_diameter_unit": "mm",
+        "notes": "All E. coli isolates resistant to ampicillin.",
+        "provenance": {
+          "page": 5,
+          "section_heading": "Table 3",
+          "table_id": "Table 3",
+          "text_snippet": "Escherichia coli isolates exhibited high resistance (>60% resistance) to ... ampicillin 10 (100%)"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Escherichia coli",
+        "antibiotic": "trimethoprim-sulfamethoxazole",
+        "who_class": "critically_important",
+        "n_tested": 10,
+        "n_resistant": 9,
+        "n_intermediate": 0,
+        "n_susceptible": 1,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2017 (M100-S25)",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2017,
+          "end_year": 2017
+        },
+        "mdr_definition_text": "MDR: nonsusceptibility to at least one agent in ≥3 antimicrobial drug classes.",
+        "n_mdr": 10,
+        "zone_diameter_unit": "mm",
+        "notes": "90% resistance to trimethoprim-sulfamethoxazole.",
+        "provenance": {
+          "page": 5,
+          "section_heading": "Table 3",
+          "table_id": "Table 3",
+          "text_snippet": "Escherichia coli ... 9 (90%)"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Escherichia coli",
+        "antibiotic": "gentamicin",
+        "who_class": "critically_important",
+        "n_tested": 10,
+        "n_resistant": 7,
+        "n_intermediate": 0,
+        "n_susceptible": 3,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2017 (M100-S25)",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2017,
+          "end_year": 2017
+        },
+        "mdr_definition_text": "MDR: nonsusceptibility to at least one agent in ≥3 antimicrobial drug classes.",
+        "n_mdr": 10,
+        "zone_diameter_unit": "mm",
+        "notes": "70% resistance to gentamicin.",
+        "provenance": {
+          "page": 5,
+          "section_heading": "Table 3",
+          "table_id": "Table 3",
+          "text_snippet": "Escherichia coli ... 7 (70%)"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Escherichia coli",
+        "antibiotic": "ceftazidime",
+        "who_class": "critically_important",
+        "n_tested": 10,
+        "n_resistant": 9,
+        "n_intermediate": 0,
+        "n_susceptible": 1,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2017 (M100-S25)",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2017,
+          "end_year": 2017
+        },
+        "mdr_definition_text": "MDR: nonsusceptibility to at least one agent in ≥3 antimicrobial drug classes.",
+        "n_mdr": 10,
+        "zone_diameter_unit": "mm",
+        "notes": "90% resistance to ceftazidime.",
+        "provenance": {
+          "page": 5,
+          "section_heading": "Table 3",
+          "table_id": "Table 3",
+          "text_snippet": "Escherichia coli ... 9 (90%)"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Escherichia coli",
+        "antibiotic": "ceftriaxone",
+        "who_class": "critically_important",
+        "n_tested": 10,
+        "n_resistant": 8,
+        "n_intermediate": 0,
+        "n_susceptible": 2,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2017 (M100-S25)",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2017,
+          "end_year": 2017
+        },
+        "mdr_definition_text": "MDR: nonsusceptibility to at least one agent in ≥3 antimicrobial drug classes.",
+        "n_mdr": 10,
+        "zone_diameter_unit": "mm",
+        "notes": "80% resistance to ceftriaxone.",
+        "provenance": {
+          "page": 5,
+          "section_heading": "Table 3",
+          "table_id": "Table 3",
+          "text_snippet": "Escherichia coli ... 8 (80%)"
+        }
+      }
+    ],
+    "morbidity": [],
+    "mortality": [],
+    "reoperations": [],
+    "readmissions": [],
+    "length_of_stay": [],
+    "costs": [],
+    "risk_factors_effects": []
+  },
+  "interventions": [],
+  "stewardship_guidelines": [],
+  "policy_capacity": [
+    {
+      "domain": "lab_capacity",
+      "status_text": "No infrastructure of trained infection-control professionals; lacks laboratory-based surveillance and reporting system.",
+      "indicators": {},
+      "provenance": {
+        "page": 2,
+        "section_heading": "Background",
+        "text_snippet": "the country has no infrastructure of trained infection-control professionals and lacks a laboratory-based surveillance and reporting system."
+      }
+    },
+    {
+      "domain": "surveillance",
+      "status_text": "No laboratory-based surveillance and reporting system for infection control.",
+      "indicators": {},
+      "provenance": {
+        "page": 2,
+        "section_heading": "Background",
+        "text_snippet": "lacks a laboratory-based surveillance and reporting system."
+      }
+    },
+    {
+      "domain": "antibiotic_policy",
+      "status_text": "Antimicrobial therapy is infrequently guided by laboratory-generated drug susceptibility results or antibiotic stewardship programs.",
+      "indicators": {},
+      "provenance": {
+        "page": 2,
+        "section_heading": "Background",
+        "text_snippet": "antimicrobial therapy is infrequently guided by laboratory-generated drug susceptibility results or antibiotic stewardship programs."
+      }
+    }
+  ],
+  "qualitative_thematic": {
+    "codes": [
+      {
+        "theme": "amr_prevalence",
+        "subtheme": "resistance patterns and rates by pathogen/antibiotic",
+        "summary": "High rates of multidrug resistance were observed among both Gram-positive and Gram-negative isolates from surgical site infections, including 70% MRSA and 100% resistance to ampicillin in E. coli.",
+        "evidence_quotes": [
+          {
+            "quote": "All the Staphylococcus aureus isolates were resistant to penicillin. MRSA phenotype was observed in 70% of the isolates. Vancomycin, clindamycin, and erythromycin resistance were observed in 60%, 25%, and 25% of the isolates, respectively.",
+            "page": 1,
+            "section": "Background"
+          },
+          {
+            "quote": "A high proportion (91%) of the Gram-negative bacteria were resistant to ampicillin and 100% of the Pseudomonas aeruginosa and Escherichia coli isolates were resistant to >5 of the tested antibiotics.",
+            "page": 1,
+            "section": "Background"
+          }
+        ],
+        "location_context": "Asmara, Eritrea; Halibet and Orotta National Referral Hospitals",
+        "confidence": "high",
+        "provenance": {
+          "page": 1,
+          "section_heading": "Background",
+          "text_snippet": "All the Staphylococcus aureus isolates were resistant to penicillin. MRSA phenotype was observed in 70% of the isolates."
+        }
+      },
+      {
+        "theme": "drivers_amr",
+        "subtheme": "inappropriate use, IPC gaps, diagnostics delays, policy failures",
+        "summary": "The lack of infection control infrastructure and laboratory-based surveillance, as well as widespread use of cephalosporins for prophylaxis, are key drivers of AMR in Eritrea.",
+        "evidence_quotes": [
+          {
+            "quote": "existing infection control practices in the country are largely rudimentary. To illustrate, the country has no infrastructure of trained infection-control professionals and lacks a laboratory-based surveillance and reporting system.",
+            "page": 2,
+            "section": "Background"
+          },
+          {
+            "quote": "Another driver of the observed outcome is the extensive institutional use of cephalosporins in preoperative antibiotic prophylaxis (ceftriaxone and ampicillin are used extensively in this setting).",
+            "page": 7,
+            "section": "Discussion"
+          }
+        ],
+        "location_context": "Eritrea, national referral hospitals",
+        "confidence": "high",
+        "provenance": {
+          "page": 2,
+          "section_heading": "Background",
+          "text_snippet": "the country has no infrastructure of trained infection-control professionals and lacks a laboratory-based surveillance and reporting system."
+        }
+      },
+      {
+        "theme": "prevention_control",
+        "subtheme": "IPC programs, bundles, surveillance practices",
+        "summary": "There is an urgent need for improved infection control policies, guidelines, and surveillance practices in Eritrea to address the high burden of MDR SSI.",
+        "evidence_quotes": [
+          {
+            "quote": "Due to the high frequency of MDR isolates reported in this study, the development and implementation of suitable infection control policies and guidelines is imperative.",
+            "page": 1,
+            "section": "Background"
+          },
+          {
+            "quote": "Much work is needed in Eritrea to formulate stricter policies and guidelines on infection control practices (decontamination of surfaces, antimicrobial surveillance, antibiotic stewardship, cohorting and decolonization of patients and healthcare workers, etc.).",
+            "page": 9,
+            "section": "Conclusion"
+          }
+        ],
+        "location_context": "Eritrea, Halibet and Orotta National Referral Hospitals",
+        "confidence": "high",
+        "provenance": {
+          "page": 9,
+          "section_heading": "Conclusion",
+          "text_snippet": "Much work is needed in Eritrea to formulate stricter policies and guidelines on infection control practices"
+        }
+      }
+    ]
+  },
+  "risk_of_bias": {
+    "tool_used": "not_reported",
+    "domain_judgements": {},
+    "overall_judgement": "not_reported",
+    "provenance": {}
+  },
+  "funding_conflicts": {
+    "funding_sources": [],
+    "conflicts_of_interest": "The authors declare that they have no conflicts of interest.",
+    "provenance": {
+      "page": 10,
+      "section_heading": "Conflicts of Interest",
+      "text_snippet": "The authors declare that they have no conflicts of interest."
+    }
+  },
+  "notes_flags": [
+    {
+      "type": [
+        "missing_data"
+      ],
+      "detail": "No SSI incidence rates (events/denominator) reported.",
+      "provenance": {
+        "page": 1,
+        "section_heading": "Background",
+        "text_snippet": "unknown. Adding to this concerning phenomenon is the fact that existing infection control practices in the country are largely rudimentary."
+      }
+    },
+    {
+      "type": [
+        "missing_data"
+      ],
+      "detail": "No clinical outcomes (morbidity, mortality, LOS, reoperation, readmission, costs) reported.",
+      "provenance": {
+        "page": 9,
+        "section_heading": "Conclusion",
+        "text_snippet": "Much work is needed in Eritrea to formulate stricter policies and guidelines on infection control practices"
+      }
+    },
+    {
+      "type": [
+        "unit_unclear"
+      ],
+      "detail": "SSI definition and ascertainment window not specified.",
+      "provenance": {
+        "page": 2,
+        "section_heading": "Methods",
+        "text_snippet": "Male and female patients admitted in the hospital surgical wards after surgery were included in the study. Mostly, they were patients who developed infection after 48 hours of admission."
+      }
+    }
+  ],
+  "provenance_index": [
+    {
+      "page": 1,
+      "section_heading": "Background",
+      "text_snippet": "All the Staphylococcus aureus isolates were resistant to penicillin. MRSA phenotype was observed in 70% of the isolates."
+    },
+    {
+      "page": 3,
+      "section_heading": "3.1. General Characteristics of the Study Participants and Associated Surgical Procedures",
+      "table_id": "Table 1",
+      "text_snippet": "This study enrolled 83 patients—25(30.1%) were females and 58 (69.9%) were males."
+    },
+    {
+      "page": 4,
+      "section_heading": "3.3. Antimicrobial Resistance Pattern: Gram-Positive Isolates",
+      "text_snippet": "20 (100%) of the isolates were resistant to penicillin, 14 (70%) were resistant oxacillin, and 12 (60%) were resistant to vancomycin."
+    },
+    {
+      "page": 5,
+      "section_heading": "Table 3",
+      "table_id": "Table 3",
+      "text_snippet": "Escherichia coli isolates exhibited high resistance (>60% resistance) to ... ampicillin 10 (100%)"
+    },
+    {
+      "page": 2,
+      "section_heading": "Background",
+      "text_snippet": "the country has no infrastructure of trained infection-control professionals and lacks a laboratory-based surveillance and reporting system."
+    },
+    {
+      "page": 7,
+      "section_heading": "Discussion",
+      "text_snippet": "Another driver of the observed outcome is the extensive institutional use of cephalosporins in preoperative antibiotic prophylaxis (ceftriaxone and ampicillin are used extensively in this setting)."
+    },
+    {
+      "page": 9,
+      "section_heading": "Conclusion",
+      "text_snippet": "Much work is needed in Eritrea to formulate stricter policies and guidelines on infection control practices"
+    },
+    {
+      "page": 10,
+      "section_heading": "Conflicts of Interest",
+      "text_snippet": "The authors declare that they have no conflicts of interest."
+    }
+  ],
+  "extraction_summary": {
+    "completeness_score": 65,
+    "missing_fields": [
+      "ssi_incidence",
+      "morbidity",
+      "mortality",
+      "reoperations",
+      "readmissions",
+      "length_of_stay",
+      "costs",
+      "risk_factors_effects",
+      "interventions",
+      "stewardship_guidelines",
+      "qualitative method context",
+      "bed_capacity",
+      "surgical_volume_per_year",
+      "follow_up_window_days",
+      "SSI definition standard",
+      "specimen contamination handling"
+    ],
+    "parser_warnings": [
+      "No SSI incidence rates reported.",
+      "No clinical outcome data available.",
+      "SSI definition and ascertainment window not specified.",
+      "No stewardship guidelines or interventions described.",
+      "No economic or cost data reported."
+    ],
+    "confidence_overall": "moderate"
+  }
+}

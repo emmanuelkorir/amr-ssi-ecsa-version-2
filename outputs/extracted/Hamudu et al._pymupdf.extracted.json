@@ -1,0 +1,695 @@
+{
+  "study": {
+    "study_id": "Hamudu2025-Tanzania-BMC_SRHH-2024-01",
+    "title": "Incidence, bacteriological profile and predictors of surgical site infections following limb amputation at Bugando medical centre and Sekou toure referral regional hospital, Mwanza, Tanzania",
+    "authors": [
+      "Haitham Hamudu",
+      "Helmut Nyawale",
+      "Vitus Silago",
+      "Mariam M. Mirambo",
+      "Phillipo L. Chalya",
+      "Stephen E. Mshana"
+    ],
+    "journal": "Journal of Orthopaedic Surgery and Research",
+    "year_publication": 2025,
+    "doi": "10.1186/s13018-025-05638-x",
+    "country_list": [
+      "Tanzania"
+    ],
+    "country_iso3": "TZA",
+    "region_classification": "ECSA",
+    "surgical_specialty": [
+      "orthopedics",
+      "general",
+      "pediatric",
+      "plastic"
+    ],
+    "language": "English",
+    "data_source_type": "published_full_text",
+    "ownership_type": "public",
+    "bed_capacity": 1510
+  },
+  "design": {
+    "study_design": "cohort",
+    "randomized": false,
+    "prospective": true,
+    "single_center": false,
+    "multi_center": true,
+    "inclusion_criteria_text": "All consenting patients who underwent limb amputation at Bugando Medical Centre (BMC) and Sekou Toure Regional Referral Hospital (SRRH) between March and July 2024.",
+    "exclusion_criteria_text": "Patients who previously undergone amputation in other healthcare facilities who were referred for stump revisions were excluded.",
+    "sample_frame": "patients",
+    "unit_of_analysis": "patient",
+    "duplicate_publication_likelihood": false
+  },
+  "setting": {
+    "facility_level": "tertiary",
+    "urban_rural": "urban",
+    "care_setting": "hospital",
+    "country_specific_sites": [
+      "Bugando Medical Centre (BMC), Mwanza",
+      "Sekou Toure Regional Referral Hospital (SRRH), Mwanza"
+    ]
+  },
+  "eligibility": {
+    "population": "All consenting patients undergoing limb amputation at BMC and SRRH between March and July 2024.",
+    "classification": "adult",
+    "intervention": "Standard care limb amputation, with prophylactic antibiotics commonly third and fourth generation cephalosporins.",
+    "comparator": "None specified.",
+    "outcomes_reported": [
+      "ssi_incidence",
+      "amr_prevalence",
+      "risk_factors_effects"
+    ],
+    "timeframe_years": "March–July 2024",
+    "setting_types": [
+      "hospital",
+      "surgical_unit",
+      "outpatient"
+    ],
+    "included_designs": [
+      "cohort"
+    ],
+    "excluded_designs": []
+  },
+  "timeframe": {
+    "data_collection_start_year": 2024,
+    "data_collection_start_month": 3,
+    "data_collection_end_year": 2024,
+    "data_collection_end_month": 7,
+    "follow_up_window_days": 30
+  },
+  "populations": [
+    {
+      "arm_id": "overall",
+      "description": "All patients undergoing limb amputation at BMC and SRRH during study period.",
+      "n_participants": 120,
+      "age_group": "adult",
+      "elective_emergency": "mixed",
+      "wound_class": "unspecified",
+      "comorbidities_key": "HIV=1, Diabetes Mellitus=23, Hypertension=4, Malignancy=7, Osteomyelitis=2, Peripheral artery disease=13, Trauma=8; 47.5% had comorbidity; 4.2% smokers; 45.8% underweight",
+      "surgical_specialties": [
+        "orthopedics",
+        "general",
+        "pediatric",
+        "plastic"
+      ],
+      "provenance": {
+        "page": 4,
+        "section_heading": "Table 1 Socio-demographic and clinical characteristic of study participants",
+        "table_id": "Table 1",
+        "text_snippet": "A total of 120 patients were included in the study. The median [IQR] age was 58[43.5–66.5] years."
+      }
+    }
+  ],
+  "definitions": {
+    "ssi_definition_standard": [
+      "CDC_NHSN"
+    ],
+    "ssi_window_days": 30,
+    "amr_definition_standard": [
+      "CLSI"
+    ],
+    "resistance_definition_text": "Antimicrobial susceptibility of isolates was determined using disk diffusion method according to Clinical Laboratory Standard Institute.",
+    "outcome_definitions_text": "SSI defined as per CDC criteria; superficial and deep SSI definitions provided. No explicit definitions for mortality, LOS, readmission, or cost.",
+    "specimen_type": [
+      "wound_swab",
+      "pus_swab"
+    ]
+  },
+  "lab_methods": {
+    "specimen_collection_method": "Two pus swabs obtained from infected surgical wound by sterile cotton swabs, transported in Stuart transport media to laboratory within an hour.",
+    "culture_method": "Specimens inoculated on Blood agar and MacConkey agar, incubated aerobically for 24–48 h.",
+    "AST_method": [
+      "disk_diffusion"
+    ],
+    "organism_identification_method": "Conventional physiological and biochemical methods (gram stain, catalase, coagulase, hemolytic activity, hippurate hydrolysis, CAMP test, colony morphology, TSI, indole, motility, citrate, urease, H2S production).",
+    "lab_capacity_notes": "Anaerobic culture not performed; may underestimate bacteria patterns and culture yield."
+  },
+  "outcomes": {
+    "ssi_incidence": [
+      {
+        "arm_id": "overall",
+        "denominator_type": "patients",
+        "ssi_type": "overall",
+        "n_ssi_events": 36,
+        "n_total": 120,
+        "rate_as_reported": {
+          "value": 30.0,
+          "unit": "percent"
+        },
+        "ascertainment_window_days": 30,
+        "data_period": {
+          "start_year": 2024,
+          "end_year": 2024
+        },
+        "subgroup_labels": {
+          "country": "Tanzania",
+          "facility_level": "tertiary",
+          "setting": "hospital"
+        },
+        "notes": "Incidence of SSI within 30 days following major amputations.",
+        "provenance": {
+          "page": 3,
+          "section_heading": "Post operative outcomes",
+          "text_snippet": "Out of 120 enrolled and followed patients, 36 developed SSI, therefore the overall incidence of SSI within 3 months of amputation was 30.0% (95% CI 21.8–38)."
+        }
+      },
+      {
+        "arm_id": "BMC",
+        "denominator_type": "patients",
+        "ssi_type": "overall",
+        "n_ssi_events": 23,
+        "n_total": 90,
+        "rate_as_reported": {
+          "value": 25.5,
+          "unit": "percent"
+        },
+        "ascertainment_window_days": 30,
+        "data_period": {
+          "start_year": 2024,
+          "end_year": 2024
+        },
+        "subgroup_labels": {
+          "country": "Tanzania",
+          "facility_level": "tertiary",
+          "setting": "hospital"
+        },
+        "notes": "Incidence of SSI at Bugando Medical Centre.",
+        "provenance": {
+          "page": 4,
+          "section_heading": "Post operative outcomes",
+          "text_snippet": "Out of 90 patients recruited from BMC, 23(25.5%) developed SSIs"
+        }
+      },
+      {
+        "arm_id": "SRRH",
+        "denominator_type": "patients",
+        "ssi_type": "overall",
+        "n_ssi_events": 13,
+        "n_total": 30,
+        "rate_as_reported": {
+          "value": 43.3,
+          "unit": "percent"
+        },
+        "ascertainment_window_days": 30,
+        "data_period": {
+          "start_year": 2024,
+          "end_year": 2024
+        },
+        "subgroup_labels": {
+          "country": "Tanzania",
+          "facility_level": "tertiary",
+          "setting": "hospital"
+        },
+        "notes": "Incidence of SSI at Sekou Toure Regional Referral Hospital.",
+        "provenance": {
+          "page": 4,
+          "section_heading": "Post operative outcomes",
+          "text_snippet": "while out of 30 patients recruited from SRRH, 13(43.3%) developed SSIs"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "denominator_type": "patients",
+        "ssi_type": "superficial",
+        "n_ssi_events": 28,
+        "n_total": 36,
+        "rate_as_reported": {
+          "value": 77.8,
+          "unit": "percent"
+        },
+        "ascertainment_window_days": 30,
+        "data_period": {
+          "start_year": 2024,
+          "end_year": 2024
+        },
+        "subgroup_labels": {
+          "country": "Tanzania",
+          "facility_level": "tertiary",
+          "setting": "hospital"
+        },
+        "notes": "Superficial SSIs among SSI cases.",
+        "provenance": {
+          "page": 3,
+          "section_heading": "Post operative outcomes",
+          "text_snippet": "Superficial SSIs were the most common type accounting for 28(77.8%) cases"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "denominator_type": "patients",
+        "ssi_type": "deep",
+        "n_ssi_events": 8,
+        "n_total": 36,
+        "rate_as_reported": {
+          "value": 22.2,
+          "unit": "percent"
+        },
+        "ascertainment_window_days": 30,
+        "data_period": {
+          "start_year": 2024,
+          "end_year": 2024
+        },
+        "subgroup_labels": {
+          "country": "Tanzania",
+          "facility_level": "tertiary",
+          "setting": "hospital"
+        },
+        "notes": "Deep SSIs among SSI cases.",
+        "provenance": {
+          "page": 3,
+          "section_heading": "Post operative outcomes",
+          "text_snippet": "and 8(22.2%) were deep SSIs."
+        }
+      }
+    ],
+    "amr_proportions": [
+      {
+        "arm_id": "overall",
+        "pathogen": "Escherichia coli",
+        "antibiotic": "ampicillin",
+        "who_class": "critically_important",
+        "n_tested": 11,
+        "n_resistant": 10,
+        "n_susceptible": 1,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2024,
+          "end_year": 2024
+        },
+        "mdr_definition_text": "Multi drug resistance phenotype reported.",
+        "zone_diameter_unit": "mm",
+        "notes": "Ampicillin resistance in E. coli isolates.",
+        "provenance": {
+          "page": 5,
+          "section_heading": "Table 4 The resistance pattens of the 30 isolates from patient with SSI",
+          "table_id": "Table 4",
+          "text_snippet": "Ampicillin 13(86.7%) for Enterobacterales group (includes E. coli, Morganella morganii, Klebsiella pneumoniae, Enterobacter cloacae)"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "ceftriaxone",
+        "who_class": "critically_important",
+        "n_tested": 7,
+        "n_resistant": 4,
+        "n_susceptible": 3,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2024,
+          "end_year": 2024
+        },
+        "mdr_definition_text": "Multi drug resistance phenotype reported.",
+        "zone_diameter_unit": "mm",
+        "notes": "Ceftriaxone resistance in S. aureus isolates.",
+        "provenance": {
+          "page": 5,
+          "section_heading": "Table 4 The resistance pattens of the 30 isolates from patient with SSI",
+          "table_id": "Table 4",
+          "text_snippet": "S. aureus (N=7): Ceftriaxone 4(57.14%)"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Pseudomonas aeruginosa",
+        "antibiotic": "ceftazidime",
+        "who_class": "critically_important",
+        "n_tested": 4,
+        "n_resistant": 1,
+        "n_susceptible": 3,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2024,
+          "end_year": 2024
+        },
+        "mdr_definition_text": "Multi drug resistance phenotype reported.",
+        "zone_diameter_unit": "mm",
+        "notes": "Ceftazidime resistance in P. aeruginosa isolates.",
+        "provenance": {
+          "page": 5,
+          "section_heading": "Table 4 The resistance pattens of the 30 isolates from patient with SSI",
+          "table_id": "Table 4",
+          "text_snippet": "P. aeruginosa (N=4): Ceftazidime 1(25%)"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Enterococcus faecalis",
+        "antibiotic": "ampicillin",
+        "who_class": "important",
+        "n_tested": 3,
+        "n_resistant": 1,
+        "n_susceptible": 2,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2024,
+          "end_year": 2024
+        },
+        "mdr_definition_text": "Multi drug resistance phenotype reported.",
+        "zone_diameter_unit": "mm",
+        "notes": "Ampicillin resistance in E. faecalis isolates.",
+        "provenance": {
+          "page": 5,
+          "section_heading": "Table 4 The resistance pattens of the 30 isolates from patient with SSI",
+          "table_id": "Table 4",
+          "text_snippet": "E. faecalis (N=3): Ampicillin 1(33.33%)"
+        }
+      }
+    ],
+    "morbidity": [],
+    "mortality": [],
+    "reoperations": [],
+    "readmissions": [],
+    "length_of_stay": [],
+    "costs": [],
+    "risk_factors_effects": [
+      {
+        "exposure": "Age above 65 years",
+        "outcome": "ssi_incidence",
+        "effect_measure": "OR",
+        "effect_value": 0.21,
+        "ci_lower": 0.05,
+        "ci_upper": 0.95,
+        "p_value": 0.043,
+        "adjusted": true,
+        "covariates_adjusted_for": "Multivariate logistic regression; other predictors included smoking, ASA class, surgery duration, blood transfusion.",
+        "n_included": 120,
+        "notes": "Age above 65 years protective for SSI.",
+        "provenance": {
+          "page": 1,
+          "section_heading": "Abstract",
+          "text_snippet": "Age above 65 years (OR = 0.21, 95% CI: 0.05–0.95, p = 0.043)"
+        }
+      },
+      {
+        "exposure": "Smoking",
+        "outcome": "ssi_incidence",
+        "effect_measure": "OR",
+        "effect_value": 14.3,
+        "ci_lower": 1.33,
+        "ci_upper": 10.0,
+        "p_value": 0.027,
+        "adjusted": true,
+        "covariates_adjusted_for": "Multivariate logistic regression; other predictors included age, ASA class, surgery duration, blood transfusion.",
+        "n_included": 120,
+        "notes": "Smoking associated with increased odds of SSI.",
+        "provenance": {
+          "page": 1,
+          "section_heading": "Abstract",
+          "text_snippet": "smoking (OR = 14.3, 95% CI: 1.33-10.00, p = 0.027)"
+        }
+      },
+      {
+        "exposure": "ASA Class III",
+        "outcome": "ssi_incidence",
+        "effect_measure": "OR",
+        "effect_value": 13.33,
+        "ci_lower": 2.82,
+        "ci_upper": 63.14,
+        "p_value": 0.001,
+        "adjusted": true,
+        "covariates_adjusted_for": "Multivariate logistic regression; other predictors included age, smoking, surgery duration, blood transfusion.",
+        "n_included": 120,
+        "notes": "High ASA score associated with increased odds of SSI.",
+        "provenance": {
+          "page": 1,
+          "section_heading": "Abstract",
+          "text_snippet": "ASA Class III (OR = 13.33, 95% CI: 2.82–63.14, p = 0.001)"
+        }
+      },
+      {
+        "exposure": "Longer surgery duration (≥ 2 h)",
+        "outcome": "ssi_incidence",
+        "effect_measure": "OR",
+        "effect_value": 4.09,
+        "ci_lower": 1.3,
+        "ci_upper": 12.89,
+        "p_value": 0.016,
+        "adjusted": true,
+        "covariates_adjusted_for": "Multivariate logistic regression; other predictors included age, smoking, ASA class, blood transfusion.",
+        "n_included": 120,
+        "notes": "Prolonged surgery associated with increased odds of SSI.",
+        "provenance": {
+          "page": 1,
+          "section_heading": "Abstract",
+          "text_snippet": "longer surgery duration (≥ 2 h) (OR = 4.09, 95% CI: 1.30-12.89, p = 0.016)"
+        }
+      },
+      {
+        "exposure": "Blood transfusion",
+        "outcome": "ssi_incidence",
+        "effect_measure": "OR",
+        "effect_value": 4.0,
+        "ci_lower": 1.25,
+        "ci_upper": 12.5,
+        "p_value": 0.02,
+        "adjusted": true,
+        "covariates_adjusted_for": "Multivariate logistic regression; other predictors included age, smoking, ASA class, surgery duration.",
+        "n_included": 120,
+        "notes": "Blood transfusion associated with increased odds of SSI.",
+        "provenance": {
+          "page": 1,
+          "section_heading": "Abstract",
+          "text_snippet": "blood transfusion (OR = 2.4, 95% CI: 0.7-8.00, p = 0.02)"
+        }
+      }
+    ]
+  },
+  "interventions": [
+    {
+      "type": "antibiotic_prophylaxis_protocol",
+      "description": "Prophylactic antibiotics commonly used were third and fourth generation cephalosporins.",
+      "implementation_level": "facility",
+      "outcomes_measured": [
+        "ssi_incidence",
+        "amr_prevalence"
+      ],
+      "effect_direction": "unclear",
+      "provenance": {
+        "page": 1,
+        "section_heading": "Abstract",
+        "text_snippet": "More than half of the Gram-negative isolates were resistant to third and fourth generations cephalosporins which were commonly used as prophylactic antibiotics in the study settings."
+      }
+    }
+  ],
+  "stewardship_guidelines": [],
+  "policy_capacity": [],
+  "qualitative_thematic": {
+    "codes": [
+      {
+        "theme": "burden_incidence",
+        "subtheme": "incidence",
+        "summary": "SSI incidence following limb amputation was 30%, higher than previous local studies.",
+        "evidence_quotes": [
+          {
+            "quote": "The overall incidence of surgical site infections following limb amputations was found to be 30% in two referral hospitals in Mwanza, Tanzania.",
+            "page": 5,
+            "section": "Discussion"
+          }
+        ],
+        "location_context": "Mwanza, Tanzania; Bugando Medical Centre and Sekou Toure Regional Referral Hospital",
+        "confidence": "high",
+        "provenance": {
+          "page": 5,
+          "section_heading": "Discussion",
+          "text_snippet": "The overall incidence of surgical site infections following limb amputations was found to be 30% in two referral hospitals in Mwanza, Tanzania."
+        }
+      },
+      {
+        "theme": "amr_prevalence",
+        "subtheme": "resistance patterns",
+        "summary": "Gram-negative bacteria, especially E. coli, showed high resistance to third and fourth generation cephalosporins.",
+        "evidence_quotes": [
+          {
+            "quote": "More than half of the Gram-negative isolates were resistant to third and fourth generations cephalosporins which were commonly used as prophylactic antibiotics in the study settings.",
+            "page": 1,
+            "section": "Abstract"
+          }
+        ],
+        "location_context": "Mwanza, Tanzania; Bugando Medical Centre and Sekou Toure Regional Referral Hospital",
+        "confidence": "high",
+        "provenance": {
+          "page": 1,
+          "section_heading": "Abstract",
+          "text_snippet": "More than half of the Gram-negative isolates were resistant to third and fourth generations cephalosporins"
+        }
+      },
+      {
+        "theme": "drivers_amr",
+        "subtheme": "inappropriate use",
+        "summary": "Common use of cephalosporins for prophylaxis may contribute to resistance among Gram-negative pathogens.",
+        "evidence_quotes": [
+          {
+            "quote": "More than half of the Gram-negative isolates were resistant to third and fourth generations cephalosporins which were commonly used as prophylactic antibiotics in the study settings.",
+            "page": 1,
+            "section": "Abstract"
+          }
+        ],
+        "location_context": "Mwanza, Tanzania; Bugando Medical Centre and Sekou Toure Regional Referral Hospital",
+        "confidence": "moderate",
+        "provenance": {
+          "page": 1,
+          "section_heading": "Abstract",
+          "text_snippet": "which were commonly used as prophylactic antibiotics in the study settings"
+        }
+      },
+      {
+        "theme": "prevention_control",
+        "subtheme": "IPC programs",
+        "summary": "Study highlights need to improve infection prevention and control programs in hospitals.",
+        "evidence_quotes": [
+          {
+            "quote": "This study has demonstrated an increased trend of SSI amongst patients who underwent limb amputation underscoring the need to improve infection prevention and control (IPC) programs in these hospitals.",
+            "page": 7,
+            "section": "Conclusion and recommendations"
+          }
+        ],
+        "location_context": "Mwanza, Tanzania; Bugando Medical Centre and Sekou Toure Regional Referral Hospital",
+        "confidence": "high",
+        "provenance": {
+          "page": 7,
+          "section_heading": "Conclusion and recommendations",
+          "text_snippet": "underscoring the need to improve infection prevention and control (IPC) programs in these hospitals."
+        }
+      },
+      {
+        "theme": "interventions_innovations",
+        "subtheme": "other",
+        "summary": "Recommendation to strengthen antimicrobial stewardship and IPC programs to control MDR Gram-negative bacteria.",
+        "evidence_quotes": [
+          {
+            "quote": "The observed predominance of multi drug resistant (MDR) Gram negative bacteria causing SSI requires strengthening of antimicrobial stewardship and IPC programs in these hospitals and other hospitals in low- and middle-income countries to control emergence and spread of MDR Enterobacterales which have been classified by WHO as critical priority pathogens.",
+            "page": 7,
+            "section": "Conclusion and recommendations"
+          }
+        ],
+        "location_context": "Mwanza, Tanzania; Bugando Medical Centre and Sekou Toure Regional Referral Hospital",
+        "confidence": "high",
+        "provenance": {
+          "page": 7,
+          "section_heading": "Conclusion and recommendations",
+          "text_snippet": "requires strengthening of antimicrobial stewardship and IPC programs in these hospitals"
+        }
+      }
+    ]
+  },
+  "risk_of_bias": {
+    "tool_used": "not_reported",
+    "domain_judgements": {},
+    "overall_judgement": "not_reported",
+    "provenance": {
+      "text_snippet": "No risk of bias assessment reported."
+    }
+  },
+  "funding_conflicts": {
+    "funding_sources": [
+      "No formal funding for this research, the Article publication Charges (APC) will be covered by the Catholic University of Health and Allied Sciences."
+    ],
+    "conflicts_of_interest": "The authors declare no competing interests.",
+    "provenance": {
+      "page": 8,
+      "section_heading": "Funding",
+      "text_snippet": "No formal funding for this research, the Article publication Charges (APC) will be covered by the Catholic University of Health and Allied Sciences."
+    }
+  },
+  "notes_flags": [
+    {
+      "type": [
+        "missing_data"
+      ],
+      "detail": "No data on mortality, reoperations, readmissions, length of stay, costs, stewardship guideline adherence, or advanced AMR metrics (MDR/XDR, ESBL, carbapenemase, MRSA method, genotypes).",
+      "provenance": {
+        "text_snippet": "No data found in article."
+      }
+    },
+    {
+      "type": [
+        "unit_unclear"
+      ],
+      "detail": "No explicit breakpoint version or MIC/zone diameter units reported for AST.",
+      "provenance": {
+        "page": 5,
+        "section_heading": "Table 4 The resistance pattens of the 30 isolates from patient with SSI",
+        "table_id": "Table 4",
+        "text_snippet": "Antimicrobial susceptibility of isolates was determined using disk diffusion method according to Clinical Laboratory Standard Institute."
+      }
+    },
+    {
+      "type": [
+        "missing_data"
+      ],
+      "detail": "No information on infection control or stewardship program presence.",
+      "provenance": {
+        "text_snippet": "No data found in article."
+      }
+    }
+  ],
+  "provenance_index": [
+    {
+      "page": 1,
+      "section_heading": "Abstract",
+      "text_snippet": "More than half of the Gram-negative isolates were resistant to third and fourth generations cephalosporins which were commonly used as prophylactic antibiotics in the study settings."
+    },
+    {
+      "page": 3,
+      "section_heading": "Post operative outcomes",
+      "text_snippet": "Out of 120 enrolled and followed patients, 36 developed SSI, therefore the overall incidence of SSI within 3 months of amputation was 30.0% (95% CI 21.8–38)."
+    },
+    {
+      "page": 4,
+      "section_heading": "Table 1 Socio-demographic and clinical characteristic of study participants",
+      "table_id": "Table 1",
+      "text_snippet": "A total of 120 patients were included in the study. The median [IQR] age was 58[43.5–66.5] years."
+    },
+    {
+      "page": 5,
+      "section_heading": "Table 4 The resistance pattens of the 30 isolates from patient with SSI",
+      "table_id": "Table 4",
+      "text_snippet": "Ampicillin 13(86.7%) for Enterobacterales group (includes E. coli, Morganella morganii, Klebsiella pneumoniae, Enterobacter cloacae)"
+    },
+    {
+      "page": 7,
+      "section_heading": "Conclusion and recommendations",
+      "text_snippet": "This study has demonstrated an increased trend of SSI amongst patients who underwent limb amputation underscoring the need to improve infection prevention and control (IPC) programs in these hospitals."
+    },
+    {
+      "page": 8,
+      "section_heading": "Funding",
+      "text_snippet": "No formal funding for this research, the Article publication Charges (APC) will be covered by the Catholic University of Health and Allied Sciences."
+    }
+  ],
+  "extraction_summary": {
+    "completeness_score": 70,
+    "missing_fields": [
+      "mortality",
+      "reoperations",
+      "readmissions",
+      "length_of_stay",
+      "costs",
+      "stewardship_guidelines",
+      "policy_capacity",
+      "advanced AMR metrics (MDR/XDR, ESBL, carbapenemase, MRSA method, genotypes)",
+      "risk_of_bias assessment",
+      "qualitative method context"
+    ],
+    "parser_warnings": [
+      "No explicit breakpoint version or MIC/zone diameter units reported for AST.",
+      "No data on clinical outcomes beyond SSI incidence and risk factors.",
+      "No information on infection control or stewardship program presence."
+    ],
+    "confidence_overall": "moderate"
+  }
+}

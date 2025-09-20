@@ -1,0 +1,697 @@
+{
+  "study": {
+    "study_id": "Boru2025-Ethiopia-BuleHora-2023-01",
+    "title": "Bacterial surgical site infections: prevalence, antimicrobial susceptibility patterns, and associated risk factors among patients at Bule Hora University Teaching Hospital, Southern Ethiopia",
+    "authors": [
+      "Kalicha Boru",
+      "Alqeer Aliyo",
+      "Derese Daka",
+      "Tibeso Gamachu",
+      "Oliyad Husen",
+      "Zekarias Solomon"
+    ],
+    "journal": "IJID Regions",
+    "year_publication": 2025,
+    "doi": "10.1016/j.ijregi.2024.100565",
+    "country_list": [
+      "Ethiopia"
+    ],
+    "country_iso3": "ETH",
+    "region_classification": "ECSA",
+    "surgical_specialty": [
+      "general"
+    ],
+    "language": "English",
+    "data_source_type": "published_full_text",
+    "ownership_type": "public"
+  },
+  "design": {
+    "study_design": "cross_sectional",
+    "randomized": false,
+    "prospective": false,
+    "single_center": true,
+    "multi_center": false,
+    "inclusion_criteria_text": "All patients with signs of SSI, based on the criteria stated by the World Health Organisation (WHO) and the Centers for Disease Control and Prevention (CDC) during the data collection period, were included.",
+    "exclusion_criteria_text": "Patients with incomplete charts, those who underwent surgery at another institution, and those with nonoperative wounds or abscesses were excluded.",
+    "sample_frame": "patients",
+    "unit_of_analysis": "patient",
+    "duplicate_publication_likelihood": false
+  },
+  "setting": {
+    "facility_level": "tertiary",
+    "urban_rural": "mixed",
+    "care_setting": "hospital",
+    "country_specific_sites": [
+      "Bule Hora University Teaching Hospital, Bule Hora, Ethiopia"
+    ]
+  },
+  "eligibility": {
+    "population": "All individuals who underwent surgical treatment at Bule Hora University Teaching Hospital during the study period and exhibited signs of SSIs.",
+    "classification": "mixed",
+    "intervention": "Antibiotic prophylaxis administered to 53% of participants; locally available antimicrobials used for treatment.",
+    "comparator": "No antibiotic prophylaxis (47% of participants); no explicit alternative regimens described.",
+    "outcomes_reported": [
+      "ssi_incidence",
+      "amr_prevalence",
+      "risk_factors_effects"
+    ],
+    "timeframe_years": "1 January to 30 June 2023",
+    "setting_types": [
+      "hospital",
+      "surgical_unit",
+      "ward"
+    ],
+    "included_designs": [
+      "cross_sectional"
+    ],
+    "excluded_designs": [
+      "case_control",
+      "cohort",
+      "rct",
+      "surveillance",
+      "other"
+    ]
+  },
+  "timeframe": {
+    "data_collection_start_year": 2023,
+    "data_collection_start_month": 1,
+    "data_collection_end_year": 2023,
+    "data_collection_end_month": 6,
+    "follow_up_window_days": 30
+  },
+  "populations": [
+    {
+      "arm_id": "overall",
+      "description": "All patients who underwent surgery and met inclusion criteria at Bule Hora University Teaching Hospital during Jan-Jun 2023.",
+      "n_participants": 183,
+      "age_group": "mixed",
+      "elective_emergency": "mixed",
+      "wound_class": "mixed",
+      "comorbidities_key": "12.6% malnutrition; other comorbidities not specified",
+      "surgical_specialties": [
+        "general"
+      ],
+      "provenance": {
+        "page": 3,
+        "section_heading": "Sociodemographic characteristics of the study participants",
+        "table_id": "Table 1",
+        "text_snippet": "183 participants were enrolled in this study. The age of respondents ranged from 1-95 years, with a mean age of 31.65 (± 19.357)."
+      }
+    }
+  ],
+  "definitions": {
+    "ssi_definition_standard": [
+      "CDC_NHSN",
+      "WHO"
+    ],
+    "ssi_window_days": 30,
+    "amr_definition_standard": [
+      "CLSI"
+    ],
+    "resistance_definition_text": "Isolates classified as sensitive, intermediate, or resistant based on the CLSI standard table.",
+    "outcome_definitions_text": "SSI: clinical features such as pain, redness, swelling, warm skin, discharge, odour, fever, chills. MDR: resistance to ≥3 classes of antimicrobials.",
+    "specimen_type": [
+      "wound_swab",
+      "aspirate"
+    ]
+  },
+  "lab_methods": {
+    "specimen_collection_method": "Wound swabs collected aseptically using sterile cotton swabs; deep wound aspirates collected aseptically by trained nurses.",
+    "culture_method": "Samples seeded on blood agar, nutritional agar, MacConkey agar, and mannitol salt agar; incubated for 24-48 hours at 37°C.",
+    "AST_method": [
+      "disk_diffusion"
+    ],
+    "QC_measures": "E. coli (ATCC 25922), S. aureus (ATCC 25923), and P. aeruginosa (ATCC 27853) strains used for quality control.",
+    "organism_identification_method": "Colony characteristics, haemolytic appearance, differential media, Gram reaction, biochemical tests (catalase, coagulase, oxidase, urease, indole, citrate, lysine decarboxylation, fermentation, motility).",
+    "contamination_handling": "Specimens coded and transported within 2-4 hours using Amies transport medium at 37°C."
+  },
+  "outcomes": {
+    "ssi_incidence": [
+      {
+        "arm_id": "overall",
+        "surgical_specialty": "general",
+        "denominator_type": "patients",
+        "ssi_type": "overall",
+        "n_ssi_events": 29,
+        "n_total": 183,
+        "rate_as_reported": {
+          "value": 15.8,
+          "unit": "percent"
+        },
+        "ascertainment_window_days": 30,
+        "data_period": {
+          "start_year": 2023,
+          "end_year": 2023
+        },
+        "subgroup_labels": {
+          "country": "Ethiopia",
+          "facility_level": "tertiary",
+          "setting": "hospital"
+        },
+        "notes": "Culture-confirmed SSIs; 95% CI: 10.9-22.",
+        "provenance": {
+          "page": 3,
+          "section_heading": "Prevalence of surgical site infections",
+          "text_snippet": "The general prevalence of culture-confirmed SSIs was 15.8% (29/183) (95% CI, 10.9-22)."
+        }
+      }
+    ],
+    "amr_proportions": [
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "chloramphenicol",
+        "who_class": "highly_important",
+        "n_tested": 14,
+        "n_resistant": 1,
+        "n_intermediate": 0,
+        "n_susceptible": 13,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2023,
+          "end_year": 2023
+        },
+        "mdr_definition_text": "Resistance to ≥3 classes of antimicrobials",
+        "n_mdr": 8,
+        "mrsa_detection_method": "Cefoxitin disk diffusion",
+        "zone_diameter_unit": "mm",
+        "notes": "S. aureus: 57.1% resistant to cefoxitin (MRSA proxy); highest sensitivity to chloramphenicol.",
+        "provenance": {
+          "page": 4,
+          "section_heading": "Antimicrobial susceptibility patterns for Gram-positive isolates",
+          "table_id": "Table 3",
+          "text_snippet": "S. aureus (n = 14)... Chloramphenicol S: 13 (92.9%), R: 1 (7.1%)"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "cefoxitin",
+        "who_class": "critically_important",
+        "n_tested": 14,
+        "n_resistant": 8,
+        "n_intermediate": 0,
+        "n_susceptible": 6,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2023,
+          "end_year": 2023
+        },
+        "mdr_definition_text": "Resistance to ≥3 classes of antimicrobials",
+        "n_mdr": 8,
+        "mrsa_detection_method": "Cefoxitin disk diffusion",
+        "zone_diameter_unit": "mm",
+        "notes": "MRSA defined by cefoxitin resistance: 57.1% (8/14) S. aureus isolates.",
+        "provenance": {
+          "page": 4,
+          "section_heading": "Antimicrobial susceptibility patterns for Gram-positive isolates",
+          "table_id": "Table 3",
+          "text_snippet": "S. aureus (n = 14)... Cefoxitin R: 8 (57.1%)"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "penicillin",
+        "who_class": "critically_important",
+        "n_tested": 14,
+        "n_resistant": 8,
+        "n_intermediate": 0,
+        "n_susceptible": 6,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2023,
+          "end_year": 2023
+        },
+        "mdr_definition_text": "Resistance to ≥3 classes of antimicrobials",
+        "n_mdr": 8,
+        "mrsa_detection_method": "Cefoxitin disk diffusion",
+        "zone_diameter_unit": "mm",
+        "notes": "High resistance to penicillin: 57.1% (8/14) S. aureus isolates.",
+        "provenance": {
+          "page": 4,
+          "section_heading": "Antimicrobial susceptibility patterns for Gram-positive isolates",
+          "table_id": "Table 3",
+          "text_snippet": "S. aureus (n = 14)... Penicillin R: 8 (57.1%)"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Escherichia coli",
+        "antibiotic": "ampicillin",
+        "who_class": "critically_important",
+        "n_tested": 6,
+        "n_resistant": 5,
+        "n_intermediate": 0,
+        "n_susceptible": 1,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2023,
+          "end_year": 2023
+        },
+        "mdr_definition_text": "Resistance to ≥3 classes of antimicrobials",
+        "n_mdr": 3,
+        "zone_diameter_unit": "mm",
+        "notes": "High resistance to ampicillin: 83.3% (5/6) E. coli isolates.",
+        "provenance": {
+          "page": 4,
+          "section_heading": "Antimicrobial susceptibility patterns for Gram-negative isolates",
+          "table_id": "Table 4",
+          "text_snippet": "E. coli (n = 6)... Ampicillin R: 5 (83.3%)"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Escherichia coli",
+        "antibiotic": "ceftazidime",
+        "who_class": "critically_important",
+        "n_tested": 6,
+        "n_resistant": 5,
+        "n_intermediate": 0,
+        "n_susceptible": 1,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2023,
+          "end_year": 2023
+        },
+        "mdr_definition_text": "Resistance to ≥3 classes of antimicrobials",
+        "n_mdr": 3,
+        "zone_diameter_unit": "mm",
+        "notes": "High resistance to ceftazidime: 83.3% (5/6) E. coli isolates.",
+        "provenance": {
+          "page": 4,
+          "section_heading": "Antimicrobial susceptibility patterns for Gram-negative isolates",
+          "table_id": "Table 4",
+          "text_snippet": "E. coli (n = 6)... Ceftazidime R: 5 (83.3%)"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Pseudomonas aeruginosa",
+        "antibiotic": "ciprofloxacin",
+        "who_class": "critically_important",
+        "n_tested": 6,
+        "n_resistant": 0,
+        "n_intermediate": 0,
+        "n_susceptible": 6,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2023,
+          "end_year": 2023
+        },
+        "mdr_definition_text": "Resistance to ≥3 classes of antimicrobials",
+        "n_mdr": 3,
+        "zone_diameter_unit": "mm",
+        "notes": "100% susceptible to ciprofloxacin.",
+        "provenance": {
+          "page": 4,
+          "section_heading": "Antimicrobial susceptibility patterns for Gram-negative isolates",
+          "table_id": "Table 4",
+          "text_snippet": "P. aerogenosa (n = 6)... Ciprofloxacin S: 6 (100%)"
+        }
+      }
+    ],
+    "morbidity": [],
+    "mortality": [],
+    "reoperations": [],
+    "readmissions": [],
+    "length_of_stay": [],
+    "costs": [],
+    "risk_factors_effects": [
+      {
+        "exposure": "Age group >54 years",
+        "outcome": "ssi_incidence",
+        "effect_measure": "aOR",
+        "effect_value": 4.76,
+        "ci_lower": 1.104,
+        "ci_upper": 20.555,
+        "p_value": 0.036,
+        "adjusted": true,
+        "n_included": 183,
+        "notes": "Statistically significant association.",
+        "provenance": {
+          "page": 6,
+          "section_heading": "Univariate and multivariate analysis of factors associated with SSIs",
+          "table_id": "Table 6",
+          "text_snippet": "Age group >54: AOR = 4.76 (1.104-20.555), p=0.036"
+        }
+      },
+      {
+        "exposure": "Hospital stay ≥10 days",
+        "outcome": "ssi_incidence",
+        "effect_measure": "aOR",
+        "effect_value": 2.66,
+        "ci_lower": 1.061,
+        "ci_upper": 6.659,
+        "p_value": 0.037,
+        "adjusted": true,
+        "n_included": 183,
+        "notes": "Statistically significant association.",
+        "provenance": {
+          "page": 6,
+          "section_heading": "Univariate and multivariate analysis of factors associated with SSIs",
+          "table_id": "Table 6",
+          "text_snippet": "Hospital stay ≥10 days: AOR = 2.66 (1.061-6.659), p=0.037"
+        }
+      },
+      {
+        "exposure": "Operation duration ≥2 hours",
+        "outcome": "ssi_incidence",
+        "effect_measure": "aOR",
+        "effect_value": 2.64,
+        "ci_lower": 1.009,
+        "ci_upper": 6.901,
+        "p_value": 0.048,
+        "adjusted": true,
+        "n_included": 183,
+        "notes": "Statistically significant association.",
+        "provenance": {
+          "page": 6,
+          "section_heading": "Univariate and multivariate analysis of factors associated with SSIs",
+          "table_id": "Table 6",
+          "text_snippet": "Operation duration ≥2 hours: AOR = 2.64 (1.009-6.901), p=0.048"
+        }
+      },
+      {
+        "exposure": "Clean-contaminated wound",
+        "outcome": "ssi_incidence",
+        "effect_measure": "aOR",
+        "effect_value": 3.17,
+        "ci_lower": 1.208,
+        "ci_upper": 8.303,
+        "p_value": 0.019,
+        "adjusted": true,
+        "n_included": 183,
+        "notes": "Statistically significant association.",
+        "provenance": {
+          "page": 6,
+          "section_heading": "Univariate and multivariate analysis of factors associated with SSIs",
+          "table_id": "Table 6",
+          "text_snippet": "Clean-contaminated wound: AOR = 3.17 (1.208-8.303), p=0.019"
+        }
+      },
+      {
+        "exposure": "Open surgical site",
+        "outcome": "ssi_incidence",
+        "effect_measure": "aOR",
+        "effect_value": 2.64,
+        "ci_lower": 1.019,
+        "ci_upper": 6.858,
+        "p_value": 0.046,
+        "adjusted": true,
+        "n_included": 183,
+        "notes": "Statistically significant association.",
+        "provenance": {
+          "page": 6,
+          "section_heading": "Univariate and multivariate analysis of factors associated with SSIs",
+          "table_id": "Table 6",
+          "text_snippet": "Open surgical site: AOR = 2.64 (1.019-6.858), p=0.046"
+        }
+      },
+      {
+        "exposure": "Malnutrition",
+        "outcome": "ssi_incidence",
+        "effect_measure": "aOR",
+        "effect_value": 4.3,
+        "ci_lower": 1.424,
+        "ci_upper": 12.97,
+        "p_value": 0.01,
+        "adjusted": true,
+        "n_included": 183,
+        "notes": "Statistically significant association.",
+        "provenance": {
+          "page": 6,
+          "section_heading": "Univariate and multivariate analysis of factors associated with SSIs",
+          "table_id": "Table 6",
+          "text_snippet": "Malnutrition: AOR = 4.30 (1.424-12.970), p=0.010"
+        }
+      }
+    ]
+  },
+  "interventions": [
+    {
+      "type": "antibiotic_prophylaxis_protocol",
+      "description": "Antibiotic prophylaxis administered to 53% of participants prior to surgery; selection based on local availability and CLSI recommendations.",
+      "implementation_level": "facility",
+      "comparator": "No prophylaxis (47% of participants)",
+      "outcomes_measured": [
+        "ssi_incidence"
+      ],
+      "effect_direction": "unclear",
+      "provenance": {
+        "page": 3,
+        "section_heading": "Distribution of clinical factors",
+        "table_id": "Table 2",
+        "text_snippet": "Antibiotic prophylaxis given: Yes 97 (53.0%), No 86 (47.0%)"
+      }
+    }
+  ],
+  "stewardship_guidelines": [],
+  "policy_capacity": [],
+  "qualitative_thematic": {
+    "codes": [
+      {
+        "theme": "burden_incidence",
+        "subtheme": "epidemiology of SSI (incidence, trends)",
+        "summary": "The study found a high prevalence of SSIs (15.8%) among surgical patients at a tertiary hospital in Southern Ethiopia.",
+        "evidence_quotes": [
+          {
+            "quote": "In this study, the general prevalence of culture-confirmed SSIs was 15.8% (29/183) (95% CI, 10.9-22).",
+            "page": 3,
+            "section": "Prevalence of surgical site infections"
+          }
+        ],
+        "location_context": "Bule Hora University Teaching Hospital, Ethiopia",
+        "confidence": "high",
+        "provenance": {
+          "page": 3,
+          "section_heading": "Prevalence of surgical site infections",
+          "text_snippet": "The general prevalence of culture-confirmed SSIs was 15.8% (29/183) (95% CI, 10.9-22)."
+        }
+      },
+      {
+        "theme": "amr_prevalence",
+        "subtheme": "resistance patterns and rates by pathogen/antibiotic",
+        "summary": "A high proportion of isolates (43.9%) were multidrug-resistant, with S. aureus showing notable resistance to cefoxitin and penicillin.",
+        "evidence_quotes": [
+          {
+            "quote": "Among the 41 isolates, 18 (43.9%) (95% CI, 43-45) were multidrug-resistant.",
+            "page": 4,
+            "section": "Multi-drug resistance pattern of bacteria"
+          },
+          {
+            "quote": "S. aureus: 57.1% resistant to cefoxitin (MRSA proxy); highest sensitivity to chloramphenicol.",
+            "page": 4,
+            "section": "Antimicrobial susceptibility patterns for Gram-positive isolates"
+          }
+        ],
+        "location_context": "Bule Hora University Teaching Hospital, Ethiopia",
+        "confidence": "high",
+        "provenance": {
+          "page": 4,
+          "section_heading": "Multi-drug resistance pattern of bacteria",
+          "table_id": "Table 5",
+          "text_snippet": "Among the 41 isolates, 18 (43.9%) (95% CI, 43-45) were multidrug-resistant."
+        }
+      },
+      {
+        "theme": "drivers_amr",
+        "subtheme": "determinants (inappropriate use, IPC gaps, diagnostics delays, policy failures, supply chain, workforce, patient factors)",
+        "summary": "Self-medication and frequent, inappropriate use of antimicrobials may contribute to high resistance rates observed.",
+        "evidence_quotes": [
+          {
+            "quote": "This high resistance may be due to self-medication practices and the frequent and inappropriate use of antimicrobial agents.",
+            "page": 5,
+            "section": "Discussion"
+          }
+        ],
+        "location_context": "Bule Hora University Teaching Hospital, Ethiopia",
+        "confidence": "moderate",
+        "provenance": {
+          "page": 5,
+          "section_heading": "Discussion",
+          "text_snippet": "This high resistance may be due to self-medication practices and the frequent and inappropriate use of antimicrobial agents."
+        }
+      },
+      {
+        "theme": "outcomes_clinical",
+        "subtheme": "complications_other",
+        "summary": "SSIs lead to increased mortality, morbidity, reoperation, prolonged hospital stays, and increased healthcare costs, especially with resistant organisms.",
+        "evidence_quotes": [
+          {
+            "quote": "SSIs lead to increased mortality, morbidity, reoperation, prolonged hospital stays, loss of daily wages, and increased healthcare costs, all of which are considerably higher in cases involving antimicrobial-resistant organisms.",
+            "page": 2,
+            "section": "Background"
+          }
+        ],
+        "location_context": "Bule Hora University Teaching Hospital, Ethiopia",
+        "confidence": "moderate",
+        "provenance": {
+          "page": 2,
+          "section_heading": "Background",
+          "text_snippet": "SSIs lead to increased mortality, morbidity, reoperation, prolonged hospital stays, loss of daily wages, and increased healthcare costs, all of which are considerably higher in cases involving antimicrobial-resistant organisms."
+        }
+      },
+      {
+        "theme": "prevention_control",
+        "subtheme": "IPC programs, bundles, surveillance practices",
+        "summary": "The study recommends reviewing infection prevention practices and establishing a functional microbiology laboratory to control SSIs.",
+        "evidence_quotes": [
+          {
+            "quote": "This study recommends reviewing current infection prevention practices, establishing a functional microbiology laboratory, and limiting the use of certain antibiotics.",
+            "page": 7,
+            "section": "Conclusion and recommendation"
+          }
+        ],
+        "location_context": "Bule Hora University Teaching Hospital, Ethiopia",
+        "confidence": "moderate",
+        "provenance": {
+          "page": 7,
+          "section_heading": "Conclusion and recommendation",
+          "text_snippet": "This study recommends reviewing current infection prevention practices, establishing a functional microbiology laboratory, and limiting the use of certain antibiotics."
+        }
+      },
+      {
+        "theme": "evidence_gaps",
+        "subtheme": "explicit gaps and research priorities",
+        "summary": "Future studies should include fungi and anaerobic bacteria, and a nationwide survey of SSIs and antimicrobial resistance is recommended.",
+        "evidence_quotes": [
+          {
+            "quote": "Future studies should include fungi and anaerobic bacteria, and a nationwide survey of SSIs and antimicrobial resistance is recommended.",
+            "page": 7,
+            "section": "Conclusion and recommendation"
+          }
+        ],
+        "location_context": "Ethiopia",
+        "confidence": "moderate",
+        "provenance": {
+          "page": 7,
+          "section_heading": "Conclusion and recommendation",
+          "text_snippet": "Future studies should include fungi and anaerobic bacteria, and a nationwide survey of SSIs and antimicrobial resistance is recommended."
+        }
+      }
+    ]
+  },
+  "risk_of_bias": {
+    "tool_used": "not_reported",
+    "domain_judgements": {},
+    "overall_judgement": "not_reported",
+    "provenance": {
+      "text_snippet": "No risk of bias assessment reported."
+    }
+  },
+  "funding_conflicts": {
+    "funding_sources": [
+      "This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors."
+    ],
+    "conflicts_of_interest": "The authors have no competing interests to declare.",
+    "provenance": {
+      "page": 7,
+      "section_heading": "Funding",
+      "text_snippet": "This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors."
+    }
+  },
+  "notes_flags": [
+    {
+      "type": [
+        "missing_data"
+      ],
+      "detail": "No data on mortality, reoperations, readmissions, length of stay, or costs.",
+      "provenance": {
+        "text_snippet": "No outcomes reported for mortality, reoperations, readmissions, LOS, or costs."
+      }
+    },
+    {
+      "type": [
+        "unit_unclear"
+      ],
+      "detail": "No explicit breakpoint version for CLSI provided.",
+      "provenance": {
+        "page": 2,
+        "section_heading": "Antimicrobial susceptibility test",
+        "text_snippet": "Standardisation of the inoculum was performed... according to the recommendations of the Clinical Laboratory Standards Institute (CLSI) [36,37]."
+      }
+    }
+  ],
+  "provenance_index": [
+    {
+      "page": 3,
+      "section_heading": "Sociodemographic characteristics of the study participants",
+      "table_id": "Table 1",
+      "text_snippet": "183 participants were enrolled in this study. The age of respondents ranged from 1-95 years, with a mean age of 31.65 (± 19.357)."
+    },
+    {
+      "page": 3,
+      "section_heading": "Prevalence of surgical site infections",
+      "text_snippet": "The general prevalence of culture-confirmed SSIs was 15.8% (29/183) (95% CI, 10.9-22)."
+    },
+    {
+      "page": 4,
+      "section_heading": "Antimicrobial susceptibility patterns for Gram-positive isolates",
+      "table_id": "Table 3",
+      "text_snippet": "S. aureus (n = 14)... Chloramphenicol S: 13 (92.9%), R: 1 (7.1%)"
+    },
+    {
+      "page": 4,
+      "section_heading": "Multi-drug resistance pattern of bacteria",
+      "table_id": "Table 5",
+      "text_snippet": "Among the 41 isolates, 18 (43.9%) (95% CI, 43-45) were multidrug-resistant."
+    },
+    {
+      "page": 6,
+      "section_heading": "Univariate and multivariate analysis of factors associated with SSIs",
+      "table_id": "Table 6",
+      "text_snippet": "Age group >54: AOR = 4.76 (1.104-20.555), p=0.036"
+    },
+    {
+      "page": 7,
+      "section_heading": "Conclusion and recommendation",
+      "text_snippet": "This study recommends reviewing current infection prevention practices, establishing a functional microbiology laboratory, and limiting the use of certain antibiotics."
+    },
+    {
+      "page": 7,
+      "section_heading": "Funding",
+      "text_snippet": "This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors."
+    }
+  ],
+  "extraction_summary": {
+    "completeness_score": 80,
+    "missing_fields": [
+      "bed_capacity",
+      "surgical_volume_per_year",
+      "mortality",
+      "reoperations",
+      "readmissions",
+      "length_of_stay",
+      "costs",
+      "stewardship_guidelines",
+      "policy_capacity",
+      "qualitative method context",
+      "risk_of_bias assessment"
+    ],
+    "parser_warnings": [
+      "No explicit breakpoint version for CLSI provided.",
+      "No denominators for some AMR outcomes (e.g., MDR rates per species).",
+      "No data on clinical outcomes beyond SSI incidence and AMR."
+    ],
+    "confidence_overall": "moderate"
+  }
+}

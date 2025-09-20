@@ -1,0 +1,716 @@
+{
+  "study": {
+    "study_id": "Gentilotti2020-Tanzania-Dodoma-2013-2015-1",
+    "title": "Implementing a combined infection prevention and control with antimicrobial stewardship joint program to prevent caesarean section surgical site infections and antimicrobial resistance: a Tanzanian tertiary hospital experience",
+    "authors": [
+      "Elisa Gentilotti",
+      "Pasquale De Nardo",
+      "Boniface Nguhuni",
+      "Alessandro Piscini",
+      "Caroline Damian",
+      "Francesco Vairo",
+      "Zainab Chaula",
+      "Paola Mencarini",
+      "Peter Torokaa",
+      "Alimuddin Zumla",
+      "Emanuele Nicastri",
+      "Giuseppe Ippolito"
+    ],
+    "journal": "Antimicrobial Resistance and Infection Control",
+    "year_publication": 2020,
+    "doi": "10.1186/s13756-020-00740-7",
+    "country_list": [
+      "Tanzania"
+    ],
+    "country_iso3": "TZA",
+    "region_classification": "ECSA",
+    "surgical_specialty": [
+      "obstetrics/gynecology"
+    ],
+    "language": "English",
+    "data_source_type": "published_full_text",
+    "ownership_type": "public",
+    "bed_capacity": 580
+  },
+  "design": {
+    "study_design": "cohort",
+    "randomized": false,
+    "prospective": true,
+    "single_center": true,
+    "multi_center": false,
+    "inclusion_criteria_text": "All consecutive women undergoing a caesarean section (CS) during the pre-intervention survey (3 months from August 19, 2013) and post-intervention survey (3 months from April 1, 2015).",
+    "sample_frame": "patients",
+    "unit_of_analysis": "patient",
+    "duplicate_publication_likelihood": true,
+    "duplicate_rationale": "The pre-intervention data (2013) appears to be from a previously published study [12] by some of the same authors, reporting a CS-SSI rate of 48.2%, which matches the pre-intervention rate reported here."
+  },
+  "setting": {
+    "facility_level": "tertiary",
+    "urban_rural": "urban",
+    "care_setting": "hospital",
+    "country_specific_sites": [
+      "Dodoma Regional Referral Hospital (DRRH)"
+    ],
+    "infection_control_program_present": true,
+    "stewardship_program_present": true
+  },
+  "eligibility": {
+    "population": "Women undergoing caesarean section (CS) at the Obstetrics & Gynaecology Department of a Tanzanian tertiary hospital.",
+    "intervention": "A combined infection prevention and control (IPC) with antimicrobial stewardship (AMS) joint program. Included formal and on-job trainings, evidence-based education, formation of an AMS multidisciplinary team, strengthening supply chain, improving reporting, improving operating theatre discipline, and strengthening microbiology lab capacity. Specific practice changes included introduction of pre-operative prophylaxis with ampicillin 1g.",
+    "comparator": "Pre-intervention period with standard care, which typically included a prolonged post-operative antibiotic course (e.g., 8-10 days of ceftriaxone plus metronidazole followed by oral agents) instead of pre-operative prophylaxis.",
+    "outcomes_reported": [
+      "ssi_incidence",
+      "amr_prevalence"
+    ],
+    "timeframe_years": "2013 to 2015",
+    "setting_types": [
+      "hospital",
+      "surgical_unit"
+    ],
+    "included_designs": [],
+    "excluded_designs": []
+  },
+  "timeframe": {
+    "data_collection_start_year": 2013,
+    "data_collection_start_month": 8,
+    "data_collection_end_year": 2015,
+    "data_collection_end_month": 6,
+    "follow_up_window_days": 30
+  },
+  "populations": [
+    {
+      "arm_id": "pre_intervention",
+      "description": "Pre-intervention survey group",
+      "n_participants": 467,
+      "n_procedures": 467,
+      "age_group": "adult",
+      "elective_emergency": "mixed",
+      "wound_class": "clean_contaminated",
+      "comorbidities_key": "HIV+: 10/221 (4.5%) of those with known status",
+      "surgical_specialties": [
+        "obstetrics/gynecology"
+      ],
+      "provenance": {
+        "note": "1"
+      }
+    },
+    {
+      "arm_id": "post_intervention",
+      "description": "Post-intervention survey group",
+      "n_participants": 573,
+      "n_procedures": 573,
+      "age_group": "adult",
+      "elective_emergency": "mixed",
+      "wound_class": "clean_contaminated",
+      "comorbidities_key": "HIV+: 6/455 (1.3%) of those with known status",
+      "surgical_specialties": [
+        "obstetrics/gynecology"
+      ],
+      "provenance": {
+        "note": "1"
+      }
+    }
+  ],
+  "definitions": {
+    "ssi_definition_standard": "CDC_NHSN",
+    "ssi_window_days": 30,
+    "amr_definition_standard": "EUCAST",
+    "breakpoint_version": "2013/2014",
+    "resistance_definition_text": "Based on Kirby-Bauer susceptibility test, gram-negative bacteria were classified as multidrug resistant organisms (MDROs) if resistances to amoxicillin/clavulanate, ceftriaxone (or ceftazidime), and/or gentamycin, and/or ciprofloxacin were detected. MRSA were identified by using the diffusion method with oxacillin disc.",
+    "specimen_type": [
+      "wound_swab"
+    ]
+  },
+  "lab_methods": {
+    "specimen_collection_method": "A wound swab was collected in any case of suspicion of SSI.",
+    "culture_method": "Specimens were inoculated on blood agar and MacConkey agar and incubated aerobically.",
+    "AST_method": [
+      "disk_diffusion"
+    ],
+    "organism_identification_method": "Not specified, likely manual/biochemical based on context.",
+    "lab_capacity_notes": "The capability and capacity of the Microbiology Unit was strengthened as part of the intervention. The lab later achieved a WHO AFRO SLIPTA 'three star' recognition level in 2016."
+  },
+  "outcomes": {
+    "ssi_incidence": [
+      {
+        "arm_id": "pre_intervention",
+        "surgical_specialty": "obstetrics/gynecology",
+        "denominator_type": "patients",
+        "ssi_type": "overall",
+        "n_ssi_events": 225,
+        "n_total": 467,
+        "rate_as_reported": {
+          "value": 48.2,
+          "unit": "percent"
+        },
+        "ascertainment_window_days": 30,
+        "data_period": {
+          "start_year": 2013,
+          "end_year": 2013
+        },
+        "subgroup_labels": {},
+        "provenance": {
+          "note": "1"
+        }
+      },
+      {
+        "arm_id": "post_intervention",
+        "surgical_specialty": "obstetrics/gynecology",
+        "denominator_type": "patients",
+        "ssi_type": "overall",
+        "n_ssi_events": 95,
+        "n_total": 573,
+        "rate_as_reported": {
+          "value": 16.6,
+          "unit": "percent"
+        },
+        "ascertainment_window_days": 30,
+        "data_period": {
+          "start_year": 2015,
+          "end_year": 2015
+        },
+        "subgroup_labels": {},
+        "provenance": {
+          "note": "1"
+        }
+      },
+      {
+        "arm_id": "pre_intervention",
+        "surgical_specialty": "obstetrics/gynecology",
+        "denominator_type": "patients",
+        "ssi_type": "superficial",
+        "n_ssi_events": 138,
+        "n_total": 225,
+        "ascertainment_window_days": 30,
+        "data_period": {
+          "start_year": 2013,
+          "end_year": 2013
+        },
+        "subgroup_labels": {},
+        "notes": "Denominator is the total number of SSIs in this arm.",
+        "provenance": {
+          "note": "2"
+        }
+      },
+      {
+        "arm_id": "pre_intervention",
+        "surgical_specialty": "obstetrics/gynecology",
+        "denominator_type": "patients",
+        "ssi_type": "deep",
+        "n_ssi_events": 74,
+        "n_total": 225,
+        "ascertainment_window_days": 30,
+        "data_period": {
+          "start_year": 2013,
+          "end_year": 2013
+        },
+        "subgroup_labels": {},
+        "notes": "Denominator is the total number of SSIs in this arm. Original category was 'Deep/involving organ and/or spaces'.",
+        "provenance": {
+          "note": "2"
+        }
+      },
+      {
+        "arm_id": "post_intervention",
+        "surgical_specialty": "obstetrics/gynecology",
+        "denominator_type": "patients",
+        "ssi_type": "superficial",
+        "n_ssi_events": 80,
+        "n_total": 95,
+        "ascertainment_window_days": 30,
+        "data_period": {
+          "start_year": 2015,
+          "end_year": 2015
+        },
+        "subgroup_labels": {},
+        "notes": "Denominator is the total number of SSIs in this arm.",
+        "provenance": {
+          "note": "2"
+        }
+      },
+      {
+        "arm_id": "post_intervention",
+        "surgical_specialty": "obstetrics/gynecology",
+        "denominator_type": "patients",
+        "ssi_type": "deep",
+        "n_ssi_events": 11,
+        "n_total": 95,
+        "ascertainment_window_days": 30,
+        "data_period": {
+          "start_year": 2015,
+          "end_year": 2015
+        },
+        "subgroup_labels": {},
+        "notes": "Denominator is the total number of SSIs in this arm. Original category was 'Deep/involving organ and/or spaces'.",
+        "provenance": {
+          "note": "2"
+        }
+      }
+    ],
+    "amr_proportions": [
+      {
+        "arm_id": "pre_intervention",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "oxacillin",
+        "who_class": "highly_important",
+        "n_tested": 43,
+        "n_resistant": 34,
+        "n_susceptible": 9,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "EUCAST",
+        "breakpoint_version": "2013/2014",
+        "specimen_type": "wound_swab",
+        "site": "surgical_site",
+        "data_period": {
+          "start_year": 2013,
+          "end_year": 2013
+        },
+        "mrsa_detection_method": "oxacillin disc diffusion",
+        "notes": "n_resistant represents MRSA count.",
+        "provenance": {
+          "note": "3"
+        }
+      },
+      {
+        "arm_id": "post_intervention",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "oxacillin",
+        "who_class": "highly_important",
+        "n_tested": 14,
+        "n_resistant": 3,
+        "n_susceptible": 11,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "EUCAST",
+        "breakpoint_version": "2013/2014",
+        "specimen_type": "wound_swab",
+        "site": "surgical_site",
+        "data_period": {
+          "start_year": 2015,
+          "end_year": 2015
+        },
+        "mrsa_detection_method": "oxacillin disc diffusion",
+        "notes": "n_resistant represents MRSA count.",
+        "provenance": {
+          "note": "3"
+        }
+      },
+      {
+        "arm_id": "pre_intervention",
+        "pathogen": "Klebsiella spp.",
+        "antibiotic": "multiple_classes",
+        "n_tested": 4,
+        "n_resistant": 4,
+        "n_susceptible": 0,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "EUCAST",
+        "breakpoint_version": "2013/2014",
+        "specimen_type": "wound_swab",
+        "site": "surgical_site",
+        "data_period": {
+          "start_year": 2013,
+          "end_year": 2013
+        },
+        "mdr_definition_text": "Resistances to amoxicillin/clavulanate, ceftriaxone (or ceftazidime), and/or gentamycin, and/or ciprofloxacin.",
+        "n_mdr": 4,
+        "notes": "n_resistant represents MDRO count.",
+        "provenance": {
+          "note": "3"
+        }
+      },
+      {
+        "arm_id": "post_intervention",
+        "pathogen": "Klebsiella spp.",
+        "antibiotic": "multiple_classes",
+        "n_tested": 7,
+        "n_resistant": 3,
+        "n_susceptible": 4,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "EUCAST",
+        "breakpoint_version": "2013/2014",
+        "specimen_type": "wound_swab",
+        "site": "surgical_site",
+        "data_period": {
+          "start_year": 2015,
+          "end_year": 2015
+        },
+        "mdr_definition_text": "Resistances to amoxicillin/clavulanate, ceftriaxone (or ceftazidime), and/or gentamycin, and/or ciprofloxacin.",
+        "n_mdr": 3,
+        "notes": "n_resistant represents MDRO count.",
+        "provenance": {
+          "note": "3"
+        }
+      }
+    ],
+    "morbidity": [],
+    "mortality": [],
+    "reoperations": [],
+    "readmissions": [],
+    "length_of_stay": [
+      {
+        "group": "overall",
+        "mean_days": 2.0,
+        "n": 1040,
+        "notes": "Reported as 'approximately 2 days' for both groups. Not stratified by SSI status.",
+        "provenance": {
+          "note": "5"
+        }
+      }
+    ],
+    "costs": [
+      {
+        "cost_type": "direct_medical",
+        "perspective": "provider",
+        "component": "antibiotics",
+        "currency_code": "EUR",
+        "price_year": 2015,
+        "amount": 1500.0,
+        "per_patient": false,
+        "notes": "Estimated total hospital cost savings during the 3-month Post-Int study from switching a 3-day intravenous post-operative course to a pre-operative prophylaxis.",
+        "provenance": {
+          "note": "6"
+        }
+      },
+      {
+        "cost_type": "direct_medical",
+        "perspective": "patient",
+        "component": "antibiotics",
+        "currency_code": "EUR",
+        "price_year": 2015,
+        "amount": 3.0,
+        "per_patient": true,
+        "notes": "Estimated personal saving per patient due to a ~70% reduction of post-discharge antibiotics prescription.",
+        "provenance": {
+          "note": "6"
+        }
+      }
+    ],
+    "risk_factors_effects": [
+      {
+        "exposure": "lack of pre-incision antibiotic prophylaxis",
+        "outcome": "ssi_incidence",
+        "effect_measure": "aOR",
+        "effect_value": 3.588,
+        "ci_lower": 1.922,
+        "ci_upper": 6.696,
+        "p_value": 0.0001,
+        "adjusted": true,
+        "covariates_adjusted_for": "Not specified, but from a log binomial regression model.",
+        "n_included": 1040,
+        "notes": "p-value reported as <0.001.",
+        "provenance": {
+          "note": "7"
+        }
+      },
+      {
+        "exposure": "skin disinfection with Dettol or Ethanol (vs Povidone-Iodine)",
+        "outcome": "ssi_incidence",
+        "effect_measure": "aOR",
+        "effect_value": 2.396,
+        "ci_lower": 1.0,
+        "ci_upper": 5.738,
+        "p_value": 0.05,
+        "adjusted": true,
+        "covariates_adjusted_for": "Not specified, but from a log binomial regression model.",
+        "n_included": 1040,
+        "provenance": {
+          "note": "7"
+        }
+      },
+      {
+        "exposure": "utilization of absorbable suture for skin closure",
+        "outcome": "ssi_incidence",
+        "effect_measure": "aOR",
+        "effect_value": 0.522,
+        "ci_lower": 0.28,
+        "ci_upper": 0.97,
+        "p_value": 0.04,
+        "adjusted": true,
+        "covariates_adjusted_for": "Not specified, but from a log binomial regression model.",
+        "n_included": 1040,
+        "notes": "Protective factor.",
+        "provenance": {
+          "note": "7"
+        }
+      },
+      {
+        "exposure": "normal BMI (18.5-24.9)",
+        "outcome": "ssi_incidence",
+        "effect_measure": "aOR",
+        "effect_value": 0.632,
+        "ci_lower": 0.403,
+        "ci_upper": 0.99,
+        "p_value": 0.045,
+        "adjusted": true,
+        "covariates_adjusted_for": "Not specified, but from a log binomial regression model.",
+        "n_included": 1040,
+        "notes": "Protective factor.",
+        "provenance": {
+          "note": "7"
+        }
+      }
+    ]
+  },
+  "interventions": [
+    {
+      "type": "bundled_IPC",
+      "description": "A multimodal, combined Infection Prevention and Control (IPC) and Antimicrobial Stewardship (AMS) joint program. Components included: 1) formal and on-job training on IPC, 2) evidence-based education on AMR and prescribing practices, 3) formation of a multidisciplinary AMS team (ID specialist, obstetrician, pharmacist, IPC nurse, microbiologist, management), 4) strengthening supply chain for antibiotics/disinfectants, 5) improving surgical practice (prophylaxis, skin prep, sutures), and 6) strengthening microbiology lab capacity.",
+      "implementation_level": "facility",
+      "comparator": "Pre-intervention standard of care without a formal combined program.",
+      "outcomes_measured": [
+        "ssi_incidence",
+        "amr_prevalence"
+      ],
+      "effect_direction": "benefit",
+      "provenance": {
+        "note": "8"
+      }
+    }
+  ],
+  "stewardship_guidelines": [
+    {
+      "guideline_name": "Pre-operative surgical antibiotic prophylaxis",
+      "year": 2015,
+      "adherence_definition": "Administration of pre-incision antibiotic prophylaxis.",
+      "adherence_rate": {
+        "n_adherent": 562,
+        "n_total": 573,
+        "percent": 98.1
+      },
+      "antibiotics_used": [
+        "ampicillin 1g"
+      ],
+      "inappropriate_use_definition": "In the pre-intervention period, inappropriate use was defined as a routine post-operative antibiotic course lasting 8-10 days instead of single-dose pre-operative prophylaxis.",
+      "provenance": {
+        "note": "9"
+      }
+    }
+  ],
+  "policy_capacity": [
+    {
+      "domain": "lab_capacity",
+      "status_text": "The intervention included strengthening the capability and capacity of the Microbiology Unit. This resulted in a higher rate of microbiologically-confirmed SSIs post-intervention and the ability to identify pathogens (Enterococcus spp.) not previously detected. The laboratory achieved WHO AFRO SLIPTA 'three star' recognition in 2016.",
+      "indicators": {
+        "SLIPTA_rating": "three star (2016)"
+      },
+      "provenance": {
+        "note": "10"
+      }
+    },
+    {
+      "domain": "supply_chain",
+      "status_text": "Strengthening the supply chain for antibiotics, disinfectants, and operating room/laboratory disposables was identified as a priority and included as part of the intervention.",
+      "indicators": {},
+      "provenance": {
+        "note": "11"
+      }
+    },
+    {
+      "domain": "workforce_training",
+      "status_text": "The intervention included literature-based education, seminars, and on-job training focusing on IPC and AMS for hospital staff. Mentorship and Standard Operating Procedures were made available.",
+      "indicators": {},
+      "provenance": {
+        "note": "12"
+      }
+    }
+  ],
+  "qualitative_thematic": {
+    "codes": [
+      {
+        "theme": "prevention_control",
+        "subtheme": "workforce_training_education",
+        "summary": "The intervention's success was partly attributed to a cultural and attitudinal change among staff, driven by formal and on-the-job training in IPC and AMS, which improved compliance with best practices.",
+        "evidence_quotes": [
+          {
+            "quote": "A cultural and attitude change is essential to ensure that protocols for Infection Prevention and Control (IPC) and Antimicrobial Stewardship (AMS) are strictly followed",
+            "page": 2,
+            "section": "Background"
+          },
+          {
+            "quote": "Formal education and on-job training of the health-care personnel were essential components of this intervention.",
+            "page": 9,
+            "section": "Risk factors for post-CS before and after the intervention"
+          }
+        ],
+        "location_context": "Dodoma Regional Referral Hospital, Tanzania",
+        "confidence": "high",
+        "provenance": {
+          "note": "13"
+        }
+      },
+      {
+        "theme": "drivers_amr",
+        "subtheme": "supply_chain_access",
+        "summary": "Improving the supply chain for essential items like antibiotics, disinfectants, and disposables was a key component of the multifaceted intervention, suggesting that stockouts were a barrier to good practice.",
+        "evidence_quotes": [
+          {
+            "quote": "strengthening the supply chain for antibiotics, disinfectants and operating room/laboratory disposables",
+            "page": 2,
+            "section": "Study procedures"
+          }
+        ],
+        "location_context": "Dodoma Regional Referral Hospital, Tanzania",
+        "confidence": "moderate",
+        "provenance": {
+          "note": "11"
+        }
+      },
+      {
+        "theme": "treatment_prophylaxis",
+        "subtheme": "inappropriate_use",
+        "summary": "Prior to the intervention, there was routine, prolonged use of post-operative antibiotics (8-10 days) for caesarean sections, which was successfully replaced by appropriate single-dose pre-operative prophylaxis.",
+        "evidence_quotes": [
+          {
+            "quote": "before the intervention, almost every woman received an antibiotic course lasting 8–10 days post-CS, irrespective of the presence of risk factors or signs/symptoms of infection.",
+            "page": 3,
+            "section": "Study procedures"
+          }
+        ],
+        "location_context": "Dodoma Regional Referral Hospital, Tanzania",
+        "confidence": "high",
+        "provenance": {
+          "note": "12"
+        }
+      },
+      {
+        "theme": "evidence_gaps",
+        "subtheme": "surveillance",
+        "summary": "The authors state that the lack of detailed national surveillance data on MDRO prevalence is a major gap, highlighting the need for an efficient system to guide targeted public health interventions.",
+        "evidence_quotes": [
+          {
+            "quote": "The lack of detailed data on MDROs prevalence all over the country highlights the need for building an efficient surveillance system in order to guide continuous targeted interventions.",
+            "page": 9,
+            "section": "Changes in the characteristics of the isolates after the intervention"
+          }
+        ],
+        "location_context": "Tanzania",
+        "confidence": "high",
+        "provenance": {
+          "note": "14"
+        }
+      }
+    ]
+  },
+  "risk_of_bias": {
+    "tool_used": "not_reported",
+    "overall_judgement": "not_reported"
+  },
+  "funding_conflicts": {
+    "funding_sources": [
+      "Italian Development Cooperation, Ministry of Foreign Affairs [AID9562]",
+      "Italian Ministry of Health [Ricerca Corrente]"
+    ],
+    "conflicts_of_interest": "The authors declare that they have no competing interests.",
+    "provenance": {
+      "note": "15"
+    }
+  },
+  "notes_flags": [
+    {
+      "type": "overlapping_cohort",
+      "detail": "The pre-intervention data from 2013 is described in a previous publication (Ref [12]) by some of the same authors, with matching SSI rates (48.2%), suggesting this is a re-analysis or extension of that cohort.",
+      "provenance": {
+        "note": "16"
+      }
+    },
+    {
+      "type": "missing_data",
+      "detail": "Table 3 provides counts of pathogens and key resistance phenotypes (MRSA, MDRO) but does not provide a full pathogen-by-antibiotic antibiogram with resistance percentages for the full panel of tested antibiotics mentioned on page 3.",
+      "provenance": {
+        "note": "3"
+      }
+    }
+  ],
+  "provenance_index": [
+    {
+      "page": 5,
+      "table_id": "Table 1",
+      "text_snippet": "Wound infection, Yes. PRE-Int (n = 467): 225 (48.2). POST-Int (n = 573): 95 (16.6)."
+    },
+    {
+      "page": 6,
+      "table_id": "Table 1 (Continued)",
+      "text_snippet": "Type of wound infection. Superficial: PRE-Int 138 (61.3), POST-Int 80 (84.2). Deep/involving organ and/or spaces: PRE-Int 74 (32.9), POST-Int 11 (11.6)."
+    },
+    {
+      "page": 8,
+      "table_id": "Table 3",
+      "text_snippet": "Table 3 Overall and per-groups analysis of microbiological characteristics"
+    },
+    {
+      "page": 6,
+      "section_heading": "Microbiological characteristics",
+      "text_snippet": "Finally, no resistances to vancomicin and meropenem were observed."
+    },
+    {
+      "page": 6,
+      "section_heading": "Results",
+      "text_snippet": "The mean number of days of hospitalization was similar in both groups (approximately 2 days)."
+    },
+    {
+      "page": 9,
+      "section_heading": "Impact of IPC and AMS intervention on CS SSI incidence",
+      "text_snippet": "we estimate that hospital total cost savings have been around €1500 during the Post-Int study. Moreover, a reduction of post-discharge antibiotics prescription by approximately 70% was achieved. This led to a personal saving of around €3/patient"
+    },
+    {
+      "page": 6,
+      "section_heading": "Results",
+      "text_snippet": "Multivariate analysis showed an independent association between SSI and lack of pre-incision antibiotic prophylaxis (OR 3.588; 95%CI 1.922–6.696; p < 0.001)..."
+    },
+    {
+      "page": 2,
+      "section_heading": "Methods",
+      "text_snippet": "The intervention included literature-based education, on-job training and the constitution of an AMS multidisciplinary team."
+    },
+    {
+      "page": 5,
+      "table_id": "Table 1",
+      "text_snippet": "Pre-Incision Antibiotic Prophylaxis, Yes. POST-Int: 562 (98.1)."
+    },
+    {
+      "page": 9,
+      "section_heading": "Changes in the characteristics of the isolates after the intervention",
+      "text_snippet": "Also the laboratory diagnostic capability seemed to be improved... In 2016 the DRRH Laboratory has been audited per the WHO AFRO Stepwise Laboratory Quality Improvement Process Towards Accreditation (SLIPTA) Checklist and has met the requirement for “three star” recognition level."
+    },
+    {
+      "page": 2,
+      "section_heading": "Study procedures",
+      "text_snippet": "b) strengthening the supply chain for antibiotics, disinfectants and operating room/laboratory disposables"
+    },
+    {
+      "page": 3,
+      "section_heading": "Study procedures",
+      "text_snippet": "before the intervention, almost every woman received an antibiotic course lasting 8–10 days post-CS, irrespective of the presence of risk factors or signs/symptoms of infection."
+    },
+    {
+      "page": 9,
+      "section_heading": "Risk factors for post-CS before and after the intervention",
+      "text_snippet": "Formal education and on-job training of the health-care personnel were essential components of this intervention."
+    },
+    {
+      "page": 9,
+      "section_heading": "Changes in the characteristics of the isolates after the intervention",
+      "text_snippet": "The lack of detailed data on MDROs prevalence all over the country highlights the need for building an efficient surveillance system in order to guide continuous targeted interventions."
+    },
+    {
+      "page": 10,
+      "section_heading": "Funding",
+      "text_snippet": "This work was supported by the Italian Development Cooperation, Ministry of Foreign Affairs [AID9562] and the Italian Ministry of Health [Ricerca Corrente]."
+    },
+    {
+      "page": 2,
+      "section_heading": "Background",
+      "text_snippet": "A prospective observational study conducted in 2013 at the Obstetrics & Gynaecology Department (OGD) of DRRH reported an extremely high prevalence of CS-SSIs (48.2%)"
+    }
+  ],
+  "extraction_summary": {
+    "completeness_score": 85,
+    "missing_fields": [
+      "outcomes.amr_proportions (full antibiogram)",
+      "outcomes.mortality",
+      "outcomes.reoperations",
+      "outcomes.readmissions"
+    ],
+    "parser_warnings": [],
+    "confidence_overall": "high"
+  }
+}

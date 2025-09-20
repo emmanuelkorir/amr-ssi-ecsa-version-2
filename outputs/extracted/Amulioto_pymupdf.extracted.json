@@ -1,0 +1,563 @@
+{
+  "study": {
+    "study_id": "Amulioto2020-Kenya-MamaLucyKibaki-2018-2019-1",
+    "title": "Antibiotic susceptibility patterns of bacteria isolates from post-operative wound infections among patients attending Mama Lucy Kibaki Hospital, Kenya",
+    "authors": [
+      "Johnstone Amulioto",
+      "Margaret W. Muturi",
+      "Scholastica Mathenge",
+      "Gideon M. Mutua"
+    ],
+    "journal": "African Journal of Microbiology Research",
+    "year_publication": 2020,
+    "doi": "10.5897/AJMR2020.9357",
+    "country_list": [
+      "Kenya"
+    ],
+    "country_iso3": "KEN",
+    "region_classification": "ECSA",
+    "surgical_specialty": [
+      "general",
+      "obstetrics/gynecology"
+    ],
+    "language": "English",
+    "data_source_type": "published_full_text",
+    "ownership_type": "public"
+  },
+  "design": {
+    "study_design": "cross_sectional",
+    "randomized": false,
+    "prospective": false,
+    "single_center": true,
+    "multi_center": false,
+    "inclusion_criteria_text": "Patients of all age groups with surgical site infection following general, obstetrics and gynecological surgeries.",
+    "exclusion_criteria_text": "Patients who did not consent.",
+    "sample_frame": "patients",
+    "unit_of_analysis": "patient",
+    "duplicate_publication_likelihood": false
+  },
+  "setting": {
+    "facility_level": "tertiary",
+    "urban_rural": "urban",
+    "care_setting": "hospital",
+    "country_specific_sites": [
+      "Mama Lucy Kibaki Hospital, Nairobi"
+    ]
+  },
+  "eligibility": {
+    "population": "Surgical patients with surgical site infections drawn from surgical, maternity, and pediatric wards.",
+    "classification": "mixed",
+    "intervention": "Not specified; study focused on prevalence and susceptibility patterns, not interventions.",
+    "comparator": "None",
+    "outcomes_reported": [
+      "amr_prevalence"
+    ],
+    "timeframe_years": "October 2018 to March 2019",
+    "setting_types": [
+      "hospital",
+      "surgical_unit",
+      "ward",
+      "pediatric_ward",
+      "maternity_ward"
+    ],
+    "included_designs": [
+      "cross_sectional"
+    ],
+    "excluded_designs": []
+  },
+  "timeframe": {
+    "data_collection_start_year": 2018,
+    "data_collection_start_month": 10,
+    "data_collection_end_year": 2019,
+    "data_collection_end_month": 3
+  },
+  "populations": [
+    {
+      "arm_id": "overall",
+      "description": "All patients with surgical site infections attending Mama Lucy Kibaki Hospital between October 2018 and March 2019.",
+      "n_participants": 58,
+      "age_group": "mixed",
+      "elective_emergency": "unspecified",
+      "wound_class": "unspecified",
+      "surgical_specialties": [
+        "general",
+        "obstetrics/gynecology"
+      ],
+      "provenance": {
+        "page": 4,
+        "section_heading": "Socio-demographic data of patients",
+        "text_snippet": "A total of 58 cases of surgical site infection were observed at the facility between October 2018 and March 2019."
+      }
+    }
+  ],
+  "definitions": {
+    "ssi_definition_standard": "study_defined",
+    "amr_definition_standard": "CLSI",
+    "breakpoint_version": "CLSI 2016",
+    "resistance_definition_text": "Antibiotic susceptibility testing performed by Kirby Bauer disc diffusion method; breakpoints provided by CLSI and BSAC.",
+    "specimen_type": [
+      "wound_swab"
+    ]
+  },
+  "lab_methods": {
+    "specimen_collection_method": "Pus swabs aseptically obtained from deep viable tissues of the wound by the Levine method.",
+    "culture_method": "Inoculation on MacConkey agar and blood agar, incubated at 35-37°C for 24h.",
+    "AST_method": [
+      "disk_diffusion"
+    ],
+    "QC_measures": "Escherichia coli ATCC 25922 and Staphylococcus aureus ATCC 25923 used as control strains.",
+    "organism_identification_method": "Gram stain, colony characteristics, biochemical tests (catalase, coagulase, urease, indole, methyl red, Voges Proskauer, citrate).",
+    "contamination_handling": "Immediate surface exudates and contaminants cleansed off with sterile moistened gauze and normal saline before swab collection.",
+    "lab_capacity_notes": "Samples transported to Kenyatta University laboratory."
+  },
+  "outcomes": {
+    "ssi_incidence": [],
+    "amr_proportions": [
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "vancomycin",
+        "who_class": "important",
+        "n_tested": 22,
+        "n_resistant": 2,
+        "n_intermediate": 0,
+        "n_susceptible": 20,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2016",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2018,
+          "end_year": 2019
+        },
+        "mrsa_detection_method": "Oxacillin disk diffusion",
+        "zone_diameter_unit": "mm",
+        "provenance": {
+          "page": 5,
+          "section_heading": "Table 2. Antibiotic susceptibility pattern of gram-positive bacteria at Mama Lucy Kibaki Hospital.",
+          "table_id": "Table 2",
+          "text_snippet": "Staphylococcus aureus S 90.9 ... R 9.1"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "ciprofloxacin",
+        "who_class": "critically_important",
+        "n_tested": 22,
+        "n_resistant": 3,
+        "n_intermediate": 2,
+        "n_susceptible": 17,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2016",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2018,
+          "end_year": 2019
+        },
+        "mrsa_detection_method": "Oxacillin disk diffusion",
+        "zone_diameter_unit": "mm",
+        "provenance": {
+          "page": 5,
+          "section_heading": "Table 2. Antibiotic susceptibility pattern of gram-positive bacteria at Mama Lucy Kibaki Hospital.",
+          "table_id": "Table 2",
+          "text_snippet": "Staphylococcus aureus S 77.3 ... R 13.6"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "chloramphenicol",
+        "who_class": "highly_important",
+        "n_tested": 22,
+        "n_resistant": 1,
+        "n_intermediate": 0,
+        "n_susceptible": 21,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2016",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2018,
+          "end_year": 2019
+        },
+        "mrsa_detection_method": "Oxacillin disk diffusion",
+        "zone_diameter_unit": "mm",
+        "provenance": {
+          "page": 5,
+          "section_heading": "Table 2. Antibiotic susceptibility pattern of gram-positive bacteria at Mama Lucy Kibaki Hospital.",
+          "table_id": "Table 2",
+          "text_snippet": "Staphylococcus aureus S 95.5 ... R 4.5"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "ampicillin",
+        "who_class": "highly_important",
+        "n_tested": 22,
+        "n_resistant": 21,
+        "n_intermediate": 0,
+        "n_susceptible": 1,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2016",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2018,
+          "end_year": 2019
+        },
+        "mrsa_detection_method": "Oxacillin disk diffusion",
+        "zone_diameter_unit": "mm",
+        "provenance": {
+          "page": 5,
+          "section_heading": "Table 2. Antibiotic susceptibility pattern of gram-positive bacteria at Mama Lucy Kibaki Hospital.",
+          "table_id": "Table 2",
+          "text_snippet": "Staphylococcus aureus S 4.5 ... R 95.5"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "oxacillin",
+        "who_class": "highly_important",
+        "n_tested": 22,
+        "n_resistant": 13,
+        "n_intermediate": 3,
+        "n_susceptible": 6,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2016",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2018,
+          "end_year": 2019
+        },
+        "mrsa_detection_method": "Oxacillin disk diffusion",
+        "zone_diameter_unit": "mm",
+        "notes": "MRSA accounted for 65.4% (n=17/26) of Staphylococcus species.",
+        "provenance": {
+          "page": 5,
+          "section_heading": "Table 2. Antibiotic susceptibility pattern of gram-positive bacteria at Mama Lucy Kibaki Hospital.",
+          "table_id": "Table 2",
+          "text_snippet": "Staphylococcus aureus S 27.3 ... I 13.6 ... R 59.1"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Escherichia coli",
+        "antibiotic": "chloramphenicol",
+        "who_class": "highly_important",
+        "n_tested": 12,
+        "n_resistant": 7,
+        "n_intermediate": 0,
+        "n_susceptible": 5,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2016",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2018,
+          "end_year": 2019
+        },
+        "mdr_definition_text": "Multi-drug resistance (resistance to ≥ 4 antibiotics) observed with E. coli.",
+        "zone_diameter_unit": "mm",
+        "provenance": {
+          "page": 5,
+          "section_heading": "Table 3. Antibiotic susceptibility pattern of gram-negative bacteria at Mama Lucy Kibaki Hospital.",
+          "table_id": "Table 3",
+          "text_snippet": "E. coli S 41.7 ... R 58.3"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Escherichia coli",
+        "antibiotic": "ampicillin",
+        "who_class": "highly_important",
+        "n_tested": 12,
+        "n_resistant": 11,
+        "n_intermediate": 1,
+        "n_susceptible": 0,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2016",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2018,
+          "end_year": 2019
+        },
+        "mdr_definition_text": "Multi-drug resistance (resistance to ≥ 4 antibiotics) observed with E. coli.",
+        "zone_diameter_unit": "mm",
+        "provenance": {
+          "page": 5,
+          "section_heading": "Table 3. Antibiotic susceptibility pattern of gram-negative bacteria at Mama Lucy Kibaki Hospital.",
+          "table_id": "Table 3",
+          "text_snippet": "E. coli S 0.0 ... I 8.3 ... R 91.7"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Acinetobacter baumannii",
+        "antibiotic": "amikacin",
+        "who_class": "critically_important",
+        "n_tested": 11,
+        "n_resistant": 6,
+        "n_intermediate": 0,
+        "n_susceptible": 5,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2016",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2018,
+          "end_year": 2019
+        },
+        "zone_diameter_unit": "mm",
+        "provenance": {
+          "page": 5,
+          "section_heading": "Table 3. Antibiotic susceptibility pattern of gram-negative bacteria at Mama Lucy Kibaki Hospital.",
+          "table_id": "Table 3",
+          "text_snippet": "Acinetobacter species S 45.5 ... R 54.5"
+        }
+      }
+    ],
+    "morbidity": [],
+    "mortality": [],
+    "reoperations": [],
+    "readmissions": [],
+    "length_of_stay": [],
+    "costs": [],
+    "risk_factors_effects": []
+  },
+  "interventions": [],
+  "stewardship_guidelines": [],
+  "policy_capacity": [],
+  "qualitative_thematic": {
+    "codes": [
+      {
+        "theme": "amr_prevalence",
+        "subtheme": "other",
+        "summary": "High rates of resistance to ampicillin and amoxycillin (>90%) were observed among both gram-positive and gram-negative bacteria isolates from SSI wounds.",
+        "evidence_quotes": [
+          {
+            "quote": "Ampicillin and amoxycillin recorded resistance rates >90% against gram-positive and gram-negative bacteria.",
+            "page": 2,
+            "section": "Abstract"
+          }
+        ],
+        "location_context": "Mama Lucy Kibaki Hospital, Nairobi, Kenya",
+        "confidence": "high",
+        "provenance": {
+          "page": 2,
+          "section_heading": "Abstract",
+          "text_snippet": "Ampicillin and amoxycillin recorded resistance rates >90% against gram-positive and gram-negative bacteria."
+        }
+      },
+      {
+        "theme": "amr_prevalence",
+        "subtheme": "other",
+        "summary": "Methicillin-resistant Staphylococcus aureus (MRSA) accounted for 65.4% of Staphylococcus species isolated from SSI wounds.",
+        "evidence_quotes": [
+          {
+            "quote": "Methicillin-resistant S. aureus accounted for 65.4% (n=17) of the total Staphylococcus species.",
+            "page": 2,
+            "section": "Abstract"
+          }
+        ],
+        "location_context": "Mama Lucy Kibaki Hospital, Nairobi, Kenya",
+        "confidence": "high",
+        "provenance": {
+          "page": 2,
+          "section_heading": "Abstract",
+          "text_snippet": "Methicillin-resistant S. aureus accounted for 65.4% (n=17) of the total Staphylococcus species."
+        }
+      },
+      {
+        "theme": "burden_incidence",
+        "subtheme": "other",
+        "summary": "A total of 58 cases of surgical site infection were observed over a 6-month period, with most isolates recovered from abdominal wounds.",
+        "evidence_quotes": [
+          {
+            "quote": "A total of 58 cases of surgical site infection were observed at the facility between October 2018 and March 2019.",
+            "page": 4,
+            "section": "Socio-demographic data of patients"
+          },
+          {
+            "quote": "Most of the bacteria were recovered from the abdomen 60.3% and the lower limbs 29.5%, with the arms and other body sites accounting for 3.8 and 6.4% of the total bacteria (Table 1).",
+            "page": 4,
+            "section": "Proportion of bacteria isolated from surgical wounds"
+          }
+        ],
+        "location_context": "Mama Lucy Kibaki Hospital, Nairobi, Kenya",
+        "confidence": "high",
+        "provenance": {
+          "page": 4,
+          "section_heading": "Socio-demographic data of patients",
+          "table_id": "Table 1",
+          "text_snippet": "A total of 58 cases of surgical site infection were observed at the facility between October 2018 and March 2019."
+        }
+      }
+    ]
+  },
+  "risk_of_bias": {
+    "tool_used": "not_reported",
+    "domain_judgements": {},
+    "overall_judgement": "not_reported",
+    "provenance": {}
+  },
+  "funding_conflicts": {
+    "funding_sources": [],
+    "conflicts_of_interest": "The authors have not declared any conflict of interests.",
+    "provenance": {
+      "page": 6,
+      "section_heading": "CONFLICT OF INTERESTS",
+      "text_snippet": "The authors have not declared any conflict of interests."
+    }
+  },
+  "notes_flags": [
+    {
+      "type": [
+        "missing_data"
+      ],
+      "detail": "No SSI incidence rate (events/denominator) reported; only AMR proportions and isolate counts.",
+      "provenance": {
+        "page": 4,
+        "section_heading": "RESULTS",
+        "text_snippet": "A total of 58 cases of surgical site infection were observed at the facility between October 2018 and March 2019."
+      }
+    },
+    {
+      "type": [
+        "missing_data"
+      ],
+      "detail": "No clinical outcome data (morbidity, mortality, reoperation, readmission, LOS, costs) reported.",
+      "provenance": {
+        "page": 4,
+        "section_heading": "RESULTS",
+        "text_snippet": "No mention of clinical outcomes beyond AMR and isolate proportions."
+      }
+    },
+    {
+      "type": [
+        "unit_unclear"
+      ],
+      "detail": "SSI ascertainment window not specified.",
+      "provenance": {
+        "page": 3,
+        "section_heading": "Inclusion and exclusion criteria",
+        "text_snippet": "The study included patients of all age groups with surgical site infection following general, obstetrics and gynecological surgeries."
+      }
+    }
+  ],
+  "provenance_index": [
+    {
+      "page": 2,
+      "section_heading": "Abstract",
+      "text_snippet": "Ampicillin and amoxycillin recorded resistance rates >90% against gram-positive and gram-negative bacteria."
+    },
+    {
+      "page": 2,
+      "section_heading": "Abstract",
+      "text_snippet": "Methicillin-resistant S. aureus accounted for 65.4% (n=17) of the total Staphylococcus species."
+    },
+    {
+      "page": 4,
+      "section_heading": "Socio-demographic data of patients",
+      "text_snippet": "A total of 58 cases of surgical site infection were observed at the facility between October 2018 and March 2019."
+    },
+    {
+      "page": 4,
+      "section_heading": "Proportion of bacteria isolated from surgical wounds",
+      "table_id": "Table 1",
+      "text_snippet": "Most of the bacteria were recovered from the abdomen 60.3% and the lower limbs 29.5%, with the arms and other body sites accounting for 3.8 and 6.4% of the total bacteria (Table 1)."
+    },
+    {
+      "page": 5,
+      "section_heading": "Table 2. Antibiotic susceptibility pattern of gram-positive bacteria at Mama Lucy Kibaki Hospital.",
+      "table_id": "Table 2",
+      "text_snippet": "Staphylococcus aureus S 90.9 ... R 9.1"
+    },
+    {
+      "page": 5,
+      "section_heading": "Table 2. Antibiotic susceptibility pattern of gram-positive bacteria at Mama Lucy Kibaki Hospital.",
+      "table_id": "Table 2",
+      "text_snippet": "Staphylococcus aureus S 77.3 ... R 13.6"
+    },
+    {
+      "page": 5,
+      "section_heading": "Table 2. Antibiotic susceptibility pattern of gram-positive bacteria at Mama Lucy Kibaki Hospital.",
+      "table_id": "Table 2",
+      "text_snippet": "Staphylococcus aureus S 95.5 ... R 4.5"
+    },
+    {
+      "page": 5,
+      "section_heading": "Table 2. Antibiotic susceptibility pattern of gram-positive bacteria at Mama Lucy Kibaki Hospital.",
+      "table_id": "Table 2",
+      "text_snippet": "Staphylococcus aureus S 4.5 ... R 95.5"
+    },
+    {
+      "page": 5,
+      "section_heading": "Table 2. Antibiotic susceptibility pattern of gram-positive bacteria at Mama Lucy Kibaki Hospital.",
+      "table_id": "Table 2",
+      "text_snippet": "Staphylococcus aureus S 27.3 ... I 13.6 ... R 59.1"
+    },
+    {
+      "page": 5,
+      "section_heading": "Table 3. Antibiotic susceptibility pattern of gram-negative bacteria at Mama Lucy Kibaki Hospital.",
+      "table_id": "Table 3",
+      "text_snippet": "E. coli S 41.7 ... R 58.3"
+    },
+    {
+      "page": 5,
+      "section_heading": "Table 3. Antibiotic susceptibility pattern of gram-negative bacteria at Mama Lucy Kibaki Hospital.",
+      "table_id": "Table 3",
+      "text_snippet": "E. coli S 0.0 ... I 8.3 ... R 91.7"
+    },
+    {
+      "page": 5,
+      "section_heading": "Table 3. Antibiotic susceptibility pattern of gram-negative bacteria at Mama Lucy Kibaki Hospital.",
+      "table_id": "Table 3",
+      "text_snippet": "Acinetobacter species S 45.5 ... R 54.5"
+    },
+    {
+      "page": 6,
+      "section_heading": "CONFLICT OF INTERESTS",
+      "text_snippet": "The authors have not declared any conflict of interests."
+    }
+  ],
+  "extraction_summary": {
+    "completeness_score": 65,
+    "missing_fields": [
+      "ssi_incidence",
+      "morbidity",
+      "mortality",
+      "reoperations",
+      "readmissions",
+      "length_of_stay",
+      "costs",
+      "risk_factors_effects",
+      "interventions",
+      "stewardship_guidelines",
+      "policy_capacity",
+      "qualitative method context",
+      "bed_capacity",
+      "surgical_volume_per_year",
+      "follow_up_window_days"
+    ],
+    "parser_warnings": [
+      "No SSI incidence rate reported; only AMR proportions and isolate counts.",
+      "No clinical outcome data reported.",
+      "SSI ascertainment window not specified."
+    ],
+    "confidence_overall": "moderate"
+  }
+}

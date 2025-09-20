@@ -1,0 +1,646 @@
+{
+  "study": {
+    "study_id": "Scherbaum2014-Gabon-Lambarene-2009-01",
+    "title": "Incidence, pathogens and resistance patterns of nosocomial infections at a rural hospital in Gabon",
+    "authors": [
+      "Micha Scherbaum",
+      "Katrin Kösters",
+      "Raymund Egid Mürbeth",
+      "Ulysse Ateba Ngoa",
+      "Peter Gottfried Kremsner",
+      "Bertrand Lell",
+      "Abraham Alabi"
+    ],
+    "journal": "BMC Infectious Diseases",
+    "year_publication": 2014,
+    "doi": "10.1186/1471-2334-14-124",
+    "country_list": [
+      "Gabon"
+    ],
+    "country_iso3": "GAB",
+    "region_classification": "ECSA",
+    "surgical_specialty": [
+      "general",
+      "obstetrics/gynecology"
+    ],
+    "language": "English",
+    "data_source_type": "published_full_text",
+    "ownership_type": "public",
+    "bed_capacity": 150
+  },
+  "design": {
+    "study_design": "cohort",
+    "randomized": false,
+    "prospective": true,
+    "single_center": true,
+    "multi_center": false,
+    "inclusion_criteria_text": "All patients admitted to the departments of surgery, gynecology/obstetrics and internal medicine were screened daily for signs and symptoms of hospital-acquired infections.",
+    "exclusion_criteria_text": "Patients with nosocomial infections that arose after discharge were not detected due to lack of follow-up. Patients receiving antipyretics may have been missed except for surgical site infection cases.",
+    "sample_frame": "patients",
+    "unit_of_analysis": "patient",
+    "duplicate_publication_likelihood": false
+  },
+  "setting": {
+    "facility_level": "tertiary",
+    "urban_rural": "rural",
+    "care_setting": "hospital",
+    "country_specific_sites": [
+      "Albert Schweitzer Hospital, Lambaréné"
+    ]
+  },
+  "eligibility": {
+    "population": "All patients admitted to surgery, gynecology/obstetrics, and internal medicine departments screened daily for nosocomial infections.",
+    "classification": "mixed",
+    "intervention": "Routine perioperative antibiotic prophylaxis (aminopenicillin with/without β-lactamase inhibitor or ceftriaxone); therapeutic antibiotic regimens as per local availability.",
+    "comparator": "None specified.",
+    "outcomes_reported": [
+      "ssi_incidence",
+      "amr_prevalence",
+      "mortality",
+      "length_of_stay"
+    ],
+    "timeframe_years": "January to July 2009 (6 months)",
+    "setting_types": [
+      "hospital",
+      "surgical_unit",
+      "ward"
+    ],
+    "included_designs": [
+      "cohort",
+      "prospective surveillance"
+    ],
+    "excluded_designs": []
+  },
+  "timeframe": {
+    "data_collection_start_year": 2009,
+    "data_collection_start_month": 1,
+    "data_collection_end_year": 2009,
+    "data_collection_end_month": 7
+  },
+  "populations": [
+    {
+      "arm_id": "overall",
+      "description": "All patients admitted to surgery, gynecology/obstetrics, and internal medicine departments (n=2925).",
+      "n_participants": 2925,
+      "n_procedures": 1059,
+      "age_group": "mixed",
+      "elective_emergency": "unspecified",
+      "wound_class": "unspecified",
+      "comorbidities_key": "Median age 30 (22–42) years; 65% female, 35% male; comorbidities not specified.",
+      "surgical_specialties": [
+        "general",
+        "obstetrics/gynecology"
+      ],
+      "provenance": {
+        "page": 3,
+        "section_heading": "Results",
+        "text_snippet": "During the six months period of this study, 2925 patients were admitted to the participating wards of the Albert Schweitzer Hospital."
+      }
+    }
+  ],
+  "definitions": {
+    "ssi_definition_standard": [
+      "CDC_NHSN"
+    ],
+    "amr_definition_standard": [
+      "CLSI"
+    ],
+    "breakpoint_version": "CLSI 2007",
+    "resistance_definition_text": "Susceptibility to antibiotics was tested using the microdilution method according to CLSI guidelines. ESBL production confirmed by disc diffusion and double-disks method. Methicillin-resistance confirmed for cefoxitin-resistant S. aureus using PBP2a-agglutination test.",
+    "outcome_definitions_text": "Nosocomial infection defined per Robert Koch Institute (RKI) based on CDC guidelines. Mortality: in-hospital deaths among patients with nosocomial infections. Length of stay: mean and median days reported.",
+    "specimen_type": [
+      "wound_swab",
+      "urine",
+      "blood"
+    ]
+  },
+  "lab_methods": {
+    "specimen_collection_method": "Blood cultures collected in Bactec bottles; wound swabs and urine plated on blood and MacConkey agar.",
+    "culture_method": "Blood, chocolate, and MacConkey agar; Bactec 9050 incubator for blood cultures.",
+    "AST_method": [
+      "MIC_broth",
+      "disk_diffusion"
+    ],
+    "QC_measures": "Good laboratory practice and standard methods for identification.",
+    "organism_identification_method": "Tube coagulase and latex tests for staphylococci, latex test for streptococci, pyrase testing for enterococci, API-20E and API-20NE for enterobacteriaceae and non-fermenting Gram-negative rods.",
+    "lab_capacity_notes": "Microbiology laboratory available at the hospital; limited antibiotic spectrum tested due to local availability."
+  },
+  "outcomes": {
+    "ssi_incidence": [
+      {
+        "arm_id": "overall",
+        "denominator_type": "patients",
+        "ssi_type": "overall",
+        "n_ssi_events": 20,
+        "n_total": 2925,
+        "rate_as_reported": {
+          "value": 0.7,
+          "unit": "percent"
+        },
+        "data_period": {
+          "start_year": 2009,
+          "end_year": 2009
+        },
+        "subgroup_labels": {
+          "country": "Gabon",
+          "facility_level": "tertiary",
+          "setting": "hospital"
+        },
+        "notes": "SSI events among all admitted patients over 6 months.",
+        "provenance": {
+          "page": 3,
+          "section_heading": "Results",
+          "text_snippet": "With a total of 20 cases (44%) surgical-site infections were the most frequent type of hospital-acquired infection"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "denominator_type": "procedures",
+        "ssi_type": "overall",
+        "n_ssi_events": 20,
+        "n_total": 1059,
+        "rate_as_reported": {
+          "value": 1.9,
+          "unit": "percent"
+        },
+        "data_period": {
+          "start_year": 2009,
+          "end_year": 2009
+        },
+        "subgroup_labels": {
+          "country": "Gabon",
+          "facility_level": "tertiary",
+          "setting": "hospital"
+        },
+        "notes": "SSI events per surgical procedure over 6 months.",
+        "provenance": {
+          "page": 3,
+          "section_heading": "Results",
+          "text_snippet": "The finding of 20 surgical-site infections corresponded to an overall infection rate of 1.9% (95% CI 1.1 - 2.7%) per operation."
+        }
+      },
+      {
+        "arm_id": "hysterectomy",
+        "surgical_specialty": "obstetrics/gynecology",
+        "denominator_type": "procedures",
+        "ssi_type": "overall",
+        "n_ssi_events": 3,
+        "n_total": 26,
+        "rate_as_reported": {
+          "value": 11.5,
+          "unit": "percent"
+        },
+        "data_period": {
+          "start_year": 2009,
+          "end_year": 2009
+        },
+        "subgroup_labels": {
+          "country": "Gabon",
+          "facility_level": "tertiary",
+          "setting": "hospital"
+        },
+        "notes": "SSI events after abdominal hysterectomy.",
+        "provenance": {
+          "page": 5,
+          "section_heading": "Table 2",
+          "table_id": "Table 2",
+          "text_snippet": "Abdominal hysterectomy 3/26 11.5 (0.0 - 23.8)"
+        }
+      },
+      {
+        "arm_id": "caesarean",
+        "surgical_specialty": "obstetrics/gynecology",
+        "denominator_type": "procedures",
+        "ssi_type": "overall",
+        "n_ssi_events": 5,
+        "n_total": 80,
+        "rate_as_reported": {
+          "value": 6.3,
+          "unit": "percent"
+        },
+        "data_period": {
+          "start_year": 2009,
+          "end_year": 2009
+        },
+        "subgroup_labels": {
+          "country": "Gabon",
+          "facility_level": "tertiary",
+          "setting": "hospital"
+        },
+        "notes": "SSI events after caesarean section.",
+        "provenance": {
+          "page": 5,
+          "section_heading": "Table 2",
+          "table_id": "Table 2",
+          "text_snippet": "Caesarean section 5/80 6.3 (0.9 - 11.6)"
+        }
+      }
+    ],
+    "amr_proportions": [
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "cloxacillin",
+        "who_class": "important",
+        "n_tested": 14,
+        "n_resistant": 0,
+        "n_susceptible": 14,
+        "ast_method": "MIC_broth",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2007",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2009,
+          "end_year": 2009
+        },
+        "mrsa_detection_method": "PBP2a-agglutination test for cefoxitin-resistant S. aureus",
+        "notes": "No MRSA detected among nosocomial infection isolates.",
+        "provenance": {
+          "page": 6,
+          "section_heading": "Table 3",
+          "table_id": "Table 3",
+          "text_snippet": "Staphylococcus aureus 15 (21.4%) ... 14/14"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Escherichia coli",
+        "antibiotic": "ampicillin",
+        "who_class": "important",
+        "n_tested": 14,
+        "n_resistant": 13,
+        "n_susceptible": 1,
+        "ast_method": "MIC_broth",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2007",
+        "specimen_type": "urine",
+        "site": "urinary tract",
+        "data_period": {
+          "start_year": 2009,
+          "end_year": 2009
+        },
+        "mdr_definition_text": "ESBL production confirmed by double-disks method.",
+        "n_mdr": 5,
+        "esbl_test": "double-disks method",
+        "n_esbl_positive": 5,
+        "notes": "Only 1/14 E. coli isolates sensitive to ampicillin; 5/14 ESBL producers.",
+        "provenance": {
+          "page": 6,
+          "section_heading": "Table 3",
+          "table_id": "Table 3",
+          "text_snippet": "Escherichia coli ... 1/14"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Escherichia coli",
+        "antibiotic": "ceftriaxone",
+        "who_class": "critically_important",
+        "n_tested": 14,
+        "n_resistant": 5,
+        "n_susceptible": 9,
+        "ast_method": "MIC_broth",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2007",
+        "specimen_type": "urine",
+        "site": "urinary tract",
+        "data_period": {
+          "start_year": 2009,
+          "end_year": 2009
+        },
+        "mdr_definition_text": "ESBL production confirmed by double-disks method.",
+        "n_mdr": 5,
+        "esbl_test": "double-disks method",
+        "n_esbl_positive": 5,
+        "notes": "9/14 E. coli sensitive to ceftriaxone; 5/14 ESBL producers.",
+        "provenance": {
+          "page": 6,
+          "section_heading": "Table 3",
+          "table_id": "Table 3",
+          "text_snippet": "Escherichia coli ... 9/14"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Klebsiella pneumoniae",
+        "antibiotic": "ceftriaxone",
+        "who_class": "critically_important",
+        "n_tested": 6,
+        "n_resistant": 3,
+        "n_susceptible": 3,
+        "ast_method": "MIC_broth",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2007",
+        "specimen_type": "urine",
+        "site": "urinary tract",
+        "data_period": {
+          "start_year": 2009,
+          "end_year": 2009
+        },
+        "mdr_definition_text": "ESBL production confirmed by double-disks method.",
+        "n_mdr": 3,
+        "esbl_test": "double-disks method",
+        "n_esbl_positive": 3,
+        "notes": "3/6 K. pneumoniae sensitive to ceftriaxone; 3/6 ESBL producers.",
+        "provenance": {
+          "page": 6,
+          "section_heading": "Table 3",
+          "table_id": "Table 3",
+          "text_snippet": "Klebsiella pneumoniae ... 3/6"
+        }
+      }
+    ],
+    "morbidity": [],
+    "mortality": [
+      {
+        "measure": "in_hospital",
+        "n_deaths": 4,
+        "n_total": 36,
+        "rate_as_reported": {
+          "value": 11.1,
+          "unit": "percent"
+        },
+        "definition_text": "In-hospital deaths among patients with nosocomial infections.",
+        "subgroup_labels": {
+          "country": "Gabon",
+          "facility_level": "tertiary",
+          "setting": "hospital"
+        },
+        "notes": "Four (11%) of the patients with nosocomial infections died.",
+        "provenance": {
+          "page": 3,
+          "section_heading": "Results",
+          "text_snippet": "During the study four (11%) of the patients with nosocomial infections died."
+        }
+      }
+    ],
+    "reoperations": [],
+    "readmissions": [],
+    "length_of_stay": [
+      {
+        "group": "overall",
+        "mean_days": 4.4,
+        "n": 2925,
+        "notes": "Mean duration of stay for all patients.",
+        "provenance": {
+          "page": 3,
+          "section_heading": "Results",
+          "text_snippet": "The mean duration of stay was 4.4 days resulting in 12870 hospital days."
+        }
+      },
+      {
+        "group": "with_ssi",
+        "median_days": 22,
+        "iqr_days": "13–34",
+        "n": 36,
+        "attributable_days": 23,
+        "notes": "Patients with nosocomial infections stayed in hospital for 23 days longer than the average patient.",
+        "provenance": {
+          "page": 6,
+          "section_heading": "Discussion and conclusions",
+          "text_snippet": "With a mean stay of 27 (range: 4–108) days, patients with nosocomial infections stayed in hospital for 23 days longer than the average patient."
+        }
+      }
+    ],
+    "costs": [],
+    "risk_factors_effects": []
+  },
+  "interventions": [
+    {
+      "type": "antibiotic_prophylaxis_protocol",
+      "description": "Routine perioperative antibiotic prophylaxis with aminopenicillin with/without β-lactamase inhibitor or ceftriaxone.",
+      "implementation_level": "facility",
+      "outcomes_measured": [
+        "ssi_incidence",
+        "amr_prevalence"
+      ],
+      "effect_direction": "unclear",
+      "provenance": {
+        "page": 2,
+        "section_heading": "Laboratory procedures",
+        "text_snippet": "Antibiotics tested were chosen according to local availability and included penicillin, oxacillin, ampicillin, amoxicillin/clavulanic acid, ceftriaxon, gentamicin, ciprofloxacin, co-trimoxazole, clindamycin, chloramphenicol and erythromycin."
+      }
+    }
+  ],
+  "stewardship_guidelines": [],
+  "policy_capacity": [],
+  "qualitative_thematic": {
+    "codes": [
+      {
+        "theme": "burden_incidence",
+        "subtheme": "epidemiology of SSI",
+        "summary": "The cumulative incidence of nosocomial infections was low overall, but surgical site infections comprised the largest proportion.",
+        "evidence_quotes": [
+          {
+            "quote": "The cumulative incidence of nosocomial infections was 1.6 infections per 100 patients in six months (95% CI 1.1 - 2.0) or 3.6 infections per 1000 in-patient days (95% CI 2.6 – 4.6).",
+            "page": 3,
+            "section": "Results"
+          }
+        ],
+        "location_context": "Albert Schweitzer Hospital, Lambaréné, Gabon",
+        "confidence": "high",
+        "provenance": {
+          "page": 3,
+          "section_heading": "Results",
+          "text_snippet": "The cumulative incidence of nosocomial infections was 1.6 infections per 100 patients in six months (95% CI 1.1 - 2.0)..."
+        }
+      },
+      {
+        "theme": "amr_prevalence",
+        "subtheme": "resistance patterns and rates by pathogen/antibiotic",
+        "summary": "High rates of ESBL-producing E. coli and K. pneumoniae were found among nosocomial infection isolates.",
+        "evidence_quotes": [
+          {
+            "quote": "Eight (40%) of 20 identified E. coli and Klebsiella spp. strains were ESBL-producing organisms.",
+            "page": 1,
+            "section": "Abstract"
+          },
+          {
+            "quote": "One of our most striking findings was the fact that five of 14 E. coli strains (36%) and three of six K. pneumoniae strains (50%) were ESBL-producers.",
+            "page": 5,
+            "section": "Discussion and conclusions"
+          }
+        ],
+        "location_context": "Albert Schweitzer Hospital, Lambaréné, Gabon",
+        "confidence": "high",
+        "provenance": {
+          "page": 5,
+          "section_heading": "Discussion and conclusions",
+          "text_snippet": "One of our most striking findings was the fact that five of 14 E. coli strains (36%) and three of six K. pneumoniae strains (50%) were ESBL-producers."
+        }
+      },
+      {
+        "theme": "drivers_amr",
+        "subtheme": "inappropriate use",
+        "summary": "Inappropriate use of antibiotics, including routine prophylaxis of long duration, is a major factor favoring infection with multi-resistant pathogens.",
+        "evidence_quotes": [
+          {
+            "quote": "These findings support the view that inappropriate use of anti-infectious medications including routine antibiotic prophylaxis of long duration is a major factor favouring infection with multi-resistant pathogens.",
+            "page": 6,
+            "section": "Discussion and conclusions"
+          }
+        ],
+        "location_context": "Albert Schweitzer Hospital, Lambaréné, Gabon",
+        "confidence": "moderate",
+        "provenance": {
+          "page": 6,
+          "section_heading": "Discussion and conclusions",
+          "text_snippet": "These findings support the view that inappropriate use of anti-infectious medications including routine antibiotic prophylaxis of long duration is a major factor favouring infection with multi-resistant pathogens."
+        }
+      },
+      {
+        "theme": "outcomes_clinical",
+        "subtheme": "morbidity, mortality, complications",
+        "summary": "Nosocomial infections led to increased length of stay and in-hospital mortality among affected patients.",
+        "evidence_quotes": [
+          {
+            "quote": "With a mean stay of 27 (range: 4–108) days, patients with nosocomial infections stayed in hospital for 23 days longer than the average patient.",
+            "page": 6,
+            "section": "Discussion and conclusions"
+          },
+          {
+            "quote": "During the study four (11%) of the patients with nosocomial infections died.",
+            "page": 3,
+            "section": "Results"
+          }
+        ],
+        "location_context": "Albert Schweitzer Hospital, Lambaréné, Gabon",
+        "confidence": "high",
+        "provenance": {
+          "page": 6,
+          "section_heading": "Discussion and conclusions",
+          "text_snippet": "With a mean stay of 27 (range: 4–108) days, patients with nosocomial infections stayed in hospital for 23 days longer than the average patient."
+        }
+      },
+      {
+        "theme": "prevention_control",
+        "subtheme": "IPC programs, bundles, surveillance practices",
+        "summary": "Detailed surveillance of nosocomial infections is mandatory to reduce hospital-acquired infections and improve patient outcomes.",
+        "evidence_quotes": [
+          {
+            "quote": "We also showed that at small rural hospitals detailed surveillance of nosocomial infections is mandatory to be able to reduce hospital-acquired infections and improve patient outcome.",
+            "page": 7,
+            "section": "Discussion and conclusions"
+          }
+        ],
+        "location_context": "Albert Schweitzer Hospital, Lambaréné, Gabon",
+        "confidence": "moderate",
+        "provenance": {
+          "page": 7,
+          "section_heading": "Discussion and conclusions",
+          "text_snippet": "We also showed that at small rural hospitals detailed surveillance of nosocomial infections is mandatory to be able to reduce hospital-acquired infections and improve patient outcome."
+        }
+      },
+      {
+        "theme": "interventions_innovations",
+        "subtheme": "antibiotic stewardship",
+        "summary": "Introducing antibiotic stewardship measures, including appropriate use of antibiotics, is recommended to reduce multiresistant pathogens.",
+        "evidence_quotes": [
+          {
+            "quote": "These could, for example, consist of introducing antibiotic stewardship measures which includes appropriate use of antibiotic medications in the hospital setting.",
+            "page": 7,
+            "section": "Discussion and conclusions"
+          }
+        ],
+        "location_context": "Albert Schweitzer Hospital, Lambaréné, Gabon",
+        "confidence": "moderate",
+        "provenance": {
+          "page": 7,
+          "section_heading": "Discussion and conclusions",
+          "text_snippet": "These could, for example, consist of introducing antibiotic stewardship measures which includes appropriate use of antibiotic medications in the hospital setting."
+        }
+      }
+    ]
+  },
+  "risk_of_bias": {
+    "tool_used": "not_reported",
+    "domain_judgements": {},
+    "overall_judgement": "not_reported",
+    "provenance": {}
+  },
+  "funding_conflicts": {
+    "funding_sources": [
+      "Deutsche Forschungsgemeinschaft",
+      "Open Access Publishing Fund of Tuebingen University"
+    ],
+    "conflicts_of_interest": "All authors declare that they have no competing interests.",
+    "provenance": {
+      "page": 7,
+      "section_heading": "Acknowledgements",
+      "text_snippet": "We acknowledge support by Deutsche Forschungsgemeinschaft and Open Access Publishing Fund of Tuebingen University."
+    }
+  },
+  "notes_flags": [
+    {
+      "type": [
+        "missing_data"
+      ],
+      "detail": "No data on stewardship program presence, infection control program, or post-discharge SSI ascertainment.",
+      "provenance": {
+        "page": 6,
+        "section_heading": "Discussion and conclusions",
+        "text_snippet": "Hospital-acquired infections that arose after discharge were not detected due to lack of follow-up."
+      }
+    },
+    {
+      "type": [
+        "unit_unclear"
+      ],
+      "detail": "SSI ascertainment window (days) not specified.",
+      "provenance": {
+        "page": 2,
+        "section_heading": "Methods",
+        "text_snippet": "Classification of cases occurred according to the definitions of nosocomial infections of the Robert Koch Institute (RKI) in Berlin which were based on the current CDC guidelines."
+      }
+    }
+  ],
+  "provenance_index": [
+    {
+      "page": 1,
+      "section_heading": "Abstract",
+      "text_snippet": "Eight (40%) of 20 identified E. coli and Klebsiella spp. strains were ESBL-producing organisms."
+    },
+    {
+      "page": 3,
+      "section_heading": "Results",
+      "text_snippet": "With a total of 20 cases (44%) surgical-site infections were the most frequent type of hospital-acquired infection"
+    },
+    {
+      "page": 5,
+      "section_heading": "Table 2",
+      "table_id": "Table 2",
+      "text_snippet": "Abdominal hysterectomy 3/26 11.5 (0.0 - 23.8)"
+    },
+    {
+      "page": 6,
+      "section_heading": "Table 3",
+      "table_id": "Table 3",
+      "text_snippet": "Escherichia coli ... 1/14"
+    },
+    {
+      "page": 7,
+      "section_heading": "Acknowledgements",
+      "text_snippet": "We acknowledge support by Deutsche Forschungsgemeinschaft and Open Access Publishing Fund of Tuebingen University."
+    }
+  ],
+  "extraction_summary": {
+    "completeness_score": 85,
+    "missing_fields": [
+      "follow_up_window_days",
+      "stewardship_program_present",
+      "infection_control_program_present",
+      "post-discharge SSI ascertainment",
+      "economic outcomes (costs)",
+      "risk factors effects (quantitative)",
+      "risk_of_bias tool and domains",
+      "qualitative method context"
+    ],
+    "parser_warnings": [
+      "No explicit SSI ascertainment window reported.",
+      "No stewardship or infection control program details.",
+      "No post-discharge SSI follow-up."
+    ],
+    "confidence_overall": "high"
+  }
+}

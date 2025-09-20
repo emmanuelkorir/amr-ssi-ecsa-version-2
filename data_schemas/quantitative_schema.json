@@ -1,0 +1,262 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Quantitative extraction schema",
+  "type": "object",
+  "required": [
+    "study",
+    "design",
+    "setting",
+    "timeframe",
+    "outcomes",
+    "provenance_index"
+  ],
+  "properties": {
+    "study": {
+      "type": "object",
+      "required": ["study_id", "title", "year_publication"],
+      "properties": {
+        "study_id": { "type": "string", "minLength": 3 },
+        "title": { "type": "string" },
+        "authors": { "type": "array", "items": { "type": "string" } },
+        "journal": { "type": "string" },
+        "year_publication": {
+          "type": "integer",
+          "minimum": 1900,
+          "maximum": 2100
+        },
+        "doi": { "type": ["string", "null"] },
+        "pmid": { "type": ["string", "null"] },
+        "country_list": { "type": "array", "items": { "type": "string" } },
+        "country_iso3": { "type": ["string", "null"] },
+        "region_classification": {
+          "type": "string",
+          "enum": ["ECSA", "non-ECSA", "mixed"]
+        },
+        "surgical_specialty": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "language": { "type": ["string", "null"] },
+        "data_source_type": { "type": "string" },
+        "ownership_type": {
+          "type": ["string", "null"],
+          "enum": ["public", "private", "mission", "mixed", "unspecified", null]
+        },
+        "bed_capacity": { "type": ["integer", "null"], "minimum": 0 },
+        "surgical_volume_per_year": {
+          "type": ["integer", "null"],
+          "minimum": 0
+        }
+      },
+      "additionalProperties": false
+    },
+    "design": {
+      "type": "object",
+      "properties": {
+        "study_design": { "type": "string" },
+        "randomized": { "type": ["boolean", "null"] },
+        "prospective": { "type": ["boolean", "null"] },
+        "single_center": { "type": ["boolean", "null"] },
+        "multi_center": { "type": ["boolean", "null"] },
+        "inclusion_criteria_text": { "type": ["string", "null"] },
+        "exclusion_criteria_text": { "type": ["string", "null"] },
+        "sample_frame": { "type": ["string", "null"] },
+        "unit_of_analysis": { "type": ["string", "null"] },
+        "duplicate_publication_likelihood": { "type": "boolean" },
+        "duplicate_rationale": { "type": ["string", "null"] }
+      },
+      "additionalProperties": false
+    },
+    "setting": {
+      "type": "object",
+      "properties": {
+        "facility_level": { "type": ["string", "null"] },
+        "urban_rural": { "type": ["string", "null"] },
+        "care_setting": { "type": ["string", "null"] },
+        "country_specific_sites": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "infection_control_program_present": { "type": ["boolean", "null"] },
+        "stewardship_program_present": { "type": ["boolean", "null"] }
+      },
+      "additionalProperties": false
+    },
+    "eligibility": { "type": ["object", "null"] },
+    "timeframe": {
+      "type": "object",
+      "properties": {
+        "data_collection_start_year": {
+          "type": ["integer", "null"],
+          "minimum": 1900,
+          "maximum": 2100
+        },
+        "data_collection_start_month": {
+          "type": ["integer", "null"],
+          "minimum": 1,
+          "maximum": 12
+        },
+        "data_collection_end_year": {
+          "type": ["integer", "null"],
+          "minimum": 1900,
+          "maximum": 2100
+        },
+        "data_collection_end_month": {
+          "type": ["integer", "null"],
+          "minimum": 1,
+          "maximum": 12
+        },
+        "follow_up_window_days": {
+          "type": ["integer", "null"],
+          "minimum": 0,
+          "maximum": 3650
+        }
+      },
+      "additionalProperties": false
+    },
+    "populations": { "type": "array", "items": { "type": "object" } },
+    "definitions": { "type": ["object", "null"] },
+    "lab_methods": { "type": ["object", "null"] },
+    "outcomes": {
+      "type": "object",
+      "required": ["ssi_incidence", "amr_proportions"],
+      "properties": {
+        "ssi_incidence": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["n_ssi_events", "n_total"],
+            "properties": {
+              "arm_id": { "type": ["string", "null"] },
+              "surgical_specialty": { "type": ["string", "null"] },
+              "denominator_type": { "type": ["string", "null"] },
+              "ssi_type": {
+                "type": ["string", "null"],
+                "enum": ["overall", "superficial", "deep", "organ_space", null]
+              },
+              "n_ssi_events": { "type": "integer", "minimum": 0 },
+              "n_total": { "type": "integer", "minimum": 1 },
+              "rate_as_reported": { "type": ["object", "null"] },
+              "ascertainment_window_days": { "type": ["integer", "null"] },
+              "readmission_window_days": {
+                "type": ["integer", "null"],
+                "minimum": 0
+              },
+              "reoperation_definition_text": { "type": ["string", "null"] },
+              "data_period": { "type": ["object", "null"] },
+              "subgroup_labels": { "type": ["object", "null"] },
+              "notes": { "type": ["string", "null"] },
+              "provenance": { "type": "object" }
+            },
+            "additionalProperties": false
+          }
+        },
+        "amr_proportions": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["pathogen", "antibiotic", "n_tested", "n_resistant"],
+            "properties": {
+              "arm_id": { "type": ["string", "null"] },
+              "pathogen": { "type": "string" },
+              "antibiotic": { "type": "string" },
+              "who_class": { "type": ["string", "null"] },
+              "n_tested": { "type": "integer", "minimum": 1 },
+              "n_resistant": { "type": "integer", "minimum": 0 },
+              "n_intermediate": { "type": ["integer", "null"], "minimum": 0 },
+              "n_susceptible": { "type": ["integer", "null"], "minimum": 0 },
+              "ast_method": { "type": ["string", "null"] },
+              "breakpoint_standard": { "type": ["string", "null"] },
+              "breakpoint_version": { "type": ["string", "null"] },
+              "specimen_type": { "type": ["string", "null"] },
+              "site": { "type": ["string", "null"] },
+              "data_period": { "type": ["object", "null"] },
+              "mdr_definition_text": { "type": ["string", "null"] },
+              "n_mdr": { "type": ["integer", "null"], "minimum": 0 },
+              "n_xdr": { "type": ["integer", "null"], "minimum": 0 },
+              "esbl_test": { "type": ["string", "null"] },
+              "n_esbl_positive": { "type": ["integer", "null"], "minimum": 0 },
+              "carbapenemase_test": { "type": ["string", "null"] },
+              "n_carbapenemase_positive": {
+                "type": ["integer", "null"],
+                "minimum": 0
+              },
+              "carbapenemase_genes": { "type": ["string", "null"] },
+              "mrsa_detection_method": { "type": ["string", "null"] },
+              "resistance_gene_markers": { "type": ["string", "null"] },
+              "mic_unit": {
+                "type": ["string", "null"],
+                "enum": [
+                  "mg/L",
+                  "\u00b5g/mL",
+                  "mg_per_L",
+                  "ug_per_mL",
+                  "unspecified",
+                  null
+                ]
+              },
+              "mic_breakpoint_s": { "type": ["number", "null"] },
+              "mic_breakpoint_r": { "type": ["number", "null"] },
+              "zone_diameter_unit": {
+                "type": ["string", "null"],
+                "enum": ["mm", "unspecified", null]
+              },
+              "notes": { "type": ["string", "null"] },
+              "provenance": { "type": "object" }
+            },
+            "additionalProperties": false
+          }
+        },
+        "morbidity": { "type": "array", "items": { "type": "object" } },
+        "mortality": { "type": "array", "items": { "type": "object" } },
+        "reoperations": { "type": "array", "items": { "type": "object" } },
+        "readmissions": { "type": "array", "items": { "type": "object" } },
+        "length_of_stay": { "type": "array", "items": { "type": "object" } },
+        "costs": { "type": "array", "items": { "type": "object" } },
+        "risk_factors_effects": {
+          "type": "array",
+          "items": { "type": "object" }
+        }
+      },
+      "additionalProperties": false
+    },
+    "interventions": { "type": "array", "items": { "type": "object" } },
+    "stewardship_guidelines": {
+      "type": "array",
+      "items": { "type": "object" }
+    },
+    "policy_capacity": { "type": "array", "items": { "type": "object" } },
+    "qualitative_thematic": {
+      "type": "object",
+      "properties": {
+        "method": {
+          "type": ["string", "null"],
+          "enum": [
+            "interviews",
+            "focus_groups",
+            "mixed",
+            "document_review",
+            "unspecified",
+            null
+          ]
+        },
+        "participant_type": { "type": ["string", "null"] },
+        "participants_n": { "type": ["integer", "null"], "minimum": 0 },
+        "analysis_approach": { "type": ["string", "null"] },
+        "casp_appraisal": { "type": ["string", "null"] },
+        "codes": { "type": "array", "items": { "type": "object" } }
+      },
+      "additionalProperties": false
+    },
+    "risk_of_bias": { "type": ["object", "null"] },
+    "funding_conflicts": { "type": ["object", "null"] },
+    "notes_flags": { "type": "array", "items": { "type": "object" } },
+    "provenance_index": {
+      "type": "array",
+      "items": { "type": "object" },
+      "minItems": 1
+    },
+    "extraction_summary": { "type": "object" }
+  },
+  "additionalProperties": false
+}

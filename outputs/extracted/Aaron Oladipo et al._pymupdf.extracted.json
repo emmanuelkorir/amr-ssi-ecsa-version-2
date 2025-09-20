@@ -1,0 +1,521 @@
+{
+  "study": {
+    "study_id": "Varghese2024-Multicountry-FALCON-2018-2020-01",
+    "title": "Microbiology testing capacity and antimicrobial drug resistance in surgical-site infections: a post-hoc, prospective, secondary analysis of the FALCON randomised trial in seven low-income and middle-income countries",
+    "authors": [
+      "Shereen Rachel Varghese",
+      "Elizabeth Li",
+      "NIHR Global Health Research Unit on Global Surgery",
+      "*Collaborating authors listed in appendix 3"
+    ],
+    "journal": "Lancet Global Health",
+    "year_publication": 2024,
+    "doi": "10.1016/S2214-109X(24)00330-9",
+    "country_list": [
+      "Benin",
+      "Ghana",
+      "India",
+      "Mexico",
+      "Nigeria",
+      "Rwanda",
+      "South Africa"
+    ],
+    "region_classification": "mixed",
+    "surgical_specialty": ["general"],
+    "language": "English",
+    "data_source_type": "published_full_text",
+    "ownership_type": "mixed"
+  },
+  "design": {
+    "study_design": "rct",
+    "randomized": true,
+    "prospective": true,
+    "single_center": false,
+    "multi_center": true,
+    "inclusion_criteria_text": "All eligible, consecutive patients undergoing abdominal surgery with an incision of 5 cm or greater. Clean operations (gastrointestinal tract not entered) were excluded.",
+    "exclusion_criteria_text": "Patients undergoing clean operations (gastrointestinal tract not entered). Entries missing SSI status were excluded.",
+    "sample_frame": "patients",
+    "unit_of_analysis": "patient",
+    "duplicate_publication_likelihood": false,
+    "duplicate_rationale": "No evidence of overlapping cohorts; primary FALCON trial previously published, this is a secondary analysis."
+  },
+  "setting": {
+    "facility_level": "mixed",
+    "urban_rural": "mixed",
+    "care_setting": "hospital",
+    "country_specific_sites": [
+      "54 hospitals in Benin, Ghana, India, Mexico, Nigeria, Rwanda, South Africa"
+    ]
+  },
+  "eligibility": {
+    "population": "Patients undergoing abdominal surgery with incision ≥5 cm, excluding clean operations.",
+    "classification": "mixed",
+    "intervention": "Perioperative antibiotic prophylaxis (various regimens), skin preparation (2% alcoholic chlorhexidine or 10% aqueous povidone–iodine), suture type (triclosan-coated or non-coated).",
+    "comparator": "Alternative skin preparation and suture types; antibiotic regimens as per local practice.",
+    "outcomes_reported": [
+      "ssi_incidence",
+      "amr_prevalence",
+      "mortality",
+      "reoperations",
+      "readmissions"
+    ],
+    "timeframe_years": "Dec 10, 2018 to Sept 7, 2020",
+    "setting_types": ["hospital", "surgical_unit"],
+    "included_designs": ["rct"],
+    "excluded_designs": [
+      "cohort",
+      "cross_sectional",
+      "case_control",
+      "surveillance",
+      "other"
+    ]
+  },
+  "timeframe": {
+    "data_collection_start_year": 2018,
+    "data_collection_start_month": 12,
+    "data_collection_end_year": 2020,
+    "data_collection_end_month": 9,
+    "follow_up_window_days": 30
+  },
+  "populations": [
+    {
+      "arm_id": "overall",
+      "description": "All patients with SSI in FALCON trial (n=1163)",
+      "n_participants": 1163,
+      "age_group": "mixed",
+      "elective_emergency": "mixed",
+      "wound_class": "mixed",
+      "comorbidities_key": "Diabetes: 5.2%; HIV positive: 2.1%; Smoking: 7.7%; ASA grade 3–5: 28.5%",
+      "surgical_specialties": ["general"],
+      "provenance": {
+        "page": 4,
+        "section_heading": "Table: Demographics, operative factors, and 30-day outcomes of patients in the FALCON trial",
+        "text_snippet": "Total\n(n=1163)"
+      }
+    },
+    {
+      "arm_id": "swab_taken",
+      "description": "Patients with SSI and wound swab taken (n=228)",
+      "n_participants": 228,
+      "age_group": "mixed",
+      "elective_emergency": "mixed",
+      "wound_class": "mixed",
+      "comorbidities_key": "Diabetes: 6.6%; HIV positive: 1.3%; Smoking: 7.0%; ASA grade 3–5: 32.9%",
+      "surgical_specialties": ["general"],
+      "provenance": {
+        "page": 4,
+        "section_heading": "Table: Demographics, operative factors, and 30-day outcomes of patients in the FALCON trial",
+        "text_snippet": "Swab taken \n(n=228)"
+      }
+    },
+    {
+      "arm_id": "no_swab",
+      "description": "Patients with SSI and no wound swab taken (n=935)",
+      "n_participants": 935,
+      "age_group": "mixed",
+      "elective_emergency": "mixed",
+      "wound_class": "mixed",
+      "comorbidities_key": "Diabetes: 4.9%; HIV positive: 2.2%; Smoking: 7.8%; ASA grade 3–5: 27.4%",
+      "surgical_specialties": ["general"],
+      "provenance": {
+        "page": 4,
+        "section_heading": "Table: Demographics, operative factors, and 30-day outcomes of patients in the FALCON trial",
+        "text_snippet": "No swab taken \n(n=935)"
+      }
+    }
+  ],
+  "definitions": {
+    "ssi_definition_standard": ["CDC_NHSN"],
+    "ssi_window_days": 30,
+    "amr_definition_standard": ["CLSI", "EUCAST"],
+    "resistance_definition_text": "MDR defined as acquired non-susceptibility to at least one agent in three or more antimicrobial categories (CDC/ECDC criteria).",
+    "outcome_definitions_text": "Mortality: 30-day all-cause; Reoperation/readmission: within 30 days; LOS not reported; Cost not reported.",
+    "specimen_type": ["wound_swab"]
+  },
+  "lab_methods": {
+    "specimen_collection_method": "Wound swab taken from SSI site; decision to swab determined by local clinical practice, patient choice, or ability to afford test.",
+    "culture_method": "Local microbiology facilities; aerobic and anaerobic culture; blood agar, MacConkey agar, cooked meat media.",
+    "AST_method": ["disk_diffusion"],
+    "organism_identification_method": "Standard bacteriological test; Analytical profile index in some cases.",
+    "contamination_handling": "Non-bacterial isolates (e.g., yeast) excluded from analysis.",
+    "lab_capacity_notes": "Testing capacity limited; 15 hospitals lacked capacity, 35 had capacity but did not always perform swabs."
+  },
+  "outcomes": {
+    "ssi_incidence": [
+      {
+        "arm_id": "overall",
+        "surgical_specialty": "general",
+        "denominator_type": "patients",
+        "ssi_type": "overall",
+        "n_ssi_events": 1163,
+        "n_total": 5284,
+        "rate_as_reported": {
+          "value": 22.0,
+          "unit": "percent"
+        },
+        "ascertainment_window_days": 30,
+        "data_period": {
+          "start_year": 2018,
+          "end_year": 2020
+        },
+        "subgroup_labels": {
+          "country": "Benin, Ghana, India, Mexico, Nigeria, Rwanda, South Africa",
+          "facility_level": "mixed",
+          "setting": "hospital"
+        },
+        "notes": "SSI defined by CDC criteria; denominator is patients with available data.",
+        "provenance": {
+          "page": 5,
+          "section_heading": "Results",
+          "text_snippet": "Overall, 1163 of 5284 patients (22·0% [95% CI 20·9–23·2]) at 50 hospitals were diagnosed with an SSI in the FALCON trial."
+        }
+      }
+    ],
+    "amr_proportions": [],
+    "morbidity": [
+      {
+        "measure": "wound_reopening",
+        "n_events": 641,
+        "n_total": 1139,
+        "definition_text": "Wound opened within 30 days postoperatively.",
+        "subgroup_labels": {
+          "arm_id": "overall"
+        },
+        "notes": "Data from Table: Demographics, operative factors, and 30-day outcomes.",
+        "provenance": {
+          "page": 5,
+          "section_heading": "Table: Demographics, operative factors, and 30-day outcomes of patients in the FALCON trial",
+          "text_snippet": "Wound opened\nYes\n488 (53·0%)\n153 (69·9%)\n641 (56·3%)\n89 (2·2%)"
+        }
+      }
+    ],
+    "mortality": [
+      {
+        "measure": "30_day_all_cause",
+        "n_deaths": 29,
+        "n_total": 1161,
+        "rate_as_reported": {
+          "value": 2.5,
+          "unit": "percent"
+        },
+        "definition_text": "Death within 30 days postoperatively.",
+        "subgroup_labels": {
+          "arm_id": "overall"
+        },
+        "notes": "Data from Table: Demographics, operative factors, and 30-day outcomes.",
+        "provenance": {
+          "page": 5,
+          "section_heading": "Table: Demographics, operative factors, and 30-day outcomes of patients in the FALCON trial",
+          "text_snippet": "Died\nYes\n19 (2·0%)\n10 (4·4%)\n29 (2·5%)\n9 (0·2%)"
+        }
+      }
+    ],
+    "reoperations": [
+      {
+        "n_events": 131,
+        "n_total": 1138,
+        "definition_text": "Reoperation within 30 days postoperatively.",
+        "subgroup_labels": {
+          "arm_id": "overall"
+        },
+        "notes": "Data from Table: Demographics, operative factors, and 30-day outcomes.",
+        "provenance": {
+          "page": 5,
+          "section_heading": "Table: Demographics, operative factors, and 30-day outcomes of patients in the FALCON trial",
+          "text_snippet": "Re-operated\nYes\n92 (10·0%)\n39 (17·8%)\n131 (11·5%)\n21 (0·5%)"
+        }
+      }
+    ],
+    "readmissions": [
+      {
+        "n_events": 136,
+        "n_total": 1137,
+        "window_days": 30,
+        "definition_text": "Readmission within 30 days postoperatively.",
+        "subgroup_labels": {
+          "arm_id": "overall"
+        },
+        "notes": "Data from Table: Demographics, operative factors, and 30-day outcomes.",
+        "provenance": {
+          "page": 5,
+          "section_heading": "Table: Demographics, operative factors, and 30-day outcomes of patients in the FALCON trial",
+          "text_snippet": "Re-admitted\nYes\n99 (10·8%)\n37 (17·0%)\n136 (12·0%)\n46 (1·1%)"
+        }
+      }
+    ],
+    "length_of_stay": [],
+    "costs": [],
+    "risk_factors_effects": [
+      {
+        "exposure": "Appropriate prophylactic antibiotic coverage",
+        "outcome": "amr_infection",
+        "effect_measure": "aOR",
+        "effect_value": 0.43,
+        "ci_lower": 0.19,
+        "ci_upper": 0.96,
+        "adjusted": true,
+        "covariates_adjusted_for": "ASA grade, timing of surgery, intraoperative contamination, suture type, skin preparation",
+        "notes": "Adjusted analysis found significant reduction in MDR with appropriate coverage.",
+        "provenance": {
+          "page": 7,
+          "section_heading": "Results",
+          "text_snippet": "sufficient coverage for microorganisms by prophylactic antibiotics... aOR 0·43, 95% CI 0·19–0·96"
+        }
+      },
+      {
+        "exposure": "Regular availability of infection control teams",
+        "outcome": "amr_infection",
+        "effect_measure": "aOR",
+        "effect_value": 0.32,
+        "ci_lower": 0.11,
+        "ci_upper": 0.93,
+        "adjusted": true,
+        "covariates_adjusted_for": "ASA grade, timing of surgery, intraoperative contamination, suture type, skin preparation",
+        "notes": "Adjusted analysis found significant reduction in MDR with regular infection control teams.",
+        "provenance": {
+          "page": 7,
+          "section_heading": "Results",
+          "text_snippet": "regular availability of infection control teams... aOR 0·32, 95% CI 0·11–0·93"
+        }
+      }
+    ]
+  },
+  "interventions": [
+    {
+      "type": "antibiotic_prophylaxis_protocol",
+      "description": "Perioperative antibiotic prophylaxis regimens (ceftriaxone, ceftriaxone+metronidazole, cefepime+metronidazole, ciprofloxacin+metronidazole, others)",
+      "implementation_level": "facility",
+      "comparator": "Alternative regimens or no prophylaxis",
+      "outcomes_measured": ["ssi_incidence", "amr_prevalence"],
+      "effect_direction": "unclear",
+      "provenance": {
+        "page": 4,
+        "section_heading": "Operative factors",
+        "text_snippet": "Prophylactic antibiotics\nNo\n235 (25·1%)\n23 (10·1%)\n258 (22·2%)\n784 (19·0%)\nYes\n700 (74·9%)\n205 (89·9%)\n905 (77·8%)\n3336 (81·0%)"
+      }
+    }
+  ],
+  "stewardship_guidelines": [],
+  "policy_capacity": [
+    {
+      "domain": "lab_capacity",
+      "status_text": "Limited; 15 hospitals lacked capacity for microbiological analysis, 35 had capacity but did not always perform swabs.",
+      "indicators": {
+        "hospitals_with_testing_capacity": 35,
+        "hospitals_without_testing_capacity": 15
+      },
+      "provenance": {
+        "page": 5,
+        "section_heading": "Results",
+        "text_snippet": "935 (80·4%) patients did not have a swab taken, among whom 195 (20·9%) were from hospitals (n=15) that did not have capacity to carry out microbiological analysis and 740 (79·1%) were from hospitals (n=35) that had capacity but did not swab"
+      }
+    }
+  ],
+  "qualitative_thematic": {
+    "codes": [
+      {
+        "theme": "amr_prevalence",
+        "subtheme": "resistance patterns and rates by pathogen/antibiotic",
+        "summary": "High rates of multidrug resistance (MDR) were observed in SSI microorganisms, with 51.1% of isolates classified as MDR.",
+        "evidence_quotes": [
+          {
+            "quote": "MDR was identified in 120 of 235 (51·1% [95% CI 44·5–57·6]) microorganisms.",
+            "page": 7,
+            "section": "Results"
+          }
+        ],
+        "location_context": "Seven LMICs (Benin, Ghana, India, Mexico, Nigeria, Rwanda, South Africa)",
+        "confidence": "high",
+        "provenance": {
+          "page": 7,
+          "section_heading": "Results",
+          "text_snippet": "MDR was identified in 120 of 235 (51·1% [95% CI 44·5–57·6]) microorganisms."
+        }
+      },
+      {
+        "theme": "drivers_amr",
+        "subtheme": "inappropriate use, IPC gaps, diagnostics delays, policy failures, supply chain, workforce, patient factors",
+        "summary": "Inappropriate use of antibiotics and poor infection prevention and control practices contribute to the emergence and spread of AMR.",
+        "evidence_quotes": [
+          {
+            "quote": "the inappropriate use of antimicrobial drugs and poor infection prevention and control practices contribute to the emergence of and further spread of AMR",
+            "page": 2,
+            "section": "Introduction"
+          }
+        ],
+        "location_context": "Seven LMICs",
+        "confidence": "high",
+        "provenance": {
+          "page": 2,
+          "section_heading": "Introduction",
+          "text_snippet": "the inappropriate use of antimicrobial drugs and poor infection prevention and control practices contribute to the emergence of and further spread of AMR"
+        }
+      },
+      {
+        "theme": "prevention_control",
+        "subtheme": "IPC programs, bundles, surveillance practices",
+        "summary": "Regular availability of infection control teams is associated with reduced MDR in SSI microorganisms.",
+        "evidence_quotes": [
+          {
+            "quote": "regular availability of infection control teams (0·32, 0·11–0·93) were associated with a significant reduction in MDR.",
+            "page": 1,
+            "section": "Summary"
+          }
+        ],
+        "location_context": "Seven LMICs",
+        "confidence": "high",
+        "provenance": {
+          "page": 1,
+          "section_heading": "Summary",
+          "text_snippet": "regular availability of infection control teams (0·32, 0·11–0·93) were associated with a significant reduction in MDR."
+        }
+      },
+      {
+        "theme": "burden_incidence",
+        "subtheme": "epidemiology of SSI (incidence, trends)",
+        "summary": "SSI incidence among abdominal surgery patients in LMICs was 22.0%.",
+        "evidence_quotes": [
+          {
+            "quote": "Overall, 1163 of 5284 patients (22·0% [95% CI 20·9–23·2]) at 50 hospitals were diagnosed with an SSI in the FALCON trial.",
+            "page": 5,
+            "section": "Results"
+          }
+        ],
+        "location_context": "Seven LMICs",
+        "confidence": "high",
+        "provenance": {
+          "page": 5,
+          "section_heading": "Results",
+          "text_snippet": "Overall, 1163 of 5284 patients (22·0% [95% CI 20·9–23·2]) at 50 hospitals were diagnosed with an SSI in the FALCON trial."
+        }
+      },
+      {
+        "theme": "microbiology_diagnostics",
+        "subtheme": "lab capacity, methods, turnaround times",
+        "summary": "Testing capacity for microbiological analysis of SSI is low, with only 19.6% of SSI patients having a wound swab taken; turnaround time for results is often ≥48 hours.",
+        "evidence_quotes": [
+          {
+            "quote": "228 of 1163 (19·6% [17·4–22·0]) had a wound swab taken.",
+            "page": 5,
+            "section": "Results"
+          },
+          {
+            "quote": "Turnaround time (from sending the wound swab to receiving the results) was reported to be 48 h or longer in 149 of 200 cases (74·5%) and 72 h or longer in 75 of 200 cases (37·5%).",
+            "page": 7,
+            "section": "Results"
+          }
+        ],
+        "location_context": "Seven LMICs",
+        "confidence": "high",
+        "provenance": {
+          "page": 5,
+          "section_heading": "Results",
+          "text_snippet": "228 of 1163 (19·6% [17·4–22·0]) had a wound swab taken."
+        }
+      }
+    ]
+  },
+  "risk_of_bias": {
+    "tool_used": "not_reported",
+    "domain_judgements": {},
+    "overall_judgement": "not_reported",
+    "provenance": {
+      "text_snippet": "No risk of bias tool or assessment reported in main text."
+    }
+  },
+  "funding_conflicts": {
+    "funding_sources": [
+      "National Institute for Health and Care Research (NIHR) Global Health Research Unit Grant (NIHR 16.136.79)"
+    ],
+    "conflicts_of_interest": "We declare no competing interests.",
+    "role_of_funder": "The funder of the study had no role in study design, data collection, data analysis, data interpretation, or writing of the report.",
+    "provenance": {
+      "page": 1,
+      "section_heading": "Funding",
+      "text_snippet": "Funding National Institute for Health and Care Research."
+    }
+  },
+  "notes_flags": [
+    {
+      "type": ["non_ecsa"],
+      "detail": "Study includes non-ECSA countries (India, Mexico, South Africa, Benin, Ghana, Nigeria, Rwanda); region_classification set to mixed.",
+      "provenance": {
+        "page": 1,
+        "section_heading": "Summary",
+        "text_snippet": "seven low-income and middle-income countries (Benin, Ghana, India, Mexico, Nigeria, Rwanda, and South Africa)"
+      }
+    },
+    {
+      "type": ["missing_data"],
+      "detail": "No data on length of stay, costs, or stewardship guideline adherence rates.",
+      "provenance": {
+        "page": 5,
+        "section_heading": "Table: Demographics, operative factors, and 30-day outcomes of patients in the FALCON trial",
+        "text_snippet": "30-day outcomes"
+      }
+    },
+    {
+      "type": ["unit_unclear"],
+      "detail": "No explicit reporting of bed capacity or surgical volume per year for included hospitals.",
+      "provenance": {
+        "page": 1,
+        "section_heading": "Summary",
+        "text_snippet": "54 hospitals in seven countries"
+      }
+    },
+    {
+      "type": "dropped_amr_rows",
+      "detail": "Dropped AMR row missing pathogen or antibiotic"
+    },
+    {
+      "type": "dropped_amr_rows",
+      "detail": "Dropped 3 AMR rows missing required counts (n_tested and/or n_resistant)"
+    }
+  ],
+  "provenance_index": [
+    {
+      "page": 1,
+      "section_heading": "Summary",
+      "text_snippet": "seven low-income and middle-income countries (Benin, Ghana, India, Mexico, Nigeria, Rwanda, and South Africa)"
+    },
+    {
+      "page": 4,
+      "section_heading": "Table: Demographics, operative factors, and 30-day outcomes of patients in the FALCON trial",
+      "text_snippet": "Total\n(n=1163)"
+    },
+    {
+      "page": 5,
+      "section_heading": "Results",
+      "text_snippet": "Overall, 1163 of 5284 patients (22·0% [95% CI 20·9–23·2]) at 50 hospitals were diagnosed with an SSI in the FALCON trial."
+    },
+    {
+      "page": 6,
+      "section_heading": "Results",
+      "text_snippet": "Escherichia coli was the most common species identified (89 of 235; 37·9% [95% CI 31·6–44·4])"
+    },
+    {
+      "page": 7,
+      "section_heading": "Results",
+      "text_snippet": "MDR was identified in 120 of 235 (51·1% [95% CI 44·5–57·6]) microorganisms."
+    }
+  ],
+  "extraction_summary": {
+    "completeness_score": 80,
+    "missing_fields": [
+      "bed_capacity",
+      "surgical_volume_per_year",
+      "length_of_stay",
+      "costs",
+      "stewardship_guidelines",
+      "GLASS_participation",
+      "risk_of_bias tool and domains",
+      "qualitative method context"
+    ],
+    "parser_warnings": [
+      "No explicit reporting of denominators for AMR proportions per pathogen-antibiotic pair.",
+      "No data on length of stay or cost outcomes.",
+      "No stewardship guideline adherence rates or details."
+    ],
+    "confidence_overall": "high"
+  }
+}

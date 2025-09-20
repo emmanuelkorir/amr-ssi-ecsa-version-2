@@ -1,0 +1,89 @@
+themes:
+  - code: burden_incidence
+    label: Epidemiology and Burden (SSI incidence)
+    subthemes:
+      - overall_incidence
+      - specialty_specific
+      - temporal_trends
+      - geographic_variation
+  - code: amr_prevalence
+    label: AMR Prevalence and Resistance Patterns
+    subthemes:
+      - pathogen_specific
+      - antibiotic_class_trends
+      - mdr_xdr_pandr
+      - specimen_site
+  - code: drivers_amr
+    label: Drivers of AMR
+    subthemes:
+      - inappropriate_antibiotic_use
+      - lack_of_stewardship
+      - ipc_gaps
+      - diagnostics_delays_capacity
+      - policy_enforcement
+      - supply_chain_access
+      - prescriber_behaviour
+      - patient_behaviour
+      - counterfeit_substandard
+  - code: outcomes_clinical
+    label: Clinical Outcomes
+    subthemes:
+      - morbidity_complications
+      - mortality
+      - readmissions
+      - reoperations
+      - prolonged_los
+  - code: economic_impact
+    label: Economic Impact
+    subthemes:
+      - direct_costs
+      - indirect_costs
+      - catastrophic_expenditure
+  - code: prevention_control
+    label: Prevention and Infection Control
+    subthemes:
+      - bundles
+      - surveillance
+      - hand_hygiene
+      - environmental_cleaning
+      - perioperative_practices
+  - code: treatment_prophylaxis
+    label: Treatment and Prophylaxis
+    subthemes:
+      - prophylaxis_regimens
+      - treatment_regimens
+      - adherence_to_guidelines
+      - dosing_duration_appropriateness
+  - code: microbiology_diagnostics
+    label: Microbiology and Diagnostics
+    subthemes:
+      - ast_methods
+      - identification_methods
+      - turnaround_time
+      - quality_control
+      - glass_participation
+  - code: policy_capacity
+    label: Policy and Capacity
+    subthemes:
+      - national_action_plans
+      - workforce_training
+      - lab_networks
+      - reporting_systems
+      - financing
+  - code: interventions_innovations
+    label: Interventions and Innovations
+    subthemes:
+      - stewardship_bundles
+      - rapid_diagnostics
+      - novel_therapies
+      - digital_health
+  - code: quality_of_life
+    label: Quality of Life
+    subthemes:
+      - qol_instruments
+      - functional_outcomes
+  - code: evidence_gaps
+    label: Evidence Gaps
+    subthemes:
+      - data_quality_limitations
+      - research_priorities

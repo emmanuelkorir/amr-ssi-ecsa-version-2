@@ -1,0 +1,1069 @@
+{
+  "study": {
+    "study_id": "Dinda2013-Kenya-AKUHNairobi-20082009-1",
+    "title": "PATTERN OF PATHOGENS AND THEIR SENSITIVITY ISOLATED FROM SURGICAL SITE INFECTIONS AT THE AGA KHAN UNIVERSITY HOSPITAL, NAIROBI, KENYA",
+    "authors": [
+      "Dinda Victor",
+      "Gunturu Revathi",
+      "Kariuki Sam",
+      "Hakeem Abdi",
+      "Raja Asad",
+      "Kimang'a Andrew"
+    ],
+    "journal": "Ethiopian Journal of Health Sciences",
+    "year_publication": 2013,
+    "country_list": [
+      "Kenya"
+    ],
+    "country_iso3": "KEN",
+    "region_classification": "ECSA",
+    "surgical_specialty": [
+      "general"
+    ],
+    "language": "English",
+    "data_source_type": "published_full_text",
+    "ownership_type": "private"
+  },
+  "design": {
+    "study_design": "cohort",
+    "randomized": false,
+    "prospective": true,
+    "single_center": true,
+    "multi_center": false,
+    "inclusion_criteria_text": "Two hundred and sixty-eight (268) successive adult patients who were referred for surgery to the Aga Khan University Hospital, Nairobi between March 2008 and May 2009 and who had not undergone any surgical procedure in the previous one month were recruited into this study.",
+    "exclusion_criteria_text": "This study excluded patients who were referred for surgery out of disease complications that were being managed and those on multiple antimicrobial exposures due to chronic care prior to the surgical procedure. All diagnostic surgical procedures were also excluded.",
+    "sample_frame": "patients",
+    "unit_of_analysis": "patient",
+    "duplicate_publication_likelihood": false
+  },
+  "setting": {
+    "facility_level": "tertiary",
+    "urban_rural": "urban",
+    "care_setting": "hospital",
+    "country_specific_sites": [
+      "Aga Khan University Hospital, Nairobi"
+    ],
+    "infection_control_program_present": true
+  },
+  "eligibility": {
+    "population": "Successive adult patients who were referred for general surgery.",
+    "intervention": "Antibiotic prophylaxis was administered according to the institutional policy.",
+    "outcomes_reported": [
+      "ssi_incidence",
+      "amr_prevalence"
+    ],
+    "timeframe_years": "2008-2009",
+    "setting_types": [
+      "hospital",
+      "outpatient"
+    ],
+    "included_designs": [],
+    "excluded_designs": []
+  },
+  "timeframe": {
+    "data_collection_start_year": 2008,
+    "data_collection_start_month": 3,
+    "data_collection_end_year": 2009,
+    "data_collection_end_month": 5,
+    "follow_up_window_days": 30
+  },
+  "populations": [
+    {
+      "arm_id": "overall",
+      "description": "All patients enrolled in the study for surgical procedures, excluding neurological and cardiothoracic surgeries.",
+      "n_participants": 268,
+      "n_procedures": 268,
+      "age_group": "adult",
+      "elective_emergency": "unspecified",
+      "wound_class": "mixed",
+      "comorbidities_key": "ASA Grades 1, 2, and 3 were reported. BMI was reported in categories.",
+      "surgical_specialties": [
+        "general"
+      ],
+      "provenance": {
+        "pointer": 1
+      }
+    }
+  ],
+  "definitions": {
+    "ssi_definition_standard": "CDC_NHSN",
+    "ssi_window_days": 30,
+    "amr_definition_standard": "CLSI",
+    "breakpoint_version": "CLSI 2009",
+    "outcome_definitions_text": "SSIs were not stratified according to superficial, deep and organ space.",
+    "specimen_type": [
+      "pus_swab"
+    ]
+  },
+  "lab_methods": {
+    "specimen_collection_method": "Pus swabs were collected from infected surgical sites suspected of SSI and transported to the laboratory in Stuart’s transport medium.",
+    "culture_method": "Standard bacteriological procedures.",
+    "AST_method": [
+      "disk_diffusion"
+    ],
+    "QC_measures": "Escherichia coli ATCC 25922, Pseudomonas aeruginosa ATCC 27853, Staphylococcus aureus ATCC 25923 and Enterococcus faecalis ATCC 29212 were used as control organisms. The microbiology laboratory at the Aga Khan University Hospital is a participant in UKNEQAS program in addition to being an internationally accredited laboratory (ISO 15189 -2007).",
+    "organism_identification_method": "Colony morphology analysis, Gram stain, routine biochemical tests and analytic profile indexing (bioMerieux, Inc., Hazelwood, MO).",
+    "contamination_handling": "All precautions were taken to avoid skin contaminants.",
+    "lab_capacity_notes": "The lack of anaerobic culture system was additional limitation.",
+    "GLASS_participation": false
+  },
+  "outcomes": {
+    "ssi_incidence": [
+      {
+        "arm_id": "overall",
+        "surgical_specialty": "general",
+        "denominator_type": "procedures",
+        "ssi_type": "overall",
+        "n_ssi_events": 12,
+        "n_total": 171,
+        "rate_as_reported": {
+          "value": 7.0,
+          "unit": "percent"
+        },
+        "ascertainment_window_days": 30,
+        "data_period": {
+          "start_year": 2008,
+          "end_year": 2009
+        },
+        "subgroup_labels": {
+          "wound_class": "Clean and clean-contaminated"
+        },
+        "notes": "This is the 'True SSI' rate as defined by the authors, including only Class I and Class II wounds.",
+        "provenance": {
+          "pointer": 2
+        }
+      },
+      {
+        "arm_id": "overall",
+        "surgical_specialty": "general",
+        "denominator_type": "procedures",
+        "ssi_type": "overall",
+        "n_ssi_events": 39,
+        "n_total": 268,
+        "rate_as_reported": {
+          "value": 14.6,
+          "unit": "percent"
+        },
+        "ascertainment_window_days": 30,
+        "data_period": {
+          "start_year": 2008,
+          "end_year": 2009
+        },
+        "subgroup_labels": {
+          "wound_class": "All classes"
+        },
+        "notes": "This rate is for 'All infections after surgery' including all wound classes (I-IV).",
+        "provenance": {
+          "pointer": 2
+        }
+      },
+      {
+        "arm_id": "overall",
+        "surgical_specialty": "general",
+        "denominator_type": "procedures",
+        "ssi_type": "overall",
+        "n_ssi_events": 5,
+        "n_total": 91,
+        "rate_as_reported": {
+          "value": 5.5,
+          "unit": "percent"
+        },
+        "ascertainment_window_days": 30,
+        "data_period": {
+          "start_year": 2008,
+          "end_year": 2009
+        },
+        "subgroup_labels": {
+          "wound_class": "Class I (Clean)"
+        },
+        "provenance": {
+          "pointer": 2
+        }
+      },
+      {
+        "arm_id": "overall",
+        "surgical_specialty": "general",
+        "denominator_type": "procedures",
+        "ssi_type": "overall",
+        "n_ssi_events": 7,
+        "n_total": 80,
+        "rate_as_reported": {
+          "value": 8.8,
+          "unit": "percent"
+        },
+        "ascertainment_window_days": 30,
+        "data_period": {
+          "start_year": 2008,
+          "end_year": 2009
+        },
+        "subgroup_labels": {
+          "wound_class": "Class II (Clean contaminated)"
+        },
+        "provenance": {
+          "pointer": 2
+        }
+      },
+      {
+        "arm_id": "overall",
+        "surgical_specialty": "general",
+        "denominator_type": "procedures",
+        "ssi_type": "overall",
+        "n_ssi_events": 6,
+        "n_total": 30,
+        "rate_as_reported": {
+          "value": 20.0,
+          "unit": "percent"
+        },
+        "ascertainment_window_days": 30,
+        "data_period": {
+          "start_year": 2008,
+          "end_year": 2009
+        },
+        "subgroup_labels": {
+          "wound_class": "Class III (Contaminated)"
+        },
+        "provenance": {
+          "pointer": 2
+        }
+      },
+      {
+        "arm_id": "overall",
+        "surgical_specialty": "general",
+        "denominator_type": "procedures",
+        "ssi_type": "overall",
+        "n_ssi_events": 20,
+        "n_total": 67,
+        "rate_as_reported": {
+          "value": 29.9,
+          "unit": "percent"
+        },
+        "ascertainment_window_days": 30,
+        "data_period": {
+          "start_year": 2008,
+          "end_year": 2009
+        },
+        "subgroup_labels": {
+          "wound_class": "Class IV (Dirty)"
+        },
+        "provenance": {
+          "pointer": 2
+        }
+      }
+    ],
+    "amr_proportions": [
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "ampicillin",
+        "who_class": "important",
+        "n_tested": 10,
+        "n_resistant": 6,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "2009",
+        "specimen_type": "pus_swab",
+        "site": "surgical_site",
+        "data_period": {
+          "start_year": 2008,
+          "end_year": 2009
+        },
+        "provenance": {
+          "pointer": 3
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "doxycycline",
+        "who_class": "highly_important",
+        "n_tested": 10,
+        "n_resistant": 4,
+        "provenance": {
+          "pointer": 3
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "azithromycin",
+        "who_class": "highly_important",
+        "n_tested": 10,
+        "n_resistant": 3,
+        "provenance": {
+          "pointer": 3
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "amoxicillin-clavulanate",
+        "who_class": "highly_important",
+        "n_tested": 10,
+        "n_resistant": 1,
+        "provenance": {
+          "pointer": 3
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "cefuroxime",
+        "who_class": "highly_important",
+        "n_tested": 10,
+        "n_resistant": 1,
+        "provenance": {
+          "pointer": 3
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "ciprofloxacin",
+        "who_class": "critically_important",
+        "n_tested": 10,
+        "n_resistant": 5,
+        "provenance": {
+          "pointer": 3
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "chloramphenicol",
+        "who_class": "highly_important",
+        "n_tested": 10,
+        "n_resistant": 2,
+        "provenance": {
+          "pointer": 3
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "oxacillin",
+        "who_class": "highly_important",
+        "n_tested": 10,
+        "n_resistant": 1,
+        "mrsa_detection_method": "oxacillin_disk_diffusion",
+        "provenance": {
+          "pointer": 3
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "netilmicin",
+        "who_class": "highly_important",
+        "n_tested": 10,
+        "n_resistant": 0,
+        "provenance": {
+          "pointer": 3
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "vancomycin",
+        "who_class": "critically_important",
+        "n_tested": 10,
+        "n_resistant": 0,
+        "provenance": {
+          "pointer": 3
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Coagulase-negative staphylococci",
+        "antibiotic": "ampicillin",
+        "who_class": "important",
+        "n_tested": 5,
+        "n_resistant": 4,
+        "provenance": {
+          "pointer": 3
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Coagulase-negative staphylococci",
+        "antibiotic": "doxycycline",
+        "who_class": "highly_important",
+        "n_tested": 5,
+        "n_resistant": 3,
+        "provenance": {
+          "pointer": 3
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Coagulase-negative staphylococci",
+        "antibiotic": "azithromycin",
+        "who_class": "highly_important",
+        "n_tested": 5,
+        "n_resistant": 3,
+        "provenance": {
+          "pointer": 3
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Coagulase-negative staphylococci",
+        "antibiotic": "amoxicillin-clavulanate",
+        "who_class": "highly_important",
+        "n_tested": 5,
+        "n_resistant": 2,
+        "provenance": {
+          "pointer": 3
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Coagulase-negative staphylococci",
+        "antibiotic": "cefuroxime",
+        "who_class": "highly_important",
+        "n_tested": 5,
+        "n_resistant": 3,
+        "provenance": {
+          "pointer": 3
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Coagulase-negative staphylococci",
+        "antibiotic": "ciprofloxacin",
+        "who_class": "critically_important",
+        "n_tested": 5,
+        "n_resistant": 1,
+        "provenance": {
+          "pointer": 3
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Coagulase-negative staphylococci",
+        "antibiotic": "chloramphenicol",
+        "who_class": "highly_important",
+        "n_tested": 5,
+        "n_resistant": 2,
+        "provenance": {
+          "pointer": 3
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Coagulase-negative staphylococci",
+        "antibiotic": "oxacillin",
+        "who_class": "highly_important",
+        "n_tested": 5,
+        "n_resistant": 0,
+        "provenance": {
+          "pointer": 3
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Coagulase-negative staphylococci",
+        "antibiotic": "netilmicin",
+        "who_class": "highly_important",
+        "n_tested": 5,
+        "n_resistant": 0,
+        "provenance": {
+          "pointer": 3
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Coagulase-negative staphylococci",
+        "antibiotic": "vancomycin",
+        "who_class": "critically_important",
+        "n_tested": 5,
+        "n_resistant": 0,
+        "provenance": {
+          "pointer": 3
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Kluyvera spp.",
+        "antibiotic": "co-trimoxazole",
+        "who_class": "highly_important",
+        "n_tested": 4,
+        "n_resistant": 0,
+        "provenance": {
+          "pointer": 4
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Kluyvera spp.",
+        "antibiotic": "doxycycline",
+        "who_class": "highly_important",
+        "n_tested": 4,
+        "n_resistant": 3,
+        "provenance": {
+          "pointer": 4
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Kluyvera spp.",
+        "antibiotic": "amoxicillin-clavulanate",
+        "who_class": "highly_important",
+        "n_tested": 4,
+        "n_resistant": 2,
+        "provenance": {
+          "pointer": 4
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Kluyvera spp.",
+        "antibiotic": "cefotaxime",
+        "who_class": "critically_important",
+        "n_tested": 4,
+        "n_resistant": 2,
+        "provenance": {
+          "pointer": 4
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Kluyvera spp.",
+        "antibiotic": "chloramphenicol",
+        "who_class": "highly_important",
+        "n_tested": 4,
+        "n_resistant": 1,
+        "provenance": {
+          "pointer": 4
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Kluyvera spp.",
+        "antibiotic": "cefuroxime",
+        "who_class": "highly_important",
+        "n_tested": 4,
+        "n_resistant": 1,
+        "provenance": {
+          "pointer": 4
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Kluyvera spp.",
+        "antibiotic": "ciprofloxacin",
+        "who_class": "critically_important",
+        "n_tested": 4,
+        "n_resistant": 1,
+        "provenance": {
+          "pointer": 4
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Kluyvera spp.",
+        "antibiotic": "gentamicin",
+        "who_class": "highly_important",
+        "n_tested": 4,
+        "n_resistant": 1,
+        "provenance": {
+          "pointer": 4
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Escherichia coli",
+        "antibiotic": "co-trimoxazole",
+        "who_class": "highly_important",
+        "n_tested": 4,
+        "n_resistant": 3,
+        "provenance": {
+          "pointer": 4
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Escherichia coli",
+        "antibiotic": "doxycycline",
+        "who_class": "highly_important",
+        "n_tested": 4,
+        "n_resistant": 3,
+        "provenance": {
+          "pointer": 4
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Escherichia coli",
+        "antibiotic": "amoxicillin-clavulanate",
+        "who_class": "highly_important",
+        "n_tested": 4,
+        "n_resistant": 3,
+        "provenance": {
+          "pointer": 4
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Escherichia coli",
+        "antibiotic": "cefotaxime",
+        "who_class": "critically_important",
+        "n_tested": 4,
+        "n_resistant": 1,
+        "provenance": {
+          "pointer": 4
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Escherichia coli",
+        "antibiotic": "chloramphenicol",
+        "who_class": "highly_important",
+        "n_tested": 4,
+        "n_resistant": 2,
+        "provenance": {
+          "pointer": 4
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Escherichia coli",
+        "antibiotic": "cefuroxime",
+        "who_class": "highly_important",
+        "n_tested": 4,
+        "n_resistant": 2,
+        "provenance": {
+          "pointer": 4
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Escherichia coli",
+        "antibiotic": "ciprofloxacin",
+        "who_class": "critically_important",
+        "n_tested": 4,
+        "n_resistant": 2,
+        "provenance": {
+          "pointer": 4
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Escherichia coli",
+        "antibiotic": "gentamicin",
+        "who_class": "highly_important",
+        "n_tested": 4,
+        "n_resistant": 2,
+        "provenance": {
+          "pointer": 4
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Klebsiella spp.",
+        "antibiotic": "co-trimoxazole",
+        "who_class": "highly_important",
+        "n_tested": 3,
+        "n_resistant": 2,
+        "provenance": {
+          "pointer": 4
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Klebsiella spp.",
+        "antibiotic": "doxycycline",
+        "who_class": "highly_important",
+        "n_tested": 3,
+        "n_resistant": 1,
+        "provenance": {
+          "pointer": 4
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Klebsiella spp.",
+        "antibiotic": "amoxicillin-clavulanate",
+        "who_class": "highly_important",
+        "n_tested": 3,
+        "n_resistant": 2,
+        "provenance": {
+          "pointer": 4
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Klebsiella spp.",
+        "antibiotic": "cefotaxime",
+        "who_class": "critically_important",
+        "n_tested": 3,
+        "n_resistant": 2,
+        "provenance": {
+          "pointer": 4
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Klebsiella spp.",
+        "antibiotic": "chloramphenicol",
+        "who_class": "highly_important",
+        "n_tested": 3,
+        "n_resistant": 1,
+        "provenance": {
+          "pointer": 4
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Klebsiella spp.",
+        "antibiotic": "cefuroxime",
+        "who_class": "highly_important",
+        "n_tested": 3,
+        "n_resistant": 0,
+        "provenance": {
+          "pointer": 4
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Klebsiella spp.",
+        "antibiotic": "ciprofloxacin",
+        "who_class": "critically_important",
+        "n_tested": 3,
+        "n_resistant": 0,
+        "provenance": {
+          "pointer": 4
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Klebsiella spp.",
+        "antibiotic": "gentamicin",
+        "who_class": "highly_important",
+        "n_tested": 3,
+        "n_resistant": 2,
+        "provenance": {
+          "pointer": 4
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Pseudomonas aeruginosa",
+        "antibiotic": "ciprofloxacin",
+        "who_class": "critically_important",
+        "n_tested": 4,
+        "n_resistant": 3,
+        "provenance": {
+          "pointer": 4
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Pseudomonas aeruginosa",
+        "antibiotic": "gentamicin",
+        "who_class": "highly_important",
+        "n_tested": 4,
+        "n_resistant": 2,
+        "provenance": {
+          "pointer": 4
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Pseudomonas aeruginosa",
+        "antibiotic": "piperacillin-tazobactam",
+        "who_class": "critically_important",
+        "n_tested": 4,
+        "n_resistant": 3,
+        "notes": "Original text: Tazo-piperacillin",
+        "provenance": {
+          "pointer": 4
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Pseudomonas aeruginosa",
+        "antibiotic": "cefepime",
+        "who_class": "critically_important",
+        "n_tested": 4,
+        "n_resistant": 2,
+        "provenance": {
+          "pointer": 4
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Pseudomonas aeruginosa",
+        "antibiotic": "ceftazidime",
+        "who_class": "critically_important",
+        "n_tested": 4,
+        "n_resistant": 2,
+        "provenance": {
+          "pointer": 4
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Pseudomonas aeruginosa",
+        "antibiotic": "imipenem",
+        "who_class": "critically_important",
+        "n_tested": 4,
+        "n_resistant": 2,
+        "provenance": {
+          "pointer": 4
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Pseudomonas aeruginosa",
+        "antibiotic": "piperacillin",
+        "who_class": "highly_important",
+        "n_tested": 4,
+        "n_resistant": 2,
+        "provenance": {
+          "pointer": 4
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Pseudomonas aeruginosa",
+        "antibiotic": "ceftriaxone",
+        "who_class": "critically_important",
+        "n_tested": 4,
+        "n_resistant": 1,
+        "provenance": {
+          "pointer": 4
+        }
+      }
+    ],
+    "morbidity": [],
+    "mortality": [],
+    "reoperations": [],
+    "readmissions": [],
+    "length_of_stay": [],
+    "costs": [],
+    "risk_factors_effects": [
+      {
+        "exposure": "Dirty wound (Class IV)",
+        "outcome": "ssi_incidence",
+        "p_value": 0.003,
+        "adjusted": false,
+        "n_included": 268,
+        "notes": "Effect measure (e.g., OR) not reported.",
+        "provenance": {
+          "pointer": 2
+        }
+      },
+      {
+        "exposure": "Preoperative stay ≥ 2 days",
+        "outcome": "ssi_incidence",
+        "p_value": 0.002,
+        "adjusted": false,
+        "n_included": 268,
+        "notes": "Effect measure (e.g., OR) not reported. p-value is for the 2-day category specifically; other longer stays were also significant.",
+        "provenance": {
+          "pointer": 2
+        }
+      }
+    ]
+  },
+  "interventions": [],
+  "stewardship_guidelines": [],
+  "policy_capacity": [],
+  "qualitative_thematic": {
+    "codes": [
+      {
+        "theme": "burden_incidence",
+        "subtheme": "incidence_rates",
+        "summary": "The SSI incidence rate for clean/clean-contaminated wounds was 7.0%, which authors noted as lower than rates in other Kenyan studies.",
+        "evidence_quotes": [
+          {
+            "quote": "The SSI incidence rates (7.0%) observed in this study were relatively lower than the ones documented in other studies in Kenya.",
+            "page": 1,
+            "section": "ABSTRACT"
+          }
+        ],
+        "location_context": "Aga Khan University Hospital, Nairobi, Kenya",
+        "confidence": "high",
+        "provenance": {
+          "pointer": 5
+        }
+      },
+      {
+        "theme": "amr_prevalence",
+        "subtheme": "pathogen_distribution",
+        "summary": "Staphylococcus aureus was the most frequently isolated pathogen from surgical site infections, accounting for 30.8% of isolates.",
+        "evidence_quotes": [
+          {
+            "quote": "This study found out that the pathogens involved in SSI at the AKUHN included S. aureus (30.8%), Coagulase negative Staphylococcus (15.4%), Pseudomonas aeruginosa (10.4%), Kluyvera spp. (12.8%), E. coli (12.8%), Klebsiella species (12.8%), Serratia marcescens (2.6 %) and Enterobacter cloacae (2.6%).",
+            "page": 5,
+            "section": "DISCUSSION"
+          }
+        ],
+        "location_context": "Aga Khan University Hospital, Nairobi, Kenya",
+        "confidence": "high",
+        "provenance": {
+          "pointer": 6
+        }
+      },
+      {
+        "theme": "drivers_amr",
+        "subtheme": "patient_factors",
+        "summary": "Significant risk factors for developing an SSI were having a dirty wound (wound class IV) and a prolonged preoperative hospital stay of two or more days.",
+        "evidence_quotes": [
+          {
+            "quote": "This study found out that wound class IV and preoperative stay ≥2 days were the risk factors associated with SSI at the hospital.",
+            "page": 7,
+            "section": "DISCUSSION"
+          }
+        ],
+        "location_context": "Aga Khan University Hospital, Nairobi, Kenya",
+        "confidence": "high",
+        "provenance": {
+          "pointer": 7
+        }
+      },
+      {
+        "theme": "microbiology_diagnostics",
+        "subtheme": "capacity_limitations",
+        "summary": "The study's diagnostic approach was limited by the use of pus swabs, which are considered suboptimal specimens, and the absence of an anaerobic culture system.",
+        "evidence_quotes": [
+          {
+            "quote": "Pus swabs are not ideal specimens for study of SSI according to CDC definitions; however, it was clinically not practical to obtain ideal specimens... The lack of anaerobic culture system was additional limitation.",
+            "page": 7,
+            "section": "DISCUSSION"
+          }
+        ],
+        "location_context": "Aga Khan University Hospital, Nairobi, Kenya",
+        "confidence": "high",
+        "provenance": {
+          "pointer": 7
+        }
+      }
+    ]
+  },
+  "risk_of_bias": {
+    "tool_used": "not_reported",
+    "overall_judgement": "not_reported"
+  },
+  "funding_conflicts": {
+    "funding_sources": [
+      "Aga Khan University Hospital (partial funding)",
+      "Jomo Kenyatta University of Agriculture and Technology (expertise support)"
+    ],
+    "conflicts_of_interest": "Not stated",
+    "role_of_funder": "Not stated",
+    "provenance": {
+      "pointer": 8
+    }
+  },
+  "notes_flags": [
+    {
+      "type": "inconsistency",
+      "detail": "The main reported SSI rate of 7.0% is for 'True SSI' (clean and clean-contaminated wounds, n=171) only, while the rate for all surgeries (n=268) was 14.6%. The abstract emphasizes the lower rate, which could be misleading.",
+      "provenance": {
+        "pointer": 9
+      }
+    },
+    {
+      "type": "inconsistency",
+      "detail": "The number of postoperative isolates in Table 2 sums to 39, but the denominators for AMR testing in Tables 3 and 4 are smaller for each organism (e.g., n=10 S. aureus tested out of 12 isolated), suggesting not all isolates underwent or had reported susceptibility testing.",
+      "provenance": {
+        "pointer": 10
+      }
+    },
+    {
+      "type": "other",
+      "detail": "Table 5 on page 6, titled 'Association of corneal opacity and potential risk factors', is completely irrelevant to the topic of surgical site infections and appears to be a typesetting error in the original publication.",
+      "provenance": {
+        "pointer": 11
+      }
+    },
+    {
+      "type": "missing_data",
+      "detail": "The study reports p-values for risk factors but does not provide effect measures like Odds Ratios or Relative Risks.",
+      "provenance": {
+        "pointer": 2
+      }
+    }
+  ],
+  "provenance_index": [
+    {
+      "page": 3,
+      "section_heading": "RESULTS",
+      "text_snippet": "Two hundred and sixty-eight respondents were enrolled, 262 were followed through one month...",
+      "pointer_id": 1
+    },
+    {
+      "page": 3,
+      "table_id": "Table 1",
+      "text_snippet": "Incidence rates of surgical site infection",
+      "pointer_id": 2
+    },
+    {
+      "page": 4,
+      "table_id": "Table 3",
+      "text_snippet": "Antibiotic susceptibility pattern for S. aureus and CN staphylococcus isolated from SSI",
+      "pointer_id": 3
+    },
+    {
+      "page": 5,
+      "table_id": "Table 4",
+      "text_snippet": "Antibiotic susceptibility pattern for gram negative bacteria isolated from SSI",
+      "pointer_id": 4
+    },
+    {
+      "page": 1,
+      "section_heading": "ABSTRACT",
+      "text_snippet": "The SSI incidence rates (7.0%) observed in this study were relatively lower than the ones documented in other studies in Kenya.",
+      "pointer_id": 5
+    },
+    {
+      "page": 5,
+      "section_heading": "DISCUSSION",
+      "text_snippet": "This study found out that the pathogens involved in SSI at the AKUHN included S. aureus (30.8%)...",
+      "pointer_id": 6
+    },
+    {
+      "page": 7,
+      "section_heading": "DISCUSSION",
+      "text_snippet": "This study found out that wound class IV and preoperative stay ≥2 days were the risk factors associated with SSI at the hospital.",
+      "pointer_id": 7
+    },
+    {
+      "page": 7,
+      "section_heading": "ACKNOWLEDGEMENTS",
+      "text_snippet": "My appreciation goes to the Aga Khan University Hospital for hosting and providing partial funding...",
+      "pointer_id": 8
+    },
+    {
+      "page": 1,
+      "section_heading": "ABSTRACT",
+      "table_id": "Table 1",
+      "pointer_id": 9
+    },
+    {
+      "page": 4,
+      "table_id": "Table 2, Table 3",
+      "page_2": 5,
+      "table_id_2": "Table 4",
+      "pointer_id": 10
+    },
+    {
+      "page": 6,
+      "table_id": "Table 5",
+      "text_snippet": "Association of corneal opacity and potential risk factors",
+      "pointer_id": 11
+    }
+  ],
+  "extraction_summary": {
+    "completeness_score": 85,
+    "missing_fields": [
+      "outcomes.length_of_stay",
+      "outcomes.mortality",
+      "outcomes.costs",
+      "outcomes.risk_factors_effects.effect_value"
+    ],
+    "parser_warnings": [],
+    "confidence_overall": "high"
+  }
+}

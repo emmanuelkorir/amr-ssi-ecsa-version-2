@@ -1,0 +1,627 @@
+{
+  "study": {
+    "study_id": "Iyamba2014-DRC-Kinshasa-2013-01",
+    "title": "High prevalence of methicillin resistant staphylococci strains isolated from surgical site infections in Kinshasa",
+    "authors": [
+      "Jean-Marie Liesse Iyamba",
+      "José Mulwahali Wambale",
+      "Cyprien Mbundu Lukukula",
+      "Ntondo za Balega Takaisi-Kikuni"
+    ],
+    "journal": "Pan African Medical Journal",
+    "year_publication": 2014,
+    "doi": "10.11604/pamj.2014.18.322.4440",
+    "country_list": [
+      "Democratic Republic of Congo"
+    ],
+    "country_iso3": "COD",
+    "region_classification": "ECSA",
+    "surgical_specialty": [
+      "general"
+    ],
+    "language": "English",
+    "data_source_type": "published_full_text",
+    "ownership_type": "mixed"
+  },
+  "design": {
+    "study_design": "cross_sectional",
+    "randomized": false,
+    "prospective": false,
+    "single_center": false,
+    "multi_center": true,
+    "inclusion_criteria_text": "Hospitalized surgical patients with purulent lesions of infected sites in two major hospitals of Kinshasa.",
+    "sample_frame": "patients",
+    "unit_of_analysis": "isolate",
+    "duplicate_publication_likelihood": false
+  },
+  "setting": {
+    "facility_level": "tertiary",
+    "urban_rural": "urban",
+    "care_setting": "hospital",
+    "country_specific_sites": [
+      "Provincial General Reference Hospital of Kinshasa (HGPRK)",
+      "Clinic of University of Kinshasa (CUK)"
+    ]
+  },
+  "eligibility": {
+    "population": "Hospitalized surgical patients with purulent lesions of infected sites",
+    "classification": "adult",
+    "outcomes_reported": [
+      "amr_prevalence"
+    ],
+    "timeframe_years": "January to October 2013",
+    "setting_types": [
+      "hospital"
+    ],
+    "included_designs": [
+      "cross_sectional"
+    ],
+    "excluded_designs": []
+  },
+  "timeframe": {
+    "data_collection_start_year": 2013,
+    "data_collection_start_month": 1,
+    "data_collection_end_year": 2013,
+    "data_collection_end_month": 10,
+    "follow_up_window_days": 30
+  },
+  "populations": [
+    {
+      "arm_id": "overall",
+      "description": "All hospitalized surgical patients with purulent lesions of infected sites in two major hospitals of Kinshasa",
+      "n_participants": 130,
+      "age_group": "adult",
+      "elective_emergency": "unspecified",
+      "wound_class": "unspecified",
+      "surgical_specialties": [
+        "general"
+      ],
+      "provenance": {
+        "page": 2,
+        "section_heading": "Methods",
+        "text_snippet": "from purulent lesions of infected sites of 130 hospitalized surgical patients"
+      }
+    }
+  ],
+  "definitions": {
+    "ssi_definition_standard": [
+      "CDC_NHSN"
+    ],
+    "ssi_window_days": 30,
+    "amr_definition_standard": [
+      "CLSI"
+    ],
+    "breakpoint_version": "CLSI 2011",
+    "resistance_definition_text": "Evaluation of the results was done according to the criteria of Clinical Laboratory Standards Institute (CLSI) [10]. Test for methicillin resistance was performed with diffusion method using oxacillin (1 µg) on Mueller Hinton agar with 4 % NaCl.",
+    "specimen_type": [
+      "wound_swab"
+    ]
+  },
+  "lab_methods": {
+    "specimen_collection_method": "Wound swab collected using sterile cotton swabs in Stuart transport media after aseptic cleaning with normal saline and sterile gauzes.",
+    "culture_method": "Inoculation into mannitol-salt agar, incubation at 37°C for 24 hours.",
+    "AST_method": [
+      "disk_diffusion"
+    ],
+    "QC_measures": "S. aureus ATCC 25923 and Staphylococcus epidermidis ATCC 12228 were used for quality control.",
+    "organism_identification_method": "Gram staining, catalase reaction, latex agglutination test (Pastorex Staph-Plus), DNase test."
+  },
+  "outcomes": {
+    "ssi_incidence": [],
+    "amr_proportions": [
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "ampicillin",
+        "who_class": "important",
+        "n_tested": 74,
+        "n_resistant": 58,
+        "n_susceptible": 16,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2011",
+        "specimen_type": "wound_swab",
+        "site": "surgical site/wound",
+        "data_period": {
+          "start_year": 2013,
+          "end_year": 2013
+        },
+        "mdr_definition_text": "Multidrug resistance was observed in MRSA and MR-CNS strains.",
+        "mrsa_detection_method": "disk diffusion using oxacillin (1 µg) on Mueller Hinton agar with 4% NaCl",
+        "zone_diameter_unit": "mm",
+        "provenance": {
+          "page": 6,
+          "section_heading": "Table 1",
+          "table_id": "Table 1",
+          "text_snippet": "Ampicillin 16 (21.6%) 58 (78.4%)"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "amoxicillin-clavulanate",
+        "who_class": "critically_important",
+        "n_tested": 74,
+        "n_resistant": 9,
+        "n_susceptible": 65,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2011",
+        "specimen_type": "wound_swab",
+        "site": "surgical site/wound",
+        "data_period": {
+          "start_year": 2013,
+          "end_year": 2013
+        },
+        "mdr_definition_text": "Multidrug resistance was observed in MRSA and MR-CNS strains.",
+        "mrsa_detection_method": "disk diffusion using oxacillin (1 µg) on Mueller Hinton agar with 4% NaCl",
+        "zone_diameter_unit": "mm",
+        "provenance": {
+          "page": 6,
+          "section_heading": "Table 1",
+          "table_id": "Table 1",
+          "text_snippet": "Amoxicillin/Clav.acid 65 (88%) 9 (12%)"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "ceftazidime",
+        "who_class": "critically_important",
+        "n_tested": 74,
+        "n_resistant": 37,
+        "n_susceptible": 37,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2011",
+        "specimen_type": "wound_swab",
+        "site": "surgical site/wound",
+        "data_period": {
+          "start_year": 2013,
+          "end_year": 2013
+        },
+        "mdr_definition_text": "Multidrug resistance was observed in MRSA and MR-CNS strains.",
+        "mrsa_detection_method": "disk diffusion using oxacillin (1 µg) on Mueller Hinton agar with 4% NaCl",
+        "zone_diameter_unit": "mm",
+        "provenance": {
+          "page": 6,
+          "section_heading": "Table 1",
+          "table_id": "Table 1",
+          "text_snippet": "Ceftazidime 37 (50%) 37 (50%)"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "cefotaxime",
+        "who_class": "critically_important",
+        "n_tested": 74,
+        "n_resistant": 30,
+        "n_susceptible": 44,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2011",
+        "specimen_type": "wound_swab",
+        "site": "surgical site/wound",
+        "data_period": {
+          "start_year": 2013,
+          "end_year": 2013
+        },
+        "mdr_definition_text": "Multidrug resistance was observed in MRSA and MR-CNS strains.",
+        "mrsa_detection_method": "disk diffusion using oxacillin (1 µg) on Mueller Hinton agar with 4% NaCl",
+        "zone_diameter_unit": "mm",
+        "provenance": {
+          "page": 6,
+          "section_heading": "Table 1",
+          "table_id": "Table 1",
+          "text_snippet": "Cefotaxime 44 (59.5%) 30 (40.5%)"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "ciprofloxacin",
+        "who_class": "critically_important",
+        "n_tested": 74,
+        "n_resistant": 50,
+        "n_susceptible": 24,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2011",
+        "specimen_type": "wound_swab",
+        "site": "surgical site/wound",
+        "data_period": {
+          "start_year": 2013,
+          "end_year": 2013
+        },
+        "mdr_definition_text": "Multidrug resistance was observed in MRSA and MR-CNS strains.",
+        "mrsa_detection_method": "disk diffusion using oxacillin (1 µg) on Mueller Hinton agar with 4% NaCl",
+        "zone_diameter_unit": "mm",
+        "provenance": {
+          "page": 6,
+          "section_heading": "Table 1",
+          "table_id": "Table 1",
+          "text_snippet": "Ciprofloxacin 24 (32.4%) 50 (67.6%)"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "clindamycin",
+        "who_class": "critically_important",
+        "n_tested": 74,
+        "n_resistant": 52,
+        "n_susceptible": 22,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2011",
+        "specimen_type": "wound_swab",
+        "site": "surgical site/wound",
+        "data_period": {
+          "start_year": 2013,
+          "end_year": 2013
+        },
+        "mdr_definition_text": "Multidrug resistance was observed in MRSA and MR-CNS strains.",
+        "mrsa_detection_method": "disk diffusion using oxacillin (1 µg) on Mueller Hinton agar with 4% NaCl",
+        "zone_diameter_unit": "mm",
+        "provenance": {
+          "page": 6,
+          "section_heading": "Table 1",
+          "table_id": "Table 1",
+          "text_snippet": "Clindamycin 22 (29.7%) 52 (70.3%)"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "cotrimoxazole",
+        "who_class": "critically_important",
+        "n_tested": 74,
+        "n_resistant": 54,
+        "n_susceptible": 20,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2011",
+        "specimen_type": "wound_swab",
+        "site": "surgical site/wound",
+        "data_period": {
+          "start_year": 2013,
+          "end_year": 2013
+        },
+        "mdr_definition_text": "Multidrug resistance was observed in MRSA and MR-CNS strains.",
+        "mrsa_detection_method": "disk diffusion using oxacillin (1 µg) on Mueller Hinton agar with 4% NaCl",
+        "zone_diameter_unit": "mm",
+        "provenance": {
+          "page": 6,
+          "section_heading": "Table 1",
+          "table_id": "Table 1",
+          "text_snippet": "Cotrimoxazole 20 (27%) 54 (73%)"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "erythromycin",
+        "who_class": "critically_important",
+        "n_tested": 74,
+        "n_resistant": 51,
+        "n_susceptible": 23,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2011",
+        "specimen_type": "wound_swab",
+        "site": "surgical site/wound",
+        "data_period": {
+          "start_year": 2013,
+          "end_year": 2013
+        },
+        "mdr_definition_text": "Multidrug resistance was observed in MRSA and MR-CNS strains.",
+        "mrsa_detection_method": "disk diffusion using oxacillin (1 µg) on Mueller Hinton agar with 4% NaCl",
+        "zone_diameter_unit": "mm",
+        "provenance": {
+          "page": 6,
+          "section_heading": "Table 1",
+          "table_id": "Table 1",
+          "text_snippet": "Erythromycin 23 (31%) 51 (69%)"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "imipenem",
+        "who_class": "critically_important",
+        "n_tested": 74,
+        "n_resistant": 0,
+        "n_susceptible": 74,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2011",
+        "specimen_type": "wound_swab",
+        "site": "surgical site/wound",
+        "data_period": {
+          "start_year": 2013,
+          "end_year": 2013
+        },
+        "mdr_definition_text": "Multidrug resistance was observed in MRSA and MR-CNS strains.",
+        "mrsa_detection_method": "disk diffusion using oxacillin (1 µg) on Mueller Hinton agar with 4% NaCl",
+        "zone_diameter_unit": "mm",
+        "provenance": {
+          "page": 6,
+          "section_heading": "Table 1",
+          "table_id": "Table 1",
+          "text_snippet": "Imipenem 74 (100%) 0 (0%)"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "vancomycin",
+        "who_class": "critically_important",
+        "n_tested": 74,
+        "n_resistant": 11,
+        "n_susceptible": 63,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2011",
+        "specimen_type": "wound_swab",
+        "site": "surgical site/wound",
+        "data_period": {
+          "start_year": 2013,
+          "end_year": 2013
+        },
+        "mdr_definition_text": "Multidrug resistance was observed in MRSA and MR-CNS strains.",
+        "mrsa_detection_method": "disk diffusion using oxacillin (1 µg) on Mueller Hinton agar with 4% NaCl",
+        "zone_diameter_unit": "mm",
+        "notes": "VRSA rate 15% in all S. aureus strains",
+        "provenance": {
+          "page": 6,
+          "section_heading": "Table 1",
+          "table_id": "Table 1",
+          "text_snippet": "Vancomycin 63 (85%) 11 (15%)"
+        }
+      }
+    ],
+    "morbidity": [],
+    "mortality": [],
+    "reoperations": [],
+    "readmissions": [],
+    "length_of_stay": [],
+    "costs": [],
+    "risk_factors_effects": [
+      {
+        "exposure": "high pressure use of broad spectrum antibiotics or long hospital stay",
+        "outcome": [
+          "amr_infection"
+        ],
+        "adjusted": false,
+        "notes": "Attributed as possible drivers of high MRSA and MR-CNS prevalence in discussion.",
+        "provenance": {
+          "page": 3,
+          "section_heading": "Discussion",
+          "text_snippet": "can be attributed to the high pressure use of broad spectrum antibiotics or to the long stay hospital"
+        }
+      }
+    ]
+  },
+  "interventions": [
+    {
+      "type": "policy_change",
+      "description": "Recommendation for national antibiotic surveillance policy due to high prevalence of multidrug resistant MRSA and MR-CNS.",
+      "implementation_level": "national",
+      "outcomes_measured": [
+        "amr_prevalence"
+      ],
+      "effect_direction": "unclear",
+      "provenance": {
+        "page": 1,
+        "section_heading": "Abstract",
+        "text_snippet": "This study suggests that antibiotic surveillance policy should become national priority as MRSA and MR-CNS were found to be multidrug resistant."
+      }
+    }
+  ],
+  "stewardship_guidelines": [],
+  "policy_capacity": [
+    {
+      "domain": "antibiotic_policy",
+      "status_text": "Lack of antibiotic surveillance policies in DRC noted.",
+      "indicators": {},
+      "provenance": {
+        "page": 2,
+        "section_heading": "Introduction",
+        "text_snippet": "remains unknown due to lack of antibiotic surveillance policies"
+      }
+    }
+  ],
+  "qualitative_thematic": {
+    "codes": [
+      {
+        "theme": "amr_prevalence",
+        "subtheme": "other",
+        "summary": "High prevalence of MRSA (63.5%) and MR-CNS (60%) among staphylococcal isolates from SSIs in Kinshasa.",
+        "evidence_quotes": [
+          {
+            "quote": "Out of 74 S. aureus and 15 CNS isolated, 47 (63.5%) and 9 (60%) were identified as MRSA and MR-CNS respectively.",
+            "page": 1,
+            "section": "Abstract"
+          }
+        ],
+        "location_context": "Kinshasa, DRC, Provincial General Reference Hospital and Clinic of University of Kinshasa",
+        "confidence": "high",
+        "provenance": {
+          "page": 1,
+          "section_heading": "Abstract",
+          "text_snippet": "Out of 74 S. aureus and 15 CNS isolated, 47 (63.5%) and 9 (60%) were identified as MRSA and MR-CNS respectively."
+        }
+      },
+      {
+        "theme": "drivers_amr",
+        "subtheme": "other",
+        "summary": "High MRSA and MR-CNS prevalence may be attributed to broad spectrum antibiotic use and long hospital stays.",
+        "evidence_quotes": [
+          {
+            "quote": "The highest MRSA and MR-CNS prevalence observed in our study can be attributed to the high pressure use of broad spectrum antibiotics or to the long stay hospital.",
+            "page": 3,
+            "section": "Discussion"
+          }
+        ],
+        "location_context": "Kinshasa, DRC",
+        "confidence": "moderate",
+        "provenance": {
+          "page": 3,
+          "section_heading": "Discussion",
+          "text_snippet": "can be attributed to the high pressure use of broad spectrum antibiotics or to the long stay hospital"
+        }
+      },
+      {
+        "theme": "microbiology_diagnostics",
+        "subtheme": "other",
+        "summary": "Standard microbiological methods and CLSI disk diffusion were used for identification and susceptibility testing.",
+        "evidence_quotes": [
+          {
+            "quote": "S. aureus and CNS strains were identified by standard microbiological methods and latex agglutination test (Pastorex Staph-Plus). The antibiotic susceptibility of all staphylococcal strains was carried out using disk-diffusion method.",
+            "page": 1,
+            "section": "Abstract"
+          }
+        ],
+        "location_context": "Kinshasa, DRC, University of Kinshasa",
+        "confidence": "high",
+        "provenance": {
+          "page": 1,
+          "section_heading": "Abstract",
+          "text_snippet": "standard microbiological methods and latex agglutination test (Pastorex Staph-Plus). The antibiotic susceptibility of all staphylococcal strains was carried out using disk-diffusion method."
+        }
+      },
+      {
+        "theme": "policy_capacity",
+        "subtheme": "other",
+        "summary": "Antibiotic surveillance policy is lacking in DRC and recommended as a national priority.",
+        "evidence_quotes": [
+          {
+            "quote": "MRSA and MR-CNS from SSIs to antibiotics remains unknown due to lack of antibiotic surveillance policies.",
+            "page": 2,
+            "section": "Introduction"
+          }
+        ],
+        "location_context": "DRC",
+        "confidence": "high",
+        "provenance": {
+          "page": 2,
+          "section_heading": "Introduction",
+          "text_snippet": "remains unknown due to lack of antibiotic surveillance policies"
+        }
+      }
+    ],
+    "method": "unspecified"
+  },
+  "risk_of_bias": {
+    "tool_used": "not_reported",
+    "domain_judgements": {},
+    "overall_judgement": "not_reported",
+    "provenance": {}
+  },
+  "funding_conflicts": {
+    "funding_sources": [],
+    "conflicts_of_interest": "The authors declare no competing interest.",
+    "provenance": {
+      "page": 3,
+      "section_heading": "Competing interests",
+      "text_snippet": "The authors declare no competing interest."
+    }
+  },
+  "notes_flags": [
+    {
+      "type": [
+        "missing_data"
+      ],
+      "detail": "No SSI incidence (events/denominator) reported.",
+      "provenance": {
+        "page": 1,
+        "section_heading": "Abstract",
+        "text_snippet": "to determine the prevalence and the sensitivity to antibiotics of MRSA and MR-CNS isolated from SSIs"
+      }
+    },
+    {
+      "type": [
+        "missing_data"
+      ],
+      "detail": "No clinical outcomes (morbidity, mortality, reoperation, readmission, LOS, costs) reported.",
+      "provenance": {
+        "page": 1,
+        "section_heading": "Abstract",
+        "text_snippet": "associated with high treatment cost and remain a source of mortality and morbidity"
+      }
+    },
+    {
+      "type": [
+        "unit_unclear"
+      ],
+      "detail": "No explicit mention of per-patient vs per-procedure denominator for AMR proportions; assumed per isolate.",
+      "provenance": {
+        "page": 6,
+        "section_heading": "Table 1",
+        "table_id": "Table 1",
+        "text_snippet": "S. aureus (n= 74)"
+      }
+    }
+  ],
+  "provenance_index": [
+    {
+      "page": 1,
+      "section_heading": "Abstract",
+      "text_snippet": "Out of 74 S. aureus and 15 CNS isolated, 47 (63.5%) and 9 (60%) were identified as MRSA and MR-CNS respectively."
+    },
+    {
+      "page": 2,
+      "section_heading": "Methods",
+      "text_snippet": "from purulent lesions of infected sites of 130 hospitalized surgical patients"
+    },
+    {
+      "page": 6,
+      "section_heading": "Table 1",
+      "table_id": "Table 1",
+      "text_snippet": "Ampicillin 16 (21.6%) 58 (78.4%)"
+    },
+    {
+      "page": 3,
+      "section_heading": "Discussion",
+      "text_snippet": "can be attributed to the high pressure use of broad spectrum antibiotics or to the long stay hospital"
+    },
+    {
+      "page": 2,
+      "section_heading": "Introduction",
+      "text_snippet": "remains unknown due to lack of antibiotic surveillance policies"
+    },
+    {
+      "page": 3,
+      "section_heading": "Competing interests",
+      "text_snippet": "The authors declare no competing interest."
+    }
+  ],
+  "extraction_summary": {
+    "completeness_score": 65,
+    "missing_fields": [
+      "ssi_incidence",
+      "morbidity",
+      "mortality",
+      "reoperations",
+      "readmissions",
+      "length_of_stay",
+      "costs",
+      "stewardship_guidelines",
+      "GLASS_participation",
+      "clinical outcome definitions",
+      "comorbidities",
+      "age distribution",
+      "wound class",
+      "elective/emergency status"
+    ],
+    "parser_warnings": [
+      "No SSI incidence data reported.",
+      "No clinical outcome data reported.",
+      "No stewardship guideline or adherence data.",
+      "No costing or economic impact data.",
+      "No explicit mention of GLASS participation."
+    ],
+    "confidence_overall": "moderate"
+  }
+}

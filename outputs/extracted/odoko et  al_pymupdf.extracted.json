@@ -1,0 +1,493 @@
+{
+  "study": {
+    "study_id": "Odoko2024-Ethiopia-SodoHospitals-2022-01",
+    "title": "Extended-spectrum β-lactamase and carbapenemase producing Enterobacteriaceae among patients suspected with surgical site infection at Hospitals in Southern Ethiopia",
+    "authors": [
+      "Desta Odoko",
+      "Abera Kumalo",
+      "Getachew Alemu",
+      "Tigistu Demisse",
+      "Teshale Mulugeta",
+      "Muluneh Temesgen"
+    ],
+    "journal": "Frontiers in Microbiology",
+    "year_publication": 2024,
+    "doi": "10.3389/fmicb.2024.1417425",
+    "country_list": [
+      "Ethiopia"
+    ],
+    "country_iso3": "ETH",
+    "region_classification": "ECSA",
+    "surgical_specialty": [
+      "orthopedics",
+      "obstetrics/gynecology",
+      "general"
+    ],
+    "language": "English",
+    "data_source_type": "published_full_text",
+    "ownership_type": "mixed"
+  },
+  "design": {
+    "study_design": "cross_sectional",
+    "randomized": false,
+    "prospective": false,
+    "single_center": false,
+    "multi_center": true,
+    "inclusion_criteria_text": "Patients who were clinically suspected of having surgical site infection.",
+    "sample_frame": "patients",
+    "unit_of_analysis": "patient",
+    "duplicate_publication_likelihood": false
+  },
+  "setting": {
+    "facility_level": "tertiary",
+    "urban_rural": "urban",
+    "care_setting": "hospital",
+    "country_specific_sites": [
+      "Wolaita Sodo Comprehensive Specialized Hospital",
+      "Sodo Christian General Hospital"
+    ]
+  },
+  "eligibility": {
+    "population": "Patients clinically suspected of having surgical site infection at two hospitals in Sodo Town, Southern Ethiopia.",
+    "classification": "mixed",
+    "intervention": "Not specified; clinical management and laboratory testing for ESBL and carbapenemase-producing Enterobacteriaceae.",
+    "comparator": "None",
+    "outcomes_reported": [
+      "amr_prevalence"
+    ],
+    "timeframe_years": "June 1, 2022 to August 30, 2022",
+    "setting_types": [
+      "hospital"
+    ],
+    "included_designs": [
+      "cross_sectional"
+    ],
+    "excluded_designs": []
+  },
+  "timeframe": {
+    "data_collection_start_year": 2022,
+    "data_collection_start_month": 6,
+    "data_collection_end_year": 2022,
+    "data_collection_end_month": 8
+  },
+  "populations": [
+    {
+      "arm_id": "overall",
+      "description": "All patients clinically suspected of SSI at two hospitals in Sodo Town, Southern Ethiopia.",
+      "n_participants": 422,
+      "age_group": "mixed",
+      "elective_emergency": "unspecified",
+      "wound_class": "mixed",
+      "comorbidities_key": "Diabetes 6.4%, HIV/AIDS 2.6%, chronic liver disease 0.5%, heart failure 1.2%, immunosuppressive (long term steroid) 6.6%",
+      "surgical_specialties": [
+        "orthopedics",
+        "obstetrics/gynecology",
+        "general"
+      ],
+      "provenance": {
+        "page": 5,
+        "section_heading": "Clinical and medical status of the study participants",
+        "table_id": "Table 2",
+        "text_snippet": "A total of 422 participants were admitted to the study. Of these, 221 (52.4%) were from the orthopedics ward, 112 (26.5%) from the surgery ward, and 89 (21.1%) from the Obstetrics and Gynecology Unit."
+      }
+    }
+  ],
+  "definitions": {
+    "ssi_definition_standard": [
+      "CDC_NHSN"
+    ],
+    "amr_definition_standard": [
+      "CLSI"
+    ],
+    "breakpoint_version": "CLSI 2021",
+    "resistance_definition_text": "Sensitive, intermediate and resistant according to Clinical Laboratory Standards Institute (CLSI) guidelines.",
+    "outcome_definitions_text": "SSI defined by CDC criteria; ESBL confirmed by double-disc synergy test; carbapenemase by modified Hodge test.",
+    "specimen_type": [
+      "wound_swab",
+      "aspirate",
+      "pus"
+    ]
+  },
+  "lab_methods": {
+    "specimen_collection_method": "Swabs and aspirates collected aseptically from suspected SSI patients; swabs rotated on 1 cm2 area of clean granulation tissue for 5 seconds; aspirates collected with 5 ml syringe.",
+    "culture_method": "Specimens cultured on blood agar and MacConkey agar; incubated at 37°C for 24–48 h; colony morphology, Gram stain, and biochemical tests for identification.",
+    "AST_method": [
+      "disk_diffusion"
+    ],
+    "QC_measures": "Sterility of culture media confirmed; 5% of media incubated overnight; standard reference strains used for ESBL and carbapenemase controls.",
+    "organism_identification_method": "Colony morphology, Gram staining, standard biochemical tests.",
+    "contamination_handling": "Specimens delayed were put in Amies transport medium.",
+    "lab_capacity_notes": "Specimens processed at Sodo Christian General Hospital Microbiology Laboratory; carbapenemase confirmation at Ethiopia Public Health Institute."
+  },
+  "outcomes": {
+    "ssi_incidence": [],
+    "amr_proportions": [
+      {
+        "arm_id": "overall",
+        "pathogen": "Escherichia coli",
+        "antibiotic": "cefepime",
+        "who_class": "critically_important",
+        "n_tested": 29,
+        "n_resistant": 26,
+        "n_susceptible": 3,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2021",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2022,
+          "end_year": 2022
+        },
+        "mdr_definition_text": "MDR: resistant to at least one agent in three or more antimicrobial categories.",
+        "n_mdr": 14,
+        "n_xdr": 11,
+        "esbl_test": "double-disc synergy test",
+        "n_esbl_positive": 25,
+        "carbapenemase_test": "modified Hodge test",
+        "n_carbapenemase_positive": 4,
+        "carbapenemase_genes": "NDM (2), KPC (1)",
+        "zone_diameter_unit": "mm",
+        "notes": "ESBL and carbapenemase rates reported for E. coli.",
+        "provenance": {
+          "page": 7,
+          "section_heading": "Antimicrobial susceptibility pattern of extended-spectrum β-lactamase and carbapenemase producing Enterobacterales",
+          "table_id": "Table 4",
+          "text_snippet": "E. coli (n = 29)...R 26 (90%)"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Klebsiella pneumoniae",
+        "antibiotic": "cefepime",
+        "who_class": "critically_important",
+        "n_tested": 14,
+        "n_resistant": 14,
+        "n_susceptible": 0,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2021",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2022,
+          "end_year": 2022
+        },
+        "mdr_definition_text": "MDR: resistant to at least one agent in three or more antimicrobial categories.",
+        "n_mdr": 3,
+        "n_xdr": 10,
+        "esbl_test": "double-disc synergy test",
+        "n_esbl_positive": 7,
+        "carbapenemase_test": "modified Hodge test",
+        "n_carbapenemase_positive": 7,
+        "zone_diameter_unit": "mm",
+        "notes": "All K. pneumoniae isolates resistant to cefepime.",
+        "provenance": {
+          "page": 7,
+          "section_heading": "Antimicrobial susceptibility pattern of extended-spectrum β-lactamase and carbapenemase producing Enterobacterales",
+          "table_id": "Table 4",
+          "text_snippet": "K. pneumoniae (n = 14)...R 14 (100%)"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Escherichia coli",
+        "antibiotic": "meropenem",
+        "who_class": "critically_important",
+        "n_tested": 29,
+        "n_resistant": 4,
+        "n_susceptible": 25,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2021",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2022,
+          "end_year": 2022
+        },
+        "mdr_definition_text": "MDR: resistant to at least one agent in three or more antimicrobial categories.",
+        "n_mdr": 14,
+        "n_xdr": 11,
+        "esbl_test": "double-disc synergy test",
+        "n_esbl_positive": 25,
+        "carbapenemase_test": "modified Hodge test",
+        "n_carbapenemase_positive": 4,
+        "carbapenemase_genes": "NDM (2), KPC (1)",
+        "zone_diameter_unit": "mm",
+        "notes": "High susceptibility to meropenem among E. coli.",
+        "provenance": {
+          "page": 7,
+          "section_heading": "Antimicrobial susceptibility pattern of extended-spectrum β-lactamase and carbapenemase producing Enterobacterales",
+          "table_id": "Table 4",
+          "text_snippet": "E. coli (n = 29)...S 25 (86.2%)"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Klebsiella pneumoniae",
+        "antibiotic": "meropenem",
+        "who_class": "critically_important",
+        "n_tested": 14,
+        "n_resistant": 9,
+        "n_susceptible": 5,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2021",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2022,
+          "end_year": 2022
+        },
+        "mdr_definition_text": "MDR: resistant to at least one agent in three or more antimicrobial categories.",
+        "n_mdr": 3,
+        "n_xdr": 10,
+        "esbl_test": "double-disc synergy test",
+        "n_esbl_positive": 7,
+        "carbapenemase_test": "modified Hodge test",
+        "n_carbapenemase_positive": 7,
+        "zone_diameter_unit": "mm",
+        "notes": "K. pneumoniae: 64.3% resistant to meropenem.",
+        "provenance": {
+          "page": 7,
+          "section_heading": "Antimicrobial susceptibility pattern of extended-spectrum β-lactamase and carbapenemase producing Enterobacterales",
+          "table_id": "Table 4",
+          "text_snippet": "K. pneumoniae (n = 14)...R 9 (64.3%)"
+        }
+      }
+    ],
+    "morbidity": [],
+    "mortality": [],
+    "reoperations": [],
+    "readmissions": [],
+    "length_of_stay": [
+      {
+        "group": "overall",
+        "n": 422,
+        "notes": "Length of hospital stay reported in categories: 1–7 days (32.5%), 8–14 days (34.8%), >15 days (32.7%).",
+        "provenance": {
+          "page": 6,
+          "section_heading": "Clinical and medical status of the study participants",
+          "table_id": "Table 2",
+          "text_snippet": "Length of medical stay in hospital: 1–7 days 137 (32.5%), 8–14 days 147 (34.8%), >15 days 138 (32.7%)"
+        }
+      }
+    ],
+    "costs": [],
+    "risk_factors_effects": [
+      {
+        "exposure": "Length of hospital stay (8–14 days vs 1–7 days)",
+        "outcome": "ssi_incidence",
+        "effect_measure": "aOR",
+        "effect_value": 3.81,
+        "ci_lower": 2.08,
+        "ci_upper": 6.95,
+        "p_value": 0.01,
+        "adjusted": true,
+        "covariates_adjusted_for": "age, ward, diabetes",
+        "n_included": 422,
+        "notes": "Length of hospital stay was independently associated with SSI due to ESBL-producing Enterobacteriaceae.",
+        "provenance": {
+          "page": 11,
+          "section_heading": "TABLE 6 Bivariate and multivariate logistic regression analysis",
+          "table_id": "Table 6",
+          "text_snippet": "Length of medical stay in hospital...AOR = 3.81 (95% CI 2.08–6.95)"
+        }
+      }
+    ]
+  },
+  "interventions": [],
+  "stewardship_guidelines": [],
+  "policy_capacity": [],
+  "qualitative_thematic": {
+    "codes": [
+      {
+        "theme": "amr_prevalence",
+        "subtheme": "resistance patterns and rates by pathogen/antibiotic",
+        "summary": "High rates of ESBL (46%) and carbapenemase (15%) producing Enterobacteriaceae were found among SSI suspects, with predominant resistance to cefepime, ceftriaxone, ceftazidime, and amoxicillin-clavulanic acid.",
+        "evidence_quotes": [
+          {
+            "quote": "Of 69 Enterobacteriaceae isolates, 66.6 % (46/69) were positive for ESBL production, and 21.7 (15/69) were positive for carbapenemase-producing Enterobacteriaceae.",
+            "page": 1,
+            "section": "Result"
+          },
+          {
+            "quote": "The majority of Enterobacteriaceae isolates showed sensitivity to meropenem (72.1%); however revealed 63.9% and 70.5% were resistant to gentamicin and ciprofloxacin, respectively.",
+            "page": 1,
+            "section": "Result"
+          }
+        ],
+        "location_context": "Southern Ethiopia, Wolaita Sodo Comprehensive Specialized Hospital and Sodo Christian General Hospital",
+        "confidence": "high",
+        "provenance": {
+          "page": 1,
+          "section_heading": "Result",
+          "text_snippet": "Of 69 Enterobacteriaceae isolates, 66.6 % (46/69) were positive for ESBL production, and 21.7 (15/69) were positive for carbapenemase-producing Enterobacteriaceae."
+        }
+      },
+      {
+        "theme": "drivers_amr",
+        "subtheme": "inappropriate use, IPC gaps, diagnostics delays, policy failures, supply chain, workforce, patient factors",
+        "summary": "Overuse of antibiotics, self-medication, prescribing without susceptibility testing, and prolonged hospital stays are contributing factors to ESBL and CPE prevalence.",
+        "evidence_quotes": [
+          {
+            "quote": "The issue of ESBL in developing countries has been made severe by the overuse of antibiotics, overdosing, self-medication, prescribing medications without conducting the proper susceptibility testing, and extended hospital stays.",
+            "page": 3,
+            "section": "Introduction"
+          }
+        ],
+        "location_context": "Southern Ethiopia",
+        "confidence": "moderate",
+        "provenance": {
+          "page": 3,
+          "section_heading": "Introduction",
+          "text_snippet": "The issue of ESBL in developing countries has been made severe by the overuse of antibiotics, overdosing, self-medication, prescribing medications without conducting the proper susceptibility testing, and extended hospital stays."
+        }
+      },
+      {
+        "theme": "prevention_control",
+        "subtheme": "IPC programs, bundles, surveillance practices",
+        "summary": "Advancements in infection prevention and control practices have occurred, but SSIs remain a major cause of prolonged hospital stays, morbidity, and mortality.",
+        "evidence_quotes": [
+          {
+            "quote": "While there have been advancements in infection prevention and control practices, such as better ventilation of surgical sites, surgical techniques, barriers, and the availability of antimicrobials or antibiotics used for prophylaxis, surgical site infections (SSIs) still account for a major cause of prolonged hospital stays, morbidity, and mortality.",
+            "page": 2,
+            "section": "Introduction"
+          }
+        ],
+        "location_context": "Southern Ethiopia",
+        "confidence": "moderate",
+        "provenance": {
+          "page": 2,
+          "section_heading": "Introduction",
+          "text_snippet": "While there have been advancements in infection prevention and control practices..."
+        }
+      },
+      {
+        "theme": "evidence_gaps",
+        "subtheme": "explicit gaps and research priorities",
+        "summary": "Research on ESBL and CPE for SSI is lacking in developing nations like Ethiopia, especially in southern regions.",
+        "evidence_quotes": [
+          {
+            "quote": "Yet, research on ESBL and CPE for SSI is lacking in developing nations like Ethiopia, and no study has previously examined the prevalence of ESBL and CPE with SSI in the southern Ethiopian region of Wolaita.",
+            "page": 3,
+            "section": "Introduction"
+          }
+        ],
+        "location_context": "Southern Ethiopia",
+        "confidence": "high",
+        "provenance": {
+          "page": 3,
+          "section_heading": "Introduction",
+          "text_snippet": "no study has previously examined the prevalence of ESBL and CPE with SSI in the southern Ethiopian region of Wolaita."
+        }
+      }
+    ]
+  },
+  "risk_of_bias": {
+    "tool_used": "not_reported",
+    "domain_judgements": {},
+    "overall_judgement": "not_reported",
+    "provenance": {}
+  },
+  "funding_conflicts": {
+    "funding_sources": [
+      "No financial support was received for the research, authorship, and/or publication of this article."
+    ],
+    "conflicts_of_interest": "The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.",
+    "provenance": {
+      "page": 12,
+      "section_heading": "Funding",
+      "text_snippet": "The author(s) declare that no financial support was received for the research, authorship, and/or publication of this article."
+    }
+  },
+  "notes_flags": [
+    {
+      "type": [
+        "missing_data"
+      ],
+      "detail": "SSI incidence events not directly reported; only suspected SSI patients included.",
+      "provenance": {
+        "page": 3,
+        "section_heading": "Study population",
+        "text_snippet": "Patients who were clinically suspected of having surgical site infection."
+      }
+    },
+    {
+      "type": [
+        "missing_data"
+      ],
+      "detail": "No data on mortality, reoperations, readmissions, or costs.",
+      "provenance": {}
+    },
+    {
+      "type": [
+        "unit_unclear"
+      ],
+      "detail": "SSI ascertainment window not specified.",
+      "provenance": {
+        "page": 3,
+        "section_heading": "Sample size determination and sampling technique",
+        "text_snippet": "clinical criteria for surgical site infection development (deep incisional surgical site infection, organ/space any surgical site infection, and superficial incisional surgical site infection) from any surgical site infection categorization system from the CDC guidelines were used"
+      }
+    },
+    {
+      "type": "dropped_ssi_rows",
+      "detail": "Dropped 1 SSI rows missing required counts (n_ssi_events and/or n_total)"
+    }
+  ],
+  "provenance_index": [
+    {
+      "page": 1,
+      "section_heading": "Result",
+      "text_snippet": "Of 69 Enterobacteriaceae isolates, 66.6 % (46/69) were positive for ESBL production, and 21.7 (15/69) were positive for carbapenemase-producing Enterobacteriaceae."
+    },
+    {
+      "page": 7,
+      "section_heading": "Antimicrobial susceptibility pattern of extended-spectrum β-lactamase and carbapenemase producing Enterobacterales",
+      "table_id": "Table 4",
+      "text_snippet": "E. coli (n = 29)...R 26 (90%)"
+    },
+    {
+      "page": 6,
+      "section_heading": "Clinical and medical status of the study participants",
+      "table_id": "Table 2",
+      "text_snippet": "Length of medical stay in hospital: 1–7 days 137 (32.5%), 8–14 days 147 (34.8%), >15 days 138 (32.7%)"
+    },
+    {
+      "page": 11,
+      "section_heading": "TABLE 6 Bivariate and multivariate logistic regression analysis",
+      "table_id": "Table 6",
+      "text_snippet": "Length of medical stay in hospital...AOR = 3.81 (95% CI 2.08–6.95)"
+    },
+    {
+      "page": 3,
+      "section_heading": "Study population",
+      "text_snippet": "Patients who were clinically suspected of having surgical site infection."
+    },
+    {
+      "page": 12,
+      "section_heading": "Funding",
+      "text_snippet": "The author(s) declare that no financial support was received for the research, authorship, and/or publication of this article."
+    }
+  ],
+  "extraction_summary": {
+    "completeness_score": 80,
+    "missing_fields": [
+      "SSI events and denominator for incidence",
+      "Mortality, reoperations, readmissions, costs",
+      "Follow-up window for SSI ascertainment",
+      "Stewardship guidelines",
+      "Policy capacity",
+      "Qualitative method context"
+    ],
+    "parser_warnings": [
+      "No SSI event count reported; only suspected SSI patients included.",
+      "No clinical outcome data (mortality, reoperation, readmission, cost) reported.",
+      "No stewardship or policy capacity data reported.",
+      "No qualitative method details reported."
+    ],
+    "confidence_overall": "moderate"
+  }
+}

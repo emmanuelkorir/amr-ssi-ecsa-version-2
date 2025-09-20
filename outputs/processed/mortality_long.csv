@@ -1,0 +1,5 @@
+study_id,outcome,measure,n_deaths,n_total,rate_value,rate_unit,definition_text,country,facility_level,setting,year_start,year_end
+Varghese2024-Multicountry-FALCON-2018-2020-01,mortality,30_day_all_cause,29,1161,2.5,percent,Death within 30 days postoperatively.,Benin,mixed,hospital,2018,2020
+Jung2023-Uganda-Mulago-2021Q4_2022Q1-01,mortality,in_hospital,1,124,0.8,percent,Death during hospital stay (intra-operative cardiac arrest).,Uganda,tertiary,hospital,2021,2022
+Mukagendaneza2019-Rwanda-KigaliCHUK-2017_2018-01,mortality,in_hospital,3,294,1.1,percent,In-hospital deaths during study period.,Rwanda,tertiary,hospital,2017,2018
+Scherbaum2014-Gabon-Lambarene-2009-01,mortality,in_hospital,4,36,11.1,percent,In-hospital deaths among patients with nosocomial infections.,Gabon,tertiary,hospital,2009,2009

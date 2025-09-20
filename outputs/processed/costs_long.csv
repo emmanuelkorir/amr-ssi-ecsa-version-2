@@ -1,0 +1,3 @@
+study_id,outcome,cost_type,perspective,component,currency_code,price_year,amount,n,per_patient,exchange_rate_source,ppp_adjusted,country,facility_level,setting,year_start,year_end
+Gentilotti2020-Tanzania-Dodoma-2013-2015-1,costs,direct_medical,provider,antibiotics,EUR,2015,1500.0,,False,,,Tanzania,tertiary,hospital,2013,2015
+Gentilotti2020-Tanzania-Dodoma-2013-2015-1,costs,direct_medical,patient,antibiotics,EUR,2015,3.0,,True,,,Tanzania,tertiary,hospital,2013,2015

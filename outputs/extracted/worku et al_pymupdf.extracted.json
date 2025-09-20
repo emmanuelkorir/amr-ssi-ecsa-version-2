@@ -1,0 +1,447 @@
+{
+  "study": {
+    "study_id": "Worku2023-Ethiopia-FourHospitals-2020-2021-1",
+    "title": "Molecular Epidemiology of Methicillin-Resistant Staphylococcus aureus among Patients Diagnosed with Surgical Site Infection at Four Hospitals in Ethiopia",
+    "authors": [
+      "Seble Worku",
+      "Tamrat Abebe",
+      "Berhanu Seyoum",
+      "Ashenafi Alemu",
+      "Yidenek Shimelash",
+      "Marechign Yimer",
+      "Alemseged Abdissa",
+      "Getachew Tesfaye Beyene",
+      "Göte Swedberg",
+      "Adane Mihret"
+    ],
+    "journal": "Antibiotics",
+    "year_publication": 2023,
+    "doi": "10.3390/antibiotics12121681",
+    "country_list": [
+      "Ethiopia"
+    ],
+    "country_iso3": "ETH",
+    "region_classification": "ECSA",
+    "surgical_specialty": [
+      "general",
+      "obstetrics/gynecology",
+      "orthopedics"
+    ],
+    "language": "English",
+    "data_source_type": "published_full_text",
+    "ownership_type": "public"
+  },
+  "design": {
+    "study_design": "cross_sectional",
+    "randomized": false,
+    "prospective": false,
+    "single_center": false,
+    "multi_center": true,
+    "inclusion_criteria_text": "All surgical patients, regardless of age, who underwent surgery during the study period and developed signs and symptoms of surgical site infection (SSI) within 30 days were included.",
+    "exclusion_criteria_text": "Patients who developed SSIs after 30 days following the operation, those who refused to participate, patients with infected burn wounds, and those on treatment were excluded.",
+    "sample_frame": "patients",
+    "unit_of_analysis": "patient",
+    "duplicate_publication_likelihood": false
+  },
+  "setting": {
+    "facility_level": "tertiary",
+    "urban_rural": "mixed",
+    "care_setting": "hospital",
+    "country_specific_sites": [
+      "Debre Tabor Comprehensive Specialized Hospital",
+      "Tikur Anbessa Specialized Hospital",
+      "Hawassa University Teaching Hospital",
+      "Jimma University Teaching Hospital"
+    ]
+  },
+  "eligibility": {
+    "population": "Patients admitted for elective and emergency surgery in general surgery, gynecology/obstetric, and orthopedics wards who developed SSI within 30 days.",
+    "classification": "mixed",
+    "intervention": "Antimicrobial prophylaxis before or during operation; standard wound care; laboratory identification and susceptibility testing.",
+    "comparator": "None specified.",
+    "outcomes_reported": [
+      "amr_prevalence",
+      "risk_factors_effects"
+    ],
+    "timeframe_years": "July 2020 to August 2021",
+    "setting_types": [
+      "hospital",
+      "surgical_unit",
+      "ward"
+    ],
+    "included_designs": [
+      "cross_sectional"
+    ],
+    "excluded_designs": []
+  },
+  "timeframe": {
+    "data_collection_start_year": 2020,
+    "data_collection_start_month": 7,
+    "data_collection_end_year": 2021,
+    "data_collection_end_month": 8,
+    "follow_up_window_days": 30
+  },
+  "populations": [
+    {
+      "arm_id": "overall",
+      "description": "All patients with SSI at four hospitals in Ethiopia between July 2020 and August 2021.",
+      "n_participants": 752,
+      "age_group": "mixed",
+      "elective_emergency": "mixed",
+      "wound_class": "unspecified",
+      "surgical_specialties": [
+        "general",
+        "obstetrics/gynecology",
+        "orthopedics"
+      ],
+      "provenance": {
+        "page": 2,
+        "section_heading": "Results",
+        "text_snippet": "A multicenter study was conducted at four hospitals in Ethiopia. A wound culture was performed among 752 SSI patients."
+      }
+    }
+  ],
+  "definitions": {
+    "ssi_definition_standard": "study_defined",
+    "ssi_window_days": 30,
+    "amr_definition_standard": "CLSI",
+    "breakpoint_version": "CLSI 2021",
+    "resistance_definition_text": "Cefoxitin disk diffusion test used as surrogate for oxacillin resistance; vancomycin resistance defined as MIC >8 µg/mL.",
+    "outcome_definitions_text": "SSI defined as infection within 30 days post-operation. MRSA defined by cefoxitin resistance and/or mecA gene. VRSA defined by vancomycin MIC >8 µg/mL and vanA/vanB gene.",
+    "specimen_type": [
+      "wound_swab",
+      "aspirate"
+    ]
+  },
+  "lab_methods": {
+    "specimen_collection_method": "Wound swabs or aspirates collected based on standard operating procedure (SOP).",
+    "culture_method": "Conventional bacteriological techniques: blood agar plates, mannitol salt agar, Gram staining, catalase and coagulase tests.",
+    "AST_method": [
+      "disk_diffusion",
+      "MIC_broth",
+      "other"
+    ],
+    "QC_measures": "S. aureus ATCC® 25923 and ATCC® 43300 used as control strains for cefoxitin and vancomycin; sterility checks for media; 0.5 McFarland standard for inoculum.",
+    "organism_identification_method": "MALDI-TOF MS for confirmation; conventional phenotypic tests.",
+    "lab_capacity_notes": "All hospitals have microbiology laboratories for culture and antimicrobial sensitivity testing."
+  },
+  "outcomes": {
+    "ssi_incidence": [],
+    "amr_proportions": [
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "cefoxitin",
+        "who_class": "critically_important",
+        "n_tested": 163,
+        "n_resistant": 40,
+        "n_susceptible": 123,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2021",
+        "specimen_type": "wound_swab",
+        "site": "surgical site/wound",
+        "data_period": {
+          "start_year": 2020,
+          "end_year": 2021
+        },
+        "mrsa_detection_method": "Cefoxitin disk diffusion and mecA PCR",
+        "resistance_gene_markers": "mecA, femA, vanA, vanB",
+        "mic_unit": "µg/mL",
+        "mic_breakpoint_r": 8,
+        "zone_diameter_unit": "mm",
+        "notes": "MRSA defined as cefoxitin-resistant (≤21 mm) and/or mecA positive.",
+        "provenance": {
+          "page": 3,
+          "section_heading": "Results",
+          "table_id": "Table 1",
+          "text_snippet": "Cefoxitin\nI-Z ≥22 mm\n123 (16.4)\n123 (75.5)\nS\nMSSA\n≤21 mm\n40 (5.3)\n40 (24.5)\nR\nMRSA"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "vancomycin",
+        "who_class": "critically_important",
+        "n_tested": 40,
+        "n_resistant": 1,
+        "n_susceptible": 39,
+        "ast_method": "MIC_broth",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2021",
+        "specimen_type": "wound_swab",
+        "site": "surgical site/wound",
+        "data_period": {
+          "start_year": 2020,
+          "end_year": 2021
+        },
+        "resistance_gene_markers": "vanA, vanB",
+        "mic_unit": "µg/mL",
+        "mic_breakpoint_r": 8,
+        "notes": "Vancomycin resistance defined as MIC >8 µg/mL; no vanA or vanB genes detected.",
+        "provenance": {
+          "page": 3,
+          "section_heading": "Results",
+          "table_id": "Table 4",
+          "text_snippet": "Cefoxitin and vancomycin resistance patterns of mecA carrying Staphylococci"
+        }
+      }
+    ],
+    "morbidity": [],
+    "mortality": [],
+    "reoperations": [],
+    "readmissions": [],
+    "length_of_stay": [],
+    "costs": [],
+    "risk_factors_effects": [
+      {
+        "exposure": "Age ≥61 years",
+        "outcome": "amr_infection",
+        "effect_measure": "aOR",
+        "effect_value": 3.729,
+        "ci_lower": 1.179,
+        "ci_upper": 11.791,
+        "p_value": 0.025,
+        "adjusted": true,
+        "notes": "Likelihood of MRSA SSI occurrence higher among patients aged ≥61.",
+        "provenance": {
+          "page": 4,
+          "section_heading": "Table 3",
+          "table_id": "Table 3",
+          "text_snippet": "AOR = 3.729 (1.179–11.791)"
+        }
+      },
+      {
+        "exposure": "Hospital stay ≥7 days",
+        "outcome": "amr_infection",
+        "effect_measure": "aOR",
+        "effect_value": 1.856,
+        "ci_lower": 0.688,
+        "ci_upper": 5.311,
+        "p_value": 0.0,
+        "adjusted": true,
+        "notes": "Relative risk of MRSA SSI higher among patients with longer hospital stay.",
+        "provenance": {
+          "page": 4,
+          "section_heading": "Table 3",
+          "table_id": "Table 3",
+          "text_snippet": "AOR = 1.856 (0.688–5.311)"
+        }
+      },
+      {
+        "exposure": "Previous antibiotic use",
+        "outcome": "amr_infection",
+        "effect_measure": "aOR",
+        "effect_value": 3.692,
+        "ci_lower": 1.059,
+        "ci_upper": 2.8,
+        "p_value": 0.025,
+        "adjusted": true,
+        "notes": "Higher risk of methicillin-resistant Staphylococci infections among those with previous antibiotic use.",
+        "provenance": {
+          "page": 4,
+          "section_heading": "Table 3",
+          "table_id": "Table 3",
+          "text_snippet": "AOR = 3.692 (1.059–2.800)"
+        }
+      },
+      {
+        "exposure": "Antimicrobial prophylaxis during operation",
+        "outcome": "amr_infection",
+        "effect_measure": "aOR",
+        "effect_value": 3.066,
+        "ci_lower": 1.101,
+        "ci_upper": 9.392,
+        "p_value": 0.05,
+        "adjusted": true,
+        "notes": "Likelihood of SSI occurrence higher among patients who had antimicrobial prophylaxis during the operation.",
+        "provenance": {
+          "page": 4,
+          "section_heading": "Table 3",
+          "table_id": "Table 3",
+          "text_snippet": "AOR = 3.066 (1.101–9.392)"
+        }
+      }
+    ]
+  },
+  "interventions": [],
+  "stewardship_guidelines": [],
+  "policy_capacity": [],
+  "qualitative_thematic": {
+    "codes": [
+      {
+        "theme": "amr_prevalence",
+        "subtheme": "resistance patterns and rates by pathogen/antibiotic",
+        "summary": "MRSA prevalence among S. aureus isolates was 24.5%, with 27.5% of methicillin-resistant Staphylococci carrying the mecA gene; vancomycin resistance was rare.",
+        "evidence_quotes": [
+          {
+            "quote": "S. aureus was identified in 21.6% of participants, with 24.5% of these being methicillin-resistant Staphylococci and 0.6% showing vancomycin resistance.",
+            "page": 1,
+            "section": "Abstract"
+          },
+          {
+            "quote": "Of all participants, 5.3% (40/752) carried bacteria characterized as MRSA, while among isolates of S. aureus, the frequency of MRSA was 24.5%.",
+            "page": 3,
+            "section": "Results"
+          }
+        ],
+        "location_context": "Ethiopia, four tertiary hospitals",
+        "confidence": "high",
+        "provenance": {
+          "page": 1,
+          "section_heading": "Abstract",
+          "text_snippet": "S. aureus was identified in 21.6% of participants, with 24.5% of these being methicillin-resistant Staphylococci and 0.6% showing vancomycin resistance."
+        }
+      },
+      {
+        "theme": "drivers_amr",
+        "subtheme": "determinants (inappropriate use, IPC gaps, diagnostics delays, policy failures, supply chain, workforce, patient factors)",
+        "summary": "Older age, prolonged hospital stay, previous antibiotic use, and intraoperative prophylaxis were associated with increased risk of MRSA SSI.",
+        "evidence_quotes": [
+          {
+            "quote": "Methicillin-resistant staphylococcal infections were associated with the following risk factors: age ≥61 years, prolonged duration of hospital stay, and history of previous antibiotic use, p-values < 0.05.",
+            "page": 1,
+            "section": "Abstract"
+          },
+          {
+            "quote": "The likelihood of MRSA SSI occurrence was about 3.7 times higher among patients aged ≥61 (AOR = 3.729 (1.179–11.791)) compared to those aged ≤60.",
+            "page": 3,
+            "section": "Results"
+          }
+        ],
+        "location_context": "Ethiopia, four tertiary hospitals",
+        "confidence": "high",
+        "provenance": {
+          "page": 1,
+          "section_heading": "Abstract",
+          "text_snippet": "Methicillin-resistant staphylococcal infections were associated with the following risk factors: age ≥61 years, prolonged duration of hospital stay, and history of previous antibiotic use, p-values < 0.05."
+        }
+      },
+      {
+        "theme": "prevention_control",
+        "subtheme": "IPC programs, bundles, surveillance practices",
+        "summary": "Hospitals should strengthen infection prevention and control strategies and start antimicrobial stewardship programs.",
+        "evidence_quotes": [
+          {
+            "quote": "Hospitals should strengthen infection prevention and control strategies and start antimicrobial stewardship programs.",
+            "page": 1,
+            "section": "Abstract"
+          }
+        ],
+        "location_context": "Ethiopia, four tertiary hospitals",
+        "confidence": "moderate",
+        "provenance": {
+          "page": 1,
+          "section_heading": "Abstract",
+          "text_snippet": "Hospitals should strengthen infection prevention and control strategies and start antimicrobial stewardship programs."
+        }
+      }
+    ]
+  },
+  "risk_of_bias": {
+    "tool_used": "not_reported",
+    "domain_judgements": {},
+    "overall_judgement": "not_reported",
+    "provenance": {}
+  },
+  "funding_conflicts": {
+    "funding_sources": [
+      "Addis Ababa University",
+      "Armauer Hansen Research Institute",
+      "SIDA/SAREC bilateral research cooperation with Ethiopia",
+      "Centre for Innovative Drug Development and Therapeutic Trials for Africa (CDT-Africa)"
+    ],
+    "conflicts_of_interest": "The authors declare no competing interest.",
+    "role_of_funder": "The funders had no role in the design of this study; in the collection, analyses, or interpretation of data; in the writing of the manuscript; or in the decision to publish the results.",
+    "provenance": {
+      "page": 13,
+      "section_heading": "Funding",
+      "text_snippet": "Funding: Collection of samples and laboratory work in Ethiopia was covered by grants from Addis Ababa University, and Armauer Hansen Research Institute. For work in Sweden, grants from SIDA/SAREC bilateral research cooperation with Ethiopia (5108013506) and the Centre for Innovative Drug Development and Therapeutic Trials for Africa (CDT-Africa) were used to cover travel and subsistence for SW during a three-month visit. Laboratory work in Sweden was done without external grants."
+    }
+  },
+  "notes_flags": [
+    {
+      "type": [
+        "missing_data"
+      ],
+      "detail": "SSI incidence (events and denominator) not directly reported; only S. aureus isolation and MRSA rates among isolates provided.",
+      "provenance": {
+        "page": 3,
+        "section_heading": "Results",
+        "table_id": "Table 1",
+        "text_snippet": "S. aureus was isolated from 21.7% (163) of these participants."
+      }
+    },
+    {
+      "type": [
+        "missing_data"
+      ],
+      "detail": "No data on mortality, reoperations, readmissions, length of stay, or costs.",
+      "provenance": {
+        "page": 3,
+        "section_heading": "Results",
+        "text_snippet": "No mention of these outcomes in results or tables."
+      }
+    },
+    {
+      "type": [
+        "unit_unclear"
+      ],
+      "detail": "Wound class not specified for overall population; only 'clean/clean contaminated' and 'contaminated' for S. aureus subset.",
+      "provenance": {
+        "page": 3,
+        "section_heading": "Table 2",
+        "table_id": "Table 2",
+        "text_snippet": "Type of surgery\nClean/Clean contaminated surgery\n148 (90.8)\nContaminated surgery\n15 (9.2)"
+      }
+    }
+  ],
+  "provenance_index": [
+    {
+      "page": 1,
+      "section_heading": "Abstract",
+      "text_snippet": "S. aureus was identified in 21.6% of participants, with 24.5% of these being methicillin-resistant Staphylococci and 0.6% showing vancomycin resistance."
+    },
+    {
+      "page": 3,
+      "section_heading": "Results",
+      "table_id": "Table 1",
+      "text_snippet": "Cefoxitin\nI-Z ≥22 mm\n123 (16.4)\n123 (75.5)\nS\nMSSA\n≤21 mm\n40 (5.3)\n40 (24.5)\nR\nMRSA"
+    },
+    {
+      "page": 4,
+      "section_heading": "Table 3",
+      "table_id": "Table 3",
+      "text_snippet": "AOR = 3.729 (1.179–11.791)"
+    },
+    {
+      "page": 13,
+      "section_heading": "Funding",
+      "text_snippet": "Funding: Collection of samples and laboratory work in Ethiopia was covered by grants from Addis Ababa University, and Armauer Hansen Research Institute. For work in Sweden, grants from SIDA/SAREC bilateral research cooperation with Ethiopia (5108013506) and the Centre for Innovative Drug Development and Therapeutic Trials for Africa (CDT-Africa) were used to cover travel and subsistence for SW during a three-month visit. Laboratory work in Sweden was done without external grants."
+    }
+  ],
+  "extraction_summary": {
+    "completeness_score": 70,
+    "missing_fields": [
+      "ssi_incidence (events and denominator)",
+      "mortality",
+      "reoperations",
+      "readmissions",
+      "length_of_stay",
+      "costs",
+      "interventions",
+      "stewardship_guidelines",
+      "policy_capacity",
+      "qualitative method context",
+      "bed_capacity",
+      "surgical_volume_per_year"
+    ],
+    "parser_warnings": [
+      "No direct SSI incidence rate reported; only S. aureus isolation and MRSA rates among isolates.",
+      "No clinical outcome data (mortality, LOS, reoperation, readmission, costs).",
+      "No stewardship guideline or policy capacity details.",
+      "No qualitative method context (interview/focus group details)."
+    ],
+    "confidence_overall": "moderate"
+  }
+}

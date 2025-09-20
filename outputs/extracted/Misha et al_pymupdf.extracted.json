@@ -1,0 +1,599 @@
+{
+  "study": {
+    "study_id": "Misha2021-Ethiopia-JimmaMedicalCenter-2019-01",
+    "title": "Bacterial profile and antimicrobial susceptibility patterns of isolates among patients diagnosed with surgical site infection at a tertiary teaching hospital in Ethiopia: a prospective cohort study",
+    "authors": [
+      "Gemedo Misha",
+      "Legese Chelkeba",
+      "Tsegaye Melaku"
+    ],
+    "journal": "Annals of Clinical Microbiology and Antimicrobials",
+    "year_publication": 2021,
+    "doi": "10.1186/s12941-021-00440-z",
+    "country_list": [
+      "Ethiopia"
+    ],
+    "country_iso3": "ETH",
+    "region_classification": "ECSA",
+    "surgical_specialty": [
+      "general",
+      "obstetrics/gynecology",
+      "orthopedics"
+    ],
+    "language": "English",
+    "data_source_type": "published_full_text",
+    "ownership_type": "public",
+    "bed_capacity": 800
+  },
+  "design": {
+    "study_design": "cohort",
+    "randomized": false,
+    "prospective": true,
+    "single_center": true,
+    "multi_center": false,
+    "inclusion_criteria_text": "Adult patients (age ≥18 years) who underwent either elective or emergency surgical procedures at general surgery, gynecology/obstetric, and orthopedics wards of JMC. All eligible patients were followed for 30 days for the occurrence of SSI.",
+    "exclusion_criteria_text": "Patients who were initially diagnosed with SSIs, died within 48 h, or refused to participate in the study.",
+    "sample_frame": "patients",
+    "unit_of_analysis": "patient",
+    "duplicate_publication_likelihood": false
+  },
+  "setting": {
+    "facility_level": "tertiary",
+    "urban_rural": "mixed",
+    "care_setting": "hospital",
+    "country_specific_sites": [
+      "Jimma Medical Center, Jimma, Ethiopia"
+    ]
+  },
+  "eligibility": {
+    "population": "Adult patients (age ≥18 years) who underwent elective or emergency surgical procedures at general surgery, gynecology/obstetric, and orthopedics wards.",
+    "classification": "adult",
+    "intervention": "Antimicrobial prophylaxis and treatment as per hospital protocol; use of antibiotics preoperatively and postoperatively.",
+    "comparator": "None specified; comparison between patients with and without SSI.",
+    "outcomes_reported": [
+      "ssi_incidence",
+      "amr_prevalence"
+    ],
+    "timeframe_years": "April 20 to August 20, 2019",
+    "setting_types": [
+      "hospital",
+      "surgical_unit",
+      "ward"
+    ],
+    "included_designs": [
+      "cohort"
+    ],
+    "excluded_designs": []
+  },
+  "timeframe": {
+    "data_collection_start_year": 2019,
+    "data_collection_start_month": 4,
+    "data_collection_end_year": 2019,
+    "data_collection_end_month": 8,
+    "follow_up_window_days": 30
+  },
+  "populations": [
+    {
+      "arm_id": "overall",
+      "description": "All adult patients (≥18 years) undergoing elective or emergency surgery at general surgery, gynecology/obstetric, and orthopedics wards during study period.",
+      "n_participants": 251,
+      "age_group": "adult",
+      "elective_emergency": "mixed",
+      "wound_class": "mixed",
+      "comorbidities_key": "Cardiac disorder 7.97%, respiratory disorder 2.79%, psychiatry problem 2.79%, diabetes mellitus 2.39%, malignancy 2.39%, HIV/AIDS 1.59%",
+      "surgical_specialties": [
+        "general",
+        "obstetrics/gynecology",
+        "orthopedics"
+      ],
+      "provenance": {
+        "page": 3,
+        "section_heading": "Sociodemographic and clinical data",
+        "table_id": "Table 1",
+        "text_snippet": "A total of 251 patients were included in the study. Out of 251 patients, 126 (50.2%) were females. The mean ± SD age of the study participant was 38 ± 16.30 years."
+      }
+    }
+  ],
+  "definitions": {
+    "ssi_definition_standard": [
+      "CDC_NHSN"
+    ],
+    "ssi_window_days": 30,
+    "amr_definition_standard": [
+      "CLSI"
+    ],
+    "breakpoint_version": "CLSI 2018",
+    "resistance_definition_text": "AST result was classified as susceptible, intermediate, and resistant using the Clinical and Laboratory Standards Institute (CLSI) 2018 performance standards for antimicrobial susceptibility testing interpretation.",
+    "outcome_definitions_text": "SSI defined as infection occurring within 30 days of surgery. No explicit definitions for mortality, LOS, readmission, or cost components.",
+    "specimen_type": [
+      "wound_swab",
+      "aspirate",
+      "pus"
+    ]
+  },
+  "lab_methods": {
+    "specimen_collection_method": "Swabs from wounds were aseptically collected using sterile cotton. Pus and pus aspirates also collected.",
+    "culture_method": "Samples inoculated onto MacConkey agar, Blood agar, and chocolate agar plates. MacConkey and Blood agar incubated aerobically; Chocolate agar in 5–10% CO2 at 37°C for 24–48 h.",
+    "AST_method": [
+      "disk_diffusion"
+    ],
+    "QC_measures": "Performance of prepared media checked by inoculating control strains S. aureus (ATCC-25923) and E. coli (ATCC-25922). Sterility checked by incubating 5% of prepared media at 37°C for 24–48 h.",
+    "organism_identification_method": "Morphological appearances on selective and differential media, motility tests, and biochemical tests based on standard techniques.",
+    "lab_capacity_notes": "Anaerobic bacteria not included due to laboratory constraints."
+  },
+  "outcomes": {
+    "ssi_incidence": [
+      {
+        "arm_id": "overall",
+        "denominator_type": "patients",
+        "ssi_type": "overall",
+        "n_ssi_events": 53,
+        "n_total": 251,
+        "rate_as_reported": {
+          "value": 21.1,
+          "unit": "percent"
+        },
+        "ascertainment_window_days": 30,
+        "data_period": {
+          "start_year": 2019,
+          "end_year": 2019
+        },
+        "subgroup_labels": {
+          "country": "Ethiopia",
+          "facility_level": "tertiary",
+          "setting": "hospital"
+        },
+        "notes": "Incidence calculated over 6651 person-days; 21.1% of patients developed SSI.",
+        "provenance": {
+          "page": 4,
+          "section_heading": "Incidence of SSI",
+          "text_snippet": "From a cohort of 251 patients who underwent surgery at Jimma Medical Center, 53 (21.1%) of them developed surgical site infections."
+        }
+      }
+    ],
+    "amr_proportions": [
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "penicillin",
+        "who_class": "important",
+        "n_tested": 5,
+        "n_resistant": 3,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2018",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2019,
+          "end_year": 2019
+        },
+        "mdr_definition_text": "Multi-drug resistance (MDR) to commonly used antibiotics was identified.",
+        "zone_diameter_unit": "mm",
+        "notes": "66.7% resistance (3/5) to penicillin among S. aureus isolates.",
+        "provenance": {
+          "page": 7,
+          "section_heading": "Table 3",
+          "table_id": "Table 3",
+          "text_snippet": "Penicillin: S. aureus (n=5), Resistance n=3"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "erythromycin",
+        "who_class": "important",
+        "n_tested": 5,
+        "n_resistant": 4,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2018",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2019,
+          "end_year": 2019
+        },
+        "mdr_definition_text": "Multi-drug resistance (MDR) to commonly used antibiotics was identified.",
+        "zone_diameter_unit": "mm",
+        "notes": "80% resistance (4/5) to erythromycin among S. aureus isolates.",
+        "provenance": {
+          "page": 7,
+          "section_heading": "Table 3",
+          "table_id": "Table 3",
+          "text_snippet": "Erythromycin: S. aureus (n=5), Resistance n=4"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "clindamycin",
+        "who_class": "important",
+        "n_tested": 5,
+        "n_resistant": 4,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2018",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2019,
+          "end_year": 2019
+        },
+        "mdr_definition_text": "Multi-drug resistance (MDR) to commonly used antibiotics was identified.",
+        "zone_diameter_unit": "mm",
+        "notes": "80% resistance (4/5) to clindamycin among S. aureus isolates.",
+        "provenance": {
+          "page": 7,
+          "section_heading": "Table 3",
+          "table_id": "Table 3",
+          "text_snippet": "Clindamycin: S. aureus (n=5), Resistance n=4"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Escherichia coli",
+        "antibiotic": "meropenem",
+        "who_class": "critically_important",
+        "n_tested": 9,
+        "n_resistant": 0,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2018",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2019,
+          "end_year": 2019
+        },
+        "mdr_definition_text": "Multi-drug resistance (MDR) to commonly used antibiotics was identified.",
+        "zone_diameter_unit": "mm",
+        "notes": "Meropenem is 100% effective against E. coli (0/9 resistant).",
+        "provenance": {
+          "page": 7,
+          "section_heading": "Table 3",
+          "table_id": "Table 3",
+          "text_snippet": "Meropenem: E. coli (n=9), Resistance n=0"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Pseudomonas aeruginosa",
+        "antibiotic": "ceftriaxone",
+        "who_class": "critically_important",
+        "n_tested": 8,
+        "n_resistant": 8,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2018",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2019,
+          "end_year": 2019
+        },
+        "mdr_definition_text": "Multi-drug resistance (MDR) to commonly used antibiotics was identified.",
+        "zone_diameter_unit": "mm",
+        "notes": "All Pseudomonas aeruginosa isolates (8/8) resistant to ceftriaxone.",
+        "provenance": {
+          "page": 7,
+          "section_heading": "Table 3",
+          "table_id": "Table 3",
+          "text_snippet": "Ceftriaxone: P. aeruginosa (n=8), Resistance n=8"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Proteus spp.",
+        "antibiotic": "ceftriaxone",
+        "who_class": "critically_important",
+        "n_tested": 6,
+        "n_resistant": 6,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2018",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2019,
+          "end_year": 2019
+        },
+        "mdr_definition_text": "Multi-drug resistance (MDR) to commonly used antibiotics was identified.",
+        "zone_diameter_unit": "mm",
+        "notes": "All Proteus spp. isolates (6/6) resistant to ceftriaxone.",
+        "provenance": {
+          "page": 7,
+          "section_heading": "Table 3",
+          "table_id": "Table 3",
+          "text_snippet": "Ceftriaxone: Proteus spp. (n=6), Resistance n=6"
+        }
+      }
+    ],
+    "morbidity": [],
+    "mortality": [],
+    "reoperations": [],
+    "readmissions": [],
+    "length_of_stay": [],
+    "costs": [],
+    "risk_factors_effects": [
+      {
+        "exposure": "Diabetes mellitus",
+        "outcome": [
+          "ssi_incidence"
+        ],
+        "effect_measure": "OR",
+        "p_value": "<0.001",
+        "adjusted": false,
+        "n_included": 251,
+        "notes": "Diabetes mellitus significantly associated with SSI (p<0.001), but no OR or CI reported.",
+        "provenance": {
+          "page": 5,
+          "section_heading": "Table 2",
+          "table_id": "Table 2",
+          "text_snippet": "Diabetes mellitus: Yes 6 (2.39%), SSI Yes 5 (9.43%), p<0.001"
+        }
+      },
+      {
+        "exposure": "Duration of surgery ≥2 h",
+        "outcome": [
+          "ssi_incidence"
+        ],
+        "effect_measure": "OR",
+        "p_value": "<0.001",
+        "adjusted": false,
+        "n_included": 251,
+        "notes": "Longer duration of surgery associated with SSI (p<0.001), no OR or CI reported.",
+        "provenance": {
+          "page": 4,
+          "section_heading": "Table 1",
+          "table_id": "Table 1",
+          "text_snippet": "Duration of surgery ≥2 h: SSI Yes 24 (45.28%), p<0.001"
+        }
+      },
+      {
+        "exposure": "Contaminated wound",
+        "outcome": [
+          "ssi_incidence"
+        ],
+        "effect_measure": "OR",
+        "p_value": "<0.001",
+        "adjusted": false,
+        "n_included": 251,
+        "notes": "Contaminated wounds associated with SSI (p<0.001), no OR or CI reported.",
+        "provenance": {
+          "page": 4,
+          "section_heading": "Table 1",
+          "table_id": "Table 1",
+          "text_snippet": "Contaminated: SSI Yes 28 (52.83%), p<0.001"
+        }
+      }
+    ]
+  },
+  "interventions": [
+    {
+      "type": "antibiotic_prophylaxis_protocol",
+      "description": "Preoperative and postoperative antibiotic use; majority received antibiotics preoperatively (82.1%), and 17.9% postoperatively.",
+      "implementation_level": "facility",
+      "outcomes_measured": [
+        "ssi_incidence",
+        "amr_prevalence"
+      ],
+      "effect_direction": "unclear",
+      "provenance": {
+        "page": 4,
+        "section_heading": "Table 1",
+        "table_id": "Table 1",
+        "text_snippet": "Used antibiotic preoperatively: 206 (82.10%), Used antibiotic post-operatively: 45 (17.90%)"
+      }
+    }
+  ],
+  "stewardship_guidelines": [],
+  "policy_capacity": [],
+  "qualitative_thematic": {
+    "codes": [
+      {
+        "theme": "amr_prevalence",
+        "subtheme": "other",
+        "summary": "High rates of antimicrobial resistance were observed among SSI isolates, especially to ceftriaxone and other commonly used antibiotics.",
+        "evidence_quotes": [
+          {
+            "quote": "The Gram-negative pathogens showed high resistance toward Cefepime (87.88%), ceftriaxone (78.79%), Cefuroxime (63.63%), cotrimoxazole (54.55%), ciprofloxacin (60.60%), and ampicillin (60.60%).",
+            "page": 5,
+            "section": "Antibiotic susceptibility pattern of SSI isolates"
+          }
+        ],
+        "location_context": "Jimma Medical Center, Ethiopia",
+        "confidence": "high",
+        "provenance": {
+          "page": 5,
+          "section_heading": "Antibiotic susceptibility pattern of SSI isolates",
+          "text_snippet": "high resistance toward Cefepime (87.88%), ceftriaxone (78.79%)"
+        }
+      },
+      {
+        "theme": "burden_incidence",
+        "subtheme": "other",
+        "summary": "SSI incidence was high (21.1%) among surgical patients at Jimma Medical Center.",
+        "evidence_quotes": [
+          {
+            "quote": "From a cohort of 251 patients who underwent surgery at Jimma Medical Center, 53 (21.1%) of them developed surgical site infections.",
+            "page": 4,
+            "section": "Incidence of SSI"
+          }
+        ],
+        "location_context": "Jimma Medical Center, Ethiopia",
+        "confidence": "high",
+        "provenance": {
+          "page": 4,
+          "section_heading": "Incidence of SSI",
+          "text_snippet": "53 (21.1%) of them developed surgical site infections"
+        }
+      },
+      {
+        "theme": "drivers_amr",
+        "subtheme": "other",
+        "summary": "Indiscriminate use of antibiotics, especially ceftriaxone, may contribute to high resistance rates.",
+        "evidence_quotes": [
+          {
+            "quote": "This remarkably higher resistance might be the indiscriminate use of ceftriaxone as prophylaxis to all who underwent surgery in our hospital.",
+            "page": 8,
+            "section": "Discussion"
+          }
+        ],
+        "location_context": "Jimma Medical Center, Ethiopia",
+        "confidence": "moderate",
+        "provenance": {
+          "page": 8,
+          "section_heading": "Discussion",
+          "text_snippet": "indiscriminate use of ceftriaxone as prophylaxis"
+        }
+      },
+      {
+        "theme": "prevention_control",
+        "subtheme": "other",
+        "summary": "Routine microbial analysis and proper infection prevention practices are recommended to address high SSI and AMR rates.",
+        "evidence_quotes": [
+          {
+            "quote": "As there is high antibiotic resistance observed in the current study, it is necessary for routine microbial analysis of samples and their antibiogram. In addition, we recommend proper infection prevention practices to break the disease transmission cycle.",
+            "page": 8,
+            "section": "Conclusion"
+          }
+        ],
+        "location_context": "Jimma Medical Center, Ethiopia",
+        "confidence": "high",
+        "provenance": {
+          "page": 8,
+          "section_heading": "Conclusion",
+          "text_snippet": "recommend proper infection prevention practices"
+        }
+      }
+    ]
+  },
+  "risk_of_bias": {
+    "tool_used": "not_reported",
+    "domain_judgements": {},
+    "overall_judgement": "not_reported",
+    "provenance": {
+      "text_snippet": "No risk of bias tool or assessment reported."
+    }
+  },
+  "funding_conflicts": {
+    "funding_sources": [
+      "Jimma University, Ethiopia"
+    ],
+    "conflicts_of_interest": "The authors have no competing interests to declare.",
+    "role_of_funder": "The funder had no role in the study design, data collection, and analysis, decision to publish, or preparation of the manuscript.",
+    "provenance": {
+      "page": 8,
+      "section_heading": "Funding",
+      "text_snippet": "This study was sponsored by Jimma University, Ethiopia."
+    }
+  },
+  "notes_flags": [
+    {
+      "type": [
+        "missing_data"
+      ],
+      "detail": "No data on mortality, reoperations, readmissions, length of stay, or costs.",
+      "provenance": {
+        "text_snippet": "No outcomes reported for mortality, reoperations, readmissions, LOS, or costs."
+      }
+    },
+    {
+      "type": [
+        "missing_data"
+      ],
+      "detail": "No stewardship guideline adherence or policy capacity data reported.",
+      "provenance": {
+        "text_snippet": "No stewardship or policy capacity outcomes reported."
+      }
+    },
+    {
+      "type": [
+        "unit_unclear"
+      ],
+      "detail": "No explicit units for some AMR rates; zone diameter unit assumed mm per Kirby-Bauer method.",
+      "provenance": {
+        "page": 3,
+        "section_heading": "Antibiotic susceptibility test",
+        "text_snippet": "The zone of inhibition was measured using a ruler."
+      }
+    },
+    {
+      "type": [
+        "missing_data"
+      ],
+      "detail": "No explicit MDR or XDR counts reported, only narrative mention.",
+      "provenance": {
+        "page": 8,
+        "section_heading": "Discussion",
+        "text_snippet": "Multi-drug resistance (MDR) to commonly used antibiotics was identified."
+      }
+    }
+  ],
+  "provenance_index": [
+    {
+      "page": 1,
+      "section_heading": "Abstract",
+      "text_snippet": "The overall postoperative surgical site infection rate was 21.1% and of these 71.7% (38/53) were culture positive."
+    },
+    {
+      "page": 3,
+      "section_heading": "Sociodemographic and clinical data",
+      "table_id": "Table 1",
+      "text_snippet": "A total of 251 patients were included in the study."
+    },
+    {
+      "page": 4,
+      "section_heading": "Incidence of SSI",
+      "text_snippet": "53 (21.1%) of them developed surgical site infections."
+    },
+    {
+      "page": 5,
+      "section_heading": "Antibiotic susceptibility pattern of SSI isolates",
+      "text_snippet": "high resistance toward Cefepime (87.88%), ceftriaxone (78.79%)"
+    },
+    {
+      "page": 7,
+      "section_heading": "Table 3",
+      "table_id": "Table 3",
+      "text_snippet": "Antibiotic resistance profile of bacteria isolates from surgical sites"
+    },
+    {
+      "page": 8,
+      "section_heading": "Discussion",
+      "text_snippet": "indiscriminate use of ceftriaxone as prophylaxis"
+    },
+    {
+      "page": 8,
+      "section_heading": "Conclusion",
+      "text_snippet": "recommend proper infection prevention practices"
+    },
+    {
+      "page": 8,
+      "section_heading": "Funding",
+      "text_snippet": "This study was sponsored by Jimma University, Ethiopia."
+    }
+  ],
+  "extraction_summary": {
+    "completeness_score": 70,
+    "missing_fields": [
+      "mortality",
+      "reoperations",
+      "readmissions",
+      "length_of_stay",
+      "costs",
+      "stewardship_guidelines",
+      "policy_capacity",
+      "qualitative method context",
+      "risk_of_bias assessment"
+    ],
+    "parser_warnings": [
+      "No explicit MDR/XDR/ESBL/carbapenemase counts; only narrative mention.",
+      "No clinical outcome data beyond SSI incidence and AMR proportions.",
+      "No stewardship or policy capacity outcomes reported.",
+      "No risk of bias tool or assessment reported."
+    ],
+    "confidence_overall": "moderate"
+  }
+}

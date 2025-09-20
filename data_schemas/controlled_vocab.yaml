@@ -1,0 +1,124 @@
+countries_ecsa:
+  - Burundi
+  - Comoros
+  - Democratic Republic of the Congo
+  - Djibouti
+  - Eritrea
+  - Ethiopia
+  - Kenya
+  - Lesotho
+  - Madagascar
+  - Malawi
+  - Mauritius
+  - Mozambique
+  - Namibia
+  - Rwanda
+  - Seychelles
+  - Somalia
+  - South Africa
+  - South Sudan
+  - Sudan
+  - Tanzania
+  - Uganda
+  - Zambia
+  - Zimbabwe
+
+facility_levels:
+  [
+    primary,
+    secondary,
+    tertiary,
+    quaternary,
+    mission,
+    private,
+    mixed,
+    unspecified,
+  ]
+care_settings: [hospital, community, mixed, unspecified]
+study_designs: [rct, cohort, cross_sectional, case_control, surveillance, other]
+denominator_types: [procedures, patients]
+ssi_definitions: [CDC_NHSN, WHO, SHEA/IDSA, study_defined, unspecified]
+ast_methods: [disk_diffusion, MIC_broth, MIC_agar, automated, other]
+breakpoint_standards: [CLSI, EUCAST, study_defined, unspecified]
+specimen_types: [wound_swab, aspirate, tissue, blood, other]
+age_groups: [adult, pediatric, mixed, unspecified]
+elective_emergency: [elective, emergency, mixed, unspecified]
+wound_class: [clean, clean_contaminated, contaminated, dirty, unspecified]
+outcomes:
+  - ssi_incidence
+  - amr_prevalence
+  - mortality
+  - length_of_stay
+  - reoperations
+  - readmissions
+  - costs
+  - qol
+  - other
+who_antibiotic_importance:
+  [critically_important, highly_important, important, unspecified]
+common_pathogens:
+  - Staphylococcus aureus
+  - MRSA
+  - Coagulase-negative staphylococci
+  - Escherichia coli
+  - Klebsiella pneumoniae
+  - Enterobacter cloacae complex
+  - Pseudomonas aeruginosa
+  - Acinetobacter baumannii
+  - Proteus spp.
+  - Enterococcus faecalis
+  - Enterococcus faecium
+  - Streptococcus spp.
+  - Candida spp.
+example_antibiotics:
+  - ceftriaxone
+  - ceftazidime
+  - cefotaxime
+  - cefepime
+  - meropenem
+  - imipenem
+  - ertapenem
+  - piperacillin-tazobactam
+  - amoxicillin-clavulanate
+  - ciprofloxacin
+  - levofloxacin
+  - gentamicin
+  - amikacin
+  - vancomycin
+  - linezolid
+  - co-trimoxazole
+  - tetracycline
+  - doxycycline
+  - clindamycin
+  - metronidazole
+surgical_specialties:
+  - general
+  - obstetrics_gynecology
+  - orthopedics
+  - neurosurgery
+  - cardiothoracic
+  - urology
+  - pediatric
+  - plastic_burns
+  - vascular
+  - other
+currency_codes_example:
+  [
+    USD,
+    KES,
+    TZS,
+    UGX,
+    ZAR,
+    ZMW,
+    RWF,
+    BIF,
+    MZN,
+    ETB,
+    SOS,
+    SDG,
+    SSP,
+    NAD,
+    MWK,
+    MUR,
+    SCR,
+  ]

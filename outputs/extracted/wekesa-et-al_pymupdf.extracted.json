@@ -1,0 +1,516 @@
+{
+  "study": {
+    "study_id": "Wekesa2020-Uganda-MulagoHospital-201711201804-01",
+    "title": "Ceftriaxone- and ceftazidime-resistant Klebsiella species, Escherichia coli, and methicillin-resistant Staphylococcus aureus dominate caesarean surgical site infections at Mulago Hospital, Kampala, Uganda",
+    "authors": [
+      "Yvonne N Wekesa",
+      "Fatuma Namusoke",
+      "Musa Sekikubo",
+      "Dennis Wandera Mango",
+      "Freddie Bwanga"
+    ],
+    "journal": "SAGE Open Medicine",
+    "year_publication": 2020,
+    "doi": "10.1177/2050312120970719",
+    "country_list": [
+      "Uganda"
+    ],
+    "country_iso3": "UGA",
+    "region_classification": "ECSA",
+    "surgical_specialty": [
+      "obstetrics/gynecology"
+    ],
+    "language": "English",
+    "data_source_type": "published_full_text",
+    "ownership_type": "public",
+    "bed_capacity": 1500,
+    "surgical_volume_per_year": 6000
+  },
+  "design": {
+    "study_design": "cross_sectional",
+    "randomized": false,
+    "prospective": false,
+    "single_center": true,
+    "multi_center": false,
+    "inclusion_criteria_text": "Women with clinical features of post-C/S SSI, as defined under the Centers for Disease Control and Prevention (CDC) definition, were included in the study. The CDC defines post-C/S SSIs as presentation within 30 days of C/S with skin, subcutaneous tissue, fascia, muscle, or organ space having at least one of the following symptoms or signs: purulent discharge, pain/tenderness, local swelling, redness/heat, purulent discharge from drain, diagnosis of SSI by attending doctor, abscess revealed at clinical or radiological examination, or wound dehiscence, all with or without systemic symptoms of sepsis (e.g. fever, chills).",
+    "exclusion_criteria_text": "Women with clinical features of post-C/S SSIs as defined above but who declined to participate in the study or who were too ill to consent were excluded.",
+    "sample_frame": "patients",
+    "unit_of_analysis": "patient",
+    "duplicate_publication_likelihood": false
+  },
+  "setting": {
+    "facility_level": "tertiary",
+    "urban_rural": "urban",
+    "care_setting": "hospital",
+    "country_specific_sites": [
+      "Mulago National Referral Hospital, Kampala",
+      "MBN Clinical Laboratories, Kampala"
+    ]
+  },
+  "eligibility": {
+    "population": "Women who had undergone caesarean section and developed SSIs within 30 days, whether still admitted on the postnatal ward or as returnees on gynaecology wards.",
+    "classification": "adult",
+    "intervention": "Antibiotic prophylaxis (ceftriaxone and/or metronidazole) and empirical treatment for SSI.",
+    "comparator": "None (no comparator arm reported).",
+    "outcomes_reported": [
+      "ssi_incidence",
+      "amr_prevalence"
+    ],
+    "timeframe_years": "November 2017 to April 2018",
+    "setting_types": [
+      "hospital",
+      "surgical_unit",
+      "ward"
+    ],
+    "included_designs": [
+      "cross_sectional"
+    ],
+    "excluded_designs": []
+  },
+  "timeframe": {
+    "data_collection_start_year": 2017,
+    "data_collection_start_month": 11,
+    "data_collection_end_year": 2018,
+    "data_collection_end_month": 4,
+    "follow_up_window_days": 30
+  },
+  "populations": [
+    {
+      "arm_id": "overall",
+      "description": "Women with post-caesarean section surgical site infections at Mulago Hospital, Kampala, Uganda.",
+      "n_participants": 109,
+      "age_group": "adult",
+      "elective_emergency": "mixed",
+      "wound_class": "unspecified",
+      "comorbidities_key": "HIV positive: 4.6% (5/109); HIV negative: 95.4% (104/109); Preoperative infection: 1.8% (2/109); Preoperative stay >2 days: 45% (49/109)",
+      "surgical_specialties": [
+        "obstetrics/gynecology"
+      ],
+      "provenance": {
+        "page": 4,
+        "section_heading": "Table 1. Clinical characteristics of the study participants",
+        "table_id": "Table 1",
+        "text_snippet": "Characteristic\nNumber\nPercentage\nHIV status\n  Negative\n104\n95.4\n  Positive\n5\n4.6\nPre-operative stay (days)\n  ⩽2\n60\n55\n  >2\n49\n45\nPresence of preoperative infection\n  No\n107\n98.2\n  Yes\n02\n1.8\nType of caesarean\n  Emergency\n100\n91.7\n  Elective\n09\n8.3"
+      }
+    }
+  ],
+  "definitions": {
+    "ssi_definition_standard": [
+      "CDC_NHSN"
+    ],
+    "ssi_window_days": 30,
+    "amr_definition_standard": [
+      "CLSI"
+    ],
+    "breakpoint_version": "CLSI 2017",
+    "resistance_definition_text": "Resistance to ceftriaxone and ceftazidime defined by Kirby–Bauer disc diffusion method per CLSI guidelines. ESBL production confirmed by ≥5 mm increase in zone diameter with ceftazidime/clavulanate vs ceftazidime alone. MRSA defined by mecA gene PCR.",
+    "outcome_definitions_text": "SSI: clinical features within 30 days post-C/S per CDC; AMR: per CLSI disc diffusion; MRSA: mecA gene PCR.",
+    "specimen_type": [
+      "wound_swab"
+    ]
+  },
+  "lab_methods": {
+    "specimen_collection_method": "Sterile cotton swabs soaked in sterile normal saline used to collect discharge from under wound edges before cleaning with antiseptic. Swabs placed in gel Amies Transport Media, kept in cool box, transported to lab within 4–24h.",
+    "culture_method": "Swabs inoculated on Blood, MacConkey, and Chocolate agars, incubated at 35–37°C for up to 72h. Identification by colony characteristics, gram stain, and biochemical reactions.",
+    "AST_method": [
+      "disk_diffusion"
+    ],
+    "QC_measures": "Standard QC strains used: S. aureus ATCC 25923, E. coli ATCC 25922, P. aeruginosa ATCC 27853, in-house ESBL-positive E. coli and K. pneumoniae. Negative and positive controls for biochemical tests and PCR.",
+    "organism_identification_method": "Manual: colony morphology, gram stain, biochemical reactions (TSI, citrate, SIM, urease, oxidase, catalase, coagulase, bile-esculin).",
+    "contamination_handling": "Samples with common skin contaminants (Bacillus spp., coagulase-negative staphylococci) were identified and excluded from pathogen counts.",
+    "lab_capacity_notes": "MBN Clinical Laboratories described as a centre of excellence in microbiology and molecular diagnostics."
+  },
+  "outcomes": {
+    "ssi_incidence": [
+      {
+        "arm_id": "overall",
+        "surgical_specialty": "obstetrics/gynecology",
+        "denominator_type": "patients",
+        "ssi_type": "overall",
+        "n_ssi_events": 109,
+        "n_total": 109,
+        "rate_as_reported": {
+          "value": 100.0,
+          "unit": "percent"
+        },
+        "ascertainment_window_days": 30,
+        "data_period": {
+          "start_year": 2017,
+          "end_year": 2018
+        },
+        "subgroup_labels": {
+          "country": "Uganda",
+          "facility_level": "tertiary",
+          "setting": "hospital"
+        },
+        "notes": "All enrolled patients had SSI by design; incidence in the underlying C/S population not reported.",
+        "provenance": {
+          "page": 6,
+          "section_heading": "Clinico-demographic characteristics of studied participants",
+          "text_snippet": "The study enrolled 109 patients with clinical SSIs following C/S."
+        }
+      }
+    ],
+    "amr_proportions": [
+      {
+        "arm_id": "overall",
+        "pathogen": "Klebsiella species",
+        "antibiotic": "ceftriaxone",
+        "who_class": "critically_important",
+        "n_tested": 44,
+        "n_resistant": 43,
+        "n_susceptible": 1,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2017",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2017,
+          "end_year": 2018
+        },
+        "esbl_test": "disc diffusion with ceftazidime/clavulanate",
+        "carbapenemase_test": "phenotypic (carbapenem resistance)",
+        "n_carbapenemase_positive": 15,
+        "zone_diameter_unit": "mm",
+        "notes": "Carbapenemase production explained resistance in 15/40 ceftazidime-resistant Klebsiella.",
+        "provenance": {
+          "page": 6,
+          "section_heading": "Antibacterial resistance",
+          "table_id": "Table 3",
+          "text_snippet": "Resistance to ceftriaxone was identified in all 11 of the E. coli isolates (100%) and in 43 (98%) of the 44 of Klebsiella species."
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Klebsiella species",
+        "antibiotic": "ceftazidime",
+        "who_class": "critically_important",
+        "n_tested": 44,
+        "n_resistant": 40,
+        "n_intermediate": 1,
+        "n_susceptible": 3,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2017",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2017,
+          "end_year": 2018
+        },
+        "esbl_test": "disc diffusion with ceftazidime/clavulanate",
+        "n_esbl_positive": 19,
+        "carbapenemase_test": "phenotypic (carbapenem resistance)",
+        "n_carbapenemase_positive": 15,
+        "zone_diameter_unit": "mm",
+        "notes": "ESBL explained resistance in 19/40; carbapenemase in 15/40; ampC suspected in 6/40.",
+        "provenance": {
+          "page": 6,
+          "section_heading": "Mechanism of resistance to ceftriaxone and ceftazidime among E.coli and Klebsiella species",
+          "table_id": "Table 3",
+          "text_snippet": "Among the 40 ceftazidime-resistant Klebsiella species, ESBL production was the underlying mechanism in 19 (47.5%), and all were susceptible to carbapenems. No ESBL enzyme production could be detected in the other 21 ceftazidime-resistant isolates. In these, we found 6 (15%) to be susceptible to carbapenems, suggesting ampC beta-lactamase production as the underlying mechanism of resistance to ceftazidime, and the remaining 15 (37.5%) isolates to be resistant to carbapenems, suggesting carbapenemase enzyme production as the underlying mechanism of resistance to ceftazidime and to the carbapenems themselves."
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Escherichia coli",
+        "antibiotic": "ceftriaxone",
+        "who_class": "critically_important",
+        "n_tested": 11,
+        "n_resistant": 11,
+        "n_susceptible": 0,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2017",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2017,
+          "end_year": 2018
+        },
+        "esbl_test": "disc diffusion with ceftazidime/clavulanate",
+        "n_carbapenemase_positive": 0,
+        "zone_diameter_unit": "mm",
+        "notes": "All E. coli resistant to ceftriaxone; ESBL production explained resistance in 10/11 ceftazidime-resistant E. coli.",
+        "provenance": {
+          "page": 6,
+          "section_heading": "Antibacterial resistance",
+          "table_id": "Table 3",
+          "text_snippet": "Resistance to ceftriaxone was identified in all 11 of the E. coli isolates (100%)"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Escherichia coli",
+        "antibiotic": "ceftazidime",
+        "who_class": "critically_important",
+        "n_tested": 11,
+        "n_resistant": 11,
+        "n_susceptible": 0,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2017",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2017,
+          "end_year": 2018
+        },
+        "esbl_test": "disc diffusion with ceftazidime/clavulanate",
+        "n_esbl_positive": 10,
+        "n_carbapenemase_positive": 0,
+        "zone_diameter_unit": "mm",
+        "notes": "ESBL production explained resistance in 10/11; all ESBL-positive E. coli susceptible to carbapenems.",
+        "provenance": {
+          "page": 6,
+          "section_heading": "Mechanism of resistance to ceftriaxone and ceftazidime among E.coli and Klebsiella species",
+          "table_id": "Table 3",
+          "text_snippet": "Among the 11 ceftazidime-resistant E. coli, ESBL production was the underlying mechanism in 10 (91%), and all 10 of these were susceptible to carbapenems."
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "methicillin",
+        "who_class": "critically_important",
+        "n_tested": 34,
+        "n_resistant": 31,
+        "n_susceptible": 3,
+        "ast_method": "PCR (mecA gene)",
+        "breakpoint_standard": "study_defined",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2017,
+          "end_year": 2018
+        },
+        "mrsa_detection_method": "PCR for mecA gene",
+        "resistance_gene_markers": "mecA",
+        "notes": "MRSA detected in 91% of S. aureus isolates.",
+        "provenance": {
+          "page": 7,
+          "section_heading": "Resistance among GPB",
+          "table_id": "Table 4",
+          "text_snippet": "Among the 34 S. aureus pathogens, 33 (97%) were resistant to penicillin and 31 (91.2%) were identified as MRSA."
+        }
+      }
+    ],
+    "morbidity": [],
+    "mortality": [],
+    "reoperations": [],
+    "readmissions": [],
+    "length_of_stay": [],
+    "costs": [],
+    "risk_factors_effects": []
+  },
+  "interventions": [
+    {
+      "type": "antibiotic_prophylaxis_protocol",
+      "description": "Routine use of ceftriaxone and/or metronidazole for perioperative prophylaxis in caesarean section patients.",
+      "implementation_level": "facility",
+      "outcomes_measured": [
+        "amr_prevalence"
+      ],
+      "effect_direction": "harm",
+      "provenance": {
+        "page": 4,
+        "section_heading": "Table 1. Clinical characteristics of the study participants",
+        "table_id": "Table 1",
+        "text_snippet": "Antibiotic prophylaxis given\n  Ceftriaxone\n61\n55.9\n  Both (ceftriaxone and  \nmetronidazole)\n32\n29.4\n  None\n14\n12.8\n  Metronidazole\n02\n1.8"
+      }
+    }
+  ],
+  "stewardship_guidelines": [],
+  "policy_capacity": [],
+  "qualitative_thematic": {
+    "codes": [
+      {
+        "theme": "amr_prevalence",
+        "subtheme": "resistance patterns and rates by pathogen/antibiotic",
+        "summary": "Almost all E. coli and Klebsiella species isolated from post-caesarean SSIs were resistant to ceftriaxone and ceftazidime, with high rates of ESBL and carbapenemase production.",
+        "evidence_quotes": [
+          {
+            "quote": "Resistance to ceftriaxone was detected in all 11 (100%) of the E. coli and in 43 (97.7%) of the 44 Klebsiella species and to ceftazidime in all 11 (100%) of the E. coli and 40 (91%) of the 44 Klebsiella species.",
+            "page": 1,
+            "section": "Abstract"
+          },
+          {
+            "quote": "Extended-spectrum beta-lactamase explained resistance to ceftazidime in 10 (91%) of the 11 E. coli and 19 (48%) of the 40 Klebsiella species. Carbapenemase production explained 15 (38%) of the 40 ceftazidime-resistant Klebsiella species.",
+            "page": 1,
+            "section": "Abstract"
+          }
+        ],
+        "location_context": "Mulago National Referral Hospital, Kampala, Uganda",
+        "confidence": "high",
+        "provenance": {
+          "page": 1,
+          "section_heading": "Abstract",
+          "text_snippet": "Resistance to ceftriaxone was detected in all 11 (100%) of the E. coli and in 43 (97.7%) of the 44 Klebsiella species and to ceftazidime in all 11 (100%) of the E. coli and 40 (91%) of the 44 Klebsiella species."
+        }
+      },
+      {
+        "theme": "drivers_amr",
+        "subtheme": "inappropriate use",
+        "summary": "Routine use of broad-spectrum antibiotics such as ceftriaxone for prophylaxis and treatment may contribute to high resistance rates among SSI pathogens.",
+        "evidence_quotes": [
+          {
+            "quote": "The use of the hitherto broad-spectrum drugs, such as ceftriaxone, for prophylaxis, and other instances of inappropriate use of such agents, has been suspected as one of the underlying causes of resistance.",
+            "page": 9,
+            "section": "Discussion"
+          }
+        ],
+        "location_context": "Mulago National Referral Hospital, Kampala, Uganda",
+        "confidence": "moderate",
+        "provenance": {
+          "page": 9,
+          "section_heading": "Discussion",
+          "text_snippet": "The use of the hitherto broad-spectrum drugs, such as ceftriaxone, for prophylaxis, and other instances of inappropriate use of such agents, has been suspected as one of the underlying causes of resistance."
+        }
+      },
+      {
+        "theme": "prevention_control",
+        "subtheme": "surveillance practices",
+        "summary": "Routine culture and antimicrobial susceptibility testing are recommended to optimize antimicrobial regimens for post-caesarean SSIs.",
+        "evidence_quotes": [
+          {
+            "quote": "We strongly recommend routine culture and AST on post-C/S SSIs to optimise antimicrobial regimens for each patient.",
+            "page": 10,
+            "section": "Conclusion"
+          }
+        ],
+        "location_context": "Mulago National Referral Hospital, Kampala, Uganda",
+        "confidence": "high",
+        "provenance": {
+          "page": 10,
+          "section_heading": "Conclusion",
+          "text_snippet": "We strongly recommend routine culture and AST on post-C/S SSIs to optimise antimicrobial regimens for each patient."
+        }
+      }
+    ]
+  },
+  "risk_of_bias": {
+    "tool_used": "not_reported",
+    "domain_judgements": {},
+    "overall_judgement": "not_reported",
+    "provenance": {
+      "text_snippet": "No risk of bias assessment reported."
+    }
+  },
+  "funding_conflicts": {
+    "funding_sources": [],
+    "conflicts_of_interest": "The author(s) declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.",
+    "provenance": {
+      "page": 11,
+      "section_heading": "Funding",
+      "text_snippet": "The author(s) received no financial support for the research, authorship, and/or publication of this article."
+    }
+  },
+  "notes_flags": [
+    {
+      "type": [
+        "missing_data"
+      ],
+      "detail": "No denominator for SSI incidence in the underlying caesarean section population; only SSI cases enrolled.",
+      "provenance": {
+        "page": 6,
+        "section_heading": "Clinico-demographic characteristics of studied participants",
+        "text_snippet": "The study enrolled 109 patients with clinical SSIs following C/S."
+      }
+    },
+    {
+      "type": [
+        "missing_data"
+      ],
+      "detail": "No data on mortality, reoperations, readmissions, length of stay, or costs.",
+      "provenance": {
+        "text_snippet": "No outcomes reported for mortality, reoperations, readmissions, LOS, or costs."
+      }
+    },
+    {
+      "type": [
+        "unit_unclear"
+      ],
+      "detail": "No explicit reporting of surgical wound class (clean, contaminated, etc.).",
+      "provenance": {
+        "page": 4,
+        "section_heading": "Table 1. Clinical characteristics of the study participants",
+        "table_id": "Table 1",
+        "text_snippet": "Characteristic\nNumber\nPercentage\nType of caesarean\n  Emergency\n100\n91.7\n  Elective\n09\n8.3"
+      }
+    }
+  ],
+  "provenance_index": [
+    {
+      "page": 1,
+      "section_heading": "Abstract",
+      "text_snippet": "Resistance to ceftriaxone was detected in all 11 (100%) of the E. coli and in 43 (97.7%) of the 44 Klebsiella species and to ceftazidime in all 11 (100%) of the E. coli and 40 (91%) of the 44 Klebsiella species."
+    },
+    {
+      "page": 4,
+      "section_heading": "Table 1. Clinical characteristics of the study participants",
+      "table_id": "Table 1",
+      "text_snippet": "Characteristic\nNumber\nPercentage\nHIV status\n  Negative\n104\n95.4\n  Positive\n5\n4.6\nPre-operative stay (days)\n  ⩽2\n60\n55\n  >2\n49\n45"
+    },
+    {
+      "page": 6,
+      "section_heading": "Antibacterial resistance",
+      "table_id": "Table 3",
+      "text_snippet": "Resistance to ceftriaxone was identified in all 11 of the E. coli isolates (100%) and in 43 (98%) of the 44 of Klebsiella species."
+    },
+    {
+      "page": 6,
+      "section_heading": "Mechanism of resistance to ceftriaxone and ceftazidime among E.coli and Klebsiella species",
+      "table_id": "Table 3",
+      "text_snippet": "Among the 40 ceftazidime-resistant Klebsiella species, ESBL production was the underlying mechanism in 19 (47.5%), and all were susceptible to carbapenems. No ESBL enzyme production could be detected in the other 21 ceftazidime-resistant isolates. In these, we found 6 (15%) to be susceptible to carbapenems, suggesting ampC beta-lactamase production as the underlying mechanism of resistance to ceftazidime, and the remaining 15 (37.5%) isolates to be resistant to carbapenems, suggesting carbapenemase enzyme production as the underlying mechanism of resistance to ceftazidime and to the carbapenems themselves."
+    },
+    {
+      "page": 7,
+      "section_heading": "Resistance among GPB",
+      "table_id": "Table 4",
+      "text_snippet": "Among the 34 S. aureus pathogens, 33 (97%) were resistant to penicillin and 31 (91.2%) were identified as MRSA."
+    },
+    {
+      "page": 9,
+      "section_heading": "Discussion",
+      "text_snippet": "The use of the hitherto broad-spectrum drugs, such as ceftriaxone, for prophylaxis, and other instances of inappropriate use of such agents, has been suspected as one of the underlying causes of resistance."
+    },
+    {
+      "page": 10,
+      "section_heading": "Conclusion",
+      "text_snippet": "We strongly recommend routine culture and AST on post-C/S SSIs to optimise antimicrobial regimens for each patient."
+    },
+    {
+      "page": 11,
+      "section_heading": "Funding",
+      "text_snippet": "The author(s) received no financial support for the research, authorship, and/or publication of this article."
+    }
+  ],
+  "extraction_summary": {
+    "completeness_score": 80,
+    "missing_fields": [
+      "mortality",
+      "reoperations",
+      "readmissions",
+      "length_of_stay",
+      "costs",
+      "risk_factors_effects",
+      "stewardship_guidelines",
+      "policy_capacity",
+      "qualitative_thematic.method",
+      "qualitative_thematic.participants_n",
+      "qualitative_thematic.analysis_approach",
+      "qualitative_thematic.casp_appraisal",
+      "risk_of_bias.tool_used",
+      "risk_of_bias.domain_judgements",
+      "risk_of_bias.overall_judgement"
+    ],
+    "parser_warnings": [
+      "No denominator for SSI incidence in underlying caesarean section population; only SSI cases enrolled.",
+      "No outcomes reported for mortality, reoperations, readmissions, LOS, or costs.",
+      "No explicit reporting of surgical wound class.",
+      "No risk of bias assessment reported."
+    ],
+    "confidence_overall": "high"
+  }
+}

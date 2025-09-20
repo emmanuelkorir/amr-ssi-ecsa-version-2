@@ -1,0 +1,626 @@
+{
+  "study": {
+    "study_id": "Velin2021-Rwanda-KireheDistrictHospital-2019_2020-01",
+    "title": "Surgical Site Infections and Antimicrobial Resistance After Cesarean Section Delivery in Rural Rwanda",
+    "authors": [
+      "Lotta Velin",
+      "Grace Umutesi",
+      "Robert Riviello",
+      "Moses Muwanguzi",
+      "Lisa M. Bebell",
+      "Marthe Yankurije",
+      "Kara Faktor",
+      "Theoneste Nkurunziza",
+      "Gilbert Rukundo",
+      "Jean de Dieu Gatete",
+      "Ivan Emil",
+      "Bethany L. Hedt-Gauthier",
+      "Fredrick Kateera"
+    ],
+    "journal": "Annals of Global Health",
+    "year_publication": 2021,
+    "doi": "10.5334/aogh.3413",
+    "country_list": [
+      "Rwanda"
+    ],
+    "country_iso3": "RWA",
+    "region_classification": "ECSA",
+    "surgical_specialty": [
+      "obstetrics/gynecology"
+    ],
+    "language": "English",
+    "data_source_type": "published_full_text",
+    "ownership_type": "public",
+    "surgical_volume_per_year": 2715
+  },
+  "design": {
+    "study_design": "cohort",
+    "randomized": false,
+    "prospective": true,
+    "single_center": true,
+    "multi_center": false,
+    "inclusion_criteria_text": "All women who delivered via c-section at Kirehe District Hospital between September 23, 2019, and March 16, 2020, except for December 16–28, when study activities ceased due to the holiday season. Women from Mahama Refugee Camp were excluded.",
+    "exclusion_criteria_text": "Women from Mahama Refugee Camp due to inability to complete study activities; women unable to attend follow-up due to COVID-19 restrictions.",
+    "sample_frame": "patients",
+    "unit_of_analysis": "patient",
+    "duplicate_publication_likelihood": false
+  },
+  "setting": {
+    "facility_level": "secondary",
+    "urban_rural": "rural",
+    "care_setting": "hospital",
+    "country_specific_sites": [
+      "Kirehe District Hospital, Eastern Province, Rwanda"
+    ]
+  },
+  "eligibility": {
+    "population": "Women who delivered via cesarean section at Kirehe District Hospital during the study period.",
+    "classification": "adult",
+    "intervention": "Pre- and post-operative antibiotic use; standard prophylaxis and treatment regimens as per local practice.",
+    "comparator": "None specified.",
+    "outcomes_reported": [
+      "ssi_incidence",
+      "amr_prevalence",
+      "morbidity"
+    ],
+    "timeframe_years": "September 23, 2019 to March 16, 2020",
+    "setting_types": [
+      "hospital",
+      "surgical_unit"
+    ],
+    "included_designs": [
+      "cohort"
+    ],
+    "excluded_designs": []
+  },
+  "timeframe": {
+    "data_collection_start_year": 2019,
+    "data_collection_start_month": 9,
+    "data_collection_end_year": 2020,
+    "data_collection_end_month": 3,
+    "follow_up_window_days": 11
+  },
+  "populations": [
+    {
+      "arm_id": "overall",
+      "description": "All women who delivered via c-section at Kirehe District Hospital and completed POD 11 follow-up.",
+      "n_participants": 795,
+      "n_procedures": 795,
+      "age_group": "adult",
+      "elective_emergency": "unspecified",
+      "wound_class": "unspecified",
+      "comorbidities_key": "HIV seroprevalence 0.7%; majority in Ubudehe category 1 or 2 (61.6%)",
+      "surgical_specialties": [
+        "obstetrics/gynecology"
+      ],
+      "provenance": {
+        "page": 4,
+        "section_heading": "RESULTS",
+        "text_snippet": "A total of 930 women were enrolled in the study, of whom 85.5% (n = 795) completed the POD 11 study clinic visit."
+      }
+    }
+  ],
+  "definitions": {
+    "ssi_definition_standard": [
+      "CDC_NHSN"
+    ],
+    "ssi_window_days": 11,
+    "amr_definition_standard": [
+      "study_defined"
+    ],
+    "resistance_definition_text": "Intermediate or resistant as per NRL standard operating procedures using VITEK2 system.",
+    "outcome_definitions_text": "SSI defined per CDC guidelines; superficial and deep SSI classified; morbidity includes other post-operative complications (hematoma).",
+    "specimen_type": [
+      "wound_swab"
+    ]
+  },
+  "lab_methods": {
+    "specimen_collection_method": "Levine technique: sterile rayon-tipped swab applied to clean viable tissue at deepest accessible part of wound after irrigation with sterile saline.",
+    "culture_method": "Initial microbiology cultures on blood agar plates prepared with human blood; colony morphology, Gram stain, and VITEK2 system for identification.",
+    "AST_method": [
+      "automated"
+    ],
+    "QC_measures": "Laboratory technician trained in preparation of agar plates, Gram stains, bacterial growth analysis, and safe transportation of biohazard materials.",
+    "organism_identification_method": "Colony morphology, Gram stain, VITEK2 testing system.",
+    "contamination_handling": "Potential contaminants (CoNS, Lactococcus, Kocuria) noted; semi-sterile technique used.",
+    "lab_capacity_notes": "Blood agar prepared with human blood due to lack of sheep's blood; NRL standard practice."
+  },
+  "outcomes": {
+    "ssi_incidence": [
+      {
+        "arm_id": "overall",
+        "surgical_specialty": "obstetrics/gynecology",
+        "denominator_type": "patients",
+        "ssi_type": "overall",
+        "n_ssi_events": 45,
+        "n_total": 795,
+        "rate_as_reported": {
+          "value": 5.7,
+          "unit": "percent"
+        },
+        "ascertainment_window_days": 11,
+        "data_period": {
+          "start_year": 2019,
+          "end_year": 2020
+        },
+        "subgroup_labels": {
+          "country": "Rwanda",
+          "facility_level": "secondary",
+          "setting": "hospital"
+        },
+        "notes": "SSI diagnosis at POD 11 (+/- 3 days); 40 superficial, 5 deep.",
+        "provenance": {
+          "page": 4,
+          "section_heading": "DETAILS OF SURGICAL SITE INFECTIONS",
+          "table_id": "Table 1",
+          "text_snippet": "Among the 795 women who completed the POD 11 study visit, 45 (5.7%) were diagnosed with an SSI."
+        }
+      }
+    ],
+    "amr_proportions": [
+      {
+        "arm_id": "overall",
+        "pathogen": "Escherichia coli",
+        "antibiotic": "ceftriaxone",
+        "who_class": "critically_important",
+        "n_tested": 3,
+        "n_resistant": 3,
+        "n_susceptible": 0,
+        "ast_method": "VITEK2",
+        "breakpoint_standard": "study_defined",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2019,
+          "end_year": 2020
+        },
+        "notes": "100% intermediate or resistant to ceftriaxone.",
+        "provenance": {
+          "page": 5,
+          "section_heading": "Table 2",
+          "table_id": "Table 2",
+          "text_snippet": "E. coli (n = 3)\n100"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Klebsiella pneumoniae",
+        "antibiotic": "ceftriaxone",
+        "who_class": "critically_important",
+        "n_tested": 8,
+        "n_resistant": 8,
+        "n_susceptible": 0,
+        "ast_method": "VITEK2",
+        "breakpoint_standard": "study_defined",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2019,
+          "end_year": 2020
+        },
+        "notes": "100% intermediate or resistant to ceftriaxone.",
+        "provenance": {
+          "page": 5,
+          "section_heading": "Table 2",
+          "table_id": "Table 2",
+          "text_snippet": "K. pneumoniae (n = 8)\n100"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Proteus spp.",
+        "antibiotic": "ceftriaxone",
+        "who_class": "critically_important",
+        "n_tested": 8,
+        "n_resistant": 7,
+        "n_susceptible": 1,
+        "ast_method": "VITEK2",
+        "breakpoint_standard": "study_defined",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2019,
+          "end_year": 2020
+        },
+        "notes": "88% intermediate or resistant to ceftriaxone.",
+        "provenance": {
+          "page": 5,
+          "section_heading": "Table 2",
+          "table_id": "Table 2",
+          "text_snippet": "Proteus. spp (n = 8)\n88"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Enterobacter cloacae complex",
+        "antibiotic": "ceftriaxone",
+        "who_class": "critically_important",
+        "n_tested": 8,
+        "n_resistant": 8,
+        "n_susceptible": 0,
+        "ast_method": "VITEK2",
+        "breakpoint_standard": "study_defined",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2019,
+          "end_year": 2020
+        },
+        "notes": "100% intermediate or resistant to ceftriaxone.",
+        "provenance": {
+          "page": 5,
+          "section_heading": "Table 2",
+          "table_id": "Table 2",
+          "text_snippet": "E. cloacae complex (n = 8)\n100"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Acinetobacter baumannii complex",
+        "antibiotic": "ceftriaxone",
+        "who_class": "critically_important",
+        "n_tested": 9,
+        "n_resistant": 9,
+        "n_susceptible": 0,
+        "ast_method": "VITEK2",
+        "breakpoint_standard": "study_defined",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2019,
+          "end_year": 2020
+        },
+        "notes": "100% intermediate or resistant to ceftriaxone.",
+        "provenance": {
+          "page": 5,
+          "section_heading": "Table 2",
+          "table_id": "Table 2",
+          "text_snippet": "A. baumanii complex (n = 9)\n100"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "cefoxitin",
+        "who_class": "critically_important",
+        "n_tested": 2,
+        "n_resistant": 2,
+        "n_susceptible": 0,
+        "ast_method": "VITEK2",
+        "breakpoint_standard": "study_defined",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2019,
+          "end_year": 2020
+        },
+        "mdr_definition_text": "MRSA defined as resistance to cefoxitin.",
+        "mrsa_detection_method": "cefoxitin resistance by VITEK2",
+        "notes": "Both S. aureus isolates were MRSA.",
+        "provenance": {
+          "page": 6,
+          "section_heading": "Table 3",
+          "table_id": "Table 3",
+          "text_snippet": "S. aureus (n = 2)\n100"
+        }
+      }
+    ],
+    "morbidity": [
+      {
+        "measure": "complications_other",
+        "n_events": 3,
+        "n_total": 45,
+        "definition_text": "Other post-operative complication: hematoma.",
+        "subgroup_labels": {
+          "country": "Rwanda",
+          "facility_level": "secondary",
+          "setting": "hospital"
+        },
+        "notes": "3/45 SSI patients had hematoma.",
+        "provenance": {
+          "page": 5,
+          "section_heading": "Table 1",
+          "table_id": "Table 1",
+          "text_snippet": "Hematoma\n3 (6.8)"
+        }
+      }
+    ],
+    "mortality": [],
+    "reoperations": [],
+    "readmissions": [],
+    "length_of_stay": [],
+    "costs": [],
+    "risk_factors_effects": []
+  },
+  "interventions": [
+    {
+      "type": "antibiotic_prophylaxis_protocol",
+      "description": "Preoperative antibiotics given to 88.8% of participants, most commonly ampicillin. Postoperative antibiotics prescribed to 95.9%, most commonly ampicillin, gentamicin, metronidazole, and ceftriaxone.",
+      "implementation_level": "facility",
+      "outcomes_measured": [
+        "ssi_incidence",
+        "amr_prevalence"
+      ],
+      "effect_direction": "unclear",
+      "provenance": {
+        "page": 4,
+        "section_heading": "Antibiotic prescriptions",
+        "text_snippet": "Preoperative antibiotics were given to 88.8% (n = 815) of the participants, most commonly ampicillin (n = 766, 94.0%). Postoperative antibiotics were prescribed to 95.9% (n = 883), most commonly ampicillin (n = 486, 52.3%), followed by gentamicin (n = 447, 48.1%), metronidazole (n = 431, 46.3%), and ceftriaxone (n = 384, 41.3%)."
+      }
+    }
+  ],
+  "stewardship_guidelines": [],
+  "policy_capacity": [],
+  "qualitative_thematic": {
+    "codes": [
+      {
+        "theme": "burden_incidence",
+        "subtheme": "epidemiology of SSI",
+        "summary": "SSI incidence after cesarean section in rural Rwanda was 5.7% at POD 11, with most infections being superficial.",
+        "evidence_quotes": [
+          {
+            "quote": "Among the 795 women who completed the POD 11 study visit, 45 (5.7%) were diagnosed with an SSI. Most (n = 40, 88.9%) SSIs were described as superficial, and five (11.1%) were deep.",
+            "page": 4,
+            "section": "DETAILS OF SURGICAL SITE INFECTIONS"
+          }
+        ],
+        "location_context": "Kirehe District Hospital, Rwanda",
+        "confidence": "high",
+        "provenance": {
+          "page": 4,
+          "section_heading": "DETAILS OF SURGICAL SITE INFECTIONS",
+          "table_id": "Table 1",
+          "text_snippet": "Among the 795 women who completed the POD 11 study visit, 45 (5.7%) were diagnosed with an SSI."
+        }
+      },
+      {
+        "theme": "amr_prevalence",
+        "subtheme": "resistance patterns and rates by pathogen/antibiotic",
+        "summary": "Gram-negative pathogens predominated in SSI wound cultures and showed high rates of resistance to commonly used antibiotics, including universal resistance to ampicillin and high resistance to ceftriaxone and cefepime.",
+        "evidence_quotes": [
+          {
+            "quote": "No gram-negative pathogens isolated were susceptible to ampicillin, and the vast majority demonstrated intermediate susceptibility or resistance to ceftriaxone (92.1%) and cefepime (84.6%).",
+            "page": 1,
+            "section": "ABSTRACT"
+          }
+        ],
+        "location_context": "Kirehe District Hospital, Rwanda",
+        "confidence": "high",
+        "provenance": {
+          "page": 1,
+          "section_heading": "ABSTRACT",
+          "text_snippet": "No gram-negative pathogens isolated were susceptible to ampicillin, and the vast majority demonstrated intermediate susceptibility or resistance to ceftriaxone (92.1%) and cefepime (84.6%)."
+        }
+      },
+      {
+        "theme": "drivers_amr",
+        "subtheme": "inappropriate use",
+        "summary": "Universal ampicillin resistance may be due to its frequent use pre- and post-operatively, suggesting antibiotic selection pressure.",
+        "evidence_quotes": [
+          {
+            "quote": "Universal ampicillin resistance among bacterial SSI isolates in this study may be a result of its long-term and frequent use preoperatively, and could indicate the need to reconsider its use as a post-operative prescription also, as it is likely adding to further resistance–with limited clinical benefit.",
+            "page": 7,
+            "section": "DISCUSSION"
+          }
+        ],
+        "location_context": "Kirehe District Hospital, Rwanda",
+        "confidence": "moderate",
+        "provenance": {
+          "page": 7,
+          "section_heading": "DISCUSSION",
+          "text_snippet": "Universal ampicillin resistance among bacterial SSI isolates in this study may be a result of its long-term and frequent use preoperatively..."
+        }
+      },
+      {
+        "theme": "prevention_control",
+        "subtheme": "surveillance practices",
+        "summary": "SSI diagnosis was performed at POD 11 (+/- 3 days) using CDC guidelines and trained GPs, with wound swabs collected for microbiology.",
+        "evidence_quotes": [
+          {
+            "quote": "Before commencing data collection, two study GPs were trained to diagnose SSIs using the Center for Disease Control and Prevention guidelines [25] and to collect swabs.",
+            "page": 3,
+            "section": "STUDY POPULATION, DATA AND SAMPLE COLLECTION"
+          }
+        ],
+        "location_context": "Kirehe District Hospital, Rwanda",
+        "confidence": "high",
+        "provenance": {
+          "page": 3,
+          "section_heading": "STUDY POPULATION, DATA AND SAMPLE COLLECTION",
+          "text_snippet": "two study GPs were trained to diagnose SSIs using the Center for Disease Control and Prevention guidelines [25] and to collect swabs."
+        }
+      },
+      {
+        "theme": "microbiology_diagnostics",
+        "subtheme": "lab capacity, methods",
+        "summary": "Microbiology cultures and AST were performed at the National Reference Laboratory using VITEK2; blood agar was prepared with human blood due to lack of sheep's blood.",
+        "evidence_quotes": [
+          {
+            "quote": "Due to difficulties procuring sheep’s blood in Rwanda, human blood obtained from the National Transfusion Center was used to prepare blood agar plates, following NRL standard practice.",
+            "page": 4,
+            "section": "TRANSPORT AND PROCESSING OF SAMPLES"
+          }
+        ],
+        "location_context": "National Reference Laboratory, Kigali, Rwanda",
+        "confidence": "high",
+        "provenance": {
+          "page": 4,
+          "section_heading": "TRANSPORT AND PROCESSING OF SAMPLES",
+          "text_snippet": "human blood obtained from the National Transfusion Center was used to prepare blood agar plates, following NRL standard practice."
+        }
+      },
+      {
+        "theme": "evidence_gaps",
+        "subtheme": "explicit gaps and research priorities",
+        "summary": "Additional research is needed to determine risk factors contributing to high prevalence of gram-negative and resistant pathogens in rural Rwanda.",
+        "evidence_quotes": [
+          {
+            "quote": "Additional research is needed to determine risk factors contributing to the high prevalence of gram-negative and resistant pathogens identified in order to guide context-appropriate care and mitigate infection risks.",
+            "page": 8,
+            "section": "CONCLUSIONS"
+          }
+        ],
+        "location_context": "Kirehe District Hospital, Rwanda",
+        "confidence": "high",
+        "provenance": {
+          "page": 8,
+          "section_heading": "CONCLUSIONS",
+          "text_snippet": "Additional research is needed to determine risk factors contributing to the high prevalence of gram-negative and resistant pathogens identified..."
+        }
+      }
+    ]
+  },
+  "risk_of_bias": {
+    "tool_used": "not_reported",
+    "domain_judgements": {},
+    "overall_judgement": "not_reported",
+    "provenance": {}
+  },
+  "funding_conflicts": {
+    "funding_sources": [
+      "National Institutes of Health (NIH R21TW011229)",
+      "William F. Milton Fund",
+      "Harvard Medical School Center for Global Health Delivery–Dubai",
+      "Partners In Health-Rwanda",
+      "National Institutes of Health (NIH K23AI138856) for Lisa Bebell"
+    ],
+    "conflicts_of_interest": "The authors have no competing interests to declare.",
+    "provenance": {
+      "page": 8,
+      "section_heading": "FUNDING INFORMATION",
+      "text_snippet": "This work was supported by the National Institutes of Health (NIH R21TW011229); the William F. Milton Fund; and the Harvard Medical School Center for Global Health Delivery–Dubai."
+    }
+  },
+  "notes_flags": [
+    {
+      "type": [
+        "missing_data"
+      ],
+      "detail": "No data on mortality, reoperations, readmissions, length of stay, costs, or advanced AMR metrics (MDR/XDR, ESBL, carbapenemase) reported.",
+      "provenance": {}
+    },
+    {
+      "type": [
+        "unit_unclear"
+      ],
+      "detail": "SSI ascertainment window is 11 days (POD 11), not standard 30 or 90 days.",
+      "provenance": {
+        "page": 3,
+        "section_heading": "STUDY POPULATION, DATA AND SAMPLE COLLECTION",
+        "text_snippet": "At discharge, an appointment was scheduled for the study clinic (Figure 1) for POD 11 (+/− 3 days)."
+      }
+    }
+  ],
+  "provenance_index": [
+    {
+      "page": 1,
+      "section_heading": "ABSTRACT",
+      "text_snippet": "No gram-negative pathogens isolated were susceptible to ampicillin, and the vast majority demonstrated intermediate susceptibility or resistance to ceftriaxone (92.1%) and cefepime (84.6%)."
+    },
+    {
+      "page": 4,
+      "section_heading": "RESULTS",
+      "text_snippet": "A total of 930 women were enrolled in the study, of whom 85.5% (n = 795) completed the POD 11 study clinic visit."
+    },
+    {
+      "page": 4,
+      "section_heading": "DETAILS OF SURGICAL SITE INFECTIONS",
+      "table_id": "Table 1",
+      "text_snippet": "Among the 795 women who completed the POD 11 study visit, 45 (5.7%) were diagnosed with an SSI."
+    },
+    {
+      "page": 5,
+      "section_heading": "Table 2",
+      "table_id": "Table 2",
+      "text_snippet": "E. coli (n = 3)\n100"
+    },
+    {
+      "page": 5,
+      "section_heading": "Table 2",
+      "table_id": "Table 2",
+      "text_snippet": "K. pneumoniae (n = 8)\n100"
+    },
+    {
+      "page": 5,
+      "section_heading": "Table 2",
+      "table_id": "Table 2",
+      "text_snippet": "Proteus. spp (n = 8)\n88"
+    },
+    {
+      "page": 5,
+      "section_heading": "Table 2",
+      "table_id": "Table 2",
+      "text_snippet": "E. cloacae complex (n = 8)\n100"
+    },
+    {
+      "page": 5,
+      "section_heading": "Table 2",
+      "table_id": "Table 2",
+      "text_snippet": "A. baumanii complex (n = 9)\n100"
+    },
+    {
+      "page": 6,
+      "section_heading": "Table 3",
+      "table_id": "Table 3",
+      "text_snippet": "S. aureus (n = 2)\n100"
+    },
+    {
+      "page": 5,
+      "section_heading": "Table 1",
+      "table_id": "Table 1",
+      "text_snippet": "Hematoma\n3 (6.8)"
+    },
+    {
+      "page": 4,
+      "section_heading": "Antibiotic prescriptions",
+      "text_snippet": "Preoperative antibiotics were given to 88.8% (n = 815) of the participants, most commonly ampicillin (n = 766, 94.0%). Postoperative antibiotics were prescribed to 95.9% (n = 883), most commonly ampicillin (n = 486, 52.3%), followed by gentamicin (n = 447, 48.1%), metronidazole (n = 431, 46.3%), and ceftriaxone (n = 384, 41.3%)."
+    },
+    {
+      "page": 3,
+      "section_heading": "STUDY POPULATION, DATA AND SAMPLE COLLECTION",
+      "text_snippet": "two study GPs were trained to diagnose SSIs using the Center for Disease Control and Prevention guidelines [25] and to collect swabs."
+    },
+    {
+      "page": 4,
+      "section_heading": "TRANSPORT AND PROCESSING OF SAMPLES",
+      "text_snippet": "human blood obtained from the National Transfusion Center was used to prepare blood agar plates, following NRL standard practice."
+    },
+    {
+      "page": 7,
+      "section_heading": "DISCUSSION",
+      "text_snippet": "Universal ampicillin resistance among bacterial SSI isolates in this study may be a result of its long-term and frequent use preoperatively..."
+    },
+    {
+      "page": 8,
+      "section_heading": "CONCLUSIONS",
+      "text_snippet": "Additional research is needed to determine risk factors contributing to the high prevalence of gram-negative and resistant pathogens identified..."
+    },
+    {
+      "page": 8,
+      "section_heading": "FUNDING INFORMATION",
+      "text_snippet": "This work was supported by the National Institutes of Health (NIH R21TW011229); the William F. Milton Fund; and the Harvard Medical School Center for Global Health Delivery–Dubai."
+    }
+  ],
+  "extraction_summary": {
+    "completeness_score": 80,
+    "missing_fields": [
+      "bed_capacity",
+      "length_of_stay",
+      "costs",
+      "mortality",
+      "reoperations",
+      "readmissions",
+      "advanced AMR metrics (MDR/XDR, ESBL, carbapenemase)",
+      "stewardship_guidelines",
+      "policy_capacity",
+      "qualitative method context",
+      "risk_of_bias tool and domains"
+    ],
+    "parser_warnings": [
+      "No data on mortality, LOS, costs, or advanced AMR metrics.",
+      "SSI ascertainment window is 11 days, not standard 30/90 days.",
+      "No explicit risk of bias assessment reported."
+    ],
+    "confidence_overall": "high"
+  }
+}

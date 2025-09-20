@@ -1,0 +1,572 @@
+{
+  "study": {
+    "study_id": "Worku2023-Ethiopia-Multicentre-2020-2021-1",
+    "title": "Bacterial profile of surgical site infection and antimicrobial resistance patterns in Ethiopia: a multicentre prospective cross‑sectional study",
+    "authors": [
+      "Seble Worku",
+      "Tamrat Abebe",
+      "Ashenafi Alemu",
+      "Berhanu Seyoum",
+      "Göte Swedberg",
+      "Alemseged Abdissa",
+      "Adane Mihret",
+      "Getachew Tesfaye Beyene"
+    ],
+    "journal": "Annals of Clinical Microbiology and Antimicrobials",
+    "year_publication": 2023,
+    "doi": "10.1186/s12941-023-00643-6",
+    "country_list": [
+      "Ethiopia"
+    ],
+    "country_iso3": "ETH",
+    "region_classification": "ECSA",
+    "surgical_specialty": [
+      "general",
+      "obstetrics/gynecology",
+      "pediatric",
+      "other"
+    ],
+    "language": "English",
+    "data_source_type": "published_full_text",
+    "ownership_type": "public"
+  },
+  "design": {
+    "study_design": "cross_sectional",
+    "randomized": false,
+    "prospective": true,
+    "single_center": false,
+    "multi_center": true,
+    "inclusion_criteria_text": "All patients with suspected cases of SSI admitted for elective and emergency surgery who developed signs and symptoms of SSI within 30 or 90 days (if received implant) and gave consent/assent.",
+    "exclusion_criteria_text": "Patients on antibiotic treatment within preceding ten days, SSI later than 30 days after operation, refusal to give assent/consent, infected burn wounds.",
+    "sample_frame": "patients",
+    "unit_of_analysis": "patient",
+    "duplicate_publication_likelihood": false
+  },
+  "setting": {
+    "facility_level": "tertiary",
+    "urban_rural": "mixed",
+    "care_setting": "hospital",
+    "country_specific_sites": [
+      "Debre Tabor Comprehensive Specialized Hospital (DTCSH)",
+      "Hawassa University Teaching Hospital (HUCSH)",
+      "Jimma University Teaching Hospital (JUTSH)",
+      "Tikur Anbessa Specialized Hospital (TASH)"
+    ]
+  },
+  "eligibility": {
+    "population": "All patients with suspected SSI admitted for elective and emergency surgery, all age groups.",
+    "classification": "mixed",
+    "intervention": "Antibiotic prophylaxis before or during operation; wound swab collection and AST-guided management.",
+    "comparator": "None specified.",
+    "outcomes_reported": [
+      "ssi_incidence",
+      "amr_prevalence",
+      "risk_factors_effects"
+    ],
+    "timeframe_years": "July 2020 to August 2021",
+    "setting_types": [
+      "hospital",
+      "surgical_unit",
+      "ward"
+    ],
+    "included_designs": [
+      "cross_sectional"
+    ],
+    "excluded_designs": []
+  },
+  "timeframe": {
+    "data_collection_start_year": 2020,
+    "data_collection_start_month": 7,
+    "data_collection_end_year": 2021,
+    "data_collection_end_month": 8,
+    "follow_up_window_days": 30
+  },
+  "populations": [
+    {
+      "arm_id": "overall",
+      "description": "All patients with suspected SSI admitted for elective and emergency surgery at four hospitals in Ethiopia.",
+      "n_participants": 752,
+      "age_group": "mixed",
+      "elective_emergency": "mixed",
+      "wound_class": "mixed",
+      "comorbidities_key": "History of previous antibiotics use: 52.6%; smoking: 59%; alcohol: 8.9%; age ≥61: 5.9%",
+      "surgical_specialties": [
+        "general",
+        "obstetrics/gynecology",
+        "pediatric",
+        "other"
+      ],
+      "provenance": {
+        "page": 6,
+        "section_heading": "Results",
+        "table_id": "Table 1",
+        "text_snippet": "A total of 752 patients clinically studied for surgical site infection were enrolled."
+      }
+    }
+  ],
+  "definitions": {
+    "ssi_definition_standard": [
+      "CDC_NHSN"
+    ],
+    "ssi_window_days": 30,
+    "amr_definition_standard": [
+      "CLSI"
+    ],
+    "breakpoint_version": "CLSI 2021",
+    "resistance_definition_text": "Resistant: classified as sensitive, intermediate, or resistant using CLSI standard technique. MDR: resistance to at least one drug in three or more categories.",
+    "outcome_definitions_text": "SSI: infection near or at incision site and/or deeper tissue spaces/organs within 30 days of surgery (or up to 90 days for implants).",
+    "specimen_type": [
+      "wound_swab",
+      "pus_aspirate"
+    ]
+  },
+  "lab_methods": {
+    "specimen_collection_method": "Aseptic collection of pus, pus aspirates, and wound swabs with sterile syringe or cotton-tipped swabs using rolling technique after cleaning with 10% povidone-iodine.",
+    "culture_method": "Cultured on growth media; identification by colony characteristics, Gram stain, conventional biochemical tests.",
+    "AST_method": [
+      "disk_diffusion"
+    ],
+    "QC_measures": "Control strains E. coli (ATCC 25922) and S. aureus (ATCC 25923) for each batch; sterility checks; 0.5 McFarland standard for inoculum density; MALDI-TOF runs included QC strains.",
+    "organism_identification_method": "MALDI-TOF MS (Matrix-Assisted Laser Desorption/Ionization Time-of-Flight Mass Spectrometry)",
+    "contamination_handling": "Mixed cultures and commensals/contaminants identified; 2.6% mixed, 2.4% commensals/contaminants.",
+    "lab_capacity_notes": "Three hospitals had established microbiology labs; DTCSH lab established for study with AHRI support."
+  },
+  "outcomes": {
+    "ssi_incidence": [
+      {
+        "arm_id": "overall",
+        "denominator_type": "patients",
+        "ssi_type": "overall",
+        "n_ssi_events": 752,
+        "n_total": 752,
+        "rate_as_reported": {
+          "value": 100.0,
+          "unit": "percent"
+        },
+        "ascertainment_window_days": 30,
+        "data_period": {
+          "start_year": 2020,
+          "end_year": 2021
+        },
+        "subgroup_labels": {
+          "country": "Ethiopia",
+          "facility_level": "tertiary",
+          "setting": "hospital"
+        },
+        "notes": "All enrolled patients were clinically diagnosed SSI cases.",
+        "provenance": {
+          "page": 6,
+          "section_heading": "Results",
+          "table_id": "Table 1",
+          "text_snippet": "A total of 752 patients clinically studied for surgical site infection were enrolled."
+        }
+      },
+      {
+        "arm_id": "overall",
+        "denominator_type": "patients",
+        "n_ssi_events": 493,
+        "n_total": 752,
+        "rate_as_reported": {
+          "value": 65.5,
+          "unit": "percent"
+        },
+        "ascertainment_window_days": 30,
+        "data_period": {
+          "start_year": 2020,
+          "end_year": 2021
+        },
+        "subgroup_labels": {
+          "country": "Ethiopia",
+          "facility_level": "tertiary",
+          "setting": "hospital"
+        },
+        "notes": "Culture positivity rate among SSI cases.",
+        "provenance": {
+          "page": 6,
+          "section_heading": "Results",
+          "table_id": "Table 1",
+          "text_snippet": "Of the 752 study participants whose SSI discharge was inoculated onto growth media, 65.5% (493 /752) showed bacterial growth."
+        }
+      }
+    ],
+    "amr_proportions": [
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "penicillin",
+        "who_class": "important",
+        "n_tested": 153,
+        "n_resistant": 138,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2021",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2020,
+          "end_year": 2021
+        },
+        "mdr_definition_text": "Resistance to at least one drug in three or more categories.",
+        "n_mdr": 153,
+        "mrsa_detection_method": "Cefoxitin disk as surrogate marker",
+        "zone_diameter_unit": "mm",
+        "notes": "Cefoxitin resistance 22.7%; all isolates sensitive to vancomycin.",
+        "provenance": {
+          "page": 11,
+          "section_heading": "Table 3",
+          "table_id": "Table 3",
+          "text_snippet": "S. aureus (n = 153)\n90.2\n76.5\n43.7\n43\n20\n20\n23.8\n24.2\n20\n12.4\n10.6\n7.8\n0\n100"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "ampicillin",
+        "who_class": "important",
+        "n_tested": 153,
+        "n_resistant": 117,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2021",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2020,
+          "end_year": 2021
+        },
+        "mdr_definition_text": "Resistance to at least one drug in three or more categories.",
+        "n_mdr": 153,
+        "mrsa_detection_method": "Cefoxitin disk as surrogate marker",
+        "zone_diameter_unit": "mm",
+        "notes": "All isolates sensitive to vancomycin.",
+        "provenance": {
+          "page": 11,
+          "section_heading": "Table 3",
+          "table_id": "Table 3",
+          "text_snippet": "S. aureus (n = 153)\n90.2\n76.5\n43.7\n43\n20\n20\n23.8\n24.2\n20\n12.4\n10.6\n7.8\n0\n100"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "vancomycin",
+        "who_class": "critically_important",
+        "n_tested": 153,
+        "n_resistant": 0,
+        "n_susceptible": 153,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2021",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2020,
+          "end_year": 2021
+        },
+        "mdr_definition_text": "Resistance to at least one drug in three or more categories.",
+        "n_mdr": 153,
+        "mrsa_detection_method": "Cefoxitin disk as surrogate marker",
+        "zone_diameter_unit": "mm",
+        "notes": "All isolates sensitive to vancomycin.",
+        "provenance": {
+          "page": 11,
+          "section_heading": "Table 3",
+          "table_id": "Table 3",
+          "text_snippet": "S. aureus (n = 153)\n... V Vancomycin ... 0"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Escherichia coli",
+        "antibiotic": "ampicillin",
+        "who_class": "important",
+        "n_tested": 102,
+        "n_resistant": 96,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2021",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2020,
+          "end_year": 2021
+        },
+        "mdr_definition_text": "Resistance to at least one drug in three or more categories.",
+        "n_mdr": 98,
+        "zone_diameter_unit": "mm",
+        "notes": "High resistance to multiple antibiotics; MDR frequency 96.1%.",
+        "provenance": {
+          "page": 12,
+          "section_heading": "Table 4",
+          "table_id": "Table 4",
+          "text_snippet": "E. coli (n = 102)\n94.1\n68.6\n41.2\n99\n71.5\n57.8\n10.8\n73.5\n89.2\n73.5\n79.4\n76.5\n11.8\n9.8\n24.5\n70.6\n72\n64\n96.1"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Escherichia coli",
+        "antibiotic": "ceftriaxone",
+        "who_class": "critically_important",
+        "n_tested": 102,
+        "n_resistant": 101,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2021",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2020,
+          "end_year": 2021
+        },
+        "mdr_definition_text": "Resistance to at least one drug in three or more categories.",
+        "n_mdr": 98,
+        "zone_diameter_unit": "mm",
+        "notes": "Overall ceftriaxone resistance ~90.5% for Enterobacteriaceae.",
+        "provenance": {
+          "page": 12,
+          "section_heading": "Table 4",
+          "table_id": "Table 4",
+          "text_snippet": "E. coli (n = 102)\n... CRO Ceftriaxone ... 99"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Escherichia coli",
+        "antibiotic": "imipenem",
+        "who_class": "critically_important",
+        "n_tested": 102,
+        "n_resistant": 12,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2021",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2020,
+          "end_year": 2021
+        },
+        "mdr_definition_text": "Resistance to at least one drug in three or more categories.",
+        "n_mdr": 98,
+        "zone_diameter_unit": "mm",
+        "notes": "Carbapenem resistance in E. coli: imipenem 11.8%, meropenem 9.8%, ertapenem 24.5%.",
+        "provenance": {
+          "page": 12,
+          "section_heading": "Table 4",
+          "table_id": "Table 4",
+          "text_snippet": "E. coli (n = 102)\n... IMP Imipenem ... 11.8"
+        }
+      }
+    ],
+    "morbidity": [],
+    "mortality": [],
+    "reoperations": [],
+    "readmissions": [],
+    "length_of_stay": [],
+    "costs": [],
+    "risk_factors_effects": [
+      {
+        "exposure": "Age ≥61 years",
+        "outcome": "ssi_incidence",
+        "effect_measure": "aOR",
+        "effect_value": 2.83,
+        "ci_lower": 1.02,
+        "ci_upper": 7.99,
+        "p_value": 0.046,
+        "adjusted": true,
+        "provenance": {
+          "page": 8,
+          "section_heading": "Table 2",
+          "table_id": "Table 2",
+          "text_snippet": "ages ≥ 61 years (AOR = 2.83, 95% CI: 1.02–7.99; P 0.046)"
+        }
+      },
+      {
+        "exposure": "Prolonged duration of hospital stay (>7 days)",
+        "outcome": "ssi_incidence",
+        "effect_measure": "aOR",
+        "effect_value": 4.15,
+        "ci_lower": 2.87,
+        "ci_upper": 6.01,
+        "p_value": 0.0,
+        "adjusted": true,
+        "provenance": {
+          "page": 8,
+          "section_heading": "Table 2",
+          "table_id": "Table 2",
+          "text_snippet": "prolonged duration of hospital stay (AOR = 4.15, 95% CI: 2.87–6.01; P 0.000)"
+        }
+      },
+      {
+        "exposure": "History of previous antibiotics use",
+        "outcome": "ssi_incidence",
+        "effect_measure": "aOR",
+        "effect_value": 2.83,
+        "ci_lower": 1.06,
+        "ci_upper": 2.8,
+        "p_value": 0.028,
+        "adjusted": true,
+        "provenance": {
+          "page": 8,
+          "section_heading": "Table 2",
+          "table_id": "Table 2",
+          "text_snippet": "history of previous antibiotics use (AOR = 2.83, 95% CI: 1.06–2.80; P 0.028)"
+        }
+      },
+      {
+        "exposure": "History of smoking",
+        "outcome": "ssi_incidence",
+        "effect_measure": "aOR",
+        "effect_value": 2.35,
+        "ci_lower": 1.44,
+        "ci_upper": 3.83,
+        "p_value": 0.001,
+        "adjusted": true,
+        "provenance": {
+          "page": 8,
+          "section_heading": "Table 2",
+          "table_id": "Table 2",
+          "text_snippet": "history of smoking (AOR = 2.35, 95% CI: 1.44–3.83; P 0.001)"
+        }
+      },
+      {
+        "exposure": "Emergency surgery",
+        "outcome": "ssi_incidence",
+        "effect_measure": "aOR",
+        "effect_value": 3.24,
+        "ci_lower": 2.29,
+        "ci_upper": 4.77,
+        "p_value": 0.0,
+        "adjusted": true,
+        "provenance": {
+          "page": 8,
+          "section_heading": "Table 2",
+          "table_id": "Table 2",
+          "text_snippet": "emergency surgery (AOR = 3.24, 95% CI: 2.29–4.77; P 0.000)"
+        }
+      },
+      {
+        "exposure": "Duration of operation >1 h",
+        "outcome": "ssi_incidence",
+        "effect_measure": "aOR",
+        "effect_value": 0.27,
+        "ci_lower": 0.181,
+        "ci_upper": 0.392,
+        "p_value": 0.0,
+        "adjusted": true,
+        "provenance": {
+          "page": 8,
+          "section_heading": "Table 2",
+          "table_id": "Table 2",
+          "text_snippet": "duration of operation (AOR = 0.27, 95% CI: 0.181–0.392; P 0.000)"
+        }
+      }
+    ]
+  },
+  "interventions": [],
+  "stewardship_guidelines": [],
+  "policy_capacity": [],
+  "qualitative_thematic": {
+    "codes": []
+  },
+  "risk_of_bias": {
+    "tool_used": "not_reported",
+    "domain_judgements": {},
+    "overall_judgement": "not_reported",
+    "provenance": {}
+  },
+  "funding_conflicts": {
+    "funding_sources": [
+      "Addis Ababa University",
+      "Armauer Hansen Research Institute",
+      "Uppsala University",
+      "SIDA/SAREC bilateral research cooperation with Ethiopia",
+      "The Centre for Innovative Drug Development and Therapeutic Trials for Africa"
+    ],
+    "conflicts_of_interest": "No competing interest declared.",
+    "provenance": {
+      "page": 16,
+      "section_heading": "Funding",
+      "text_snippet": "This study was sponsored by Addis Ababa University, Armauer Hansen Research Institute, Uppsala University, SIDA/SAREC bilateral research cooperation with Ethiopia and The Centre for Innovative Drug Development and Therapeutic Trials for Africa."
+    }
+  },
+  "notes_flags": [
+    {
+      "type": [
+        "missing_data"
+      ],
+      "detail": "No data on mortality, reoperations, readmissions, length of stay, costs, stewardship guidelines, or policy capacity.",
+      "provenance": {}
+    },
+    {
+      "type": [
+        "unit_unclear"
+      ],
+      "detail": "No explicit ascertainment window for SSI incidence per CDC definition, but 30 days stated in operational definitions.",
+      "provenance": {
+        "page": 4,
+        "section_heading": "Operational definitions",
+        "text_snippet": "Surgical site infection occurs near or at the incision site and/or deeper underlying tissue spaces and organs within 30  days of a surgical procedure performed (or up to 90 days for implanted prosthetics) [3]."
+      }
+    }
+  ],
+  "provenance_index": [
+    {
+      "page": 1,
+      "section_heading": "Abstract",
+      "text_snippet": "A multicentre study was conducted among patients who underwent surgical procedures at four hospitals located in Northern (Debre Tabor), Southern (Hawassa), Southwest (Jimma), and Central (Tikur Anbessa) parts of Ethiopia."
+    },
+    {
+      "page": 6,
+      "section_heading": "Results",
+      "table_id": "Table 1",
+      "text_snippet": "A total of 752 patients clinically studied for surgical site infection were enrolled."
+    },
+    {
+      "page": 8,
+      "section_heading": "Table 2",
+      "table_id": "Table 2",
+      "text_snippet": "Bivariate and multivariable logistic  regression analyses were used to see the relationship between the independ- ent variables over the dependent variable."
+    },
+    {
+      "page": 11,
+      "section_heading": "Table 3",
+      "table_id": "Table 3",
+      "text_snippet": "Antimicrobial resistance pattern of Gram-positive bacteria isolated from patients diagnosed with surgical site infection in Ethiopia: a multicenter prospective cross-sectional study 2022"
+    },
+    {
+      "page": 12,
+      "section_heading": "Table 4",
+      "table_id": "Table 4",
+      "text_snippet": "Antibiotics resistance patterns of Gram-negative bacteria isolates among patients with surgical site infection in Ethiopia: a multicenter prospective cross-sectional study 2022"
+    },
+    {
+      "page": 16,
+      "section_heading": "Funding",
+      "text_snippet": "This study was sponsored by Addis Ababa University, Armauer Hansen Research Institute, Uppsala University, SIDA/SAREC bilateral research cooperation with Ethiopia and The Centre for Innovative Drug Development and Therapeutic Trials for Africa."
+    },
+    {
+      "page": 4,
+      "section_heading": "Operational definitions",
+      "text_snippet": "Surgical site infection occurs near or at the incision site and/or deeper underlying tissue spaces and organs within 30  days of a surgical procedure performed (or up to 90 days for implanted prosthetics) [3]."
+    }
+  ],
+  "extraction_summary": {
+    "completeness_score": 70,
+    "missing_fields": [
+      "mortality",
+      "reoperations",
+      "readmissions",
+      "length_of_stay",
+      "costs",
+      "stewardship_guidelines",
+      "policy_capacity",
+      "qualitative_thematic.codes"
+    ],
+    "parser_warnings": [
+      "No explicit reporting of clinical outcomes beyond SSI and AMR.",
+      "No stewardship or policy capacity details.",
+      "No economic or qualitative data."
+    ],
+    "confidence_overall": "high"
+  }
+}

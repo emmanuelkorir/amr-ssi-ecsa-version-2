@@ -1,0 +1,10 @@
+study_id,outcome,group,mean_days,sd_days,median_days,iqr_days,n,attributable_days,country,facility_level,setting,year_start,year_end
+Ali2023-Ethiopia-DessieHospital-2016-01,length_of_stay,overall,35.25,15.07,28.0,,338,,Ethiopia,tertiary,hospital,2016,2016
+Gentilotti2020-Tanzania-Dodoma-2013-2015-1,length_of_stay,overall,2.0,,,,1040,,Tanzania,tertiary,hospital,2013,2015
+Kefale2020-Ethiopia-FinoteSelam-2019-2020-1,length_of_stay,overall,,,,,,,Ethiopia,tertiary,hospital,2019,2020
+Jung2023-Uganda-Mulago-2021Q4_2022Q1-01,length_of_stay,overall,,,22.0,15–41,124,,Uganda,tertiary,hospital,2021,2022
+Mukagendaneza2019-Rwanda-KigaliCHUK-2017_2018-01,length_of_stay,overall,,,,,,,Rwanda,tertiary,hospital,2017,2018
+DeNardo2016-Tanzania-Dodoma-2013-1,length_of_stay,overall,2.0,,,,467,,Tanzania,tertiary,hospital,2013,2013
+Odoko2024-Ethiopia-SodoHospitals-2022-01,length_of_stay,overall,,,,,422,,Ethiopia,tertiary,hospital,2022,2022
+Scherbaum2014-Gabon-Lambarene-2009-01,length_of_stay,overall,4.4,,,,2925,,Gabon,tertiary,hospital,2009,2009
+Scherbaum2014-Gabon-Lambarene-2009-01,length_of_stay,with_ssi,,,22.0,13–34,36,23.0,Gabon,tertiary,hospital,2009,2009

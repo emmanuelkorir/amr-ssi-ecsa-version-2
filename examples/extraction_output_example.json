@@ -1,0 +1,234 @@
+{
+  "study": {
+    "study_id": "Moshi2018-Tanzania-MNH-2014_2016-01",
+    "title": "Incidence and antimicrobial resistance patterns of SSI in a Tanzanian tertiary hospital",
+    "authors": ["Moshi E", "Kimaro A", "Ngowi R"],
+    "journal": "Afr J Surg",
+    "year_publication": 2018,
+    "doi": "10.1234/ajsur.2018.001",
+    "pmid": null,
+    "country_list": ["Tanzania"],
+    "region_classification": "ECSA",
+    "surgical_specialty": ["general", "obstetrics_gynecology"],
+    "language": "English",
+    "data_source_type": "published_full_text"
+  },
+  "design": {
+    "study_design": "cohort",
+    "randomized": null,
+    "prospective": true,
+    "single_center": true,
+    "multi_center": false,
+    "inclusion_criteria_text": "All clean and clean-contaminated surgeries",
+    "exclusion_criteria_text": "Trauma cases with pre-existing infection",
+    "sample_frame": "procedures",
+    "unit_of_analysis": "procedure",
+    "duplicate_publication_likelihood": false,
+    "duplicate_rationale": null
+  },
+  "setting": {
+    "facility_level": "tertiary",
+    "urban_rural": "urban",
+    "care_setting": "hospital",
+    "country_specific_sites": ["Muhimbili National Hospital"],
+    "infection_control_program_present": true,
+    "stewardship_program_present": false
+  },
+  "eligibility": null,
+  "timeframe": {
+    "data_collection_start_year": 2014,
+    "data_collection_end_year": 2016,
+    "follow_up_window_days": 30
+  },
+  "populations": [
+    {
+      "arm_id": "overall",
+      "description": "All surgeries",
+      "n_participants": null,
+      "n_procedures": 1520,
+      "age_group": "mixed",
+      "elective_emergency": "mixed",
+      "wound_class": "mixed",
+      "comorbidities_key": "Diabetes 12%",
+      "surgical_specialties": ["general", "obstetrics_gynecology"],
+      "provenance": { "page": 2, "section": "Methods", "table_id": null }
+    }
+  ],
+  "definitions": {
+    "ssi_definition_standard": "CDC_NHSN",
+    "ssi_window_days": 30,
+    "amr_definition_standard": "CLSI",
+    "breakpoint_version": "2016",
+    "resistance_definition_text": "CLSI 2016 breakpoints",
+    "outcome_definitions_text": "SSI as per CDC; mortality in-hospital",
+    "specimen_type": ["wound_swab", "tissue"]
+  },
+  "lab_methods": {
+    "specimen_collection_method": "Aseptic swab/tissue",
+    "culture_method": "Standard aerobic culture",
+    "AST_method": "disk_diffusion",
+    "QC_measures": "ATCC strains",
+    "organism_identification_method": "API",
+    "contamination_handling": null,
+    "lab_capacity_notes": null,
+    "GLASS_participation": null
+  },
+  "outcomes": {
+    "ssi_incidence": [
+      {
+        "arm_id": "overall",
+        "surgical_specialty": null,
+        "denominator_type": "procedures",
+        "n_ssi_events": 182,
+        "n_total": 1520,
+        "rate_as_reported": { "value": 12.0, "unit": "percent" },
+        "ascertainment_window_days": 30,
+        "data_period": { "start_year": 2014, "end_year": 2016 },
+        "subgroup_labels": {
+          "country": "Tanzania",
+          "facility_level": "tertiary"
+        },
+        "notes": null,
+        "provenance": { "page": 3, "table_id": "Table 2" }
+      }
+    ],
+    "amr_proportions": [
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "oxacillin",
+        "who_class": "critically_important",
+        "n_tested": 40,
+        "n_resistant": 18,
+        "n_intermediate": null,
+        "n_susceptible": null,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "2016",
+        "specimen_type": "wound_swab",
+        "site": "surgical_site",
+        "data_period": { "start_year": 2014, "end_year": 2016 },
+        "notes": "MRSA proxy via oxacillin",
+        "provenance": { "page": 4, "table_id": "Table 3" }
+      }
+    ],
+    "morbidity": [],
+    "mortality": [
+      {
+        "measure": "in_hospital",
+        "n_deaths": 12,
+        "n_total": 182,
+        "definition_text": "Deaths among SSI patients during the index admission",
+        "subgroup_labels": { "country": "Tanzania" },
+        "notes": null,
+        "provenance": { "page": 5, "section": "Results" }
+      }
+    ],
+    "reoperations": [],
+    "readmissions": [],
+    "length_of_stay": [
+      {
+        "group": "with_ssi",
+        "mean_days": 14.2,
+        "sd_days": 6.1,
+        "median_days": null,
+        "iqr_days": null,
+        "n": 182,
+        "attributable_days": null,
+        "notes": null,
+        "provenance": { "page": 5, "table_id": "Table 4" }
+      }
+    ],
+    "costs": [],
+    "risk_factors_effects": [
+      {
+        "exposure": "Diabetes mellitus",
+        "outcome": "ssi_incidence",
+        "effect_measure": "aOR",
+        "effect_value": 2.1,
+        "ci_lower": 1.2,
+        "ci_upper": 3.7,
+        "p_value": 0.01,
+        "adjusted": true,
+        "covariates_adjusted_for": "age, wound class, emergency",
+        "n_included": 1520,
+        "notes": null,
+        "provenance": { "page": 6, "table_id": "Table 5" }
+      }
+    ]
+  },
+  "interventions": [],
+  "stewardship_guidelines": [
+    {
+      "guideline_name": "Local surgical prophylaxis guideline",
+      "year": 2015,
+      "adherence_definition": "Correct drug, dose, timing, duration <=24h",
+      "adherence_rate": { "n_adherent": 420, "n_total": 980, "percent": 42.9 },
+      "antibiotics_used": ["ceftriaxone", "metronidazole"],
+      "inappropriate_use_definition": "Duration >24h or wrong drug",
+      "provenance": { "page": 2, "section": "Methods" }
+    }
+  ],
+  "policy_capacity": [],
+  "qualitative_thematic": {
+    "codes": [
+      {
+        "theme": "drivers_amr",
+        "subtheme": "inappropriate_antibiotic_use",
+        "summary": "Prolonged prophylaxis beyond 24h was common due to fear of SSI.",
+        "evidence_quotes": [
+          {
+            "quote": "Most surgeons extended prophylaxis beyond 72 hours.",
+            "page": 2,
+            "section": "Discussion"
+          }
+        ],
+        "location_context": "Tertiary hospital, urban",
+        "confidence": "moderate",
+        "provenance": { "page": 2, "section": "Discussion" }
+      }
+    ]
+  },
+  "risk_of_bias": {
+    "tool_used": "ROBINS-I",
+    "domain_judgements": {
+      "confounding": "moderate",
+      "selection": "low",
+      "classification": "low",
+      "deviations": "low",
+      "missing_data": "low",
+      "measurement": "low",
+      "reporting": "some_concerns"
+    },
+    "overall_judgement": "some_concerns",
+    "who_made_judgement": null,
+    "provenance": { "page": 6, "section": "Methods" }
+  },
+  "funding_conflicts": {
+    "funding_sources": ["Institutional support"],
+    "conflicts_of_interest": "None declared",
+    "role_of_funder": null,
+    "provenance": { "page": 1, "section": "Funding" }
+  },
+  "notes_flags": [],
+  "provenance_index": [
+    {
+      "page": 3,
+      "section_heading": "Results",
+      "table_id": "Table 2",
+      "text_snippet": "SSI incidence 12%"
+    },
+    {
+      "page": 4,
+      "section_heading": "Results",
+      "table_id": "Table 3",
+      "text_snippet": "Antibiogram"
+    }
+  ],
+  "extraction_summary": {
+    "completeness_score": 90,
+    "missing_fields": ["qol"],
+    "parser_warnings": [],
+    "confidence_overall": "high"
+  }
+}

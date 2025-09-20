@@ -1,0 +1,610 @@
+{
+  "study": {
+    "study_id": "Abosse2021-Ethiopia-FelegeHiwot-2019-01",
+    "title": "Antimicrobial Resistance Profile of Bacterial Isolates Identified from Surgical Site Infections at a Referral Hospital, Northwest Ethiopia",
+    "authors": [
+      "Samuel Abosse",
+      "Chalachew Genet",
+      "Awoke Derbie"
+    ],
+    "journal": "Ethiop J Health Sci",
+    "year_publication": 2021,
+    "doi": "10.4314/ejhs.v31i3.21",
+    "country_list": [
+      "Ethiopia"
+    ],
+    "country_iso3": "ETH",
+    "region_classification": "ECSA",
+    "surgical_specialty": [
+      "general",
+      "orthopedics",
+      "other"
+    ],
+    "language": "English",
+    "data_source_type": "published_full_text",
+    "ownership_type": "public",
+    "bed_capacity": 430
+  },
+  "design": {
+    "study_design": "cross_sectional",
+    "randomized": false,
+    "prospective": false,
+    "single_center": true,
+    "multi_center": false,
+    "inclusion_criteria_text": "All patients clinically diagnosed for surgical wound infection and who were available in surgical ward, outpatient department and medical ward during the study period were included.",
+    "exclusion_criteria_text": "Patients clinically diagnosed as having SWI in SW, OPW & MW but unconscious during the study period were excluded.",
+    "sample_frame": "patients",
+    "unit_of_analysis": "patient",
+    "duplicate_publication_likelihood": false
+  },
+  "setting": {
+    "facility_level": "tertiary",
+    "urban_rural": "mixed",
+    "care_setting": "hospital",
+    "country_specific_sites": [
+      "Felege Hiwot Referral Hospital, Bahir Dar"
+    ]
+  },
+  "eligibility": {
+    "population": "Patients with clinically diagnosed surgical wound infection in surgical ward, orthopedic ward, and medical ward at Felege Hiwot Referral Hospital.",
+    "classification": "mixed",
+    "outcomes_reported": [
+      "ssi_incidence",
+      "amr_prevalence",
+      "risk_factors_effects"
+    ],
+    "timeframe_years": "February to June 2019",
+    "setting_types": [
+      "hospital",
+      "surgical_unit",
+      "ward",
+      "outpatient"
+    ],
+    "included_designs": [
+      "cross_sectional"
+    ],
+    "excluded_designs": []
+  },
+  "timeframe": {
+    "data_collection_start_year": 2019,
+    "data_collection_start_month": 2,
+    "data_collection_end_year": 2019,
+    "data_collection_end_month": 6,
+    "follow_up_window_days": 30
+  },
+  "populations": [
+    {
+      "arm_id": "overall",
+      "description": "All patients with clinically diagnosed surgical wound infection at Felege Hiwot Referral Hospital during study period.",
+      "n_participants": 165,
+      "age_group": "mixed",
+      "elective_emergency": "unspecified",
+      "wound_class": "mixed",
+      "surgical_specialties": [
+        "general",
+        "orthopedics",
+        "other"
+      ],
+      "provenance": {
+        "page": 3,
+        "section_heading": "Socio-demographic and clinical characteristics of study participants",
+        "table_id": "Table 1",
+        "text_snippet": "Among the 165 study participants, 98 (59.4%) and 87 (52.7%) were males and within the age groups of 16–40 years, respectively."
+      }
+    }
+  ],
+  "definitions": {
+    "ssi_definition_standard": "CDC_NHSN",
+    "ssi_window_days": 30,
+    "amr_definition_standard": "CLSI",
+    "breakpoint_version": "CLSI 2018",
+    "resistance_definition_text": "MDR was defined as the ability of an isolate to resist >3 antimicrobial agents in different class.",
+    "outcome_definitions_text": "Culture confirmed SWI defined as growth of bacteria from wound swab; MDR defined as resistance to >3 classes.",
+    "specimen_type": [
+      "wound_swab"
+    ]
+  },
+  "lab_methods": {
+    "specimen_collection_method": "Wound secretion/pus samples collected using sterile cotton swabs following standard bacteriological procedure.",
+    "culture_method": "Swabs immersed in Brain Heart Infusion transport medium, inoculated onto 5% Blood agar, MacConkey agar, and Mannitol salt agar; incubated aerobically for 24 hours at 37°C.",
+    "AST_method": [
+      "disk_diffusion"
+    ],
+    "QC_measures": "Staphylococcus aureus (ATCC 25923), Escherichia coli (ATCC-25922), and Pseudomonas aeruginosa (ATCC-27853) used as quality control strains.",
+    "organism_identification_method": "Standard bacteriological technique (manual)."
+  },
+  "outcomes": {
+    "ssi_incidence": [
+      {
+        "arm_id": "overall",
+        "denominator_type": "patients",
+        "ssi_type": "overall",
+        "n_ssi_events": 115,
+        "n_total": 165,
+        "rate_as_reported": {
+          "value": 69.7,
+          "unit": "percent"
+        },
+        "ascertainment_window_days": 30,
+        "data_period": {
+          "start_year": 2019,
+          "end_year": 2019
+        },
+        "subgroup_labels": {
+          "country": "Ethiopia",
+          "facility_level": "tertiary",
+          "setting": "hospital"
+        },
+        "notes": "Culture confirmed surgical wound infection.",
+        "provenance": {
+          "page": 4,
+          "section_heading": "Profile of the identified isolates",
+          "text_snippet": "The overall prevalence of culture confirmed SWI was 115 (69.7%)"
+        }
+      }
+    ],
+    "amr_proportions": [
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "amoxicillin",
+        "who_class": "important",
+        "n_tested": 31,
+        "n_resistant": 27,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2018",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2019,
+          "end_year": 2019
+        },
+        "mdr_definition_text": "MDR was defined as the ability of an isolate to resist >3 antimicrobial agents in different class.",
+        "zone_diameter_unit": "mm",
+        "provenance": {
+          "page": 4,
+          "section_heading": "Antimicrobial resistance profile of the isolates",
+          "table_id": "Table 3",
+          "text_snippet": "S. aureus showed high level of resistance to amoxicillin (87.1%)"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "ampicillin",
+        "who_class": "important",
+        "n_tested": 31,
+        "n_resistant": 22,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2018",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2019,
+          "end_year": 2019
+        },
+        "mdr_definition_text": "MDR was defined as the ability of an isolate to resist >3 antimicrobial agents in different class.",
+        "zone_diameter_unit": "mm",
+        "provenance": {
+          "page": 4,
+          "section_heading": "Antimicrobial resistance profile of the isolates",
+          "table_id": "Table 3",
+          "text_snippet": "ampicillin (71%)"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "vancomycin",
+        "who_class": "critically_important",
+        "n_tested": 31,
+        "n_resistant": 3,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2018",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2019,
+          "end_year": 2019
+        },
+        "mdr_definition_text": "MDR was defined as the ability of an isolate to resist >3 antimicrobial agents in different class.",
+        "zone_diameter_unit": "mm",
+        "provenance": {
+          "page": 4,
+          "section_heading": "Antimicrobial resistance profile of the isolates",
+          "table_id": "Table 3",
+          "text_snippet": "vancomycin with a proportion of 9.7%"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "ciprofloxacin",
+        "who_class": "critically_important",
+        "n_tested": 31,
+        "n_resistant": 5,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2018",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2019,
+          "end_year": 2019
+        },
+        "mdr_definition_text": "MDR was defined as the ability of an isolate to resist >3 antimicrobial agents in different class.",
+        "zone_diameter_unit": "mm",
+        "provenance": {
+          "page": 4,
+          "section_heading": "Antimicrobial resistance profile of the isolates",
+          "table_id": "Table 3",
+          "text_snippet": "ciprofloxacin with a proportion of 16.1%"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Pseudomonas aeruginosa",
+        "antibiotic": "ampicillin",
+        "who_class": "important",
+        "n_tested": 26,
+        "n_resistant": 22,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2018",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2019,
+          "end_year": 2019
+        },
+        "mdr_definition_text": "MDR was defined as the ability of an isolate to resist >3 antimicrobial agents in different class.",
+        "zone_diameter_unit": "mm",
+        "provenance": {
+          "page": 5,
+          "section_heading": "Antimicrobial resistance profile of Gram-negative bacteria",
+          "table_id": "Table 4",
+          "text_snippet": "P. aeruginosa (n=26) 22 (84.6%)"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Pseudomonas aeruginosa",
+        "antibiotic": "ciprofloxacin",
+        "who_class": "critically_important",
+        "n_tested": 26,
+        "n_resistant": 5,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2018",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2019,
+          "end_year": 2019
+        },
+        "mdr_definition_text": "MDR was defined as the ability of an isolate to resist >3 antimicrobial agents in different class.",
+        "zone_diameter_unit": "mm",
+        "provenance": {
+          "page": 5,
+          "section_heading": "Antimicrobial resistance profile of Gram-negative bacteria",
+          "table_id": "Table 4",
+          "text_snippet": "P. aeruginosa (n=26) Cip 5 (19.2%)"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Pseudomonas aeruginosa",
+        "antibiotic": "meropenem",
+        "who_class": "critically_important",
+        "n_tested": 26,
+        "n_resistant": 6,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2018",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2019,
+          "end_year": 2019
+        },
+        "mdr_definition_text": "MDR was defined as the ability of an isolate to resist >3 antimicrobial agents in different class.",
+        "zone_diameter_unit": "mm",
+        "provenance": {
+          "page": 5,
+          "section_heading": "Antimicrobial resistance profile of Gram-negative bacteria",
+          "table_id": "Table 4",
+          "text_snippet": "P. aeruginosa (n=26) Mem 6 (23.1%)"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Klebsiella spp.",
+        "antibiotic": "ampicillin",
+        "who_class": "important",
+        "n_tested": 17,
+        "n_resistant": 14,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2018",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2019,
+          "end_year": 2019
+        },
+        "mdr_definition_text": "MDR was defined as the ability of an isolate to resist >3 antimicrobial agents in different class.",
+        "zone_diameter_unit": "mm",
+        "provenance": {
+          "page": 5,
+          "section_heading": "Antimicrobial resistance profile of Gram-negative bacteria",
+          "table_id": "Table 4",
+          "text_snippet": "Klebsiella Spp. (n=17) Amp 14 (82.4%)"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Klebsiella spp.",
+        "antibiotic": "meropenem",
+        "who_class": "critically_important",
+        "n_tested": 17,
+        "n_resistant": 2,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2018",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2019,
+          "end_year": 2019
+        },
+        "mdr_definition_text": "MDR was defined as the ability of an isolate to resist >3 antimicrobial agents in different class.",
+        "zone_diameter_unit": "mm",
+        "provenance": {
+          "page": 5,
+          "section_heading": "Antimicrobial resistance profile of Gram-negative bacteria",
+          "table_id": "Table 4",
+          "text_snippet": "Klebsiella Spp. (n=17) Mem 2 (11.8%)"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Klebsiella spp.",
+        "antibiotic": "gentamicin",
+        "who_class": "critically_important",
+        "n_tested": 17,
+        "n_resistant": 2,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2018",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2019,
+          "end_year": 2019
+        },
+        "mdr_definition_text": "MDR was defined as the ability of an isolate to resist >3 antimicrobial agents in different class.",
+        "zone_diameter_unit": "mm",
+        "provenance": {
+          "page": 5,
+          "section_heading": "Antimicrobial resistance profile of Gram-negative bacteria",
+          "table_id": "Table 4",
+          "text_snippet": "Klebsiella Spp. (n=17) Gen 2 (11.8%)"
+        }
+      }
+    ],
+    "morbidity": [],
+    "mortality": [],
+    "reoperations": [],
+    "readmissions": [],
+    "length_of_stay": [],
+    "costs": [],
+    "risk_factors_effects": [
+      {
+        "exposure": "Dirty wound",
+        "outcome": "ssi_incidence",
+        "effect_measure": "aOR",
+        "effect_value": 36.406,
+        "ci_lower": 7.115,
+        "ci_upper": 185.281,
+        "p_value": 0.001,
+        "adjusted": true,
+        "notes": "Dirty wound associated with higher odds of culture confirmed SWI.",
+        "provenance": {
+          "page": 6,
+          "section_heading": "Factors associated with culture positive surgical wound infection",
+          "table_id": "Table 5",
+          "text_snippet": "AOR: 36.406; CI: 7.115-185.281"
+        }
+      },
+      {
+        "exposure": "Duration of hospital stay ≥4 weeks",
+        "outcome": "ssi_incidence",
+        "effect_measure": "aOR",
+        "effect_value": 13.8,
+        "ci_lower": 1.657,
+        "ci_upper": 114.132,
+        "p_value": 0.015,
+        "adjusted": true,
+        "notes": "Longer hospital stay associated with higher odds of culture confirmed SWI.",
+        "provenance": {
+          "page": 6,
+          "section_heading": "Factors associated with culture positive surgical wound infection",
+          "table_id": "Table 5",
+          "text_snippet": "AOR: 13.8; 95%CI: 1.657-114.132"
+        }
+      }
+    ]
+  },
+  "interventions": [],
+  "stewardship_guidelines": [],
+  "policy_capacity": [],
+  "qualitative_thematic": {
+    "codes": [
+      {
+        "theme": "amr_prevalence",
+        "subtheme": "other",
+        "summary": "Most bacterial isolates from surgical wound infections were multidrug resistant, with overall MDR level at 80.8%.",
+        "evidence_quotes": [
+          {
+            "quote": "The overall multi-drug resistance (MDR) level was at 80.8%. MDR was defined as the ability of an isolate to resist >3 antimicrobial agents in different class.",
+            "page": 5,
+            "section": "Results"
+          }
+        ],
+        "location_context": "Felege Hiwot Referral Hospital, Bahir Dar, Ethiopia",
+        "confidence": "high",
+        "provenance": {
+          "page": 5,
+          "section_heading": "Antimicrobial resistance profile of the isolates",
+          "text_snippet": "The overall multi-drug resistance (MDR) level was at 80.8%."
+        }
+      },
+      {
+        "theme": "drivers_amr",
+        "subtheme": "other",
+        "summary": "Weak regulatory practice and inadequate bacteriological surveillance, along with free availability of antimicrobials, contribute to increased antimicrobial resistance.",
+        "evidence_quotes": [
+          {
+            "quote": "The reported an increased MDR might be attributed by a number of factors including, over and misuse of antimicrobials in the study area where there is weak regulatory practice and inadequate bacteriological surveillance due to lack of routine antimicrobial susceptibility testing facilities. Most of the antimicrobials listed are freely available in local pharmacies and people could purchase and use them without prescription.",
+            "page": 7,
+            "section": "Discussion"
+          }
+        ],
+        "location_context": "Felege Hiwot Referral Hospital, Bahir Dar, Ethiopia",
+        "confidence": "moderate",
+        "provenance": {
+          "page": 7,
+          "section_heading": "Discussion",
+          "text_snippet": "The reported an increased MDR might be attributed by a number of factors including, over and misuse of antimicrobials..."
+        }
+      },
+      {
+        "theme": "burden_incidence",
+        "subtheme": "other",
+        "summary": "Culture confirmed surgical wound infection prevalence was 69.7% among patients at the hospital.",
+        "evidence_quotes": [
+          {
+            "quote": "The overall prevalence of culture confirmed SWI was 115 (69.7%)",
+            "page": 4,
+            "section": "Results"
+          }
+        ],
+        "location_context": "Felege Hiwot Referral Hospital, Bahir Dar, Ethiopia",
+        "confidence": "high",
+        "provenance": {
+          "page": 4,
+          "section_heading": "Profile of the identified isolates",
+          "text_snippet": "The overall prevalence of culture confirmed SWI was 115 (69.7%)"
+        }
+      }
+    ]
+  },
+  "risk_of_bias": {
+    "tool_used": "not_reported",
+    "domain_judgements": {},
+    "overall_judgement": "not_reported",
+    "provenance": {}
+  },
+  "funding_conflicts": {
+    "funding_sources": [
+      "Bahir Dar University, college of medicine and health sciences"
+    ],
+    "conflicts_of_interest": "Authors declare that they have no competing interests.",
+    "provenance": {
+      "page": 1,
+      "section_heading": "Funding",
+      "text_snippet": "Funding: Bahir Dar University, college of medicine and health sciences."
+    }
+  },
+  "notes_flags": [
+    {
+      "type": [
+        "missing_data"
+      ],
+      "detail": "No data on mortality, reoperations, readmissions, length of stay, costs, stewardship guidelines, or policy capacity.",
+      "provenance": {}
+    },
+    {
+      "type": [
+        "unit_unclear"
+      ],
+      "detail": "No explicit mention of per-procedure denominator; assumed per-patient for SSI incidence.",
+      "provenance": {
+        "page": 4,
+        "section_heading": "Profile of the identified isolates",
+        "text_snippet": "The overall prevalence of culture confirmed SWI was 115 (69.7%)"
+      }
+    }
+  ],
+  "provenance_index": [
+    {
+      "page": 1,
+      "section_heading": "Funding",
+      "text_snippet": "Funding: Bahir Dar University, college of medicine and health sciences."
+    },
+    {
+      "page": 3,
+      "section_heading": "Socio-demographic and clinical characteristics of study participants",
+      "table_id": "Table 1",
+      "text_snippet": "Among the 165 study participants, 98 (59.4%) and 87 (52.7%) were males and within the age groups of 16–40 years, respectively."
+    },
+    {
+      "page": 4,
+      "section_heading": "Profile of the identified isolates",
+      "text_snippet": "The overall prevalence of culture confirmed SWI was 115 (69.7%)"
+    },
+    {
+      "page": 4,
+      "section_heading": "Antimicrobial resistance profile of the isolates",
+      "table_id": "Table 3",
+      "text_snippet": "S. aureus showed high level of resistance to amoxicillin (87.1%)"
+    },
+    {
+      "page": 5,
+      "section_heading": "Antimicrobial resistance profile of Gram-negative bacteria",
+      "table_id": "Table 4",
+      "text_snippet": "P. aeruginosa (n=26) 22 (84.6%)"
+    },
+    {
+      "page": 5,
+      "section_heading": "Antimicrobial resistance profile of the isolates",
+      "text_snippet": "The overall multi-drug resistance (MDR) level was at 80.8%."
+    },
+    {
+      "page": 6,
+      "section_heading": "Factors associated with culture positive surgical wound infection",
+      "table_id": "Table 5",
+      "text_snippet": "AOR: 36.406; CI: 7.115-185.281"
+    },
+    {
+      "page": 7,
+      "section_heading": "Discussion",
+      "text_snippet": "The reported an increased MDR might be attributed by a number of factors including, over and misuse of antimicrobials..."
+    }
+  ],
+  "extraction_summary": {
+    "completeness_score": 70,
+    "missing_fields": [
+      "mortality",
+      "reoperations",
+      "readmissions",
+      "length_of_stay",
+      "costs",
+      "stewardship_guidelines",
+      "policy_capacity",
+      "qualitative method context",
+      "surgical_volume_per_year",
+      "comorbidities_key"
+    ],
+    "parser_warnings": [
+      "No explicit data on mortality, LOS, reoperations, readmissions, or costs.",
+      "No stewardship or policy capacity data.",
+      "No qualitative method details reported.",
+      "No explicit per-procedure denominator; assumed per-patient."
+    ],
+    "confidence_overall": "moderate"
+  }
+}

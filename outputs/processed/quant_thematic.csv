@@ -1,0 +1,899 @@
+study_id,theme,subtheme,summary,quote,quote_page,quote_section,location_context,confidence,events,total,pct,ci95_low,ci95_high
+Varghese2024-Multicountry-FALCON-2018-2020-01,burden_incidence,overall_incidence,"SSI incidence 1163/5284 (22.01%) in Benin, Ghana, India, Mexico, Nigeria, Rwanda, South Africa, general, 2018-2020",,,,,,1163.0,5284.0,22.01,20.91,23.15
+Varghese2024-Multicountry-FALCON-2018-2020-01,burden_incidence,specialty_specific,"SSI incidence 1163/5284 (22.01%) in Benin, Ghana, India, Mexico, Nigeria, Rwanda, South Africa, general, 2018-2020",,,,,,1163.0,5284.0,22.01,20.91,23.15
+Varghese2024-Multicountry-FALCON-2018-2020-01,burden_incidence,geographic_variation,"SSI incidence 1163/5284 (22.01%) in Benin, Ghana, India, Mexico, Nigeria, Rwanda, South Africa, general, 2018-2020",,,,,,1163.0,5284.0,22.01,20.91,23.15
+Varghese2024-Multicountry-FALCON-2018-2020-01,burden_incidence,temporal_trends,"SSI incidence 1163/5284 (22.01%) in Benin, Ghana, India, Mexico, Nigeria, Rwanda, South Africa, general, 2018-2020",,,,,,1163.0,5284.0,22.01,20.91,23.15
+Abayneh2022-Ethiopia-MizanTepi-2021-01,burden_incidence,overall_incidence,"SSI incidence 33/262 (12.6%) in Ethiopia, obstetrics/gynecology, 2021-2021",,,,,,33.0,262.0,12.6,9.11,17.16
+Abayneh2022-Ethiopia-MizanTepi-2021-01,burden_incidence,specialty_specific,"SSI incidence 33/262 (12.6%) in Ethiopia, obstetrics/gynecology, 2021-2021",,,,,,33.0,262.0,12.6,9.11,17.16
+Abayneh2022-Ethiopia-MizanTepi-2021-01,burden_incidence,geographic_variation,"SSI incidence 33/262 (12.6%) in Ethiopia, obstetrics/gynecology, 2021-2021",,,,,,33.0,262.0,12.6,9.11,17.16
+Abosse2021-Ethiopia-FelegeHiwot-2019-01,burden_incidence,overall_incidence,"SSI incidence 115/165 (69.7%) in Ethiopia, general, 2019-2019",,,,,,115.0,165.0,69.7,62.3,76.2
+Abosse2021-Ethiopia-FelegeHiwot-2019-01,burden_incidence,specialty_specific,"SSI incidence 115/165 (69.7%) in Ethiopia, general, 2019-2019",,,,,,115.0,165.0,69.7,62.3,76.2
+Abosse2021-Ethiopia-FelegeHiwot-2019-01,burden_incidence,geographic_variation,"SSI incidence 115/165 (69.7%) in Ethiopia, general, 2019-2019",,,,,,115.0,165.0,69.7,62.3,76.2
+Ali2023-Ethiopia-DessieHospital-2016-01,burden_incidence,overall_incidence,"SSI incidence 49/338 (14.5%) in Ethiopia, general, 2016-2016",,,,,,49.0,338.0,14.5,11.14,18.65
+Ali2023-Ethiopia-DessieHospital-2016-01,burden_incidence,specialty_specific,"SSI incidence 49/338 (14.5%) in Ethiopia, general, 2016-2016",,,,,,49.0,338.0,14.5,11.14,18.65
+Ali2023-Ethiopia-DessieHospital-2016-01,burden_incidence,geographic_variation,"SSI incidence 49/338 (14.5%) in Ethiopia, general, 2016-2016",,,,,,49.0,338.0,14.5,11.14,18.65
+Ali2023-Ethiopia-DessieHospital-2016-01,burden_incidence,overall_incidence,"SSI incidence 41/338 (12.13%) in Ethiopia, general, 2016-2016",,,,,,41.0,338.0,12.13,9.07,16.04
+Ali2023-Ethiopia-DessieHospital-2016-01,burden_incidence,specialty_specific,"SSI incidence 41/338 (12.13%) in Ethiopia, general, 2016-2016",,,,,,41.0,338.0,12.13,9.07,16.04
+Ali2023-Ethiopia-DessieHospital-2016-01,burden_incidence,geographic_variation,"SSI incidence 41/338 (12.13%) in Ethiopia, general, 2016-2016",,,,,,41.0,338.0,12.13,9.07,16.04
+Billoro2019-Ethiopia-WUNEMMH-2017-01,burden_incidence,overall_incidence,"SSI incidence 42/255 (16.47%) in Ethiopia, general, 2017-2017",,,,,,42.0,255.0,16.47,12.42,21.51
+Billoro2019-Ethiopia-WUNEMMH-2017-01,burden_incidence,specialty_specific,"SSI incidence 42/255 (16.47%) in Ethiopia, general, 2017-2017",,,,,,42.0,255.0,16.47,12.42,21.51
+Billoro2019-Ethiopia-WUNEMMH-2017-01,burden_incidence,geographic_variation,"SSI incidence 42/255 (16.47%) in Ethiopia, general, 2017-2017",,,,,,42.0,255.0,16.47,12.42,21.51
+Billoro2019-Ethiopia-WUNEMMH-2017-01,burden_incidence,overall_incidence,"SSI incidence 15/144 (10.42%) in Ethiopia, general, 2017-2017",,,,,,15.0,144.0,10.42,6.41,16.48
+Billoro2019-Ethiopia-WUNEMMH-2017-01,burden_incidence,specialty_specific,"SSI incidence 15/144 (10.42%) in Ethiopia, general, 2017-2017",,,,,,15.0,144.0,10.42,6.41,16.48
+Billoro2019-Ethiopia-WUNEMMH-2017-01,burden_incidence,geographic_variation,"SSI incidence 15/144 (10.42%) in Ethiopia, general, 2017-2017",,,,,,15.0,144.0,10.42,6.41,16.48
+Billoro2019-Ethiopia-WUNEMMH-2017-01,burden_incidence,overall_incidence,"SSI incidence 27/111 (24.32%) in Ethiopia, general, 2017-2017",,,,,,27.0,111.0,24.32,17.29,33.08
+Billoro2019-Ethiopia-WUNEMMH-2017-01,burden_incidence,specialty_specific,"SSI incidence 27/111 (24.32%) in Ethiopia, general, 2017-2017",,,,,,27.0,111.0,24.32,17.29,33.08
+Billoro2019-Ethiopia-WUNEMMH-2017-01,burden_incidence,geographic_variation,"SSI incidence 27/111 (24.32%) in Ethiopia, general, 2017-2017",,,,,,27.0,111.0,24.32,17.29,33.08
+Boru2025-Ethiopia-BuleHora-2023-01,burden_incidence,overall_incidence,"SSI incidence 29/183 (15.85%) in Ethiopia, general, 2023-2023",,,,,,29.0,183.0,15.85,11.27,21.83
+Boru2025-Ethiopia-BuleHora-2023-01,burden_incidence,specialty_specific,"SSI incidence 29/183 (15.85%) in Ethiopia, general, 2023-2023",,,,,,29.0,183.0,15.85,11.27,21.83
+Boru2025-Ethiopia-BuleHora-2023-01,burden_incidence,geographic_variation,"SSI incidence 29/183 (15.85%) in Ethiopia, general, 2023-2023",,,,,,29.0,183.0,15.85,11.27,21.83
+Burugu2022-Kenya-KenyattaNH-2022-01,burden_incidence,overall_incidence,"SSI incidence 45/62 (72.58%) in Kenya, general",,,,,,45.0,62.0,72.58,60.41,82.12
+Burugu2022-Kenya-KenyattaNH-2022-01,burden_incidence,specialty_specific,"SSI incidence 45/62 (72.58%) in Kenya, general",,,,,,45.0,62.0,72.58,60.41,82.12
+Burugu2022-Kenya-KenyattaNH-2022-01,burden_incidence,geographic_variation,"SSI incidence 45/62 (72.58%) in Kenya, general",,,,,,45.0,62.0,72.58,60.41,82.12
+Dinda2013-Kenya-AKUHNairobi-20082009-1,burden_incidence,overall_incidence,"SSI incidence 12/171 (7.02%) in Kenya, general, 2008-2009",,,,,,12.0,171.0,7.02,4.06,11.86
+Dinda2013-Kenya-AKUHNairobi-20082009-1,burden_incidence,specialty_specific,"SSI incidence 12/171 (7.02%) in Kenya, general, 2008-2009",,,,,,12.0,171.0,7.02,4.06,11.86
+Dinda2013-Kenya-AKUHNairobi-20082009-1,burden_incidence,geographic_variation,"SSI incidence 12/171 (7.02%) in Kenya, general, 2008-2009",,,,,,12.0,171.0,7.02,4.06,11.86
+Dinda2013-Kenya-AKUHNairobi-20082009-1,burden_incidence,temporal_trends,"SSI incidence 12/171 (7.02%) in Kenya, general, 2008-2009",,,,,,12.0,171.0,7.02,4.06,11.86
+Dinda2013-Kenya-AKUHNairobi-20082009-1,burden_incidence,overall_incidence,"SSI incidence 39/268 (14.55%) in Kenya, general, 2008-2009",,,,,,39.0,268.0,14.55,10.83,19.27
+Dinda2013-Kenya-AKUHNairobi-20082009-1,burden_incidence,specialty_specific,"SSI incidence 39/268 (14.55%) in Kenya, general, 2008-2009",,,,,,39.0,268.0,14.55,10.83,19.27
+Dinda2013-Kenya-AKUHNairobi-20082009-1,burden_incidence,geographic_variation,"SSI incidence 39/268 (14.55%) in Kenya, general, 2008-2009",,,,,,39.0,268.0,14.55,10.83,19.27
+Dinda2013-Kenya-AKUHNairobi-20082009-1,burden_incidence,temporal_trends,"SSI incidence 39/268 (14.55%) in Kenya, general, 2008-2009",,,,,,39.0,268.0,14.55,10.83,19.27
+Dinda2013-Kenya-AKUHNairobi-20082009-1,burden_incidence,overall_incidence,"SSI incidence 5/91 (5.49%) in Kenya, general, 2008-2009",,,,,,5.0,91.0,5.49,2.37,12.22
+Dinda2013-Kenya-AKUHNairobi-20082009-1,burden_incidence,specialty_specific,"SSI incidence 5/91 (5.49%) in Kenya, general, 2008-2009",,,,,,5.0,91.0,5.49,2.37,12.22
+Dinda2013-Kenya-AKUHNairobi-20082009-1,burden_incidence,geographic_variation,"SSI incidence 5/91 (5.49%) in Kenya, general, 2008-2009",,,,,,5.0,91.0,5.49,2.37,12.22
+Dinda2013-Kenya-AKUHNairobi-20082009-1,burden_incidence,temporal_trends,"SSI incidence 5/91 (5.49%) in Kenya, general, 2008-2009",,,,,,5.0,91.0,5.49,2.37,12.22
+Dinda2013-Kenya-AKUHNairobi-20082009-1,burden_incidence,overall_incidence,"SSI incidence 7/80 (8.75%) in Kenya, general, 2008-2009",,,,,,7.0,80.0,8.75,4.3,16.98
+Dinda2013-Kenya-AKUHNairobi-20082009-1,burden_incidence,specialty_specific,"SSI incidence 7/80 (8.75%) in Kenya, general, 2008-2009",,,,,,7.0,80.0,8.75,4.3,16.98
+Dinda2013-Kenya-AKUHNairobi-20082009-1,burden_incidence,geographic_variation,"SSI incidence 7/80 (8.75%) in Kenya, general, 2008-2009",,,,,,7.0,80.0,8.75,4.3,16.98
+Dinda2013-Kenya-AKUHNairobi-20082009-1,burden_incidence,temporal_trends,"SSI incidence 7/80 (8.75%) in Kenya, general, 2008-2009",,,,,,7.0,80.0,8.75,4.3,16.98
+Dinda2013-Kenya-AKUHNairobi-20082009-1,burden_incidence,overall_incidence,"SSI incidence 6/30 (20.0%) in Kenya, general, 2008-2009",,,,,,6.0,30.0,20.0,9.5,37.31
+Dinda2013-Kenya-AKUHNairobi-20082009-1,burden_incidence,specialty_specific,"SSI incidence 6/30 (20.0%) in Kenya, general, 2008-2009",,,,,,6.0,30.0,20.0,9.5,37.31
+Dinda2013-Kenya-AKUHNairobi-20082009-1,burden_incidence,geographic_variation,"SSI incidence 6/30 (20.0%) in Kenya, general, 2008-2009",,,,,,6.0,30.0,20.0,9.5,37.31
+Dinda2013-Kenya-AKUHNairobi-20082009-1,burden_incidence,temporal_trends,"SSI incidence 6/30 (20.0%) in Kenya, general, 2008-2009",,,,,,6.0,30.0,20.0,9.5,37.31
+Dinda2013-Kenya-AKUHNairobi-20082009-1,burden_incidence,overall_incidence,"SSI incidence 20/67 (29.85%) in Kenya, general, 2008-2009",,,,,,20.0,67.0,29.85,20.23,41.66
+Dinda2013-Kenya-AKUHNairobi-20082009-1,burden_incidence,specialty_specific,"SSI incidence 20/67 (29.85%) in Kenya, general, 2008-2009",,,,,,20.0,67.0,29.85,20.23,41.66
+Dinda2013-Kenya-AKUHNairobi-20082009-1,burden_incidence,geographic_variation,"SSI incidence 20/67 (29.85%) in Kenya, general, 2008-2009",,,,,,20.0,67.0,29.85,20.23,41.66
+Dinda2013-Kenya-AKUHNairobi-20082009-1,burden_incidence,temporal_trends,"SSI incidence 20/67 (29.85%) in Kenya, general, 2008-2009",,,,,,20.0,67.0,29.85,20.23,41.66
+Gentilotti2020-Tanzania-Dodoma-2013-2015-1,burden_incidence,overall_incidence,"SSI incidence 225/467 (48.18%) in Tanzania, obstetrics/gynecology, 2013-2013",,,,,,225.0,467.0,48.18,43.68,52.71
+Gentilotti2020-Tanzania-Dodoma-2013-2015-1,burden_incidence,specialty_specific,"SSI incidence 225/467 (48.18%) in Tanzania, obstetrics/gynecology, 2013-2013",,,,,,225.0,467.0,48.18,43.68,52.71
+Gentilotti2020-Tanzania-Dodoma-2013-2015-1,burden_incidence,geographic_variation,"SSI incidence 225/467 (48.18%) in Tanzania, obstetrics/gynecology, 2013-2013",,,,,,225.0,467.0,48.18,43.68,52.71
+Gentilotti2020-Tanzania-Dodoma-2013-2015-1,burden_incidence,overall_incidence,"SSI incidence 95/573 (16.58%) in Tanzania, obstetrics/gynecology, 2015-2015",,,,,,95.0,573.0,16.58,13.76,19.85
+Gentilotti2020-Tanzania-Dodoma-2013-2015-1,burden_incidence,specialty_specific,"SSI incidence 95/573 (16.58%) in Tanzania, obstetrics/gynecology, 2015-2015",,,,,,95.0,573.0,16.58,13.76,19.85
+Gentilotti2020-Tanzania-Dodoma-2013-2015-1,burden_incidence,geographic_variation,"SSI incidence 95/573 (16.58%) in Tanzania, obstetrics/gynecology, 2015-2015",,,,,,95.0,573.0,16.58,13.76,19.85
+Gentilotti2020-Tanzania-Dodoma-2013-2015-1,burden_incidence,overall_incidence,"SSI incidence 138/225 (61.33%) in Tanzania, obstetrics/gynecology, 2013-2013",,,,,,138.0,225.0,61.33,54.83,67.46
+Gentilotti2020-Tanzania-Dodoma-2013-2015-1,burden_incidence,specialty_specific,"SSI incidence 138/225 (61.33%) in Tanzania, obstetrics/gynecology, 2013-2013",,,,,,138.0,225.0,61.33,54.83,67.46
+Gentilotti2020-Tanzania-Dodoma-2013-2015-1,burden_incidence,geographic_variation,"SSI incidence 138/225 (61.33%) in Tanzania, obstetrics/gynecology, 2013-2013",,,,,,138.0,225.0,61.33,54.83,67.46
+Gentilotti2020-Tanzania-Dodoma-2013-2015-1,burden_incidence,overall_incidence,"SSI incidence 74/225 (32.89%) in Tanzania, obstetrics/gynecology, 2013-2013",,,,,,74.0,225.0,32.89,27.08,39.27
+Gentilotti2020-Tanzania-Dodoma-2013-2015-1,burden_incidence,specialty_specific,"SSI incidence 74/225 (32.89%) in Tanzania, obstetrics/gynecology, 2013-2013",,,,,,74.0,225.0,32.89,27.08,39.27
+Gentilotti2020-Tanzania-Dodoma-2013-2015-1,burden_incidence,geographic_variation,"SSI incidence 74/225 (32.89%) in Tanzania, obstetrics/gynecology, 2013-2013",,,,,,74.0,225.0,32.89,27.08,39.27
+Gentilotti2020-Tanzania-Dodoma-2013-2015-1,burden_incidence,overall_incidence,"SSI incidence 80/95 (84.21%) in Tanzania, obstetrics/gynecology, 2015-2015",,,,,,80.0,95.0,84.21,75.57,90.19
+Gentilotti2020-Tanzania-Dodoma-2013-2015-1,burden_incidence,specialty_specific,"SSI incidence 80/95 (84.21%) in Tanzania, obstetrics/gynecology, 2015-2015",,,,,,80.0,95.0,84.21,75.57,90.19
+Gentilotti2020-Tanzania-Dodoma-2013-2015-1,burden_incidence,geographic_variation,"SSI incidence 80/95 (84.21%) in Tanzania, obstetrics/gynecology, 2015-2015",,,,,,80.0,95.0,84.21,75.57,90.19
+Gentilotti2020-Tanzania-Dodoma-2013-2015-1,burden_incidence,overall_incidence,"SSI incidence 11/95 (11.58%) in Tanzania, obstetrics/gynecology, 2015-2015",,,,,,11.0,95.0,11.58,6.59,19.55
+Gentilotti2020-Tanzania-Dodoma-2013-2015-1,burden_incidence,specialty_specific,"SSI incidence 11/95 (11.58%) in Tanzania, obstetrics/gynecology, 2015-2015",,,,,,11.0,95.0,11.58,6.59,19.55
+Gentilotti2020-Tanzania-Dodoma-2013-2015-1,burden_incidence,geographic_variation,"SSI incidence 11/95 (11.58%) in Tanzania, obstetrics/gynecology, 2015-2015",,,,,,11.0,95.0,11.58,6.59,19.55
+Habteweld2023-Ethiopia-DebreBerhan-202210202301-01,burden_incidence,overall_incidence,"SSI incidence 126/204 (61.76%) in Ethiopia, general, 2022-2023",,,,,,126.0,204.0,61.76,54.94,68.16
+Habteweld2023-Ethiopia-DebreBerhan-202210202301-01,burden_incidence,specialty_specific,"SSI incidence 126/204 (61.76%) in Ethiopia, general, 2022-2023",,,,,,126.0,204.0,61.76,54.94,68.16
+Habteweld2023-Ethiopia-DebreBerhan-202210202301-01,burden_incidence,geographic_variation,"SSI incidence 126/204 (61.76%) in Ethiopia, general, 2022-2023",,,,,,126.0,204.0,61.76,54.94,68.16
+Habteweld2023-Ethiopia-DebreBerhan-202210202301-01,burden_incidence,temporal_trends,"SSI incidence 126/204 (61.76%) in Ethiopia, general, 2022-2023",,,,,,126.0,204.0,61.76,54.94,68.16
+Habteweld2023-Ethiopia-DebreBerhan-202210202301-01,burden_incidence,overall_incidence,"SSI incidence 73/126 (57.94%) in Ethiopia, general, 2022-2023",,,,,,73.0,126.0,57.94,49.21,66.2
+Habteweld2023-Ethiopia-DebreBerhan-202210202301-01,burden_incidence,specialty_specific,"SSI incidence 73/126 (57.94%) in Ethiopia, general, 2022-2023",,,,,,73.0,126.0,57.94,49.21,66.2
+Habteweld2023-Ethiopia-DebreBerhan-202210202301-01,burden_incidence,geographic_variation,"SSI incidence 73/126 (57.94%) in Ethiopia, general, 2022-2023",,,,,,73.0,126.0,57.94,49.21,66.2
+Habteweld2023-Ethiopia-DebreBerhan-202210202301-01,burden_incidence,temporal_trends,"SSI incidence 73/126 (57.94%) in Ethiopia, general, 2022-2023",,,,,,73.0,126.0,57.94,49.21,66.2
+Habteweld2023-Ethiopia-DebreBerhan-202210202301-01,burden_incidence,overall_incidence,"SSI incidence 53/126 (42.06%) in Ethiopia, general, 2022-2023",,,,,,53.0,126.0,42.06,33.8,50.79
+Habteweld2023-Ethiopia-DebreBerhan-202210202301-01,burden_incidence,specialty_specific,"SSI incidence 53/126 (42.06%) in Ethiopia, general, 2022-2023",,,,,,53.0,126.0,42.06,33.8,50.79
+Habteweld2023-Ethiopia-DebreBerhan-202210202301-01,burden_incidence,geographic_variation,"SSI incidence 53/126 (42.06%) in Ethiopia, general, 2022-2023",,,,,,53.0,126.0,42.06,33.8,50.79
+Habteweld2023-Ethiopia-DebreBerhan-202210202301-01,burden_incidence,temporal_trends,"SSI incidence 53/126 (42.06%) in Ethiopia, general, 2022-2023",,,,,,53.0,126.0,42.06,33.8,50.79
+Hamudu2025-Tanzania-BMC_SRHH-2024-01,burden_incidence,overall_incidence,"SSI incidence 36/120 (30.0%) in Tanzania, orthopedics, 2024-2024",,,,,,36.0,120.0,30.0,22.53,38.72
+Hamudu2025-Tanzania-BMC_SRHH-2024-01,burden_incidence,specialty_specific,"SSI incidence 36/120 (30.0%) in Tanzania, orthopedics, 2024-2024",,,,,,36.0,120.0,30.0,22.53,38.72
+Hamudu2025-Tanzania-BMC_SRHH-2024-01,burden_incidence,geographic_variation,"SSI incidence 36/120 (30.0%) in Tanzania, orthopedics, 2024-2024",,,,,,36.0,120.0,30.0,22.53,38.72
+Hamudu2025-Tanzania-BMC_SRHH-2024-01,burden_incidence,overall_incidence,"SSI incidence 23/90 (25.56%) in Tanzania, orthopedics, 2024-2024",,,,,,23.0,90.0,25.56,17.67,35.44
+Hamudu2025-Tanzania-BMC_SRHH-2024-01,burden_incidence,specialty_specific,"SSI incidence 23/90 (25.56%) in Tanzania, orthopedics, 2024-2024",,,,,,23.0,90.0,25.56,17.67,35.44
+Hamudu2025-Tanzania-BMC_SRHH-2024-01,burden_incidence,geographic_variation,"SSI incidence 23/90 (25.56%) in Tanzania, orthopedics, 2024-2024",,,,,,23.0,90.0,25.56,17.67,35.44
+Hamudu2025-Tanzania-BMC_SRHH-2024-01,burden_incidence,overall_incidence,"SSI incidence 13/30 (43.33%) in Tanzania, orthopedics, 2024-2024",,,,,,13.0,30.0,43.33,27.38,60.8
+Hamudu2025-Tanzania-BMC_SRHH-2024-01,burden_incidence,specialty_specific,"SSI incidence 13/30 (43.33%) in Tanzania, orthopedics, 2024-2024",,,,,,13.0,30.0,43.33,27.38,60.8
+Hamudu2025-Tanzania-BMC_SRHH-2024-01,burden_incidence,geographic_variation,"SSI incidence 13/30 (43.33%) in Tanzania, orthopedics, 2024-2024",,,,,,13.0,30.0,43.33,27.38,60.8
+Hamudu2025-Tanzania-BMC_SRHH-2024-01,burden_incidence,overall_incidence,"SSI incidence 28/36 (77.78%) in Tanzania, orthopedics, 2024-2024",,,,,,28.0,36.0,77.78,61.91,88.28
+Hamudu2025-Tanzania-BMC_SRHH-2024-01,burden_incidence,specialty_specific,"SSI incidence 28/36 (77.78%) in Tanzania, orthopedics, 2024-2024",,,,,,28.0,36.0,77.78,61.91,88.28
+Hamudu2025-Tanzania-BMC_SRHH-2024-01,burden_incidence,geographic_variation,"SSI incidence 28/36 (77.78%) in Tanzania, orthopedics, 2024-2024",,,,,,28.0,36.0,77.78,61.91,88.28
+Hamudu2025-Tanzania-BMC_SRHH-2024-01,burden_incidence,overall_incidence,"SSI incidence 8/36 (22.22%) in Tanzania, orthopedics, 2024-2024",,,,,,8.0,36.0,22.22,11.72,38.09
+Hamudu2025-Tanzania-BMC_SRHH-2024-01,burden_incidence,specialty_specific,"SSI incidence 8/36 (22.22%) in Tanzania, orthopedics, 2024-2024",,,,,,8.0,36.0,22.22,11.72,38.09
+Hamudu2025-Tanzania-BMC_SRHH-2024-01,burden_incidence,geographic_variation,"SSI incidence 8/36 (22.22%) in Tanzania, orthopedics, 2024-2024",,,,,,8.0,36.0,22.22,11.72,38.09
+Kachipedzu2024-Malawi-QECH-2023-1,burden_incidence,overall_incidence,"SSI incidence 20/208 (9.62%) in Malawi, obstetrics/gynecology, 2023-2023",,,,,,20.0,208.0,9.62,6.31,14.38
+Kachipedzu2024-Malawi-QECH-2023-1,burden_incidence,specialty_specific,"SSI incidence 20/208 (9.62%) in Malawi, obstetrics/gynecology, 2023-2023",,,,,,20.0,208.0,9.62,6.31,14.38
+Kachipedzu2024-Malawi-QECH-2023-1,burden_incidence,geographic_variation,"SSI incidence 20/208 (9.62%) in Malawi, obstetrics/gynecology, 2023-2023",,,,,,20.0,208.0,9.62,6.31,14.38
+Kachipedzu2024-Malawi-QECH-2023-1,burden_incidence,overall_incidence,"SSI incidence 19/208 (9.13%) in Malawi, obstetrics/gynecology, 2023-2023",,,,,,19.0,208.0,9.13,5.93,13.83
+Kachipedzu2024-Malawi-QECH-2023-1,burden_incidence,specialty_specific,"SSI incidence 19/208 (9.13%) in Malawi, obstetrics/gynecology, 2023-2023",,,,,,19.0,208.0,9.13,5.93,13.83
+Kachipedzu2024-Malawi-QECH-2023-1,burden_incidence,geographic_variation,"SSI incidence 19/208 (9.13%) in Malawi, obstetrics/gynecology, 2023-2023",,,,,,19.0,208.0,9.13,5.93,13.83
+Kachipedzu2024-Malawi-QECH-2023-1,burden_incidence,overall_incidence,"SSI incidence 1/208 (0.48%) in Malawi, obstetrics/gynecology, 2023-2023",,,,,,1.0,208.0,0.48,0.08,2.67
+Kachipedzu2024-Malawi-QECH-2023-1,burden_incidence,specialty_specific,"SSI incidence 1/208 (0.48%) in Malawi, obstetrics/gynecology, 2023-2023",,,,,,1.0,208.0,0.48,0.08,2.67
+Kachipedzu2024-Malawi-QECH-2023-1,burden_incidence,geographic_variation,"SSI incidence 1/208 (0.48%) in Malawi, obstetrics/gynecology, 2023-2023",,,,,,1.0,208.0,0.48,0.08,2.67
+Kefale2020-Ethiopia-FinoteSelam-2019-2020-1,burden_incidence,overall_incidence,"SSI incidence 55/281 (19.57%) in Ethiopia, general, 2019-2020",,,,,,55.0,281.0,19.57,15.36,24.61
+Kefale2020-Ethiopia-FinoteSelam-2019-2020-1,burden_incidence,specialty_specific,"SSI incidence 55/281 (19.57%) in Ethiopia, general, 2019-2020",,,,,,55.0,281.0,19.57,15.36,24.61
+Kefale2020-Ethiopia-FinoteSelam-2019-2020-1,burden_incidence,geographic_variation,"SSI incidence 55/281 (19.57%) in Ethiopia, general, 2019-2020",,,,,,55.0,281.0,19.57,15.36,24.61
+Kefale2020-Ethiopia-FinoteSelam-2019-2020-1,burden_incidence,temporal_trends,"SSI incidence 55/281 (19.57%) in Ethiopia, general, 2019-2020",,,,,,55.0,281.0,19.57,15.36,24.61
+Kefale2020-Ethiopia-FinoteSelam-2019-2020-1,burden_incidence,overall_incidence,"SSI incidence 41/281 (14.59%) in Ethiopia, general, 2019-2020",,,,,,41.0,281.0,14.59,10.94,19.2
+Kefale2020-Ethiopia-FinoteSelam-2019-2020-1,burden_incidence,specialty_specific,"SSI incidence 41/281 (14.59%) in Ethiopia, general, 2019-2020",,,,,,41.0,281.0,14.59,10.94,19.2
+Kefale2020-Ethiopia-FinoteSelam-2019-2020-1,burden_incidence,geographic_variation,"SSI incidence 41/281 (14.59%) in Ethiopia, general, 2019-2020",,,,,,41.0,281.0,14.59,10.94,19.2
+Kefale2020-Ethiopia-FinoteSelam-2019-2020-1,burden_incidence,temporal_trends,"SSI incidence 41/281 (14.59%) in Ethiopia, general, 2019-2020",,,,,,41.0,281.0,14.59,10.94,19.2
+Kefale2020-Ethiopia-FinoteSelam-2019-2020-1,burden_incidence,overall_incidence,"SSI incidence 8/281 (2.85%) in Ethiopia, general, 2019-2020",,,,,,8.0,281.0,2.85,1.45,5.52
+Kefale2020-Ethiopia-FinoteSelam-2019-2020-1,burden_incidence,specialty_specific,"SSI incidence 8/281 (2.85%) in Ethiopia, general, 2019-2020",,,,,,8.0,281.0,2.85,1.45,5.52
+Kefale2020-Ethiopia-FinoteSelam-2019-2020-1,burden_incidence,geographic_variation,"SSI incidence 8/281 (2.85%) in Ethiopia, general, 2019-2020",,,,,,8.0,281.0,2.85,1.45,5.52
+Kefale2020-Ethiopia-FinoteSelam-2019-2020-1,burden_incidence,temporal_trends,"SSI incidence 8/281 (2.85%) in Ethiopia, general, 2019-2020",,,,,,8.0,281.0,2.85,1.45,5.52
+Kefale2020-Ethiopia-FinoteSelam-2019-2020-1,burden_incidence,overall_incidence,"SSI incidence 8/281 (2.85%) in Ethiopia, general, 2019-2020",,,,,,8.0,281.0,2.85,1.45,5.52
+Kefale2020-Ethiopia-FinoteSelam-2019-2020-1,burden_incidence,specialty_specific,"SSI incidence 8/281 (2.85%) in Ethiopia, general, 2019-2020",,,,,,8.0,281.0,2.85,1.45,5.52
+Kefale2020-Ethiopia-FinoteSelam-2019-2020-1,burden_incidence,geographic_variation,"SSI incidence 8/281 (2.85%) in Ethiopia, general, 2019-2020",,,,,,8.0,281.0,2.85,1.45,5.52
+Kefale2020-Ethiopia-FinoteSelam-2019-2020-1,burden_incidence,temporal_trends,"SSI incidence 8/281 (2.85%) in Ethiopia, general, 2019-2020",,,,,,8.0,281.0,2.85,1.45,5.52
+Akoachere2014-Cameroon-Buea-201010201103-01,burden_incidence,overall_incidence,"SSI incidence 169/212 (79.72%) in Cameroon, general, 2010-2011",,,,,,169.0,212.0,79.72,73.8,84.58
+Akoachere2014-Cameroon-Buea-201010201103-01,burden_incidence,specialty_specific,"SSI incidence 169/212 (79.72%) in Cameroon, general, 2010-2011",,,,,,169.0,212.0,79.72,73.8,84.58
+Akoachere2014-Cameroon-Buea-201010201103-01,burden_incidence,geographic_variation,"SSI incidence 169/212 (79.72%) in Cameroon, general, 2010-2011",,,,,,169.0,212.0,79.72,73.8,84.58
+Akoachere2014-Cameroon-Buea-201010201103-01,burden_incidence,temporal_trends,"SSI incidence 169/212 (79.72%) in Cameroon, general, 2010-2011",,,,,,169.0,212.0,79.72,73.8,84.58
+Akoachere2014-Cameroon-Buea-201010201103-01,burden_incidence,overall_incidence,"SSI incidence 3/3 (100.0%) in Cameroon, general, 2010-2011",,,,,,3.0,3.0,100.0,43.85,100.0
+Akoachere2014-Cameroon-Buea-201010201103-01,burden_incidence,specialty_specific,"SSI incidence 3/3 (100.0%) in Cameroon, general, 2010-2011",,,,,,3.0,3.0,100.0,43.85,100.0
+Akoachere2014-Cameroon-Buea-201010201103-01,burden_incidence,geographic_variation,"SSI incidence 3/3 (100.0%) in Cameroon, general, 2010-2011",,,,,,3.0,3.0,100.0,43.85,100.0
+Akoachere2014-Cameroon-Buea-201010201103-01,burden_incidence,temporal_trends,"SSI incidence 3/3 (100.0%) in Cameroon, general, 2010-2011",,,,,,3.0,3.0,100.0,43.85,100.0
+Akoachere2014-Cameroon-Buea-201010201103-01,burden_incidence,overall_incidence,"SSI incidence 13/15 (86.67%) in Cameroon, general, 2010-2011",,,,,,13.0,15.0,86.67,62.12,96.26
+Akoachere2014-Cameroon-Buea-201010201103-01,burden_incidence,specialty_specific,"SSI incidence 13/15 (86.67%) in Cameroon, general, 2010-2011",,,,,,13.0,15.0,86.67,62.12,96.26
+Akoachere2014-Cameroon-Buea-201010201103-01,burden_incidence,geographic_variation,"SSI incidence 13/15 (86.67%) in Cameroon, general, 2010-2011",,,,,,13.0,15.0,86.67,62.12,96.26
+Akoachere2014-Cameroon-Buea-201010201103-01,burden_incidence,temporal_trends,"SSI incidence 13/15 (86.67%) in Cameroon, general, 2010-2011",,,,,,13.0,15.0,86.67,62.12,96.26
+Akoachere2014-Cameroon-Buea-201010201103-01,burden_incidence,overall_incidence,"SSI incidence 23/29 (79.31%) in Cameroon, general, 2010-2011",,,,,,23.0,29.0,79.31,61.61,90.15
+Akoachere2014-Cameroon-Buea-201010201103-01,burden_incidence,specialty_specific,"SSI incidence 23/29 (79.31%) in Cameroon, general, 2010-2011",,,,,,23.0,29.0,79.31,61.61,90.15
+Akoachere2014-Cameroon-Buea-201010201103-01,burden_incidence,geographic_variation,"SSI incidence 23/29 (79.31%) in Cameroon, general, 2010-2011",,,,,,23.0,29.0,79.31,61.61,90.15
+Akoachere2014-Cameroon-Buea-201010201103-01,burden_incidence,temporal_trends,"SSI incidence 23/29 (79.31%) in Cameroon, general, 2010-2011",,,,,,23.0,29.0,79.31,61.61,90.15
+Akoachere2014-Cameroon-Buea-201010201103-01,burden_incidence,overall_incidence,"SSI incidence 130/165 (78.79%) in Cameroon, general, 2010-2011",,,,,,130.0,165.0,78.79,71.93,84.33
+Akoachere2014-Cameroon-Buea-201010201103-01,burden_incidence,specialty_specific,"SSI incidence 130/165 (78.79%) in Cameroon, general, 2010-2011",,,,,,130.0,165.0,78.79,71.93,84.33
+Akoachere2014-Cameroon-Buea-201010201103-01,burden_incidence,geographic_variation,"SSI incidence 130/165 (78.79%) in Cameroon, general, 2010-2011",,,,,,130.0,165.0,78.79,71.93,84.33
+Akoachere2014-Cameroon-Buea-201010201103-01,burden_incidence,temporal_trends,"SSI incidence 130/165 (78.79%) in Cameroon, general, 2010-2011",,,,,,130.0,165.0,78.79,71.93,84.33
+Mengesha2014-Ethiopia-Ayder-2012-1,burden_incidence,overall_incidence,"SSI incidence 96/128 (75.0%) in Ethiopia, general, 2012-2012",,,,,,96.0,128.0,75.0,66.84,81.7
+Mengesha2014-Ethiopia-Ayder-2012-1,burden_incidence,specialty_specific,"SSI incidence 96/128 (75.0%) in Ethiopia, general, 2012-2012",,,,,,96.0,128.0,75.0,66.84,81.7
+Mengesha2014-Ethiopia-Ayder-2012-1,burden_incidence,geographic_variation,"SSI incidence 96/128 (75.0%) in Ethiopia, general, 2012-2012",,,,,,96.0,128.0,75.0,66.84,81.7
+Misha2021-Ethiopia-JimmaMedicalCenter-2019-01,burden_incidence,overall_incidence,"SSI incidence 53/251 (21.12%) in Ethiopia, general, 2019-2019",,,,,,53.0,251.0,21.12,16.52,26.58
+Misha2021-Ethiopia-JimmaMedicalCenter-2019-01,burden_incidence,specialty_specific,"SSI incidence 53/251 (21.12%) in Ethiopia, general, 2019-2019",,,,,,53.0,251.0,21.12,16.52,26.58
+Misha2021-Ethiopia-JimmaMedicalCenter-2019-01,burden_incidence,geographic_variation,"SSI incidence 53/251 (21.12%) in Ethiopia, general, 2019-2019",,,,,,53.0,251.0,21.12,16.52,26.58
+Mukagendaneza2019-Rwanda-KigaliCHUK-2017_2018-01,burden_incidence,overall_incidence,"SSI incidence 34/294 (11.56%) in Rwanda, general, 2017-2018",,,,,,34.0,294.0,11.56,8.39,15.73
+Mukagendaneza2019-Rwanda-KigaliCHUK-2017_2018-01,burden_incidence,specialty_specific,"SSI incidence 34/294 (11.56%) in Rwanda, general, 2017-2018",,,,,,34.0,294.0,11.56,8.39,15.73
+Mukagendaneza2019-Rwanda-KigaliCHUK-2017_2018-01,burden_incidence,geographic_variation,"SSI incidence 34/294 (11.56%) in Rwanda, general, 2017-2018",,,,,,34.0,294.0,11.56,8.39,15.73
+Mukagendaneza2019-Rwanda-KigaliCHUK-2017_2018-01,burden_incidence,temporal_trends,"SSI incidence 34/294 (11.56%) in Rwanda, general, 2017-2018",,,,,,34.0,294.0,11.56,8.39,15.73
+Mukagendaneza2019-Rwanda-KigaliCHUK-2017_2018-01,burden_incidence,overall_incidence,"SSI incidence 26/217 (11.98%) in Rwanda, orthopedics, 2017-2018",,,,,,26.0,217.0,11.98,8.31,16.98
+Mukagendaneza2019-Rwanda-KigaliCHUK-2017_2018-01,burden_incidence,specialty_specific,"SSI incidence 26/217 (11.98%) in Rwanda, orthopedics, 2017-2018",,,,,,26.0,217.0,11.98,8.31,16.98
+Mukagendaneza2019-Rwanda-KigaliCHUK-2017_2018-01,burden_incidence,geographic_variation,"SSI incidence 26/217 (11.98%) in Rwanda, orthopedics, 2017-2018",,,,,,26.0,217.0,11.98,8.31,16.98
+Mukagendaneza2019-Rwanda-KigaliCHUK-2017_2018-01,burden_incidence,temporal_trends,"SSI incidence 26/217 (11.98%) in Rwanda, orthopedics, 2017-2018",,,,,,26.0,217.0,11.98,8.31,16.98
+Mukagendaneza2019-Rwanda-KigaliCHUK-2017_2018-01,burden_incidence,overall_incidence,"SSI incidence 8/66 (12.12%) in Rwanda, general, 2017-2018",,,,,,8.0,66.0,12.12,6.27,22.14
+Mukagendaneza2019-Rwanda-KigaliCHUK-2017_2018-01,burden_incidence,specialty_specific,"SSI incidence 8/66 (12.12%) in Rwanda, general, 2017-2018",,,,,,8.0,66.0,12.12,6.27,22.14
+Mukagendaneza2019-Rwanda-KigaliCHUK-2017_2018-01,burden_incidence,geographic_variation,"SSI incidence 8/66 (12.12%) in Rwanda, general, 2017-2018",,,,,,8.0,66.0,12.12,6.27,22.14
+Mukagendaneza2019-Rwanda-KigaliCHUK-2017_2018-01,burden_incidence,temporal_trends,"SSI incidence 8/66 (12.12%) in Rwanda, general, 2017-2018",,,,,,8.0,66.0,12.12,6.27,22.14
+Mukagendaneza2019-Rwanda-KigaliCHUK-2017_2018-01,burden_incidence,overall_incidence,"SSI incidence 0/11 (0.0%) in Rwanda, urology, 2017-2018",,,,,,0.0,11.0,0.0,0.0,25.88
+Mukagendaneza2019-Rwanda-KigaliCHUK-2017_2018-01,burden_incidence,specialty_specific,"SSI incidence 0/11 (0.0%) in Rwanda, urology, 2017-2018",,,,,,0.0,11.0,0.0,0.0,25.88
+Mukagendaneza2019-Rwanda-KigaliCHUK-2017_2018-01,burden_incidence,geographic_variation,"SSI incidence 0/11 (0.0%) in Rwanda, urology, 2017-2018",,,,,,0.0,11.0,0.0,0.0,25.88
+Mukagendaneza2019-Rwanda-KigaliCHUK-2017_2018-01,burden_incidence,temporal_trends,"SSI incidence 0/11 (0.0%) in Rwanda, urology, 2017-2018",,,,,,0.0,11.0,0.0,0.0,25.88
+DeNardo2016-Tanzania-Dodoma-2013-1,burden_incidence,overall_incidence,"SSI incidence 225/467 (48.18%) in Tanzania, obstetrics/gynecology, 2013-2013",,,,,,225.0,467.0,48.18,43.68,52.71
+DeNardo2016-Tanzania-Dodoma-2013-1,burden_incidence,specialty_specific,"SSI incidence 225/467 (48.18%) in Tanzania, obstetrics/gynecology, 2013-2013",,,,,,225.0,467.0,48.18,43.68,52.71
+DeNardo2016-Tanzania-Dodoma-2013-1,burden_incidence,geographic_variation,"SSI incidence 225/467 (48.18%) in Tanzania, obstetrics/gynecology, 2013-2013",,,,,,225.0,467.0,48.18,43.68,52.71
+DeNardo2016-Tanzania-Dodoma-2013-1,burden_incidence,overall_incidence,"SSI incidence 138/467 (29.55%) in Tanzania, obstetrics/gynecology, 2013-2013",,,,,,138.0,467.0,29.55,25.59,33.84
+DeNardo2016-Tanzania-Dodoma-2013-1,burden_incidence,specialty_specific,"SSI incidence 138/467 (29.55%) in Tanzania, obstetrics/gynecology, 2013-2013",,,,,,138.0,467.0,29.55,25.59,33.84
+DeNardo2016-Tanzania-Dodoma-2013-1,burden_incidence,geographic_variation,"SSI incidence 138/467 (29.55%) in Tanzania, obstetrics/gynecology, 2013-2013",,,,,,138.0,467.0,29.55,25.59,33.84
+DeNardo2016-Tanzania-Dodoma-2013-1,burden_incidence,overall_incidence,"SSI incidence 69/467 (14.78%) in Tanzania, obstetrics/gynecology, 2013-2013",,,,,,69.0,467.0,14.78,11.84,18.28
+DeNardo2016-Tanzania-Dodoma-2013-1,burden_incidence,specialty_specific,"SSI incidence 69/467 (14.78%) in Tanzania, obstetrics/gynecology, 2013-2013",,,,,,69.0,467.0,14.78,11.84,18.28
+DeNardo2016-Tanzania-Dodoma-2013-1,burden_incidence,geographic_variation,"SSI incidence 69/467 (14.78%) in Tanzania, obstetrics/gynecology, 2013-2013",,,,,,69.0,467.0,14.78,11.84,18.28
+DeNardo2016-Tanzania-Dodoma-2013-1,burden_incidence,overall_incidence,"SSI incidence 5/467 (1.07%) in Tanzania, obstetrics/gynecology, 2013-2013",,,,,,5.0,467.0,1.07,0.46,2.48
+DeNardo2016-Tanzania-Dodoma-2013-1,burden_incidence,specialty_specific,"SSI incidence 5/467 (1.07%) in Tanzania, obstetrics/gynecology, 2013-2013",,,,,,5.0,467.0,1.07,0.46,2.48
+DeNardo2016-Tanzania-Dodoma-2013-1,burden_incidence,geographic_variation,"SSI incidence 5/467 (1.07%) in Tanzania, obstetrics/gynecology, 2013-2013",,,,,,5.0,467.0,1.07,0.46,2.48
+Ntirushwa2021-Rwanda-RuhengeriHospital-2015-2016-01,burden_incidence,overall_incidence,"SSI incidence 8/147 (5.44%) in Rwanda, obstetrics/gynecology, 2015-2016",,,,,,8.0,147.0,5.44,2.78,10.37
+Ntirushwa2021-Rwanda-RuhengeriHospital-2015-2016-01,burden_incidence,specialty_specific,"SSI incidence 8/147 (5.44%) in Rwanda, obstetrics/gynecology, 2015-2016",,,,,,8.0,147.0,5.44,2.78,10.37
+Ntirushwa2021-Rwanda-RuhengeriHospital-2015-2016-01,burden_incidence,geographic_variation,"SSI incidence 8/147 (5.44%) in Rwanda, obstetrics/gynecology, 2015-2016",,,,,,8.0,147.0,5.44,2.78,10.37
+Ntirushwa2021-Rwanda-RuhengeriHospital-2015-2016-01,burden_incidence,temporal_trends,"SSI incidence 8/147 (5.44%) in Rwanda, obstetrics/gynecology, 2015-2016",,,,,,8.0,147.0,5.44,2.78,10.37
+Ntirushwa2021-Rwanda-RuhengeriHospital-2015-2016-01,burden_incidence,overall_incidence,"SSI incidence 4/154 (2.6%) in Rwanda, obstetrics/gynecology, 2015-2016",,,,,,4.0,154.0,2.6,1.01,6.49
+Ntirushwa2021-Rwanda-RuhengeriHospital-2015-2016-01,burden_incidence,specialty_specific,"SSI incidence 4/154 (2.6%) in Rwanda, obstetrics/gynecology, 2015-2016",,,,,,4.0,154.0,2.6,1.01,6.49
+Ntirushwa2021-Rwanda-RuhengeriHospital-2015-2016-01,burden_incidence,geographic_variation,"SSI incidence 4/154 (2.6%) in Rwanda, obstetrics/gynecology, 2015-2016",,,,,,4.0,154.0,2.6,1.01,6.49
+Ntirushwa2021-Rwanda-RuhengeriHospital-2015-2016-01,burden_incidence,temporal_trends,"SSI incidence 4/154 (2.6%) in Rwanda, obstetrics/gynecology, 2015-2016",,,,,,4.0,154.0,2.6,1.01,6.49
+Ntirushwa2021-Rwanda-RuhengeriHospital-2015-2016-01,burden_incidence,overall_incidence,"SSI incidence 12/301 (3.99%) in Rwanda, obstetrics/gynecology, 2015-2016",,,,,,12.0,301.0,3.99,2.3,6.84
+Ntirushwa2021-Rwanda-RuhengeriHospital-2015-2016-01,burden_incidence,specialty_specific,"SSI incidence 12/301 (3.99%) in Rwanda, obstetrics/gynecology, 2015-2016",,,,,,12.0,301.0,3.99,2.3,6.84
+Ntirushwa2021-Rwanda-RuhengeriHospital-2015-2016-01,burden_incidence,geographic_variation,"SSI incidence 12/301 (3.99%) in Rwanda, obstetrics/gynecology, 2015-2016",,,,,,12.0,301.0,3.99,2.3,6.84
+Ntirushwa2021-Rwanda-RuhengeriHospital-2015-2016-01,burden_incidence,temporal_trends,"SSI incidence 12/301 (3.99%) in Rwanda, obstetrics/gynecology, 2015-2016",,,,,,12.0,301.0,3.99,2.3,6.84
+Scherbaum2014-Gabon-Lambarene-2009-01,burden_incidence,overall_incidence,"SSI incidence 20/2925 (0.68%) in Gabon, general, 2009-2009",,,,,,20.0,2925.0,0.68,0.44,1.05
+Scherbaum2014-Gabon-Lambarene-2009-01,burden_incidence,specialty_specific,"SSI incidence 20/2925 (0.68%) in Gabon, general, 2009-2009",,,,,,20.0,2925.0,0.68,0.44,1.05
+Scherbaum2014-Gabon-Lambarene-2009-01,burden_incidence,geographic_variation,"SSI incidence 20/2925 (0.68%) in Gabon, general, 2009-2009",,,,,,20.0,2925.0,0.68,0.44,1.05
+Scherbaum2014-Gabon-Lambarene-2009-01,burden_incidence,overall_incidence,"SSI incidence 20/1059 (1.89%) in Gabon, general, 2009-2009",,,,,,20.0,1059.0,1.89,1.23,2.9
+Scherbaum2014-Gabon-Lambarene-2009-01,burden_incidence,specialty_specific,"SSI incidence 20/1059 (1.89%) in Gabon, general, 2009-2009",,,,,,20.0,1059.0,1.89,1.23,2.9
+Scherbaum2014-Gabon-Lambarene-2009-01,burden_incidence,geographic_variation,"SSI incidence 20/1059 (1.89%) in Gabon, general, 2009-2009",,,,,,20.0,1059.0,1.89,1.23,2.9
+Scherbaum2014-Gabon-Lambarene-2009-01,burden_incidence,overall_incidence,"SSI incidence 3/26 (11.54%) in Gabon, obstetrics/gynecology, 2009-2009",,,,,,3.0,26.0,11.54,4.0,28.98
+Scherbaum2014-Gabon-Lambarene-2009-01,burden_incidence,specialty_specific,"SSI incidence 3/26 (11.54%) in Gabon, obstetrics/gynecology, 2009-2009",,,,,,3.0,26.0,11.54,4.0,28.98
+Scherbaum2014-Gabon-Lambarene-2009-01,burden_incidence,geographic_variation,"SSI incidence 3/26 (11.54%) in Gabon, obstetrics/gynecology, 2009-2009",,,,,,3.0,26.0,11.54,4.0,28.98
+Scherbaum2014-Gabon-Lambarene-2009-01,burden_incidence,overall_incidence,"SSI incidence 5/80 (6.25%) in Gabon, obstetrics/gynecology, 2009-2009",,,,,,5.0,80.0,6.25,2.7,13.81
+Scherbaum2014-Gabon-Lambarene-2009-01,burden_incidence,specialty_specific,"SSI incidence 5/80 (6.25%) in Gabon, obstetrics/gynecology, 2009-2009",,,,,,5.0,80.0,6.25,2.7,13.81
+Scherbaum2014-Gabon-Lambarene-2009-01,burden_incidence,geographic_variation,"SSI incidence 5/80 (6.25%) in Gabon, obstetrics/gynecology, 2009-2009",,,,,,5.0,80.0,6.25,2.7,13.81
+Velin2021-Rwanda-KireheDistrictHospital-2019_2020-01,burden_incidence,overall_incidence,"SSI incidence 45/795 (5.66%) in Rwanda, obstetrics/gynecology, 2019-2020",,,,,,45.0,795.0,5.66,4.26,7.49
+Velin2021-Rwanda-KireheDistrictHospital-2019_2020-01,burden_incidence,specialty_specific,"SSI incidence 45/795 (5.66%) in Rwanda, obstetrics/gynecology, 2019-2020",,,,,,45.0,795.0,5.66,4.26,7.49
+Velin2021-Rwanda-KireheDistrictHospital-2019_2020-01,burden_incidence,geographic_variation,"SSI incidence 45/795 (5.66%) in Rwanda, obstetrics/gynecology, 2019-2020",,,,,,45.0,795.0,5.66,4.26,7.49
+Velin2021-Rwanda-KireheDistrictHospital-2019_2020-01,burden_incidence,temporal_trends,"SSI incidence 45/795 (5.66%) in Rwanda, obstetrics/gynecology, 2019-2020",,,,,,45.0,795.0,5.66,4.26,7.49
+Wekesa2020-Uganda-MulagoHospital-201711201804-01,burden_incidence,overall_incidence,"SSI incidence 109/109 (100.0%) in Uganda, obstetrics/gynecology, 2017-2018",,,,,,109.0,109.0,100.0,96.6,100.0
+Wekesa2020-Uganda-MulagoHospital-201711201804-01,burden_incidence,specialty_specific,"SSI incidence 109/109 (100.0%) in Uganda, obstetrics/gynecology, 2017-2018",,,,,,109.0,109.0,100.0,96.6,100.0
+Wekesa2020-Uganda-MulagoHospital-201711201804-01,burden_incidence,geographic_variation,"SSI incidence 109/109 (100.0%) in Uganda, obstetrics/gynecology, 2017-2018",,,,,,109.0,109.0,100.0,96.6,100.0
+Wekesa2020-Uganda-MulagoHospital-201711201804-01,burden_incidence,temporal_trends,"SSI incidence 109/109 (100.0%) in Uganda, obstetrics/gynecology, 2017-2018",,,,,,109.0,109.0,100.0,96.6,100.0
+Worku2023-Ethiopia-Multicentre-2020-2021-1,burden_incidence,overall_incidence,"SSI incidence 752/752 (100.0%) in Ethiopia, general, 2020-2021",,,,,,752.0,752.0,100.0,99.49,100.0
+Worku2023-Ethiopia-Multicentre-2020-2021-1,burden_incidence,specialty_specific,"SSI incidence 752/752 (100.0%) in Ethiopia, general, 2020-2021",,,,,,752.0,752.0,100.0,99.49,100.0
+Worku2023-Ethiopia-Multicentre-2020-2021-1,burden_incidence,geographic_variation,"SSI incidence 752/752 (100.0%) in Ethiopia, general, 2020-2021",,,,,,752.0,752.0,100.0,99.49,100.0
+Worku2023-Ethiopia-Multicentre-2020-2021-1,burden_incidence,temporal_trends,"SSI incidence 752/752 (100.0%) in Ethiopia, general, 2020-2021",,,,,,752.0,752.0,100.0,99.49,100.0
+Worku2023-Ethiopia-Multicentre-2020-2021-1,burden_incidence,overall_incidence,"SSI incidence 493/752 (65.56%) in Ethiopia, general, 2020-2021",,,,,,493.0,752.0,65.56,62.09,68.87
+Worku2023-Ethiopia-Multicentre-2020-2021-1,burden_incidence,specialty_specific,"SSI incidence 493/752 (65.56%) in Ethiopia, general, 2020-2021",,,,,,493.0,752.0,65.56,62.09,68.87
+Worku2023-Ethiopia-Multicentre-2020-2021-1,burden_incidence,geographic_variation,"SSI incidence 493/752 (65.56%) in Ethiopia, general, 2020-2021",,,,,,493.0,752.0,65.56,62.09,68.87
+Worku2023-Ethiopia-Multicentre-2020-2021-1,burden_incidence,temporal_trends,"SSI incidence 493/752 (65.56%) in Ethiopia, general, 2020-2021",,,,,,493.0,752.0,65.56,62.09,68.87
+Abayneh2022-Ethiopia-MizanTepi-2021-01,amr_prevalence,pathogen_specific,AMR prevalence for Escherichia coli / ampicillin: 12/12 (100.0%),,,,,,12.0,12.0,100.0,75.75,100.0
+Abayneh2022-Ethiopia-MizanTepi-2021-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Escherichia coli / ampicillin: 12/12 (100.0%),,,,,,12.0,12.0,100.0,75.75,100.0
+Abayneh2022-Ethiopia-MizanTepi-2021-01,amr_prevalence,mdr_xdr_pandr,AMR prevalence for Escherichia coli / ampicillin: 12/12 (100.0%),,,,,,12.0,12.0,100.0,75.75,100.0
+Abayneh2022-Ethiopia-MizanTepi-2021-01,amr_prevalence,specimen_site,AMR prevalence for Escherichia coli / ampicillin: 12/12 (100.0%),,,,,,12.0,12.0,100.0,75.75,100.0
+Abayneh2022-Ethiopia-MizanTepi-2021-01,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / ampicillin: 7/8 (87.5%),,,,,,7.0,8.0,87.5,52.91,97.76
+Abayneh2022-Ethiopia-MizanTepi-2021-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / ampicillin: 7/8 (87.5%),,,,,,7.0,8.0,87.5,52.91,97.76
+Abayneh2022-Ethiopia-MizanTepi-2021-01,amr_prevalence,mdr_xdr_pandr,AMR prevalence for Staphylococcus aureus / ampicillin: 7/8 (87.5%),,,,,,7.0,8.0,87.5,52.91,97.76
+Abayneh2022-Ethiopia-MizanTepi-2021-01,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / ampicillin: 7/8 (87.5%),,,,,,7.0,8.0,87.5,52.91,97.76
+Abayneh2022-Ethiopia-MizanTepi-2021-01,amr_prevalence,pathogen_specific,AMR prevalence for Escherichia coli / amoxicillin-clavulanate: 11/12 (91.67%),,,,,,11.0,12.0,91.67,64.61,98.51
+Abayneh2022-Ethiopia-MizanTepi-2021-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Escherichia coli / amoxicillin-clavulanate: 11/12 (91.67%),,,,,,11.0,12.0,91.67,64.61,98.51
+Abayneh2022-Ethiopia-MizanTepi-2021-01,amr_prevalence,mdr_xdr_pandr,AMR prevalence for Escherichia coli / amoxicillin-clavulanate: 11/12 (91.67%),,,,,,11.0,12.0,91.67,64.61,98.51
+Abayneh2022-Ethiopia-MizanTepi-2021-01,amr_prevalence,specimen_site,AMR prevalence for Escherichia coli / amoxicillin-clavulanate: 11/12 (91.67%),,,,,,11.0,12.0,91.67,64.61,98.51
+Abayneh2022-Ethiopia-MizanTepi-2021-01,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / cefoxitin: 3/8 (37.5%),,,,,,3.0,8.0,37.5,13.68,69.43
+Abayneh2022-Ethiopia-MizanTepi-2021-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / cefoxitin: 3/8 (37.5%),,,,,,3.0,8.0,37.5,13.68,69.43
+Abayneh2022-Ethiopia-MizanTepi-2021-01,amr_prevalence,mdr_xdr_pandr,AMR prevalence for Staphylococcus aureus / cefoxitin: 3/8 (37.5%),,,,,,3.0,8.0,37.5,13.68,69.43
+Abayneh2022-Ethiopia-MizanTepi-2021-01,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / cefoxitin: 3/8 (37.5%),,,,,,3.0,8.0,37.5,13.68,69.43
+Abosse2021-Ethiopia-FelegeHiwot-2019-01,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / amoxicillin: 27/31 (87.1%),,,,,,27.0,31.0,87.1,71.15,94.87
+Abosse2021-Ethiopia-FelegeHiwot-2019-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / amoxicillin: 27/31 (87.1%),,,,,,27.0,31.0,87.1,71.15,94.87
+Abosse2021-Ethiopia-FelegeHiwot-2019-01,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / amoxicillin: 27/31 (87.1%),,,,,,27.0,31.0,87.1,71.15,94.87
+Abosse2021-Ethiopia-FelegeHiwot-2019-01,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / ampicillin: 22/31 (70.97%),,,,,,22.0,31.0,70.97,53.41,83.9
+Abosse2021-Ethiopia-FelegeHiwot-2019-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / ampicillin: 22/31 (70.97%),,,,,,22.0,31.0,70.97,53.41,83.9
+Abosse2021-Ethiopia-FelegeHiwot-2019-01,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / ampicillin: 22/31 (70.97%),,,,,,22.0,31.0,70.97,53.41,83.9
+Abosse2021-Ethiopia-FelegeHiwot-2019-01,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / vancomycin: 3/31 (9.68%),,,,,,3.0,31.0,9.68,3.35,24.9
+Abosse2021-Ethiopia-FelegeHiwot-2019-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / vancomycin: 3/31 (9.68%),,,,,,3.0,31.0,9.68,3.35,24.9
+Abosse2021-Ethiopia-FelegeHiwot-2019-01,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / vancomycin: 3/31 (9.68%),,,,,,3.0,31.0,9.68,3.35,24.9
+Abosse2021-Ethiopia-FelegeHiwot-2019-01,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / ciprofloxacin: 5/31 (16.13%),,,,,,5.0,31.0,16.13,7.09,32.63
+Abosse2021-Ethiopia-FelegeHiwot-2019-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / ciprofloxacin: 5/31 (16.13%),,,,,,5.0,31.0,16.13,7.09,32.63
+Abosse2021-Ethiopia-FelegeHiwot-2019-01,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / ciprofloxacin: 5/31 (16.13%),,,,,,5.0,31.0,16.13,7.09,32.63
+Abosse2021-Ethiopia-FelegeHiwot-2019-01,amr_prevalence,pathogen_specific,AMR prevalence for Pseudomonas aeruginosa / ampicillin: 22/26 (84.62%),,,,,,22.0,26.0,84.62,66.47,93.85
+Abosse2021-Ethiopia-FelegeHiwot-2019-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Pseudomonas aeruginosa / ampicillin: 22/26 (84.62%),,,,,,22.0,26.0,84.62,66.47,93.85
+Abosse2021-Ethiopia-FelegeHiwot-2019-01,amr_prevalence,specimen_site,AMR prevalence for Pseudomonas aeruginosa / ampicillin: 22/26 (84.62%),,,,,,22.0,26.0,84.62,66.47,93.85
+Abosse2021-Ethiopia-FelegeHiwot-2019-01,amr_prevalence,pathogen_specific,AMR prevalence for Pseudomonas aeruginosa / ciprofloxacin: 5/26 (19.23%),,,,,,5.0,26.0,19.23,8.51,37.88
+Abosse2021-Ethiopia-FelegeHiwot-2019-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Pseudomonas aeruginosa / ciprofloxacin: 5/26 (19.23%),,,,,,5.0,26.0,19.23,8.51,37.88
+Abosse2021-Ethiopia-FelegeHiwot-2019-01,amr_prevalence,specimen_site,AMR prevalence for Pseudomonas aeruginosa / ciprofloxacin: 5/26 (19.23%),,,,,,5.0,26.0,19.23,8.51,37.88
+Abosse2021-Ethiopia-FelegeHiwot-2019-01,amr_prevalence,pathogen_specific,AMR prevalence for Pseudomonas aeruginosa / meropenem: 6/26 (23.08%),,,,,,6.0,26.0,23.08,11.03,42.05
+Abosse2021-Ethiopia-FelegeHiwot-2019-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Pseudomonas aeruginosa / meropenem: 6/26 (23.08%),,,,,,6.0,26.0,23.08,11.03,42.05
+Abosse2021-Ethiopia-FelegeHiwot-2019-01,amr_prevalence,specimen_site,AMR prevalence for Pseudomonas aeruginosa / meropenem: 6/26 (23.08%),,,,,,6.0,26.0,23.08,11.03,42.05
+Abosse2021-Ethiopia-FelegeHiwot-2019-01,amr_prevalence,pathogen_specific,AMR prevalence for Klebsiella spp. / ampicillin: 14/17 (82.35%),,,,,,14.0,17.0,82.35,58.97,93.81
+Abosse2021-Ethiopia-FelegeHiwot-2019-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Klebsiella spp. / ampicillin: 14/17 (82.35%),,,,,,14.0,17.0,82.35,58.97,93.81
+Abosse2021-Ethiopia-FelegeHiwot-2019-01,amr_prevalence,specimen_site,AMR prevalence for Klebsiella spp. / ampicillin: 14/17 (82.35%),,,,,,14.0,17.0,82.35,58.97,93.81
+Abosse2021-Ethiopia-FelegeHiwot-2019-01,amr_prevalence,pathogen_specific,AMR prevalence for Klebsiella spp. / meropenem: 2/17 (11.76%),,,,,,2.0,17.0,11.76,3.29,34.34
+Abosse2021-Ethiopia-FelegeHiwot-2019-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Klebsiella spp. / meropenem: 2/17 (11.76%),,,,,,2.0,17.0,11.76,3.29,34.34
+Abosse2021-Ethiopia-FelegeHiwot-2019-01,amr_prevalence,specimen_site,AMR prevalence for Klebsiella spp. / meropenem: 2/17 (11.76%),,,,,,2.0,17.0,11.76,3.29,34.34
+Abosse2021-Ethiopia-FelegeHiwot-2019-01,amr_prevalence,pathogen_specific,AMR prevalence for Klebsiella spp. / gentamicin: 2/17 (11.76%),,,,,,2.0,17.0,11.76,3.29,34.34
+Abosse2021-Ethiopia-FelegeHiwot-2019-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Klebsiella spp. / gentamicin: 2/17 (11.76%),,,,,,2.0,17.0,11.76,3.29,34.34
+Abosse2021-Ethiopia-FelegeHiwot-2019-01,amr_prevalence,specimen_site,AMR prevalence for Klebsiella spp. / gentamicin: 2/17 (11.76%),,,,,,2.0,17.0,11.76,3.29,34.34
+Ali2023-Ethiopia-DessieHospital-2016-01,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / penicillin: 14/14 (100.0%),,,,,,14.0,14.0,100.0,78.47,100.0
+Ali2023-Ethiopia-DessieHospital-2016-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / penicillin: 14/14 (100.0%),,,,,,14.0,14.0,100.0,78.47,100.0
+Ali2023-Ethiopia-DessieHospital-2016-01,amr_prevalence,mdr_xdr_pandr,AMR prevalence for Staphylococcus aureus / penicillin: 14/14 (100.0%),,,,,,14.0,14.0,100.0,78.47,100.0
+Ali2023-Ethiopia-DessieHospital-2016-01,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / penicillin: 14/14 (100.0%),,,,,,14.0,14.0,100.0,78.47,100.0
+Ali2023-Ethiopia-DessieHospital-2016-01,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / cefoxitin: 6/14 (42.86%),,,,,,6.0,14.0,42.86,21.38,67.41
+Ali2023-Ethiopia-DessieHospital-2016-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / cefoxitin: 6/14 (42.86%),,,,,,6.0,14.0,42.86,21.38,67.41
+Ali2023-Ethiopia-DessieHospital-2016-01,amr_prevalence,mdr_xdr_pandr,AMR prevalence for Staphylococcus aureus / cefoxitin: 6/14 (42.86%),,,,,,6.0,14.0,42.86,21.38,67.41
+Ali2023-Ethiopia-DessieHospital-2016-01,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / cefoxitin: 6/14 (42.86%),,,,,,6.0,14.0,42.86,21.38,67.41
+Ali2023-Ethiopia-DessieHospital-2016-01,amr_prevalence,pathogen_specific,AMR prevalence for Escherichia coli / ampicillin: 8/9 (88.89%),,,,,,8.0,9.0,88.89,56.5,98.01
+Ali2023-Ethiopia-DessieHospital-2016-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Escherichia coli / ampicillin: 8/9 (88.89%),,,,,,8.0,9.0,88.89,56.5,98.01
+Ali2023-Ethiopia-DessieHospital-2016-01,amr_prevalence,mdr_xdr_pandr,AMR prevalence for Escherichia coli / ampicillin: 8/9 (88.89%),,,,,,8.0,9.0,88.89,56.5,98.01
+Ali2023-Ethiopia-DessieHospital-2016-01,amr_prevalence,specimen_site,AMR prevalence for Escherichia coli / ampicillin: 8/9 (88.89%),,,,,,8.0,9.0,88.89,56.5,98.01
+Ali2023-Ethiopia-DessieHospital-2016-01,amr_prevalence,pathogen_specific,AMR prevalence for Klebsiella pneumoniae / ampicillin: 7/7 (100.0%),,,,,,7.0,7.0,100.0,64.57,100.0
+Ali2023-Ethiopia-DessieHospital-2016-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Klebsiella pneumoniae / ampicillin: 7/7 (100.0%),,,,,,7.0,7.0,100.0,64.57,100.0
+Ali2023-Ethiopia-DessieHospital-2016-01,amr_prevalence,mdr_xdr_pandr,AMR prevalence for Klebsiella pneumoniae / ampicillin: 7/7 (100.0%),,,,,,7.0,7.0,100.0,64.57,100.0
+Ali2023-Ethiopia-DessieHospital-2016-01,amr_prevalence,specimen_site,AMR prevalence for Klebsiella pneumoniae / ampicillin: 7/7 (100.0%),,,,,,7.0,7.0,100.0,64.57,100.0
+Ali2023-Ethiopia-DessieHospital-2016-01,amr_prevalence,pathogen_specific,AMR prevalence for Enterobacteriaceae / ampicillin: 21/23 (91.3%),,,,,,21.0,23.0,91.3,73.2,97.58
+Ali2023-Ethiopia-DessieHospital-2016-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Enterobacteriaceae / ampicillin: 21/23 (91.3%),,,,,,21.0,23.0,91.3,73.2,97.58
+Ali2023-Ethiopia-DessieHospital-2016-01,amr_prevalence,specimen_site,AMR prevalence for Enterobacteriaceae / ampicillin: 21/23 (91.3%),,,,,,21.0,23.0,91.3,73.2,97.58
+Amulioto2020-Kenya-MamaLucyKibaki-2018-2019-1,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / vancomycin: 2/22 (9.09%),,,,,,2.0,22.0,9.09,2.53,27.82
+Amulioto2020-Kenya-MamaLucyKibaki-2018-2019-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / vancomycin: 2/22 (9.09%),,,,,,2.0,22.0,9.09,2.53,27.82
+Amulioto2020-Kenya-MamaLucyKibaki-2018-2019-1,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / vancomycin: 2/22 (9.09%),,,,,,2.0,22.0,9.09,2.53,27.82
+Amulioto2020-Kenya-MamaLucyKibaki-2018-2019-1,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / ciprofloxacin: 3/22 (13.64%),,,,,,3.0,22.0,13.64,4.75,33.34
+Amulioto2020-Kenya-MamaLucyKibaki-2018-2019-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / ciprofloxacin: 3/22 (13.64%),,,,,,3.0,22.0,13.64,4.75,33.34
+Amulioto2020-Kenya-MamaLucyKibaki-2018-2019-1,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / ciprofloxacin: 3/22 (13.64%),,,,,,3.0,22.0,13.64,4.75,33.34
+Amulioto2020-Kenya-MamaLucyKibaki-2018-2019-1,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / chloramphenicol: 1/22 (4.55%),,,,,,1.0,22.0,4.55,0.81,21.8
+Amulioto2020-Kenya-MamaLucyKibaki-2018-2019-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / chloramphenicol: 1/22 (4.55%),,,,,,1.0,22.0,4.55,0.81,21.8
+Amulioto2020-Kenya-MamaLucyKibaki-2018-2019-1,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / chloramphenicol: 1/22 (4.55%),,,,,,1.0,22.0,4.55,0.81,21.8
+Amulioto2020-Kenya-MamaLucyKibaki-2018-2019-1,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / ampicillin: 21/22 (95.45%),,,,,,21.0,22.0,95.45,78.2,99.19
+Amulioto2020-Kenya-MamaLucyKibaki-2018-2019-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / ampicillin: 21/22 (95.45%),,,,,,21.0,22.0,95.45,78.2,99.19
+Amulioto2020-Kenya-MamaLucyKibaki-2018-2019-1,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / ampicillin: 21/22 (95.45%),,,,,,21.0,22.0,95.45,78.2,99.19
+Amulioto2020-Kenya-MamaLucyKibaki-2018-2019-1,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / oxacillin: 13/22 (59.09%),,,,,,13.0,22.0,59.09,38.73,76.74
+Amulioto2020-Kenya-MamaLucyKibaki-2018-2019-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / oxacillin: 13/22 (59.09%),,,,,,13.0,22.0,59.09,38.73,76.74
+Amulioto2020-Kenya-MamaLucyKibaki-2018-2019-1,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / oxacillin: 13/22 (59.09%),,,,,,13.0,22.0,59.09,38.73,76.74
+Amulioto2020-Kenya-MamaLucyKibaki-2018-2019-1,amr_prevalence,pathogen_specific,AMR prevalence for Escherichia coli / chloramphenicol: 7/12 (58.33%),,,,,,7.0,12.0,58.33,31.95,80.67
+Amulioto2020-Kenya-MamaLucyKibaki-2018-2019-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Escherichia coli / chloramphenicol: 7/12 (58.33%),,,,,,7.0,12.0,58.33,31.95,80.67
+Amulioto2020-Kenya-MamaLucyKibaki-2018-2019-1,amr_prevalence,specimen_site,AMR prevalence for Escherichia coli / chloramphenicol: 7/12 (58.33%),,,,,,7.0,12.0,58.33,31.95,80.67
+Amulioto2020-Kenya-MamaLucyKibaki-2018-2019-1,amr_prevalence,pathogen_specific,AMR prevalence for Escherichia coli / ampicillin: 11/12 (91.67%),,,,,,11.0,12.0,91.67,64.61,98.51
+Amulioto2020-Kenya-MamaLucyKibaki-2018-2019-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Escherichia coli / ampicillin: 11/12 (91.67%),,,,,,11.0,12.0,91.67,64.61,98.51
+Amulioto2020-Kenya-MamaLucyKibaki-2018-2019-1,amr_prevalence,specimen_site,AMR prevalence for Escherichia coli / ampicillin: 11/12 (91.67%),,,,,,11.0,12.0,91.67,64.61,98.51
+Amulioto2020-Kenya-MamaLucyKibaki-2018-2019-1,amr_prevalence,pathogen_specific,AMR prevalence for Acinetobacter baumannii / amikacin: 6/11 (54.55%),,,,,,6.0,11.0,54.55,28.01,78.73
+Amulioto2020-Kenya-MamaLucyKibaki-2018-2019-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Acinetobacter baumannii / amikacin: 6/11 (54.55%),,,,,,6.0,11.0,54.55,28.01,78.73
+Amulioto2020-Kenya-MamaLucyKibaki-2018-2019-1,amr_prevalence,specimen_site,AMR prevalence for Acinetobacter baumannii / amikacin: 6/11 (54.55%),,,,,,6.0,11.0,54.55,28.01,78.73
+Billoro2019-Ethiopia-WUNEMMH-2017-01,amr_prevalence,pathogen_specific,AMR prevalence for Klebsiella pneumoniae / ceftriaxone: 1/9 (11.11%),,,,,,1.0,9.0,11.11,1.99,43.5
+Billoro2019-Ethiopia-WUNEMMH-2017-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Klebsiella pneumoniae / ceftriaxone: 1/9 (11.11%),,,,,,1.0,9.0,11.11,1.99,43.5
+Billoro2019-Ethiopia-WUNEMMH-2017-01,amr_prevalence,specimen_site,AMR prevalence for Klebsiella pneumoniae / ceftriaxone: 1/9 (11.11%),,,,,,1.0,9.0,11.11,1.99,43.5
+Billoro2019-Ethiopia-WUNEMMH-2017-01,amr_prevalence,pathogen_specific,AMR prevalence for Klebsiella pneumoniae / ciprofloxacin: 1/9 (11.11%),,,,,,1.0,9.0,11.11,1.99,43.5
+Billoro2019-Ethiopia-WUNEMMH-2017-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Klebsiella pneumoniae / ciprofloxacin: 1/9 (11.11%),,,,,,1.0,9.0,11.11,1.99,43.5
+Billoro2019-Ethiopia-WUNEMMH-2017-01,amr_prevalence,specimen_site,AMR prevalence for Klebsiella pneumoniae / ciprofloxacin: 1/9 (11.11%),,,,,,1.0,9.0,11.11,1.99,43.5
+Billoro2019-Ethiopia-WUNEMMH-2017-01,amr_prevalence,pathogen_specific,AMR prevalence for Klebsiella pneumoniae / gentamicin: 3/9 (33.33%),,,,,,3.0,9.0,33.33,12.06,64.58
+Billoro2019-Ethiopia-WUNEMMH-2017-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Klebsiella pneumoniae / gentamicin: 3/9 (33.33%),,,,,,3.0,9.0,33.33,12.06,64.58
+Billoro2019-Ethiopia-WUNEMMH-2017-01,amr_prevalence,specimen_site,AMR prevalence for Klebsiella pneumoniae / gentamicin: 3/9 (33.33%),,,,,,3.0,9.0,33.33,12.06,64.58
+Billoro2019-Ethiopia-WUNEMMH-2017-01,amr_prevalence,pathogen_specific,AMR prevalence for Klebsiella pneumoniae / chloramphenicol: 2/6 (33.33%),,,,,,2.0,6.0,33.33,9.68,70.0
+Billoro2019-Ethiopia-WUNEMMH-2017-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Klebsiella pneumoniae / chloramphenicol: 2/6 (33.33%),,,,,,2.0,6.0,33.33,9.68,70.0
+Billoro2019-Ethiopia-WUNEMMH-2017-01,amr_prevalence,specimen_site,AMR prevalence for Klebsiella pneumoniae / chloramphenicol: 2/6 (33.33%),,,,,,2.0,6.0,33.33,9.68,70.0
+Billoro2019-Ethiopia-WUNEMMH-2017-01,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / ceftriaxone: 0/3 (0.0%),,,,,,0.0,3.0,0.0,0.0,56.15
+Billoro2019-Ethiopia-WUNEMMH-2017-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / ceftriaxone: 0/3 (0.0%),,,,,,0.0,3.0,0.0,0.0,56.15
+Billoro2019-Ethiopia-WUNEMMH-2017-01,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / ceftriaxone: 0/3 (0.0%),,,,,,0.0,3.0,0.0,0.0,56.15
+Billoro2019-Ethiopia-WUNEMMH-2017-01,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / ciprofloxacin: 1/4 (25.0%),,,,,,1.0,4.0,25.0,4.56,69.94
+Billoro2019-Ethiopia-WUNEMMH-2017-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / ciprofloxacin: 1/4 (25.0%),,,,,,1.0,4.0,25.0,4.56,69.94
+Billoro2019-Ethiopia-WUNEMMH-2017-01,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / ciprofloxacin: 1/4 (25.0%),,,,,,1.0,4.0,25.0,4.56,69.94
+Boru2025-Ethiopia-BuleHora-2023-01,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / chloramphenicol: 1/14 (7.14%),,,,,,1.0,14.0,7.14,1.27,31.47
+Boru2025-Ethiopia-BuleHora-2023-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / chloramphenicol: 1/14 (7.14%),,,,,,1.0,14.0,7.14,1.27,31.47
+Boru2025-Ethiopia-BuleHora-2023-01,amr_prevalence,mdr_xdr_pandr,AMR prevalence for Staphylococcus aureus / chloramphenicol: 1/14 (7.14%),,,,,,1.0,14.0,7.14,1.27,31.47
+Boru2025-Ethiopia-BuleHora-2023-01,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / chloramphenicol: 1/14 (7.14%),,,,,,1.0,14.0,7.14,1.27,31.47
+Boru2025-Ethiopia-BuleHora-2023-01,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / cefoxitin: 8/14 (57.14%),,,,,,8.0,14.0,57.14,32.59,78.62
+Boru2025-Ethiopia-BuleHora-2023-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / cefoxitin: 8/14 (57.14%),,,,,,8.0,14.0,57.14,32.59,78.62
+Boru2025-Ethiopia-BuleHora-2023-01,amr_prevalence,mdr_xdr_pandr,AMR prevalence for Staphylococcus aureus / cefoxitin: 8/14 (57.14%),,,,,,8.0,14.0,57.14,32.59,78.62
+Boru2025-Ethiopia-BuleHora-2023-01,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / cefoxitin: 8/14 (57.14%),,,,,,8.0,14.0,57.14,32.59,78.62
+Boru2025-Ethiopia-BuleHora-2023-01,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / penicillin: 8/14 (57.14%),,,,,,8.0,14.0,57.14,32.59,78.62
+Boru2025-Ethiopia-BuleHora-2023-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / penicillin: 8/14 (57.14%),,,,,,8.0,14.0,57.14,32.59,78.62
+Boru2025-Ethiopia-BuleHora-2023-01,amr_prevalence,mdr_xdr_pandr,AMR prevalence for Staphylococcus aureus / penicillin: 8/14 (57.14%),,,,,,8.0,14.0,57.14,32.59,78.62
+Boru2025-Ethiopia-BuleHora-2023-01,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / penicillin: 8/14 (57.14%),,,,,,8.0,14.0,57.14,32.59,78.62
+Boru2025-Ethiopia-BuleHora-2023-01,amr_prevalence,pathogen_specific,AMR prevalence for Escherichia coli / ampicillin: 5/6 (83.33%),,,,,,5.0,6.0,83.33,43.65,96.99
+Boru2025-Ethiopia-BuleHora-2023-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Escherichia coli / ampicillin: 5/6 (83.33%),,,,,,5.0,6.0,83.33,43.65,96.99
+Boru2025-Ethiopia-BuleHora-2023-01,amr_prevalence,mdr_xdr_pandr,AMR prevalence for Escherichia coli / ampicillin: 5/6 (83.33%),,,,,,5.0,6.0,83.33,43.65,96.99
+Boru2025-Ethiopia-BuleHora-2023-01,amr_prevalence,specimen_site,AMR prevalence for Escherichia coli / ampicillin: 5/6 (83.33%),,,,,,5.0,6.0,83.33,43.65,96.99
+Boru2025-Ethiopia-BuleHora-2023-01,amr_prevalence,pathogen_specific,AMR prevalence for Escherichia coli / ceftazidime: 5/6 (83.33%),,,,,,5.0,6.0,83.33,43.65,96.99
+Boru2025-Ethiopia-BuleHora-2023-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Escherichia coli / ceftazidime: 5/6 (83.33%),,,,,,5.0,6.0,83.33,43.65,96.99
+Boru2025-Ethiopia-BuleHora-2023-01,amr_prevalence,mdr_xdr_pandr,AMR prevalence for Escherichia coli / ceftazidime: 5/6 (83.33%),,,,,,5.0,6.0,83.33,43.65,96.99
+Boru2025-Ethiopia-BuleHora-2023-01,amr_prevalence,specimen_site,AMR prevalence for Escherichia coli / ceftazidime: 5/6 (83.33%),,,,,,5.0,6.0,83.33,43.65,96.99
+Boru2025-Ethiopia-BuleHora-2023-01,amr_prevalence,pathogen_specific,AMR prevalence for Pseudomonas aeruginosa / ciprofloxacin: 0/6 (0.0%),,,,,,0.0,6.0,0.0,0.0,39.03
+Boru2025-Ethiopia-BuleHora-2023-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Pseudomonas aeruginosa / ciprofloxacin: 0/6 (0.0%),,,,,,0.0,6.0,0.0,0.0,39.03
+Boru2025-Ethiopia-BuleHora-2023-01,amr_prevalence,mdr_xdr_pandr,AMR prevalence for Pseudomonas aeruginosa / ciprofloxacin: 0/6 (0.0%),,,,,,0.0,6.0,0.0,0.0,39.03
+Boru2025-Ethiopia-BuleHora-2023-01,amr_prevalence,specimen_site,AMR prevalence for Pseudomonas aeruginosa / ciprofloxacin: 0/6 (0.0%),,,,,,0.0,6.0,0.0,0.0,39.03
+Burugu2022-Kenya-KenyattaNH-2022-01,amr_prevalence,pathogen_specific,AMR prevalence for Escherichia coli / ceftriaxone: 11/12 (91.67%),,,,,,11.0,12.0,91.67,64.61,98.51
+Burugu2022-Kenya-KenyattaNH-2022-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Escherichia coli / ceftriaxone: 11/12 (91.67%),,,,,,11.0,12.0,91.67,64.61,98.51
+Burugu2022-Kenya-KenyattaNH-2022-01,amr_prevalence,specimen_site,AMR prevalence for Escherichia coli / ceftriaxone: 11/12 (91.67%),,,,,,11.0,12.0,91.67,64.61,98.51
+Burugu2022-Kenya-KenyattaNH-2022-01,amr_prevalence,pathogen_specific,AMR prevalence for Proteus spp. / ceftriaxone: 3/4 (75.0%),,,,,,3.0,4.0,75.0,30.06,95.44
+Burugu2022-Kenya-KenyattaNH-2022-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Proteus spp. / ceftriaxone: 3/4 (75.0%),,,,,,3.0,4.0,75.0,30.06,95.44
+Burugu2022-Kenya-KenyattaNH-2022-01,amr_prevalence,specimen_site,AMR prevalence for Proteus spp. / ceftriaxone: 3/4 (75.0%),,,,,,3.0,4.0,75.0,30.06,95.44
+Burugu2022-Kenya-KenyattaNH-2022-01,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / oxacillin: 9/16 (56.25%),,,,,,9.0,16.0,56.25,33.18,76.9
+Burugu2022-Kenya-KenyattaNH-2022-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / oxacillin: 9/16 (56.25%),,,,,,9.0,16.0,56.25,33.18,76.9
+Burugu2022-Kenya-KenyattaNH-2022-01,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / oxacillin: 9/16 (56.25%),,,,,,9.0,16.0,56.25,33.18,76.9
+Burugu2022-Kenya-KenyattaNH-2022-01,amr_prevalence,pathogen_specific,AMR prevalence for Enterococcus faecalis / vancomycin: 3/4 (75.0%),,,,,,3.0,4.0,75.0,30.06,95.44
+Burugu2022-Kenya-KenyattaNH-2022-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Enterococcus faecalis / vancomycin: 3/4 (75.0%),,,,,,3.0,4.0,75.0,30.06,95.44
+Burugu2022-Kenya-KenyattaNH-2022-01,amr_prevalence,specimen_site,AMR prevalence for Enterococcus faecalis / vancomycin: 3/4 (75.0%),,,,,,3.0,4.0,75.0,30.06,95.44
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / ampicillin: 6/10 (60.0%),,,,,,6.0,10.0,60.0,31.27,83.18
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / ampicillin: 6/10 (60.0%),,,,,,6.0,10.0,60.0,31.27,83.18
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / ampicillin: 6/10 (60.0%),,,,,,6.0,10.0,60.0,31.27,83.18
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / doxycycline: 4/10 (40.0%),,,,,,4.0,10.0,40.0,16.82,68.73
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / doxycycline: 4/10 (40.0%),,,,,,4.0,10.0,40.0,16.82,68.73
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / azithromycin: 3/10 (30.0%),,,,,,3.0,10.0,30.0,10.78,60.32
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / azithromycin: 3/10 (30.0%),,,,,,3.0,10.0,30.0,10.78,60.32
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / amoxicillin-clavulanate: 1/10 (10.0%),,,,,,1.0,10.0,10.0,1.79,40.42
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / amoxicillin-clavulanate: 1/10 (10.0%),,,,,,1.0,10.0,10.0,1.79,40.42
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / cefuroxime: 1/10 (10.0%),,,,,,1.0,10.0,10.0,1.79,40.42
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / cefuroxime: 1/10 (10.0%),,,,,,1.0,10.0,10.0,1.79,40.42
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / ciprofloxacin: 5/10 (50.0%),,,,,,5.0,10.0,50.0,23.66,76.34
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / ciprofloxacin: 5/10 (50.0%),,,,,,5.0,10.0,50.0,23.66,76.34
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / chloramphenicol: 2/10 (20.0%),,,,,,2.0,10.0,20.0,5.67,50.98
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / chloramphenicol: 2/10 (20.0%),,,,,,2.0,10.0,20.0,5.67,50.98
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / oxacillin: 1/10 (10.0%),,,,,,1.0,10.0,10.0,1.79,40.42
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / oxacillin: 1/10 (10.0%),,,,,,1.0,10.0,10.0,1.79,40.42
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / netilmicin: 0/10 (0.0%),,,,,,0.0,10.0,0.0,0.0,27.75
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / netilmicin: 0/10 (0.0%),,,,,,0.0,10.0,0.0,0.0,27.75
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / vancomycin: 0/10 (0.0%),,,,,,0.0,10.0,0.0,0.0,27.75
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / vancomycin: 0/10 (0.0%),,,,,,0.0,10.0,0.0,0.0,27.75
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,pathogen_specific,AMR prevalence for Coagulase-negative staphylococci / ampicillin: 4/5 (80.0%),,,,,,4.0,5.0,80.0,37.55,96.38
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Coagulase-negative staphylococci / ampicillin: 4/5 (80.0%),,,,,,4.0,5.0,80.0,37.55,96.38
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,pathogen_specific,AMR prevalence for Coagulase-negative staphylococci / doxycycline: 3/5 (60.0%),,,,,,3.0,5.0,60.0,23.07,88.24
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Coagulase-negative staphylococci / doxycycline: 3/5 (60.0%),,,,,,3.0,5.0,60.0,23.07,88.24
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,pathogen_specific,AMR prevalence for Coagulase-negative staphylococci / azithromycin: 3/5 (60.0%),,,,,,3.0,5.0,60.0,23.07,88.24
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Coagulase-negative staphylococci / azithromycin: 3/5 (60.0%),,,,,,3.0,5.0,60.0,23.07,88.24
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,pathogen_specific,AMR prevalence for Coagulase-negative staphylococci / amoxicillin-clavulanate: 2/5 (40.0%),,,,,,2.0,5.0,40.0,11.76,76.93
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Coagulase-negative staphylococci / amoxicillin-clavulanate: 2/5 (40.0%),,,,,,2.0,5.0,40.0,11.76,76.93
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,pathogen_specific,AMR prevalence for Coagulase-negative staphylococci / cefuroxime: 3/5 (60.0%),,,,,,3.0,5.0,60.0,23.07,88.24
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Coagulase-negative staphylococci / cefuroxime: 3/5 (60.0%),,,,,,3.0,5.0,60.0,23.07,88.24
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,pathogen_specific,AMR prevalence for Coagulase-negative staphylococci / ciprofloxacin: 1/5 (20.0%),,,,,,1.0,5.0,20.0,3.62,62.45
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Coagulase-negative staphylococci / ciprofloxacin: 1/5 (20.0%),,,,,,1.0,5.0,20.0,3.62,62.45
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,pathogen_specific,AMR prevalence for Coagulase-negative staphylococci / chloramphenicol: 2/5 (40.0%),,,,,,2.0,5.0,40.0,11.76,76.93
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Coagulase-negative staphylococci / chloramphenicol: 2/5 (40.0%),,,,,,2.0,5.0,40.0,11.76,76.93
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,pathogen_specific,AMR prevalence for Coagulase-negative staphylococci / oxacillin: 0/5 (0.0%),,,,,,0.0,5.0,0.0,0.0,43.45
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Coagulase-negative staphylococci / oxacillin: 0/5 (0.0%),,,,,,0.0,5.0,0.0,0.0,43.45
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,pathogen_specific,AMR prevalence for Coagulase-negative staphylococci / netilmicin: 0/5 (0.0%),,,,,,0.0,5.0,0.0,0.0,43.45
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Coagulase-negative staphylococci / netilmicin: 0/5 (0.0%),,,,,,0.0,5.0,0.0,0.0,43.45
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,pathogen_specific,AMR prevalence for Coagulase-negative staphylococci / vancomycin: 0/5 (0.0%),,,,,,0.0,5.0,0.0,0.0,43.45
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Coagulase-negative staphylococci / vancomycin: 0/5 (0.0%),,,,,,0.0,5.0,0.0,0.0,43.45
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,pathogen_specific,AMR prevalence for Kluyvera spp. / co-trimoxazole: 0/4 (0.0%),,,,,,0.0,4.0,0.0,0.0,48.99
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Kluyvera spp. / co-trimoxazole: 0/4 (0.0%),,,,,,0.0,4.0,0.0,0.0,48.99
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,pathogen_specific,AMR prevalence for Kluyvera spp. / doxycycline: 3/4 (75.0%),,,,,,3.0,4.0,75.0,30.06,95.44
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Kluyvera spp. / doxycycline: 3/4 (75.0%),,,,,,3.0,4.0,75.0,30.06,95.44
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,pathogen_specific,AMR prevalence for Kluyvera spp. / amoxicillin-clavulanate: 2/4 (50.0%),,,,,,2.0,4.0,50.0,15.0,85.0
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Kluyvera spp. / amoxicillin-clavulanate: 2/4 (50.0%),,,,,,2.0,4.0,50.0,15.0,85.0
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,pathogen_specific,AMR prevalence for Kluyvera spp. / cefotaxime: 2/4 (50.0%),,,,,,2.0,4.0,50.0,15.0,85.0
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Kluyvera spp. / cefotaxime: 2/4 (50.0%),,,,,,2.0,4.0,50.0,15.0,85.0
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,pathogen_specific,AMR prevalence for Kluyvera spp. / chloramphenicol: 1/4 (25.0%),,,,,,1.0,4.0,25.0,4.56,69.94
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Kluyvera spp. / chloramphenicol: 1/4 (25.0%),,,,,,1.0,4.0,25.0,4.56,69.94
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,pathogen_specific,AMR prevalence for Kluyvera spp. / cefuroxime: 1/4 (25.0%),,,,,,1.0,4.0,25.0,4.56,69.94
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Kluyvera spp. / cefuroxime: 1/4 (25.0%),,,,,,1.0,4.0,25.0,4.56,69.94
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,pathogen_specific,AMR prevalence for Kluyvera spp. / ciprofloxacin: 1/4 (25.0%),,,,,,1.0,4.0,25.0,4.56,69.94
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Kluyvera spp. / ciprofloxacin: 1/4 (25.0%),,,,,,1.0,4.0,25.0,4.56,69.94
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,pathogen_specific,AMR prevalence for Kluyvera spp. / gentamicin: 1/4 (25.0%),,,,,,1.0,4.0,25.0,4.56,69.94
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Kluyvera spp. / gentamicin: 1/4 (25.0%),,,,,,1.0,4.0,25.0,4.56,69.94
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,pathogen_specific,AMR prevalence for Escherichia coli / co-trimoxazole: 3/4 (75.0%),,,,,,3.0,4.0,75.0,30.06,95.44
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Escherichia coli / co-trimoxazole: 3/4 (75.0%),,,,,,3.0,4.0,75.0,30.06,95.44
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,pathogen_specific,AMR prevalence for Escherichia coli / doxycycline: 3/4 (75.0%),,,,,,3.0,4.0,75.0,30.06,95.44
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Escherichia coli / doxycycline: 3/4 (75.0%),,,,,,3.0,4.0,75.0,30.06,95.44
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,pathogen_specific,AMR prevalence for Escherichia coli / amoxicillin-clavulanate: 3/4 (75.0%),,,,,,3.0,4.0,75.0,30.06,95.44
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Escherichia coli / amoxicillin-clavulanate: 3/4 (75.0%),,,,,,3.0,4.0,75.0,30.06,95.44
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,pathogen_specific,AMR prevalence for Escherichia coli / cefotaxime: 1/4 (25.0%),,,,,,1.0,4.0,25.0,4.56,69.94
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Escherichia coli / cefotaxime: 1/4 (25.0%),,,,,,1.0,4.0,25.0,4.56,69.94
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,pathogen_specific,AMR prevalence for Escherichia coli / chloramphenicol: 2/4 (50.0%),,,,,,2.0,4.0,50.0,15.0,85.0
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Escherichia coli / chloramphenicol: 2/4 (50.0%),,,,,,2.0,4.0,50.0,15.0,85.0
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,pathogen_specific,AMR prevalence for Escherichia coli / cefuroxime: 2/4 (50.0%),,,,,,2.0,4.0,50.0,15.0,85.0
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Escherichia coli / cefuroxime: 2/4 (50.0%),,,,,,2.0,4.0,50.0,15.0,85.0
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,pathogen_specific,AMR prevalence for Escherichia coli / ciprofloxacin: 2/4 (50.0%),,,,,,2.0,4.0,50.0,15.0,85.0
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Escherichia coli / ciprofloxacin: 2/4 (50.0%),,,,,,2.0,4.0,50.0,15.0,85.0
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,pathogen_specific,AMR prevalence for Escherichia coli / gentamicin: 2/4 (50.0%),,,,,,2.0,4.0,50.0,15.0,85.0
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Escherichia coli / gentamicin: 2/4 (50.0%),,,,,,2.0,4.0,50.0,15.0,85.0
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,pathogen_specific,AMR prevalence for Klebsiella spp. / co-trimoxazole: 2/3 (66.67%),,,,,,2.0,3.0,66.67,20.77,93.85
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Klebsiella spp. / co-trimoxazole: 2/3 (66.67%),,,,,,2.0,3.0,66.67,20.77,93.85
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,pathogen_specific,AMR prevalence for Klebsiella spp. / doxycycline: 1/3 (33.33%),,,,,,1.0,3.0,33.33,6.15,79.23
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Klebsiella spp. / doxycycline: 1/3 (33.33%),,,,,,1.0,3.0,33.33,6.15,79.23
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,pathogen_specific,AMR prevalence for Klebsiella spp. / amoxicillin-clavulanate: 2/3 (66.67%),,,,,,2.0,3.0,66.67,20.77,93.85
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Klebsiella spp. / amoxicillin-clavulanate: 2/3 (66.67%),,,,,,2.0,3.0,66.67,20.77,93.85
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,pathogen_specific,AMR prevalence for Klebsiella spp. / cefotaxime: 2/3 (66.67%),,,,,,2.0,3.0,66.67,20.77,93.85
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Klebsiella spp. / cefotaxime: 2/3 (66.67%),,,,,,2.0,3.0,66.67,20.77,93.85
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,pathogen_specific,AMR prevalence for Klebsiella spp. / chloramphenicol: 1/3 (33.33%),,,,,,1.0,3.0,33.33,6.15,79.23
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Klebsiella spp. / chloramphenicol: 1/3 (33.33%),,,,,,1.0,3.0,33.33,6.15,79.23
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,pathogen_specific,AMR prevalence for Klebsiella spp. / cefuroxime: 0/3 (0.0%),,,,,,0.0,3.0,0.0,0.0,56.15
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Klebsiella spp. / cefuroxime: 0/3 (0.0%),,,,,,0.0,3.0,0.0,0.0,56.15
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,pathogen_specific,AMR prevalence for Klebsiella spp. / ciprofloxacin: 0/3 (0.0%),,,,,,0.0,3.0,0.0,0.0,56.15
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Klebsiella spp. / ciprofloxacin: 0/3 (0.0%),,,,,,0.0,3.0,0.0,0.0,56.15
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,pathogen_specific,AMR prevalence for Klebsiella spp. / gentamicin: 2/3 (66.67%),,,,,,2.0,3.0,66.67,20.77,93.85
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Klebsiella spp. / gentamicin: 2/3 (66.67%),,,,,,2.0,3.0,66.67,20.77,93.85
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,pathogen_specific,AMR prevalence for Pseudomonas aeruginosa / ciprofloxacin: 3/4 (75.0%),,,,,,3.0,4.0,75.0,30.06,95.44
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Pseudomonas aeruginosa / ciprofloxacin: 3/4 (75.0%),,,,,,3.0,4.0,75.0,30.06,95.44
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,pathogen_specific,AMR prevalence for Pseudomonas aeruginosa / gentamicin: 2/4 (50.0%),,,,,,2.0,4.0,50.0,15.0,85.0
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Pseudomonas aeruginosa / gentamicin: 2/4 (50.0%),,,,,,2.0,4.0,50.0,15.0,85.0
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,pathogen_specific,AMR prevalence for Pseudomonas aeruginosa / piperacillin-tazobactam: 3/4 (75.0%),,,,,,3.0,4.0,75.0,30.06,95.44
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Pseudomonas aeruginosa / piperacillin-tazobactam: 3/4 (75.0%),,,,,,3.0,4.0,75.0,30.06,95.44
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,pathogen_specific,AMR prevalence for Pseudomonas aeruginosa / cefepime: 2/4 (50.0%),,,,,,2.0,4.0,50.0,15.0,85.0
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Pseudomonas aeruginosa / cefepime: 2/4 (50.0%),,,,,,2.0,4.0,50.0,15.0,85.0
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,pathogen_specific,AMR prevalence for Pseudomonas aeruginosa / ceftazidime: 2/4 (50.0%),,,,,,2.0,4.0,50.0,15.0,85.0
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Pseudomonas aeruginosa / ceftazidime: 2/4 (50.0%),,,,,,2.0,4.0,50.0,15.0,85.0
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,pathogen_specific,AMR prevalence for Pseudomonas aeruginosa / imipenem: 2/4 (50.0%),,,,,,2.0,4.0,50.0,15.0,85.0
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Pseudomonas aeruginosa / imipenem: 2/4 (50.0%),,,,,,2.0,4.0,50.0,15.0,85.0
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,pathogen_specific,AMR prevalence for Pseudomonas aeruginosa / piperacillin: 2/4 (50.0%),,,,,,2.0,4.0,50.0,15.0,85.0
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Pseudomonas aeruginosa / piperacillin: 2/4 (50.0%),,,,,,2.0,4.0,50.0,15.0,85.0
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,pathogen_specific,AMR prevalence for Pseudomonas aeruginosa / ceftriaxone: 1/4 (25.0%),,,,,,1.0,4.0,25.0,4.56,69.94
+Dinda2013-Kenya-AKUHNairobi-20082009-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Pseudomonas aeruginosa / ceftriaxone: 1/4 (25.0%),,,,,,1.0,4.0,25.0,4.56,69.94
+Garoy2021-Eritrea-AsmaraHospitals-2017-01,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / penicillin: 20/20 (100.0%),,,,,,20.0,20.0,100.0,83.89,100.0
+Garoy2021-Eritrea-AsmaraHospitals-2017-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / penicillin: 20/20 (100.0%),,,,,,20.0,20.0,100.0,83.89,100.0
+Garoy2021-Eritrea-AsmaraHospitals-2017-01,amr_prevalence,mdr_xdr_pandr,AMR prevalence for Staphylococcus aureus / penicillin: 20/20 (100.0%),,,,,,20.0,20.0,100.0,83.89,100.0
+Garoy2021-Eritrea-AsmaraHospitals-2017-01,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / penicillin: 20/20 (100.0%),,,,,,20.0,20.0,100.0,83.89,100.0
+Garoy2021-Eritrea-AsmaraHospitals-2017-01,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / oxacillin: 14/20 (70.0%),,,,,,14.0,20.0,70.0,48.1,85.45
+Garoy2021-Eritrea-AsmaraHospitals-2017-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / oxacillin: 14/20 (70.0%),,,,,,14.0,20.0,70.0,48.1,85.45
+Garoy2021-Eritrea-AsmaraHospitals-2017-01,amr_prevalence,mdr_xdr_pandr,AMR prevalence for Staphylococcus aureus / oxacillin: 14/20 (70.0%),,,,,,14.0,20.0,70.0,48.1,85.45
+Garoy2021-Eritrea-AsmaraHospitals-2017-01,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / oxacillin: 14/20 (70.0%),,,,,,14.0,20.0,70.0,48.1,85.45
+Garoy2021-Eritrea-AsmaraHospitals-2017-01,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / vancomycin: 12/20 (60.0%),,,,,,12.0,20.0,60.0,38.66,78.12
+Garoy2021-Eritrea-AsmaraHospitals-2017-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / vancomycin: 12/20 (60.0%),,,,,,12.0,20.0,60.0,38.66,78.12
+Garoy2021-Eritrea-AsmaraHospitals-2017-01,amr_prevalence,mdr_xdr_pandr,AMR prevalence for Staphylococcus aureus / vancomycin: 12/20 (60.0%),,,,,,12.0,20.0,60.0,38.66,78.12
+Garoy2021-Eritrea-AsmaraHospitals-2017-01,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / vancomycin: 12/20 (60.0%),,,,,,12.0,20.0,60.0,38.66,78.12
+Garoy2021-Eritrea-AsmaraHospitals-2017-01,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / clindamycin: 5/20 (25.0%),,,,,,5.0,20.0,25.0,11.19,46.87
+Garoy2021-Eritrea-AsmaraHospitals-2017-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / clindamycin: 5/20 (25.0%),,,,,,5.0,20.0,25.0,11.19,46.87
+Garoy2021-Eritrea-AsmaraHospitals-2017-01,amr_prevalence,mdr_xdr_pandr,AMR prevalence for Staphylococcus aureus / clindamycin: 5/20 (25.0%),,,,,,5.0,20.0,25.0,11.19,46.87
+Garoy2021-Eritrea-AsmaraHospitals-2017-01,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / clindamycin: 5/20 (25.0%),,,,,,5.0,20.0,25.0,11.19,46.87
+Garoy2021-Eritrea-AsmaraHospitals-2017-01,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / erythromycin: 5/20 (25.0%),,,,,,5.0,20.0,25.0,11.19,46.87
+Garoy2021-Eritrea-AsmaraHospitals-2017-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / erythromycin: 5/20 (25.0%),,,,,,5.0,20.0,25.0,11.19,46.87
+Garoy2021-Eritrea-AsmaraHospitals-2017-01,amr_prevalence,mdr_xdr_pandr,AMR prevalence for Staphylococcus aureus / erythromycin: 5/20 (25.0%),,,,,,5.0,20.0,25.0,11.19,46.87
+Garoy2021-Eritrea-AsmaraHospitals-2017-01,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / erythromycin: 5/20 (25.0%),,,,,,5.0,20.0,25.0,11.19,46.87
+Garoy2021-Eritrea-AsmaraHospitals-2017-01,amr_prevalence,pathogen_specific,AMR prevalence for Escherichia coli / ampicillin: 10/10 (100.0%),,,,,,10.0,10.0,100.0,72.25,100.0
+Garoy2021-Eritrea-AsmaraHospitals-2017-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Escherichia coli / ampicillin: 10/10 (100.0%),,,,,,10.0,10.0,100.0,72.25,100.0
+Garoy2021-Eritrea-AsmaraHospitals-2017-01,amr_prevalence,mdr_xdr_pandr,AMR prevalence for Escherichia coli / ampicillin: 10/10 (100.0%),,,,,,10.0,10.0,100.0,72.25,100.0
+Garoy2021-Eritrea-AsmaraHospitals-2017-01,amr_prevalence,specimen_site,AMR prevalence for Escherichia coli / ampicillin: 10/10 (100.0%),,,,,,10.0,10.0,100.0,72.25,100.0
+Garoy2021-Eritrea-AsmaraHospitals-2017-01,amr_prevalence,pathogen_specific,AMR prevalence for Escherichia coli / trimethoprim-sulfamethoxazole: 9/10 (90.0%),,,,,,9.0,10.0,90.0,59.58,98.21
+Garoy2021-Eritrea-AsmaraHospitals-2017-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Escherichia coli / trimethoprim-sulfamethoxazole: 9/10 (90.0%),,,,,,9.0,10.0,90.0,59.58,98.21
+Garoy2021-Eritrea-AsmaraHospitals-2017-01,amr_prevalence,mdr_xdr_pandr,AMR prevalence for Escherichia coli / trimethoprim-sulfamethoxazole: 9/10 (90.0%),,,,,,9.0,10.0,90.0,59.58,98.21
+Garoy2021-Eritrea-AsmaraHospitals-2017-01,amr_prevalence,specimen_site,AMR prevalence for Escherichia coli / trimethoprim-sulfamethoxazole: 9/10 (90.0%),,,,,,9.0,10.0,90.0,59.58,98.21
+Garoy2021-Eritrea-AsmaraHospitals-2017-01,amr_prevalence,pathogen_specific,AMR prevalence for Escherichia coli / gentamicin: 7/10 (70.0%),,,,,,7.0,10.0,70.0,39.68,89.22
+Garoy2021-Eritrea-AsmaraHospitals-2017-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Escherichia coli / gentamicin: 7/10 (70.0%),,,,,,7.0,10.0,70.0,39.68,89.22
+Garoy2021-Eritrea-AsmaraHospitals-2017-01,amr_prevalence,mdr_xdr_pandr,AMR prevalence for Escherichia coli / gentamicin: 7/10 (70.0%),,,,,,7.0,10.0,70.0,39.68,89.22
+Garoy2021-Eritrea-AsmaraHospitals-2017-01,amr_prevalence,specimen_site,AMR prevalence for Escherichia coli / gentamicin: 7/10 (70.0%),,,,,,7.0,10.0,70.0,39.68,89.22
+Garoy2021-Eritrea-AsmaraHospitals-2017-01,amr_prevalence,pathogen_specific,AMR prevalence for Escherichia coli / ceftazidime: 9/10 (90.0%),,,,,,9.0,10.0,90.0,59.58,98.21
+Garoy2021-Eritrea-AsmaraHospitals-2017-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Escherichia coli / ceftazidime: 9/10 (90.0%),,,,,,9.0,10.0,90.0,59.58,98.21
+Garoy2021-Eritrea-AsmaraHospitals-2017-01,amr_prevalence,mdr_xdr_pandr,AMR prevalence for Escherichia coli / ceftazidime: 9/10 (90.0%),,,,,,9.0,10.0,90.0,59.58,98.21
+Garoy2021-Eritrea-AsmaraHospitals-2017-01,amr_prevalence,specimen_site,AMR prevalence for Escherichia coli / ceftazidime: 9/10 (90.0%),,,,,,9.0,10.0,90.0,59.58,98.21
+Garoy2021-Eritrea-AsmaraHospitals-2017-01,amr_prevalence,pathogen_specific,AMR prevalence for Escherichia coli / ceftriaxone: 8/10 (80.0%),,,,,,8.0,10.0,80.0,49.02,94.33
+Garoy2021-Eritrea-AsmaraHospitals-2017-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Escherichia coli / ceftriaxone: 8/10 (80.0%),,,,,,8.0,10.0,80.0,49.02,94.33
+Garoy2021-Eritrea-AsmaraHospitals-2017-01,amr_prevalence,mdr_xdr_pandr,AMR prevalence for Escherichia coli / ceftriaxone: 8/10 (80.0%),,,,,,8.0,10.0,80.0,49.02,94.33
+Garoy2021-Eritrea-AsmaraHospitals-2017-01,amr_prevalence,specimen_site,AMR prevalence for Escherichia coli / ceftriaxone: 8/10 (80.0%),,,,,,8.0,10.0,80.0,49.02,94.33
+Gentilotti2020-Tanzania-Dodoma-2013-2015-1,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / oxacillin: 34/43 (79.07%),,,,,,34.0,43.0,79.07,64.79,88.58
+Gentilotti2020-Tanzania-Dodoma-2013-2015-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / oxacillin: 34/43 (79.07%),,,,,,34.0,43.0,79.07,64.79,88.58
+Gentilotti2020-Tanzania-Dodoma-2013-2015-1,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / oxacillin: 34/43 (79.07%),,,,,,34.0,43.0,79.07,64.79,88.58
+Gentilotti2020-Tanzania-Dodoma-2013-2015-1,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / oxacillin: 3/14 (21.43%),,,,,,3.0,14.0,21.43,7.57,47.59
+Gentilotti2020-Tanzania-Dodoma-2013-2015-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / oxacillin: 3/14 (21.43%),,,,,,3.0,14.0,21.43,7.57,47.59
+Gentilotti2020-Tanzania-Dodoma-2013-2015-1,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / oxacillin: 3/14 (21.43%),,,,,,3.0,14.0,21.43,7.57,47.59
+Gentilotti2020-Tanzania-Dodoma-2013-2015-1,amr_prevalence,pathogen_specific,AMR prevalence for Klebsiella spp. / multiple_classes: 4/4 (100.0%),,,,,,4.0,4.0,100.0,51.01,100.0
+Gentilotti2020-Tanzania-Dodoma-2013-2015-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Klebsiella spp. / multiple_classes: 4/4 (100.0%),,,,,,4.0,4.0,100.0,51.01,100.0
+Gentilotti2020-Tanzania-Dodoma-2013-2015-1,amr_prevalence,mdr_xdr_pandr,AMR prevalence for Klebsiella spp. / multiple_classes: 4/4 (100.0%),,,,,,4.0,4.0,100.0,51.01,100.0
+Gentilotti2020-Tanzania-Dodoma-2013-2015-1,amr_prevalence,specimen_site,AMR prevalence for Klebsiella spp. / multiple_classes: 4/4 (100.0%),,,,,,4.0,4.0,100.0,51.01,100.0
+Gentilotti2020-Tanzania-Dodoma-2013-2015-1,amr_prevalence,pathogen_specific,AMR prevalence for Klebsiella spp. / multiple_classes: 3/7 (42.86%),,,,,,3.0,7.0,42.86,15.82,74.95
+Gentilotti2020-Tanzania-Dodoma-2013-2015-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Klebsiella spp. / multiple_classes: 3/7 (42.86%),,,,,,3.0,7.0,42.86,15.82,74.95
+Gentilotti2020-Tanzania-Dodoma-2013-2015-1,amr_prevalence,mdr_xdr_pandr,AMR prevalence for Klebsiella spp. / multiple_classes: 3/7 (42.86%),,,,,,3.0,7.0,42.86,15.82,74.95
+Gentilotti2020-Tanzania-Dodoma-2013-2015-1,amr_prevalence,specimen_site,AMR prevalence for Klebsiella spp. / multiple_classes: 3/7 (42.86%),,,,,,3.0,7.0,42.86,15.82,74.95
+Hamudu2025-Tanzania-BMC_SRHH-2024-01,amr_prevalence,pathogen_specific,AMR prevalence for Escherichia coli / ampicillin: 10/11 (90.91%),,,,,,10.0,11.0,90.91,62.26,98.38
+Hamudu2025-Tanzania-BMC_SRHH-2024-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Escherichia coli / ampicillin: 10/11 (90.91%),,,,,,10.0,11.0,90.91,62.26,98.38
+Hamudu2025-Tanzania-BMC_SRHH-2024-01,amr_prevalence,specimen_site,AMR prevalence for Escherichia coli / ampicillin: 10/11 (90.91%),,,,,,10.0,11.0,90.91,62.26,98.38
+Hamudu2025-Tanzania-BMC_SRHH-2024-01,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / ceftriaxone: 4/7 (57.14%),,,,,,4.0,7.0,57.14,25.05,84.18
+Hamudu2025-Tanzania-BMC_SRHH-2024-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / ceftriaxone: 4/7 (57.14%),,,,,,4.0,7.0,57.14,25.05,84.18
+Hamudu2025-Tanzania-BMC_SRHH-2024-01,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / ceftriaxone: 4/7 (57.14%),,,,,,4.0,7.0,57.14,25.05,84.18
+Hamudu2025-Tanzania-BMC_SRHH-2024-01,amr_prevalence,pathogen_specific,AMR prevalence for Pseudomonas aeruginosa / ceftazidime: 1/4 (25.0%),,,,,,1.0,4.0,25.0,4.56,69.94
+Hamudu2025-Tanzania-BMC_SRHH-2024-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Pseudomonas aeruginosa / ceftazidime: 1/4 (25.0%),,,,,,1.0,4.0,25.0,4.56,69.94
+Hamudu2025-Tanzania-BMC_SRHH-2024-01,amr_prevalence,specimen_site,AMR prevalence for Pseudomonas aeruginosa / ceftazidime: 1/4 (25.0%),,,,,,1.0,4.0,25.0,4.56,69.94
+Hamudu2025-Tanzania-BMC_SRHH-2024-01,amr_prevalence,pathogen_specific,AMR prevalence for Enterococcus faecalis / ampicillin: 1/3 (33.33%),,,,,,1.0,3.0,33.33,6.15,79.23
+Hamudu2025-Tanzania-BMC_SRHH-2024-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Enterococcus faecalis / ampicillin: 1/3 (33.33%),,,,,,1.0,3.0,33.33,6.15,79.23
+Hamudu2025-Tanzania-BMC_SRHH-2024-01,amr_prevalence,specimen_site,AMR prevalence for Enterococcus faecalis / ampicillin: 1/3 (33.33%),,,,,,1.0,3.0,33.33,6.15,79.23
+Hope2019-Uganda-Mbarara-2015-01,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / ampicillin: 20/20 (100.0%),,,,,,20.0,20.0,100.0,83.89,100.0
+Hope2019-Uganda-Mbarara-2015-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / ampicillin: 20/20 (100.0%),,,,,,20.0,20.0,100.0,83.89,100.0
+Hope2019-Uganda-Mbarara-2015-01,amr_prevalence,mdr_xdr_pandr,AMR prevalence for Staphylococcus aureus / ampicillin: 20/20 (100.0%),,,,,,20.0,20.0,100.0,83.89,100.0
+Hope2019-Uganda-Mbarara-2015-01,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / ampicillin: 20/20 (100.0%),,,,,,20.0,20.0,100.0,83.89,100.0
+Hope2019-Uganda-Mbarara-2015-01,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / oxacillin: 20/20 (100.0%),,,,,,20.0,20.0,100.0,83.89,100.0
+Hope2019-Uganda-Mbarara-2015-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / oxacillin: 20/20 (100.0%),,,,,,20.0,20.0,100.0,83.89,100.0
+Hope2019-Uganda-Mbarara-2015-01,amr_prevalence,mdr_xdr_pandr,AMR prevalence for Staphylococcus aureus / oxacillin: 20/20 (100.0%),,,,,,20.0,20.0,100.0,83.89,100.0
+Hope2019-Uganda-Mbarara-2015-01,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / oxacillin: 20/20 (100.0%),,,,,,20.0,20.0,100.0,83.89,100.0
+Hope2019-Uganda-Mbarara-2015-01,amr_prevalence,pathogen_specific,AMR prevalence for Klebsiella spp. / ampicillin: 27/27 (100.0%),,,,,,27.0,27.0,100.0,87.54,100.0
+Hope2019-Uganda-Mbarara-2015-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Klebsiella spp. / ampicillin: 27/27 (100.0%),,,,,,27.0,27.0,100.0,87.54,100.0
+Hope2019-Uganda-Mbarara-2015-01,amr_prevalence,mdr_xdr_pandr,AMR prevalence for Klebsiella spp. / ampicillin: 27/27 (100.0%),,,,,,27.0,27.0,100.0,87.54,100.0
+Hope2019-Uganda-Mbarara-2015-01,amr_prevalence,specimen_site,AMR prevalence for Klebsiella spp. / ampicillin: 27/27 (100.0%),,,,,,27.0,27.0,100.0,87.54,100.0
+Hope2019-Uganda-Mbarara-2015-01,amr_prevalence,pathogen_specific,AMR prevalence for Klebsiella spp. / ceftriaxone: 23/27 (85.19%),,,,,,23.0,27.0,85.19,67.52,94.08
+Hope2019-Uganda-Mbarara-2015-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Klebsiella spp. / ceftriaxone: 23/27 (85.19%),,,,,,23.0,27.0,85.19,67.52,94.08
+Hope2019-Uganda-Mbarara-2015-01,amr_prevalence,mdr_xdr_pandr,AMR prevalence for Klebsiella spp. / ceftriaxone: 23/27 (85.19%),,,,,,23.0,27.0,85.19,67.52,94.08
+Hope2019-Uganda-Mbarara-2015-01,amr_prevalence,specimen_site,AMR prevalence for Klebsiella spp. / ceftriaxone: 23/27 (85.19%),,,,,,23.0,27.0,85.19,67.52,94.08
+Hope2019-Uganda-Mbarara-2015-01,amr_prevalence,pathogen_specific,AMR prevalence for Escherichia coli / ampicillin: 9/9 (100.0%),,,,,,9.0,9.0,100.0,70.08,100.0
+Hope2019-Uganda-Mbarara-2015-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Escherichia coli / ampicillin: 9/9 (100.0%),,,,,,9.0,9.0,100.0,70.08,100.0
+Hope2019-Uganda-Mbarara-2015-01,amr_prevalence,mdr_xdr_pandr,AMR prevalence for Escherichia coli / ampicillin: 9/9 (100.0%),,,,,,9.0,9.0,100.0,70.08,100.0
+Hope2019-Uganda-Mbarara-2015-01,amr_prevalence,specimen_site,AMR prevalence for Escherichia coli / ampicillin: 9/9 (100.0%),,,,,,9.0,9.0,100.0,70.08,100.0
+Hope2019-Uganda-Mbarara-2015-01,amr_prevalence,pathogen_specific,AMR prevalence for Escherichia coli / ceftriaxone: 9/9 (100.0%),,,,,,9.0,9.0,100.0,70.08,100.0
+Hope2019-Uganda-Mbarara-2015-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Escherichia coli / ceftriaxone: 9/9 (100.0%),,,,,,9.0,9.0,100.0,70.08,100.0
+Hope2019-Uganda-Mbarara-2015-01,amr_prevalence,mdr_xdr_pandr,AMR prevalence for Escherichia coli / ceftriaxone: 9/9 (100.0%),,,,,,9.0,9.0,100.0,70.08,100.0
+Hope2019-Uganda-Mbarara-2015-01,amr_prevalence,specimen_site,AMR prevalence for Escherichia coli / ceftriaxone: 9/9 (100.0%),,,,,,9.0,9.0,100.0,70.08,100.0
+Iyamba2014-DRC-Kinshasa-2013-01,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / ampicillin: 58/74 (78.38%),,,,,,58.0,74.0,78.38,67.73,86.23
+Iyamba2014-DRC-Kinshasa-2013-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / ampicillin: 58/74 (78.38%),,,,,,58.0,74.0,78.38,67.73,86.23
+Iyamba2014-DRC-Kinshasa-2013-01,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / ampicillin: 58/74 (78.38%),,,,,,58.0,74.0,78.38,67.73,86.23
+Iyamba2014-DRC-Kinshasa-2013-01,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / amoxicillin-clavulanate: 9/74 (12.16%),,,,,,9.0,74.0,12.16,6.53,21.53
+Iyamba2014-DRC-Kinshasa-2013-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / amoxicillin-clavulanate: 9/74 (12.16%),,,,,,9.0,74.0,12.16,6.53,21.53
+Iyamba2014-DRC-Kinshasa-2013-01,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / amoxicillin-clavulanate: 9/74 (12.16%),,,,,,9.0,74.0,12.16,6.53,21.53
+Iyamba2014-DRC-Kinshasa-2013-01,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / ceftazidime: 37/74 (50.0%),,,,,,37.0,74.0,50.0,38.89,61.11
+Iyamba2014-DRC-Kinshasa-2013-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / ceftazidime: 37/74 (50.0%),,,,,,37.0,74.0,50.0,38.89,61.11
+Iyamba2014-DRC-Kinshasa-2013-01,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / ceftazidime: 37/74 (50.0%),,,,,,37.0,74.0,50.0,38.89,61.11
+Iyamba2014-DRC-Kinshasa-2013-01,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / cefotaxime: 30/74 (40.54%),,,,,,30.0,74.0,40.54,30.09,51.92
+Iyamba2014-DRC-Kinshasa-2013-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / cefotaxime: 30/74 (40.54%),,,,,,30.0,74.0,40.54,30.09,51.92
+Iyamba2014-DRC-Kinshasa-2013-01,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / cefotaxime: 30/74 (40.54%),,,,,,30.0,74.0,40.54,30.09,51.92
+Iyamba2014-DRC-Kinshasa-2013-01,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / ciprofloxacin: 50/74 (67.57%),,,,,,50.0,74.0,67.57,56.27,77.14
+Iyamba2014-DRC-Kinshasa-2013-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / ciprofloxacin: 50/74 (67.57%),,,,,,50.0,74.0,67.57,56.27,77.14
+Iyamba2014-DRC-Kinshasa-2013-01,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / ciprofloxacin: 50/74 (67.57%),,,,,,50.0,74.0,67.57,56.27,77.14
+Iyamba2014-DRC-Kinshasa-2013-01,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / clindamycin: 52/74 (70.27%),,,,,,52.0,74.0,70.27,59.07,79.47
+Iyamba2014-DRC-Kinshasa-2013-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / clindamycin: 52/74 (70.27%),,,,,,52.0,74.0,70.27,59.07,79.47
+Iyamba2014-DRC-Kinshasa-2013-01,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / clindamycin: 52/74 (70.27%),,,,,,52.0,74.0,70.27,59.07,79.47
+Iyamba2014-DRC-Kinshasa-2013-01,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / cotrimoxazole: 54/74 (72.97%),,,,,,54.0,74.0,72.97,61.91,81.77
+Iyamba2014-DRC-Kinshasa-2013-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / cotrimoxazole: 54/74 (72.97%),,,,,,54.0,74.0,72.97,61.91,81.77
+Iyamba2014-DRC-Kinshasa-2013-01,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / cotrimoxazole: 54/74 (72.97%),,,,,,54.0,74.0,72.97,61.91,81.77
+Iyamba2014-DRC-Kinshasa-2013-01,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / erythromycin: 51/74 (68.92%),,,,,,51.0,74.0,68.92,57.66,78.31
+Iyamba2014-DRC-Kinshasa-2013-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / erythromycin: 51/74 (68.92%),,,,,,51.0,74.0,68.92,57.66,78.31
+Iyamba2014-DRC-Kinshasa-2013-01,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / erythromycin: 51/74 (68.92%),,,,,,51.0,74.0,68.92,57.66,78.31
+Iyamba2014-DRC-Kinshasa-2013-01,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / imipenem: 0/74 (0.0%),,,,,,0.0,74.0,0.0,0.0,4.94
+Iyamba2014-DRC-Kinshasa-2013-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / imipenem: 0/74 (0.0%),,,,,,0.0,74.0,0.0,0.0,4.94
+Iyamba2014-DRC-Kinshasa-2013-01,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / imipenem: 0/74 (0.0%),,,,,,0.0,74.0,0.0,0.0,4.94
+Iyamba2014-DRC-Kinshasa-2013-01,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / vancomycin: 11/74 (14.86%),,,,,,11.0,74.0,14.86,8.51,24.69
+Iyamba2014-DRC-Kinshasa-2013-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / vancomycin: 11/74 (14.86%),,,,,,11.0,74.0,14.86,8.51,24.69
+Iyamba2014-DRC-Kinshasa-2013-01,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / vancomycin: 11/74 (14.86%),,,,,,11.0,74.0,14.86,8.51,24.69
+Kachipedzu2024-Malawi-QECH-2023-1,amr_prevalence,pathogen_specific,AMR prevalence for Acinetobacter baumannii / ceftriaxone: 1/1 (100.0%),,,,,,1.0,1.0,100.0,20.65,100.0
+Kachipedzu2024-Malawi-QECH-2023-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Acinetobacter baumannii / ceftriaxone: 1/1 (100.0%),,,,,,1.0,1.0,100.0,20.65,100.0
+Kachipedzu2024-Malawi-QECH-2023-1,amr_prevalence,specimen_site,AMR prevalence for Acinetobacter baumannii / ceftriaxone: 1/1 (100.0%),,,,,,1.0,1.0,100.0,20.65,100.0
+Kachipedzu2024-Malawi-QECH-2023-1,amr_prevalence,pathogen_specific,AMR prevalence for Acinetobacter baumannii / ciprofloxacin: 1/1 (100.0%),,,,,,1.0,1.0,100.0,20.65,100.0
+Kachipedzu2024-Malawi-QECH-2023-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Acinetobacter baumannii / ciprofloxacin: 1/1 (100.0%),,,,,,1.0,1.0,100.0,20.65,100.0
+Kachipedzu2024-Malawi-QECH-2023-1,amr_prevalence,specimen_site,AMR prevalence for Acinetobacter baumannii / ciprofloxacin: 1/1 (100.0%),,,,,,1.0,1.0,100.0,20.65,100.0
+Kachipedzu2024-Malawi-QECH-2023-1,amr_prevalence,pathogen_specific,AMR prevalence for Acinetobacter baumannii / gentamicin: 0/1 (0.0%),,,,,,0.0,1.0,0.0,0.0,79.35
+Kachipedzu2024-Malawi-QECH-2023-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Acinetobacter baumannii / gentamicin: 0/1 (0.0%),,,,,,0.0,1.0,0.0,0.0,79.35
+Kachipedzu2024-Malawi-QECH-2023-1,amr_prevalence,specimen_site,AMR prevalence for Acinetobacter baumannii / gentamicin: 0/1 (0.0%),,,,,,0.0,1.0,0.0,0.0,79.35
+Kachipedzu2024-Malawi-QECH-2023-1,amr_prevalence,pathogen_specific,AMR prevalence for Acinetobacter baumannii / cefotaxime: 1/1 (100.0%),,,,,,1.0,1.0,100.0,20.65,100.0
+Kachipedzu2024-Malawi-QECH-2023-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Acinetobacter baumannii / cefotaxime: 1/1 (100.0%),,,,,,1.0,1.0,100.0,20.65,100.0
+Kachipedzu2024-Malawi-QECH-2023-1,amr_prevalence,specimen_site,AMR prevalence for Acinetobacter baumannii / cefotaxime: 1/1 (100.0%),,,,,,1.0,1.0,100.0,20.65,100.0
+Kachipedzu2024-Malawi-QECH-2023-1,amr_prevalence,pathogen_specific,AMR prevalence for Acinetobacter baumannii / tigecycline: 1/1 (100.0%),,,,,,1.0,1.0,100.0,20.65,100.0
+Kachipedzu2024-Malawi-QECH-2023-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Acinetobacter baumannii / tigecycline: 1/1 (100.0%),,,,,,1.0,1.0,100.0,20.65,100.0
+Kachipedzu2024-Malawi-QECH-2023-1,amr_prevalence,specimen_site,AMR prevalence for Acinetobacter baumannii / tigecycline: 1/1 (100.0%),,,,,,1.0,1.0,100.0,20.65,100.0
+Kachipedzu2024-Malawi-QECH-2023-1,amr_prevalence,pathogen_specific,AMR prevalence for Enterobacteriaceae / chloramphenicol: 1/1 (100.0%),,,,,,1.0,1.0,100.0,20.65,100.0
+Kachipedzu2024-Malawi-QECH-2023-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Enterobacteriaceae / chloramphenicol: 1/1 (100.0%),,,,,,1.0,1.0,100.0,20.65,100.0
+Kachipedzu2024-Malawi-QECH-2023-1,amr_prevalence,specimen_site,AMR prevalence for Enterobacteriaceae / chloramphenicol: 1/1 (100.0%),,,,,,1.0,1.0,100.0,20.65,100.0
+Kachipedzu2024-Malawi-QECH-2023-1,amr_prevalence,pathogen_specific,AMR prevalence for Enterobacteriaceae / ciprofloxacin: 0/1 (0.0%),,,,,,0.0,1.0,0.0,0.0,79.35
+Kachipedzu2024-Malawi-QECH-2023-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Enterobacteriaceae / ciprofloxacin: 0/1 (0.0%),,,,,,0.0,1.0,0.0,0.0,79.35
+Kachipedzu2024-Malawi-QECH-2023-1,amr_prevalence,specimen_site,AMR prevalence for Enterobacteriaceae / ciprofloxacin: 0/1 (0.0%),,,,,,0.0,1.0,0.0,0.0,79.35
+Kachipedzu2024-Malawi-QECH-2023-1,amr_prevalence,pathogen_specific,AMR prevalence for Enterobacteriaceae / co-trimoxazole: 1/1 (100.0%),,,,,,1.0,1.0,100.0,20.65,100.0
+Kachipedzu2024-Malawi-QECH-2023-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Enterobacteriaceae / co-trimoxazole: 1/1 (100.0%),,,,,,1.0,1.0,100.0,20.65,100.0
+Kachipedzu2024-Malawi-QECH-2023-1,amr_prevalence,specimen_site,AMR prevalence for Enterobacteriaceae / co-trimoxazole: 1/1 (100.0%),,,,,,1.0,1.0,100.0,20.65,100.0
+Kachipedzu2024-Malawi-QECH-2023-1,amr_prevalence,pathogen_specific,AMR prevalence for Enterobacteriaceae / gentamicin: 0/1 (0.0%),,,,,,0.0,1.0,0.0,0.0,79.35
+Kachipedzu2024-Malawi-QECH-2023-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Enterobacteriaceae / gentamicin: 0/1 (0.0%),,,,,,0.0,1.0,0.0,0.0,79.35
+Kachipedzu2024-Malawi-QECH-2023-1,amr_prevalence,specimen_site,AMR prevalence for Enterobacteriaceae / gentamicin: 0/1 (0.0%),,,,,,0.0,1.0,0.0,0.0,79.35
+Kachipedzu2024-Malawi-QECH-2023-1,amr_prevalence,pathogen_specific,AMR prevalence for Enterobacteriaceae / meropenem: 0/1 (0.0%),,,,,,0.0,1.0,0.0,0.0,79.35
+Kachipedzu2024-Malawi-QECH-2023-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Enterobacteriaceae / meropenem: 0/1 (0.0%),,,,,,0.0,1.0,0.0,0.0,79.35
+Kachipedzu2024-Malawi-QECH-2023-1,amr_prevalence,specimen_site,AMR prevalence for Enterobacteriaceae / meropenem: 0/1 (0.0%),,,,,,0.0,1.0,0.0,0.0,79.35
+Kachipedzu2024-Malawi-QECH-2023-1,amr_prevalence,pathogen_specific,AMR prevalence for Enterobacteriaceae / amikacin: 0/1 (0.0%),,,,,,0.0,1.0,0.0,0.0,79.35
+Kachipedzu2024-Malawi-QECH-2023-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Enterobacteriaceae / amikacin: 0/1 (0.0%),,,,,,0.0,1.0,0.0,0.0,79.35
+Kachipedzu2024-Malawi-QECH-2023-1,amr_prevalence,specimen_site,AMR prevalence for Enterobacteriaceae / amikacin: 0/1 (0.0%),,,,,,0.0,1.0,0.0,0.0,79.35
+Kachipedzu2024-Malawi-QECH-2023-1,amr_prevalence,pathogen_specific,AMR prevalence for Enterobacteriaceae / tigecycline: 0/1 (0.0%),,,,,,0.0,1.0,0.0,0.0,79.35
+Kachipedzu2024-Malawi-QECH-2023-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Enterobacteriaceae / tigecycline: 0/1 (0.0%),,,,,,0.0,1.0,0.0,0.0,79.35
+Kachipedzu2024-Malawi-QECH-2023-1,amr_prevalence,specimen_site,AMR prevalence for Enterobacteriaceae / tigecycline: 0/1 (0.0%),,,,,,0.0,1.0,0.0,0.0,79.35
+Kachipedzu2024-Malawi-QECH-2023-1,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / clindamycin: 3/3 (100.0%),,,,,,3.0,3.0,100.0,43.85,100.0
+Kachipedzu2024-Malawi-QECH-2023-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / clindamycin: 3/3 (100.0%),,,,,,3.0,3.0,100.0,43.85,100.0
+Kachipedzu2024-Malawi-QECH-2023-1,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / clindamycin: 3/3 (100.0%),,,,,,3.0,3.0,100.0,43.85,100.0
+Kachipedzu2024-Malawi-QECH-2023-1,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / erythromycin: 3/3 (100.0%),,,,,,3.0,3.0,100.0,43.85,100.0
+Kachipedzu2024-Malawi-QECH-2023-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / erythromycin: 3/3 (100.0%),,,,,,3.0,3.0,100.0,43.85,100.0
+Kachipedzu2024-Malawi-QECH-2023-1,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / erythromycin: 3/3 (100.0%),,,,,,3.0,3.0,100.0,43.85,100.0
+Kachipedzu2024-Malawi-QECH-2023-1,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / gentamicin: 3/3 (100.0%),,,,,,3.0,3.0,100.0,43.85,100.0
+Kachipedzu2024-Malawi-QECH-2023-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / gentamicin: 3/3 (100.0%),,,,,,3.0,3.0,100.0,43.85,100.0
+Kachipedzu2024-Malawi-QECH-2023-1,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / gentamicin: 3/3 (100.0%),,,,,,3.0,3.0,100.0,43.85,100.0
+Kachipedzu2024-Malawi-QECH-2023-1,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / cefoxitin: 3/3 (100.0%),,,,,,3.0,3.0,100.0,43.85,100.0
+Kachipedzu2024-Malawi-QECH-2023-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / cefoxitin: 3/3 (100.0%),,,,,,3.0,3.0,100.0,43.85,100.0
+Kachipedzu2024-Malawi-QECH-2023-1,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / cefoxitin: 3/3 (100.0%),,,,,,3.0,3.0,100.0,43.85,100.0
+Akoachere2014-Cameroon-Buea-201010201103-01,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / ofloxacin: 0/48 (0.0%),,,,,,0.0,48.0,0.0,0.0,7.41
+Akoachere2014-Cameroon-Buea-201010201103-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / ofloxacin: 0/48 (0.0%),,,,,,0.0,48.0,0.0,0.0,7.41
+Akoachere2014-Cameroon-Buea-201010201103-01,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / ofloxacin: 0/48 (0.0%),,,,,,0.0,48.0,0.0,0.0,7.41
+Akoachere2014-Cameroon-Buea-201010201103-01,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / oxacillin: 48/48 (100.0%),,,,,,48.0,48.0,100.0,92.59,100.0
+Akoachere2014-Cameroon-Buea-201010201103-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / oxacillin: 48/48 (100.0%),,,,,,48.0,48.0,100.0,92.59,100.0
+Akoachere2014-Cameroon-Buea-201010201103-01,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / oxacillin: 48/48 (100.0%),,,,,,48.0,48.0,100.0,92.59,100.0
+Akoachere2014-Cameroon-Buea-201010201103-01,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / gentamicin: 6/48 (12.5%),,,,,,6.0,48.0,12.5,5.86,24.7
+Akoachere2014-Cameroon-Buea-201010201103-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / gentamicin: 6/48 (12.5%),,,,,,6.0,48.0,12.5,5.86,24.7
+Akoachere2014-Cameroon-Buea-201010201103-01,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / gentamicin: 6/48 (12.5%),,,,,,6.0,48.0,12.5,5.86,24.7
+Akoachere2014-Cameroon-Buea-201010201103-01,amr_prevalence,pathogen_specific,AMR prevalence for Pseudomonas aeruginosa / ofloxacin: 0/39 (0.0%),,,,,,0.0,39.0,0.0,0.0,8.97
+Akoachere2014-Cameroon-Buea-201010201103-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Pseudomonas aeruginosa / ofloxacin: 0/39 (0.0%),,,,,,0.0,39.0,0.0,0.0,8.97
+Akoachere2014-Cameroon-Buea-201010201103-01,amr_prevalence,specimen_site,AMR prevalence for Pseudomonas aeruginosa / ofloxacin: 0/39 (0.0%),,,,,,0.0,39.0,0.0,0.0,8.97
+Akoachere2014-Cameroon-Buea-201010201103-01,amr_prevalence,pathogen_specific,AMR prevalence for Pseudomonas aeruginosa / gentamicin: 10/39 (25.64%),,,,,,10.0,39.0,25.64,14.57,41.08
+Akoachere2014-Cameroon-Buea-201010201103-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Pseudomonas aeruginosa / gentamicin: 10/39 (25.64%),,,,,,10.0,39.0,25.64,14.57,41.08
+Akoachere2014-Cameroon-Buea-201010201103-01,amr_prevalence,specimen_site,AMR prevalence for Pseudomonas aeruginosa / gentamicin: 10/39 (25.64%),,,,,,10.0,39.0,25.64,14.57,41.08
+Akoachere2014-Cameroon-Buea-201010201103-01,amr_prevalence,pathogen_specific,AMR prevalence for Klebsiella pneumoniae / ofloxacin: 0/22 (0.0%),,,,,,0.0,22.0,0.0,0.0,14.87
+Akoachere2014-Cameroon-Buea-201010201103-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Klebsiella pneumoniae / ofloxacin: 0/22 (0.0%),,,,,,0.0,22.0,0.0,0.0,14.87
+Akoachere2014-Cameroon-Buea-201010201103-01,amr_prevalence,specimen_site,AMR prevalence for Klebsiella pneumoniae / ofloxacin: 0/22 (0.0%),,,,,,0.0,22.0,0.0,0.0,14.87
+Kumburu2017-Tanzania-KCMC-2013-2015-01,amr_prevalence,pathogen_specific,AMR prevalence for Proteus spp. / ampicillin: 21/28 (75.0%),,,,,,21.0,28.0,75.0,56.64,87.32
+Kumburu2017-Tanzania-KCMC-2013-2015-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Proteus spp. / ampicillin: 21/28 (75.0%),,,,,,21.0,28.0,75.0,56.64,87.32
+Kumburu2017-Tanzania-KCMC-2013-2015-01,amr_prevalence,specimen_site,AMR prevalence for Proteus spp. / ampicillin: 21/28 (75.0%),,,,,,21.0,28.0,75.0,56.64,87.32
+Kumburu2017-Tanzania-KCMC-2013-2015-01,amr_prevalence,pathogen_specific,AMR prevalence for Proteus spp. / cefazolin: 23/28 (82.14%),,,,,,23.0,28.0,82.14,64.41,92.12
+Kumburu2017-Tanzania-KCMC-2013-2015-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Proteus spp. / cefazolin: 23/28 (82.14%),,,,,,23.0,28.0,82.14,64.41,92.12
+Kumburu2017-Tanzania-KCMC-2013-2015-01,amr_prevalence,specimen_site,AMR prevalence for Proteus spp. / cefazolin: 23/28 (82.14%),,,,,,23.0,28.0,82.14,64.41,92.12
+Kumburu2017-Tanzania-KCMC-2013-2015-01,amr_prevalence,pathogen_specific,AMR prevalence for Klebsiella spp. / ampicillin: 24/26 (92.31%),,,,,,24.0,26.0,92.31,75.86,97.86
+Kumburu2017-Tanzania-KCMC-2013-2015-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Klebsiella spp. / ampicillin: 24/26 (92.31%),,,,,,24.0,26.0,92.31,75.86,97.86
+Kumburu2017-Tanzania-KCMC-2013-2015-01,amr_prevalence,specimen_site,AMR prevalence for Klebsiella spp. / ampicillin: 24/26 (92.31%),,,,,,24.0,26.0,92.31,75.86,97.86
+Kumburu2017-Tanzania-KCMC-2013-2015-01,amr_prevalence,pathogen_specific,AMR prevalence for Escherichia coli / ampicillin: 13/19 (68.42%),,,,,,13.0,19.0,68.42,46.01,84.64
+Kumburu2017-Tanzania-KCMC-2013-2015-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Escherichia coli / ampicillin: 13/19 (68.42%),,,,,,13.0,19.0,68.42,46.01,84.64
+Kumburu2017-Tanzania-KCMC-2013-2015-01,amr_prevalence,specimen_site,AMR prevalence for Escherichia coli / ampicillin: 13/19 (68.42%),,,,,,13.0,19.0,68.42,46.01,84.64
+Kumburu2017-Tanzania-KCMC-2013-2015-01,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / penicillin: 22/22 (100.0%),,,,,,22.0,22.0,100.0,85.13,100.0
+Kumburu2017-Tanzania-KCMC-2013-2015-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / penicillin: 22/22 (100.0%),,,,,,22.0,22.0,100.0,85.13,100.0
+Kumburu2017-Tanzania-KCMC-2013-2015-01,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / penicillin: 22/22 (100.0%),,,,,,22.0,22.0,100.0,85.13,100.0
+Kumburu2017-Tanzania-KCMC-2013-2015-01,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / cefoxitin: 6/22 (27.27%),,,,,,6.0,22.0,27.27,13.15,48.15
+Kumburu2017-Tanzania-KCMC-2013-2015-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / cefoxitin: 6/22 (27.27%),,,,,,6.0,22.0,27.27,13.15,48.15
+Kumburu2017-Tanzania-KCMC-2013-2015-01,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / cefoxitin: 6/22 (27.27%),,,,,,6.0,22.0,27.27,13.15,48.15
+Jung2023-Uganda-Mulago-2021Q4_2022Q1-01,amr_prevalence,pathogen_specific,AMR prevalence for Escherichia coli / ceftriaxone: 43/45 (95.56%),,,,,,43.0,45.0,95.56,85.17,98.77
+Jung2023-Uganda-Mulago-2021Q4_2022Q1-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Escherichia coli / ceftriaxone: 43/45 (95.56%),,,,,,43.0,45.0,95.56,85.17,98.77
+Jung2023-Uganda-Mulago-2021Q4_2022Q1-01,amr_prevalence,specimen_site,AMR prevalence for Escherichia coli / ceftriaxone: 43/45 (95.56%),,,,,,43.0,45.0,95.56,85.17,98.77
+Jung2023-Uganda-Mulago-2021Q4_2022Q1-01,amr_prevalence,pathogen_specific,AMR prevalence for Escherichia coli / gentamicin: 22/40 (55.0%),,,,,,22.0,40.0,55.0,39.83,69.29
+Jung2023-Uganda-Mulago-2021Q4_2022Q1-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Escherichia coli / gentamicin: 22/40 (55.0%),,,,,,22.0,40.0,55.0,39.83,69.29
+Jung2023-Uganda-Mulago-2021Q4_2022Q1-01,amr_prevalence,specimen_site,AMR prevalence for Escherichia coli / gentamicin: 22/40 (55.0%),,,,,,22.0,40.0,55.0,39.83,69.29
+Jung2023-Uganda-Mulago-2021Q4_2022Q1-01,amr_prevalence,pathogen_specific,AMR prevalence for Acinetobacter spp. / gentamicin: 32/39 (82.05%),,,,,,32.0,39.0,82.05,67.33,91.02
+Jung2023-Uganda-Mulago-2021Q4_2022Q1-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Acinetobacter spp. / gentamicin: 32/39 (82.05%),,,,,,32.0,39.0,82.05,67.33,91.02
+Jung2023-Uganda-Mulago-2021Q4_2022Q1-01,amr_prevalence,specimen_site,AMR prevalence for Acinetobacter spp. / gentamicin: 32/39 (82.05%),,,,,,32.0,39.0,82.05,67.33,91.02
+Jung2023-Uganda-Mulago-2021Q4_2022Q1-01,amr_prevalence,pathogen_specific,AMR prevalence for Klebsiella spp. / ceftriaxone: 30/32 (93.75%),,,,,,30.0,32.0,93.75,79.85,98.27
+Jung2023-Uganda-Mulago-2021Q4_2022Q1-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Klebsiella spp. / ceftriaxone: 30/32 (93.75%),,,,,,30.0,32.0,93.75,79.85,98.27
+Jung2023-Uganda-Mulago-2021Q4_2022Q1-01,amr_prevalence,specimen_site,AMR prevalence for Klebsiella spp. / ceftriaxone: 30/32 (93.75%),,,,,,30.0,32.0,93.75,79.85,98.27
+Jung2023-Uganda-Mulago-2021Q4_2022Q1-01,amr_prevalence,pathogen_specific,AMR prevalence for Pseudomonas aeruginosa / gentamicin: 11/24 (45.83%),,,,,,11.0,24.0,45.83,27.89,64.93
+Jung2023-Uganda-Mulago-2021Q4_2022Q1-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Pseudomonas aeruginosa / gentamicin: 11/24 (45.83%),,,,,,11.0,24.0,45.83,27.89,64.93
+Jung2023-Uganda-Mulago-2021Q4_2022Q1-01,amr_prevalence,specimen_site,AMR prevalence for Pseudomonas aeruginosa / gentamicin: 11/24 (45.83%),,,,,,11.0,24.0,45.83,27.89,64.93
+Jung2023-Uganda-Mulago-2021Q4_2022Q1-01,amr_prevalence,pathogen_specific,AMR prevalence for Enterococcus spp. / vancomycin: 17/20 (85.0%),,,,,,17.0,20.0,85.0,63.96,94.76
+Jung2023-Uganda-Mulago-2021Q4_2022Q1-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Enterococcus spp. / vancomycin: 17/20 (85.0%),,,,,,17.0,20.0,85.0,63.96,94.76
+Jung2023-Uganda-Mulago-2021Q4_2022Q1-01,amr_prevalence,specimen_site,AMR prevalence for Enterococcus spp. / vancomycin: 17/20 (85.0%),,,,,,17.0,20.0,85.0,63.96,94.76
+Jung2023-Uganda-Mulago-2021Q4_2022Q1-01,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / methicillin: 4/19 (21.05%),,,,,,4.0,19.0,21.05,8.51,43.33
+Jung2023-Uganda-Mulago-2021Q4_2022Q1-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / methicillin: 4/19 (21.05%),,,,,,4.0,19.0,21.05,8.51,43.33
+Jung2023-Uganda-Mulago-2021Q4_2022Q1-01,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / methicillin: 4/19 (21.05%),,,,,,4.0,19.0,21.05,8.51,43.33
+Manyahi2014-Tanzania-Muhimbili-2011-2012-1,amr_prevalence,pathogen_specific,AMR prevalence for Escherichia coli / ampicillin: 13/13 (100.0%),,,,,,13.0,13.0,100.0,77.19,100.0
+Manyahi2014-Tanzania-Muhimbili-2011-2012-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Escherichia coli / ampicillin: 13/13 (100.0%),,,,,,13.0,13.0,100.0,77.19,100.0
+Manyahi2014-Tanzania-Muhimbili-2011-2012-1,amr_prevalence,mdr_xdr_pandr,AMR prevalence for Escherichia coli / ampicillin: 13/13 (100.0%),,,,,,13.0,13.0,100.0,77.19,100.0
+Manyahi2014-Tanzania-Muhimbili-2011-2012-1,amr_prevalence,specimen_site,AMR prevalence for Escherichia coli / ampicillin: 13/13 (100.0%),,,,,,13.0,13.0,100.0,77.19,100.0
+Manyahi2014-Tanzania-Muhimbili-2011-2012-1,amr_prevalence,pathogen_specific,AMR prevalence for Escherichia coli / amoxicillin-clavulanate: 12/13 (92.31%),,,,,,12.0,13.0,92.31,66.69,98.63
+Manyahi2014-Tanzania-Muhimbili-2011-2012-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Escherichia coli / amoxicillin-clavulanate: 12/13 (92.31%),,,,,,12.0,13.0,92.31,66.69,98.63
+Manyahi2014-Tanzania-Muhimbili-2011-2012-1,amr_prevalence,mdr_xdr_pandr,AMR prevalence for Escherichia coli / amoxicillin-clavulanate: 12/13 (92.31%),,,,,,12.0,13.0,92.31,66.69,98.63
+Manyahi2014-Tanzania-Muhimbili-2011-2012-1,amr_prevalence,specimen_site,AMR prevalence for Escherichia coli / amoxicillin-clavulanate: 12/13 (92.31%),,,,,,12.0,13.0,92.31,66.69,98.63
+Manyahi2014-Tanzania-Muhimbili-2011-2012-1,amr_prevalence,pathogen_specific,AMR prevalence for Escherichia coli / ceftriaxone: 12/13 (92.31%),,,,,,12.0,13.0,92.31,66.69,98.63
+Manyahi2014-Tanzania-Muhimbili-2011-2012-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Escherichia coli / ceftriaxone: 12/13 (92.31%),,,,,,12.0,13.0,92.31,66.69,98.63
+Manyahi2014-Tanzania-Muhimbili-2011-2012-1,amr_prevalence,mdr_xdr_pandr,AMR prevalence for Escherichia coli / ceftriaxone: 12/13 (92.31%),,,,,,12.0,13.0,92.31,66.69,98.63
+Manyahi2014-Tanzania-Muhimbili-2011-2012-1,amr_prevalence,specimen_site,AMR prevalence for Escherichia coli / ceftriaxone: 12/13 (92.31%),,,,,,12.0,13.0,92.31,66.69,98.63
+Manyahi2014-Tanzania-Muhimbili-2011-2012-1,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / penicillin: 15/18 (83.33%),,,,,,15.0,18.0,83.33,60.78,94.16
+Manyahi2014-Tanzania-Muhimbili-2011-2012-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / penicillin: 15/18 (83.33%),,,,,,15.0,18.0,83.33,60.78,94.16
+Manyahi2014-Tanzania-Muhimbili-2011-2012-1,amr_prevalence,mdr_xdr_pandr,AMR prevalence for Staphylococcus aureus / penicillin: 15/18 (83.33%),,,,,,15.0,18.0,83.33,60.78,94.16
+Manyahi2014-Tanzania-Muhimbili-2011-2012-1,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / penicillin: 15/18 (83.33%),,,,,,15.0,18.0,83.33,60.78,94.16
+Manyahi2014-Tanzania-Muhimbili-2011-2012-1,amr_prevalence,pathogen_specific,AMR prevalence for Klebsiella pneumoniae / ampicillin: 16/16 (100.0%),,,,,,16.0,16.0,100.0,80.64,100.0
+Manyahi2014-Tanzania-Muhimbili-2011-2012-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Klebsiella pneumoniae / ampicillin: 16/16 (100.0%),,,,,,16.0,16.0,100.0,80.64,100.0
+Manyahi2014-Tanzania-Muhimbili-2011-2012-1,amr_prevalence,mdr_xdr_pandr,AMR prevalence for Klebsiella pneumoniae / ampicillin: 16/16 (100.0%),,,,,,16.0,16.0,100.0,80.64,100.0
+Manyahi2014-Tanzania-Muhimbili-2011-2012-1,amr_prevalence,specimen_site,AMR prevalence for Klebsiella pneumoniae / ampicillin: 16/16 (100.0%),,,,,,16.0,16.0,100.0,80.64,100.0
+Mengesha2014-Ethiopia-Ayder-2012-1,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / gentamicin: 4/40 (10.0%),,,,,,4.0,40.0,10.0,3.96,23.05
+Mengesha2014-Ethiopia-Ayder-2012-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / gentamicin: 4/40 (10.0%),,,,,,4.0,40.0,10.0,3.96,23.05
+Mengesha2014-Ethiopia-Ayder-2012-1,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / gentamicin: 4/40 (10.0%),,,,,,4.0,40.0,10.0,3.96,23.05
+Mengesha2014-Ethiopia-Ayder-2012-1,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / vancomycin: 0/40 (0.0%),,,,,,0.0,40.0,0.0,0.0,8.76
+Mengesha2014-Ethiopia-Ayder-2012-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / vancomycin: 0/40 (0.0%),,,,,,0.0,40.0,0.0,0.0,8.76
+Mengesha2014-Ethiopia-Ayder-2012-1,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / vancomycin: 0/40 (0.0%),,,,,,0.0,40.0,0.0,0.0,8.76
+Mengesha2014-Ethiopia-Ayder-2012-1,amr_prevalence,pathogen_specific,AMR prevalence for Klebsiella spp. / gentamicin: 8/29 (27.59%),,,,,,8.0,29.0,27.59,14.7,45.72
+Mengesha2014-Ethiopia-Ayder-2012-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Klebsiella spp. / gentamicin: 8/29 (27.59%),,,,,,8.0,29.0,27.59,14.7,45.72
+Mengesha2014-Ethiopia-Ayder-2012-1,amr_prevalence,specimen_site,AMR prevalence for Klebsiella spp. / gentamicin: 8/29 (27.59%),,,,,,8.0,29.0,27.59,14.7,45.72
+Mengesha2014-Ethiopia-Ayder-2012-1,amr_prevalence,pathogen_specific,AMR prevalence for Pseudomonas aeruginosa / gentamicin: 0/11 (0.0%),,,,,,0.0,11.0,0.0,0.0,25.88
+Mengesha2014-Ethiopia-Ayder-2012-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Pseudomonas aeruginosa / gentamicin: 0/11 (0.0%),,,,,,0.0,11.0,0.0,0.0,25.88
+Mengesha2014-Ethiopia-Ayder-2012-1,amr_prevalence,specimen_site,AMR prevalence for Pseudomonas aeruginosa / gentamicin: 0/11 (0.0%),,,,,,0.0,11.0,0.0,0.0,25.88
+Mengesha2014-Ethiopia-Ayder-2012-1,amr_prevalence,pathogen_specific,AMR prevalence for Coagulase-negative staphylococci / vancomycin: 0/18 (0.0%),,,,,,0.0,18.0,0.0,0.0,17.59
+Mengesha2014-Ethiopia-Ayder-2012-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Coagulase-negative staphylococci / vancomycin: 0/18 (0.0%),,,,,,0.0,18.0,0.0,0.0,17.59
+Mengesha2014-Ethiopia-Ayder-2012-1,amr_prevalence,specimen_site,AMR prevalence for Coagulase-negative staphylococci / vancomycin: 0/18 (0.0%),,,,,,0.0,18.0,0.0,0.0,17.59
+Mengesha2014-Ethiopia-Ayder-2012-1,amr_prevalence,pathogen_specific,AMR prevalence for Gram-negative bacteria (aggregate) / gentamicin: 11/65 (16.92%),,,,,,11.0,65.0,16.92,9.72,27.82
+Mengesha2014-Ethiopia-Ayder-2012-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Gram-negative bacteria (aggregate) / gentamicin: 11/65 (16.92%),,,,,,11.0,65.0,16.92,9.72,27.82
+Mengesha2014-Ethiopia-Ayder-2012-1,amr_prevalence,specimen_site,AMR prevalence for Gram-negative bacteria (aggregate) / gentamicin: 11/65 (16.92%),,,,,,11.0,65.0,16.92,9.72,27.82
+Mengesha2014-Ethiopia-Ayder-2012-1,amr_prevalence,pathogen_specific,AMR prevalence for Gram-positive bacteria (aggregate) / vancomycin: 0/58 (0.0%),,,,,,0.0,58.0,0.0,0.0,6.21
+Mengesha2014-Ethiopia-Ayder-2012-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Gram-positive bacteria (aggregate) / vancomycin: 0/58 (0.0%),,,,,,0.0,58.0,0.0,0.0,6.21
+Mengesha2014-Ethiopia-Ayder-2012-1,amr_prevalence,specimen_site,AMR prevalence for Gram-positive bacteria (aggregate) / vancomycin: 0/58 (0.0%),,,,,,0.0,58.0,0.0,0.0,6.21
+Misha2021-Ethiopia-JimmaMedicalCenter-2019-01,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / penicillin: 3/5 (60.0%),,,,,,3.0,5.0,60.0,23.07,88.24
+Misha2021-Ethiopia-JimmaMedicalCenter-2019-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / penicillin: 3/5 (60.0%),,,,,,3.0,5.0,60.0,23.07,88.24
+Misha2021-Ethiopia-JimmaMedicalCenter-2019-01,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / penicillin: 3/5 (60.0%),,,,,,3.0,5.0,60.0,23.07,88.24
+Misha2021-Ethiopia-JimmaMedicalCenter-2019-01,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / erythromycin: 4/5 (80.0%),,,,,,4.0,5.0,80.0,37.55,96.38
+Misha2021-Ethiopia-JimmaMedicalCenter-2019-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / erythromycin: 4/5 (80.0%),,,,,,4.0,5.0,80.0,37.55,96.38
+Misha2021-Ethiopia-JimmaMedicalCenter-2019-01,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / erythromycin: 4/5 (80.0%),,,,,,4.0,5.0,80.0,37.55,96.38
+Misha2021-Ethiopia-JimmaMedicalCenter-2019-01,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / clindamycin: 4/5 (80.0%),,,,,,4.0,5.0,80.0,37.55,96.38
+Misha2021-Ethiopia-JimmaMedicalCenter-2019-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / clindamycin: 4/5 (80.0%),,,,,,4.0,5.0,80.0,37.55,96.38
+Misha2021-Ethiopia-JimmaMedicalCenter-2019-01,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / clindamycin: 4/5 (80.0%),,,,,,4.0,5.0,80.0,37.55,96.38
+Misha2021-Ethiopia-JimmaMedicalCenter-2019-01,amr_prevalence,pathogen_specific,AMR prevalence for Escherichia coli / meropenem: 0/9 (0.0%),,,,,,0.0,9.0,0.0,0.0,29.92
+Misha2021-Ethiopia-JimmaMedicalCenter-2019-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Escherichia coli / meropenem: 0/9 (0.0%),,,,,,0.0,9.0,0.0,0.0,29.92
+Misha2021-Ethiopia-JimmaMedicalCenter-2019-01,amr_prevalence,specimen_site,AMR prevalence for Escherichia coli / meropenem: 0/9 (0.0%),,,,,,0.0,9.0,0.0,0.0,29.92
+Misha2021-Ethiopia-JimmaMedicalCenter-2019-01,amr_prevalence,pathogen_specific,AMR prevalence for Pseudomonas aeruginosa / ceftriaxone: 8/8 (100.0%),,,,,,8.0,8.0,100.0,67.56,100.0
+Misha2021-Ethiopia-JimmaMedicalCenter-2019-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Pseudomonas aeruginosa / ceftriaxone: 8/8 (100.0%),,,,,,8.0,8.0,100.0,67.56,100.0
+Misha2021-Ethiopia-JimmaMedicalCenter-2019-01,amr_prevalence,specimen_site,AMR prevalence for Pseudomonas aeruginosa / ceftriaxone: 8/8 (100.0%),,,,,,8.0,8.0,100.0,67.56,100.0
+Misha2021-Ethiopia-JimmaMedicalCenter-2019-01,amr_prevalence,pathogen_specific,AMR prevalence for Proteus spp. / ceftriaxone: 6/6 (100.0%),,,,,,6.0,6.0,100.0,60.97,100.0
+Misha2021-Ethiopia-JimmaMedicalCenter-2019-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Proteus spp. / ceftriaxone: 6/6 (100.0%),,,,,,6.0,6.0,100.0,60.97,100.0
+Misha2021-Ethiopia-JimmaMedicalCenter-2019-01,amr_prevalence,specimen_site,AMR prevalence for Proteus spp. / ceftriaxone: 6/6 (100.0%),,,,,,6.0,6.0,100.0,60.97,100.0
+DeNardo2016-Tanzania-Dodoma-2013-1,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / oxacillin: 34/43 (79.07%),,,,,,34.0,43.0,79.07,64.79,88.58
+DeNardo2016-Tanzania-Dodoma-2013-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / oxacillin: 34/43 (79.07%),,,,,,34.0,43.0,79.07,64.79,88.58
+DeNardo2016-Tanzania-Dodoma-2013-1,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / oxacillin: 34/43 (79.07%),,,,,,34.0,43.0,79.07,64.79,88.58
+Odoko2024-Ethiopia-SodoHospitals-2022-01,amr_prevalence,pathogen_specific,AMR prevalence for Escherichia coli / cefepime: 26/29 (89.66%),,,,,,26.0,29.0,89.66,73.61,96.42
+Odoko2024-Ethiopia-SodoHospitals-2022-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Escherichia coli / cefepime: 26/29 (89.66%),,,,,,26.0,29.0,89.66,73.61,96.42
+Odoko2024-Ethiopia-SodoHospitals-2022-01,amr_prevalence,mdr_xdr_pandr,AMR prevalence for Escherichia coli / cefepime: 26/29 (89.66%),,,,,,26.0,29.0,89.66,73.61,96.42
+Odoko2024-Ethiopia-SodoHospitals-2022-01,amr_prevalence,specimen_site,AMR prevalence for Escherichia coli / cefepime: 26/29 (89.66%),,,,,,26.0,29.0,89.66,73.61,96.42
+Odoko2024-Ethiopia-SodoHospitals-2022-01,amr_prevalence,pathogen_specific,AMR prevalence for Klebsiella pneumoniae / cefepime: 14/14 (100.0%),,,,,,14.0,14.0,100.0,78.47,100.0
+Odoko2024-Ethiopia-SodoHospitals-2022-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Klebsiella pneumoniae / cefepime: 14/14 (100.0%),,,,,,14.0,14.0,100.0,78.47,100.0
+Odoko2024-Ethiopia-SodoHospitals-2022-01,amr_prevalence,mdr_xdr_pandr,AMR prevalence for Klebsiella pneumoniae / cefepime: 14/14 (100.0%),,,,,,14.0,14.0,100.0,78.47,100.0
+Odoko2024-Ethiopia-SodoHospitals-2022-01,amr_prevalence,specimen_site,AMR prevalence for Klebsiella pneumoniae / cefepime: 14/14 (100.0%),,,,,,14.0,14.0,100.0,78.47,100.0
+Odoko2024-Ethiopia-SodoHospitals-2022-01,amr_prevalence,pathogen_specific,AMR prevalence for Escherichia coli / meropenem: 4/29 (13.79%),,,,,,4.0,29.0,13.79,5.5,30.56
+Odoko2024-Ethiopia-SodoHospitals-2022-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Escherichia coli / meropenem: 4/29 (13.79%),,,,,,4.0,29.0,13.79,5.5,30.56
+Odoko2024-Ethiopia-SodoHospitals-2022-01,amr_prevalence,mdr_xdr_pandr,AMR prevalence for Escherichia coli / meropenem: 4/29 (13.79%),,,,,,4.0,29.0,13.79,5.5,30.56
+Odoko2024-Ethiopia-SodoHospitals-2022-01,amr_prevalence,specimen_site,AMR prevalence for Escherichia coli / meropenem: 4/29 (13.79%),,,,,,4.0,29.0,13.79,5.5,30.56
+Odoko2024-Ethiopia-SodoHospitals-2022-01,amr_prevalence,pathogen_specific,AMR prevalence for Klebsiella pneumoniae / meropenem: 9/14 (64.29%),,,,,,9.0,14.0,64.29,38.76,83.66
+Odoko2024-Ethiopia-SodoHospitals-2022-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Klebsiella pneumoniae / meropenem: 9/14 (64.29%),,,,,,9.0,14.0,64.29,38.76,83.66
+Odoko2024-Ethiopia-SodoHospitals-2022-01,amr_prevalence,mdr_xdr_pandr,AMR prevalence for Klebsiella pneumoniae / meropenem: 9/14 (64.29%),,,,,,9.0,14.0,64.29,38.76,83.66
+Odoko2024-Ethiopia-SodoHospitals-2022-01,amr_prevalence,specimen_site,AMR prevalence for Klebsiella pneumoniae / meropenem: 9/14 (64.29%),,,,,,9.0,14.0,64.29,38.76,83.66
+Ojulong2009-Uganda-Mulago-2007-01,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / ciprofloxacin: 12/17 (70.59%),,,,,,12.0,17.0,70.59,46.87,86.72
+Ojulong2009-Uganda-Mulago-2007-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / ciprofloxacin: 12/17 (70.59%),,,,,,12.0,17.0,70.59,46.87,86.72
+Ojulong2009-Uganda-Mulago-2007-01,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / ciprofloxacin: 12/17 (70.59%),,,,,,12.0,17.0,70.59,46.87,86.72
+Ojulong2009-Uganda-Mulago-2007-01,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / vancomycin: 0/17 (0.0%),,,,,,0.0,17.0,0.0,0.0,18.43
+Ojulong2009-Uganda-Mulago-2007-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / vancomycin: 0/17 (0.0%),,,,,,0.0,17.0,0.0,0.0,18.43
+Ojulong2009-Uganda-Mulago-2007-01,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / vancomycin: 0/17 (0.0%),,,,,,0.0,17.0,0.0,0.0,18.43
+Ojulong2009-Uganda-Mulago-2007-01,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / clindamycin: 0/17 (0.0%),,,,,,0.0,17.0,0.0,0.0,18.43
+Ojulong2009-Uganda-Mulago-2007-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / clindamycin: 0/17 (0.0%),,,,,,0.0,17.0,0.0,0.0,18.43
+Ojulong2009-Uganda-Mulago-2007-01,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / clindamycin: 0/17 (0.0%),,,,,,0.0,17.0,0.0,0.0,18.43
+Ojulong2009-Uganda-Mulago-2007-01,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / gentamicin: 10/17 (58.82%),,,,,,10.0,17.0,58.82,36.01,78.39
+Ojulong2009-Uganda-Mulago-2007-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / gentamicin: 10/17 (58.82%),,,,,,10.0,17.0,58.82,36.01,78.39
+Ojulong2009-Uganda-Mulago-2007-01,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / gentamicin: 10/17 (58.82%),,,,,,10.0,17.0,58.82,36.01,78.39
+Ojulong2009-Uganda-Mulago-2007-01,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / co-trimoxazole: 15/17 (88.24%),,,,,,15.0,17.0,88.24,65.66,96.71
+Ojulong2009-Uganda-Mulago-2007-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / co-trimoxazole: 15/17 (88.24%),,,,,,15.0,17.0,88.24,65.66,96.71
+Ojulong2009-Uganda-Mulago-2007-01,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / co-trimoxazole: 15/17 (88.24%),,,,,,15.0,17.0,88.24,65.66,96.71
+Ojulong2009-Uganda-Mulago-2007-01,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / chloramphenicol: 15/17 (88.24%),,,,,,15.0,17.0,88.24,65.66,96.71
+Ojulong2009-Uganda-Mulago-2007-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / chloramphenicol: 15/17 (88.24%),,,,,,15.0,17.0,88.24,65.66,96.71
+Ojulong2009-Uganda-Mulago-2007-01,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / chloramphenicol: 15/17 (88.24%),,,,,,15.0,17.0,88.24,65.66,96.71
+Ojulong2009-Uganda-Mulago-2007-01,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / erythromycin: 15/17 (88.24%),,,,,,15.0,17.0,88.24,65.66,96.71
+Ojulong2009-Uganda-Mulago-2007-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / erythromycin: 15/17 (88.24%),,,,,,15.0,17.0,88.24,65.66,96.71
+Ojulong2009-Uganda-Mulago-2007-01,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / erythromycin: 15/17 (88.24%),,,,,,15.0,17.0,88.24,65.66,96.71
+Ojulong2009-Uganda-Mulago-2007-01,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / oxacillin: 17/54 (31.48%),,,,,,17.0,54.0,31.48,20.68,44.74
+Ojulong2009-Uganda-Mulago-2007-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / oxacillin: 17/54 (31.48%),,,,,,17.0,54.0,31.48,20.68,44.74
+Ojulong2009-Uganda-Mulago-2007-01,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / oxacillin: 17/54 (31.48%),,,,,,17.0,54.0,31.48,20.68,44.74
+Scherbaum2014-Gabon-Lambarene-2009-01,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / cloxacillin: 0/14 (0.0%),,,,,,0.0,14.0,0.0,0.0,21.53
+Scherbaum2014-Gabon-Lambarene-2009-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / cloxacillin: 0/14 (0.0%),,,,,,0.0,14.0,0.0,0.0,21.53
+Scherbaum2014-Gabon-Lambarene-2009-01,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / cloxacillin: 0/14 (0.0%),,,,,,0.0,14.0,0.0,0.0,21.53
+Scherbaum2014-Gabon-Lambarene-2009-01,amr_prevalence,pathogen_specific,AMR prevalence for Escherichia coli / ampicillin: 13/14 (92.86%),,,,,,13.0,14.0,92.86,68.53,98.73
+Scherbaum2014-Gabon-Lambarene-2009-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Escherichia coli / ampicillin: 13/14 (92.86%),,,,,,13.0,14.0,92.86,68.53,98.73
+Scherbaum2014-Gabon-Lambarene-2009-01,amr_prevalence,mdr_xdr_pandr,AMR prevalence for Escherichia coli / ampicillin: 13/14 (92.86%),,,,,,13.0,14.0,92.86,68.53,98.73
+Scherbaum2014-Gabon-Lambarene-2009-01,amr_prevalence,specimen_site,AMR prevalence for Escherichia coli / ampicillin: 13/14 (92.86%),,,,,,13.0,14.0,92.86,68.53,98.73
+Scherbaum2014-Gabon-Lambarene-2009-01,amr_prevalence,pathogen_specific,AMR prevalence for Escherichia coli / ceftriaxone: 5/14 (35.71%),,,,,,5.0,14.0,35.71,16.34,61.24
+Scherbaum2014-Gabon-Lambarene-2009-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Escherichia coli / ceftriaxone: 5/14 (35.71%),,,,,,5.0,14.0,35.71,16.34,61.24
+Scherbaum2014-Gabon-Lambarene-2009-01,amr_prevalence,mdr_xdr_pandr,AMR prevalence for Escherichia coli / ceftriaxone: 5/14 (35.71%),,,,,,5.0,14.0,35.71,16.34,61.24
+Scherbaum2014-Gabon-Lambarene-2009-01,amr_prevalence,specimen_site,AMR prevalence for Escherichia coli / ceftriaxone: 5/14 (35.71%),,,,,,5.0,14.0,35.71,16.34,61.24
+Scherbaum2014-Gabon-Lambarene-2009-01,amr_prevalence,pathogen_specific,AMR prevalence for Klebsiella pneumoniae / ceftriaxone: 3/6 (50.0%),,,,,,3.0,6.0,50.0,18.76,81.24
+Scherbaum2014-Gabon-Lambarene-2009-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Klebsiella pneumoniae / ceftriaxone: 3/6 (50.0%),,,,,,3.0,6.0,50.0,18.76,81.24
+Scherbaum2014-Gabon-Lambarene-2009-01,amr_prevalence,mdr_xdr_pandr,AMR prevalence for Klebsiella pneumoniae / ceftriaxone: 3/6 (50.0%),,,,,,3.0,6.0,50.0,18.76,81.24
+Scherbaum2014-Gabon-Lambarene-2009-01,amr_prevalence,specimen_site,AMR prevalence for Klebsiella pneumoniae / ceftriaxone: 3/6 (50.0%),,,,,,3.0,6.0,50.0,18.76,81.24
+Velin2021-Rwanda-KireheDistrictHospital-2019_2020-01,amr_prevalence,pathogen_specific,AMR prevalence for Escherichia coli / ceftriaxone: 3/3 (100.0%),,,,,,3.0,3.0,100.0,43.85,100.0
+Velin2021-Rwanda-KireheDistrictHospital-2019_2020-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Escherichia coli / ceftriaxone: 3/3 (100.0%),,,,,,3.0,3.0,100.0,43.85,100.0
+Velin2021-Rwanda-KireheDistrictHospital-2019_2020-01,amr_prevalence,specimen_site,AMR prevalence for Escherichia coli / ceftriaxone: 3/3 (100.0%),,,,,,3.0,3.0,100.0,43.85,100.0
+Velin2021-Rwanda-KireheDistrictHospital-2019_2020-01,amr_prevalence,pathogen_specific,AMR prevalence for Klebsiella pneumoniae / ceftriaxone: 8/8 (100.0%),,,,,,8.0,8.0,100.0,67.56,100.0
+Velin2021-Rwanda-KireheDistrictHospital-2019_2020-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Klebsiella pneumoniae / ceftriaxone: 8/8 (100.0%),,,,,,8.0,8.0,100.0,67.56,100.0
+Velin2021-Rwanda-KireheDistrictHospital-2019_2020-01,amr_prevalence,specimen_site,AMR prevalence for Klebsiella pneumoniae / ceftriaxone: 8/8 (100.0%),,,,,,8.0,8.0,100.0,67.56,100.0
+Velin2021-Rwanda-KireheDistrictHospital-2019_2020-01,amr_prevalence,pathogen_specific,AMR prevalence for Proteus spp. / ceftriaxone: 7/8 (87.5%),,,,,,7.0,8.0,87.5,52.91,97.76
+Velin2021-Rwanda-KireheDistrictHospital-2019_2020-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Proteus spp. / ceftriaxone: 7/8 (87.5%),,,,,,7.0,8.0,87.5,52.91,97.76
+Velin2021-Rwanda-KireheDistrictHospital-2019_2020-01,amr_prevalence,specimen_site,AMR prevalence for Proteus spp. / ceftriaxone: 7/8 (87.5%),,,,,,7.0,8.0,87.5,52.91,97.76
+Velin2021-Rwanda-KireheDistrictHospital-2019_2020-01,amr_prevalence,pathogen_specific,AMR prevalence for Enterobacter cloacae complex / ceftriaxone: 8/8 (100.0%),,,,,,8.0,8.0,100.0,67.56,100.0
+Velin2021-Rwanda-KireheDistrictHospital-2019_2020-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Enterobacter cloacae complex / ceftriaxone: 8/8 (100.0%),,,,,,8.0,8.0,100.0,67.56,100.0
+Velin2021-Rwanda-KireheDistrictHospital-2019_2020-01,amr_prevalence,specimen_site,AMR prevalence for Enterobacter cloacae complex / ceftriaxone: 8/8 (100.0%),,,,,,8.0,8.0,100.0,67.56,100.0
+Velin2021-Rwanda-KireheDistrictHospital-2019_2020-01,amr_prevalence,pathogen_specific,AMR prevalence for Acinetobacter baumannii complex / ceftriaxone: 9/9 (100.0%),,,,,,9.0,9.0,100.0,70.08,100.0
+Velin2021-Rwanda-KireheDistrictHospital-2019_2020-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Acinetobacter baumannii complex / ceftriaxone: 9/9 (100.0%),,,,,,9.0,9.0,100.0,70.08,100.0
+Velin2021-Rwanda-KireheDistrictHospital-2019_2020-01,amr_prevalence,specimen_site,AMR prevalence for Acinetobacter baumannii complex / ceftriaxone: 9/9 (100.0%),,,,,,9.0,9.0,100.0,70.08,100.0
+Velin2021-Rwanda-KireheDistrictHospital-2019_2020-01,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / cefoxitin: 2/2 (100.0%),,,,,,2.0,2.0,100.0,34.24,100.0
+Velin2021-Rwanda-KireheDistrictHospital-2019_2020-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / cefoxitin: 2/2 (100.0%),,,,,,2.0,2.0,100.0,34.24,100.0
+Velin2021-Rwanda-KireheDistrictHospital-2019_2020-01,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / cefoxitin: 2/2 (100.0%),,,,,,2.0,2.0,100.0,34.24,100.0
+Wekesa2020-Uganda-MulagoHospital-201711201804-01,amr_prevalence,pathogen_specific,AMR prevalence for Klebsiella species / ceftriaxone: 43/44 (97.73%),,,,,,43.0,44.0,97.73,88.19,99.6
+Wekesa2020-Uganda-MulagoHospital-201711201804-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Klebsiella species / ceftriaxone: 43/44 (97.73%),,,,,,43.0,44.0,97.73,88.19,99.6
+Wekesa2020-Uganda-MulagoHospital-201711201804-01,amr_prevalence,specimen_site,AMR prevalence for Klebsiella species / ceftriaxone: 43/44 (97.73%),,,,,,43.0,44.0,97.73,88.19,99.6
+Wekesa2020-Uganda-MulagoHospital-201711201804-01,amr_prevalence,pathogen_specific,AMR prevalence for Klebsiella species / ceftazidime: 40/44 (90.91%),,,,,,40.0,44.0,90.91,78.84,96.41
+Wekesa2020-Uganda-MulagoHospital-201711201804-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Klebsiella species / ceftazidime: 40/44 (90.91%),,,,,,40.0,44.0,90.91,78.84,96.41
+Wekesa2020-Uganda-MulagoHospital-201711201804-01,amr_prevalence,specimen_site,AMR prevalence for Klebsiella species / ceftazidime: 40/44 (90.91%),,,,,,40.0,44.0,90.91,78.84,96.41
+Wekesa2020-Uganda-MulagoHospital-201711201804-01,amr_prevalence,pathogen_specific,AMR prevalence for Escherichia coli / ceftriaxone: 11/11 (100.0%),,,,,,11.0,11.0,100.0,74.12,100.0
+Wekesa2020-Uganda-MulagoHospital-201711201804-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Escherichia coli / ceftriaxone: 11/11 (100.0%),,,,,,11.0,11.0,100.0,74.12,100.0
+Wekesa2020-Uganda-MulagoHospital-201711201804-01,amr_prevalence,specimen_site,AMR prevalence for Escherichia coli / ceftriaxone: 11/11 (100.0%),,,,,,11.0,11.0,100.0,74.12,100.0
+Wekesa2020-Uganda-MulagoHospital-201711201804-01,amr_prevalence,pathogen_specific,AMR prevalence for Escherichia coli / ceftazidime: 11/11 (100.0%),,,,,,11.0,11.0,100.0,74.12,100.0
+Wekesa2020-Uganda-MulagoHospital-201711201804-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Escherichia coli / ceftazidime: 11/11 (100.0%),,,,,,11.0,11.0,100.0,74.12,100.0
+Wekesa2020-Uganda-MulagoHospital-201711201804-01,amr_prevalence,specimen_site,AMR prevalence for Escherichia coli / ceftazidime: 11/11 (100.0%),,,,,,11.0,11.0,100.0,74.12,100.0
+Wekesa2020-Uganda-MulagoHospital-201711201804-01,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / methicillin: 31/34 (91.18%),,,,,,31.0,34.0,91.18,77.04,96.95
+Wekesa2020-Uganda-MulagoHospital-201711201804-01,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / methicillin: 31/34 (91.18%),,,,,,31.0,34.0,91.18,77.04,96.95
+Wekesa2020-Uganda-MulagoHospital-201711201804-01,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / methicillin: 31/34 (91.18%),,,,,,31.0,34.0,91.18,77.04,96.95
+Worku2024-Ethiopia-Multicenter-2020-2021-1,amr_prevalence,pathogen_specific,AMR prevalence for Acinetobacter baumannii / ceftriaxone: 41/43 (95.35%),,,,,,41.0,43.0,95.35,84.54,98.72
+Worku2024-Ethiopia-Multicenter-2020-2021-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Acinetobacter baumannii / ceftriaxone: 41/43 (95.35%),,,,,,41.0,43.0,95.35,84.54,98.72
+Worku2024-Ethiopia-Multicenter-2020-2021-1,amr_prevalence,specimen_site,AMR prevalence for Acinetobacter baumannii / ceftriaxone: 41/43 (95.35%),,,,,,41.0,43.0,95.35,84.54,98.72
+Worku2024-Ethiopia-Multicenter-2020-2021-1,amr_prevalence,pathogen_specific,AMR prevalence for Acinetobacter baumannii / ceftazidime: 41/43 (95.35%),,,,,,41.0,43.0,95.35,84.54,98.72
+Worku2024-Ethiopia-Multicenter-2020-2021-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Acinetobacter baumannii / ceftazidime: 41/43 (95.35%),,,,,,41.0,43.0,95.35,84.54,98.72
+Worku2024-Ethiopia-Multicenter-2020-2021-1,amr_prevalence,specimen_site,AMR prevalence for Acinetobacter baumannii / ceftazidime: 41/43 (95.35%),,,,,,41.0,43.0,95.35,84.54,98.72
+Worku2024-Ethiopia-Multicenter-2020-2021-1,amr_prevalence,pathogen_specific,AMR prevalence for Acinetobacter baumannii / imipenem: 37/43 (86.05%),,,,,,37.0,43.0,86.05,72.74,93.44
+Worku2024-Ethiopia-Multicenter-2020-2021-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Acinetobacter baumannii / imipenem: 37/43 (86.05%),,,,,,37.0,43.0,86.05,72.74,93.44
+Worku2024-Ethiopia-Multicenter-2020-2021-1,amr_prevalence,specimen_site,AMR prevalence for Acinetobacter baumannii / imipenem: 37/43 (86.05%),,,,,,37.0,43.0,86.05,72.74,93.44
+Worku2023-Ethiopia-Multicentre-2020-2021-1,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / penicillin: 138/153 (90.2%),,,,,,138.0,153.0,90.2,84.45,93.97
+Worku2023-Ethiopia-Multicentre-2020-2021-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / penicillin: 138/153 (90.2%),,,,,,138.0,153.0,90.2,84.45,93.97
+Worku2023-Ethiopia-Multicentre-2020-2021-1,amr_prevalence,mdr_xdr_pandr,AMR prevalence for Staphylococcus aureus / penicillin: 138/153 (90.2%),,,,,,138.0,153.0,90.2,84.45,93.97
+Worku2023-Ethiopia-Multicentre-2020-2021-1,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / penicillin: 138/153 (90.2%),,,,,,138.0,153.0,90.2,84.45,93.97
+Worku2023-Ethiopia-Multicentre-2020-2021-1,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / ampicillin: 117/153 (76.47%),,,,,,117.0,153.0,76.47,69.15,82.49
+Worku2023-Ethiopia-Multicentre-2020-2021-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / ampicillin: 117/153 (76.47%),,,,,,117.0,153.0,76.47,69.15,82.49
+Worku2023-Ethiopia-Multicentre-2020-2021-1,amr_prevalence,mdr_xdr_pandr,AMR prevalence for Staphylococcus aureus / ampicillin: 117/153 (76.47%),,,,,,117.0,153.0,76.47,69.15,82.49
+Worku2023-Ethiopia-Multicentre-2020-2021-1,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / ampicillin: 117/153 (76.47%),,,,,,117.0,153.0,76.47,69.15,82.49
+Worku2023-Ethiopia-Multicentre-2020-2021-1,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / vancomycin: 0/153 (0.0%),,,,,,0.0,153.0,0.0,0.0,2.45
+Worku2023-Ethiopia-Multicentre-2020-2021-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / vancomycin: 0/153 (0.0%),,,,,,0.0,153.0,0.0,0.0,2.45
+Worku2023-Ethiopia-Multicentre-2020-2021-1,amr_prevalence,mdr_xdr_pandr,AMR prevalence for Staphylococcus aureus / vancomycin: 0/153 (0.0%),,,,,,0.0,153.0,0.0,0.0,2.45
+Worku2023-Ethiopia-Multicentre-2020-2021-1,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / vancomycin: 0/153 (0.0%),,,,,,0.0,153.0,0.0,0.0,2.45
+Worku2023-Ethiopia-Multicentre-2020-2021-1,amr_prevalence,pathogen_specific,AMR prevalence for Escherichia coli / ampicillin: 96/102 (94.12%),,,,,,96.0,102.0,94.12,87.76,97.28
+Worku2023-Ethiopia-Multicentre-2020-2021-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Escherichia coli / ampicillin: 96/102 (94.12%),,,,,,96.0,102.0,94.12,87.76,97.28
+Worku2023-Ethiopia-Multicentre-2020-2021-1,amr_prevalence,mdr_xdr_pandr,AMR prevalence for Escherichia coli / ampicillin: 96/102 (94.12%),,,,,,96.0,102.0,94.12,87.76,97.28
+Worku2023-Ethiopia-Multicentre-2020-2021-1,amr_prevalence,specimen_site,AMR prevalence for Escherichia coli / ampicillin: 96/102 (94.12%),,,,,,96.0,102.0,94.12,87.76,97.28
+Worku2023-Ethiopia-Multicentre-2020-2021-1,amr_prevalence,pathogen_specific,AMR prevalence for Escherichia coli / ceftriaxone: 101/102 (99.02%),,,,,,101.0,102.0,99.02,94.65,99.83
+Worku2023-Ethiopia-Multicentre-2020-2021-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Escherichia coli / ceftriaxone: 101/102 (99.02%),,,,,,101.0,102.0,99.02,94.65,99.83
+Worku2023-Ethiopia-Multicentre-2020-2021-1,amr_prevalence,mdr_xdr_pandr,AMR prevalence for Escherichia coli / ceftriaxone: 101/102 (99.02%),,,,,,101.0,102.0,99.02,94.65,99.83
+Worku2023-Ethiopia-Multicentre-2020-2021-1,amr_prevalence,specimen_site,AMR prevalence for Escherichia coli / ceftriaxone: 101/102 (99.02%),,,,,,101.0,102.0,99.02,94.65,99.83
+Worku2023-Ethiopia-Multicentre-2020-2021-1,amr_prevalence,pathogen_specific,AMR prevalence for Escherichia coli / imipenem: 12/102 (11.76%),,,,,,12.0,102.0,11.76,6.86,19.45
+Worku2023-Ethiopia-Multicentre-2020-2021-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Escherichia coli / imipenem: 12/102 (11.76%),,,,,,12.0,102.0,11.76,6.86,19.45
+Worku2023-Ethiopia-Multicentre-2020-2021-1,amr_prevalence,mdr_xdr_pandr,AMR prevalence for Escherichia coli / imipenem: 12/102 (11.76%),,,,,,12.0,102.0,11.76,6.86,19.45
+Worku2023-Ethiopia-Multicentre-2020-2021-1,amr_prevalence,specimen_site,AMR prevalence for Escherichia coli / imipenem: 12/102 (11.76%),,,,,,12.0,102.0,11.76,6.86,19.45
+Worku2023-Ethiopia-FourHospitals-2020-2021-1,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / cefoxitin: 40/163 (24.54%),,,,,,40.0,163.0,24.54,18.57,31.68
+Worku2023-Ethiopia-FourHospitals-2020-2021-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / cefoxitin: 40/163 (24.54%),,,,,,40.0,163.0,24.54,18.57,31.68
+Worku2023-Ethiopia-FourHospitals-2020-2021-1,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / cefoxitin: 40/163 (24.54%),,,,,,40.0,163.0,24.54,18.57,31.68
+Worku2023-Ethiopia-FourHospitals-2020-2021-1,amr_prevalence,pathogen_specific,AMR prevalence for Staphylococcus aureus / vancomycin: 1/40 (2.5%),,,,,,1.0,40.0,2.5,0.44,12.88
+Worku2023-Ethiopia-FourHospitals-2020-2021-1,amr_prevalence,antibiotic_class_trends,AMR prevalence for Staphylococcus aureus / vancomycin: 1/40 (2.5%),,,,,,1.0,40.0,2.5,0.44,12.88
+Worku2023-Ethiopia-FourHospitals-2020-2021-1,amr_prevalence,specimen_site,AMR prevalence for Staphylococcus aureus / vancomycin: 1/40 (2.5%),,,,,,1.0,40.0,2.5,0.44,12.88
+Varghese2024-Multicountry-FALCON-2018-2020-01,outcomes_clinical,mortality,Mortality: 29/1161 (2.5%),,,,,,29.0,1161.0,2.5,1.74,3.56
+Jung2023-Uganda-Mulago-2021Q4_2022Q1-01,outcomes_clinical,mortality,Mortality: 1/124 (0.81%),,,,,,1.0,124.0,0.81,0.14,4.43
+Mukagendaneza2019-Rwanda-KigaliCHUK-2017_2018-01,outcomes_clinical,mortality,Mortality: 3/294 (1.02%),,,,,,3.0,294.0,1.02,0.35,2.96
+Scherbaum2014-Gabon-Lambarene-2009-01,outcomes_clinical,mortality,Mortality: 4/36 (11.11%),,,,,,4.0,36.0,11.11,4.41,25.32
+Varghese2024-Multicountry-FALCON-2018-2020-01,outcomes_clinical,readmissions,Readmissions: 136/1137 in 30 days (11.96%),,,,,,136.0,1137.0,11.96,10.2,13.98
+Kachipedzu2024-Malawi-QECH-2023-1,outcomes_clinical,readmissions,Readmissions: 12/20 in 30 days (60.0%),,,,,,12.0,20.0,60.0,38.66,78.12
+Ali2023-Ethiopia-DessieHospital-2016-01,outcomes_clinical,prolonged_los,Length of stay: 35.25 days,,,,,,,,,,
+Gentilotti2020-Tanzania-Dodoma-2013-2015-1,outcomes_clinical,prolonged_los,Length of stay: 2.0 days,,,,,,,,,,
+Kefale2020-Ethiopia-FinoteSelam-2019-2020-1,outcomes_clinical,prolonged_los,Length of stay: nan days,,,,,,,,,,
+Jung2023-Uganda-Mulago-2021Q4_2022Q1-01,outcomes_clinical,prolonged_los,Length of stay: nan days,,,,,,,,,,
+Mukagendaneza2019-Rwanda-KigaliCHUK-2017_2018-01,outcomes_clinical,prolonged_los,Length of stay: nan days,,,,,,,,,,
+DeNardo2016-Tanzania-Dodoma-2013-1,outcomes_clinical,prolonged_los,Length of stay: 2.0 days,,,,,,,,,,
+Odoko2024-Ethiopia-SodoHospitals-2022-01,outcomes_clinical,prolonged_los,Length of stay: nan days,,,,,,,,,,
+Scherbaum2014-Gabon-Lambarene-2009-01,outcomes_clinical,prolonged_los,Length of stay: 4.4 days,,,,,,,,,,
+Scherbaum2014-Gabon-Lambarene-2009-01,outcomes_clinical,prolonged_los,Length of stay: nan days,,,,,,,,,,
+Gentilotti2020-Tanzania-Dodoma-2013-2015-1,economic_impact,direct_costs,Costs (direct_medical): 1500.0 EUR,,,,,,,,,,
+Gentilotti2020-Tanzania-Dodoma-2013-2015-1,economic_impact,direct_costs,Costs (direct_medical): 3.0 EUR,,,,,,,,,,

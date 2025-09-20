@@ -1,0 +1,330 @@
+{
+  "study": {
+    "study_id": "Ojulong2009-Uganda-Mulago-2007-01",
+    "title": "Prevalence of methicillin resistant staphylococcus aureus (MRSA) among isolates from surgical site infections in Mulago hospital-Kampala, Uganda",
+    "authors": [
+      "Julius Ojulong",
+      "Tom Philip Mwambu",
+      "Moses Jolobo",
+      "Ezra Agwu",
+      "Freddie Bwanga",
+      "Christine Najjuka",
+      "D.H. Kaddu-Mulindwa"
+    ],
+    "journal": "The Internet Journal of Infectious Diseases",
+    "year_publication": 2009,
+    "country_list": [
+      "Uganda"
+    ],
+    "country_iso3": "UGA",
+    "region_classification": "ECSA",
+    "surgical_specialty": [
+      "general"
+    ],
+    "language": "English",
+    "data_source_type": "published_full_text",
+    "ownership_type": "public"
+  },
+  "design": {
+    "study_design": "cross_sectional",
+    "randomized": false,
+    "prospective": false,
+    "single_center": true,
+    "multi_center": false,
+    "inclusion_criteria_text": "All patients (n = 188) who underwent elective and emergency surgery during the study period and developed SSI after surgery as defined by Centers for Disease Control and Prevention criteria.",
+    "sample_frame": "patients",
+    "unit_of_analysis": "patient",
+    "duplicate_publication_likelihood": false
+  },
+  "setting": {
+    "facility_level": "tertiary",
+    "urban_rural": "urban",
+    "care_setting": "hospital",
+    "country_specific_sites": [
+      "Mulago National Referral Hospital, Kampala"
+    ]
+  },
+  "eligibility": {
+    "population": "Patients who underwent elective and emergency surgery and developed surgical site infection (SSI) as defined by CDC criteria.",
+    "classification": "mixed",
+    "outcomes_reported": [
+      "amr_prevalence"
+    ],
+    "timeframe_years": "February to May 2007",
+    "setting_types": [
+      "hospital",
+      "surgical_unit"
+    ],
+    "included_designs": [
+      "cross_sectional"
+    ],
+    "excluded_designs": []
+  },
+  "timeframe": {
+    "data_collection_start_year": 2007,
+    "data_collection_start_month": 2,
+    "data_collection_end_year": 2007,
+    "data_collection_end_month": 5
+  },
+  "populations": [
+    {
+      "arm_id": "overall",
+      "description": "All patients with SSI after elective and emergency surgery at Mulago Hospital during study period",
+      "n_participants": 188,
+      "age_group": "mixed",
+      "elective_emergency": "mixed",
+      "wound_class": "unspecified",
+      "surgical_specialties": [
+        "general"
+      ],
+      "provenance": {
+        "page": 6,
+        "section_heading": "Materials And Methods",
+        "text_snippet": "All patients (n = 188) who underwent elective and emergency surgery during the study period were enrolled."
+      }
+    }
+  ],
+  "definitions": {
+    "ssi_definition_standard": [
+      "CDC_NHSN"
+    ],
+    "amr_definition_standard": [
+      "CLSI"
+    ],
+    "breakpoint_version": "NCCLS 2003",
+    "resistance_definition_text": "MRSA defined by oxacillin agar screen and confirmed by PCR detection of mecA gene.",
+    "outcome_definitions_text": "MRSA prevalence among S. aureus isolates from SSI.",
+    "specimen_type": [
+      "wound_swab"
+    ]
+  },
+  "lab_methods": {
+    "specimen_collection_method": "Sterile dry cotton swabs with Amies transport media collected from active part of infected surgical wounds or pus discharge.",
+    "culture_method": "Swabs inoculated on phenol red mannitol salt agar, incubated at 37°C for 24 hrs; S. aureus identified by colony morphology, Gram stain, catalase, DNase, coagulase tests, and sub-cultured on 5% blood agar.",
+    "AST_method": [
+      "disk_diffusion",
+      "other"
+    ],
+    "QC_measures": "S. aureus ATCC 29213 (oxacillin susceptible) and ATCC 43300 (oxacillin resistant) used as control strains for both oxacillin agar screen and PCR.",
+    "organism_identification_method": "Biochemical tests (colony morphology, Gram stain, catalase, DNase, coagulase), PCR for mecA gene."
+  },
+  "outcomes": {
+    "ssi_incidence": [],
+    "amr_proportions": [
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "oxacillin",
+        "who_class": "critically_important",
+        "n_tested": 54,
+        "n_resistant": 17,
+        "n_susceptible": 37,
+        "ast_method": "oxacillin agar screen, PCR for mecA",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "NCCLS 2003",
+        "specimen_type": "wound_swab",
+        "site": "surgical site/wound",
+        "data_period": {
+          "start_year": 2007,
+          "end_year": 2007
+        },
+        "mrsa_detection_method": "PCR for mecA gene",
+        "resistance_gene_markers": "mecA",
+        "notes": "MRSA defined by PCR detection of mecA gene.",
+        "provenance": {
+          "page": 4,
+          "section_heading": "Abstract",
+          "text_snippet": "Seventeen (31.5%) of the 54 isolates were confirmed as MRSA by PCR."
+        }
+      }
+    ],
+    "morbidity": [],
+    "mortality": [],
+    "reoperations": [],
+    "readmissions": [],
+    "length_of_stay": [],
+    "costs": [],
+    "risk_factors_effects": []
+  },
+  "interventions": [],
+  "stewardship_guidelines": [],
+  "policy_capacity": [],
+  "qualitative_thematic": {
+    "codes": [
+      {
+        "theme": "amr_prevalence",
+        "subtheme": "resistance patterns and rates by pathogen/antibiotic",
+        "summary": "MRSA is highly prevalent (31.5%) among S. aureus isolates from surgical site infections in Mulago Hospital, Uganda.",
+        "evidence_quotes": [
+          {
+            "quote": "Seventeen (31.5%) of the 54 isolates were confirmed as MRSA by PCR.",
+            "page": 4,
+            "section": "Abstract"
+          },
+          {
+            "quote": "MRSA is highly (31.5%) prevalent among populations of S. aureus isolated from surgical site infections in Mulago National Referral Hospital, Kampala Uganda.",
+            "page": 12,
+            "section": "Conclusion"
+          }
+        ],
+        "location_context": "Mulago National Referral Hospital, Kampala, Uganda",
+        "confidence": "high",
+        "provenance": {
+          "page": 4,
+          "section_heading": "Abstract",
+          "text_snippet": "Seventeen (31.5%) of the 54 isolates were confirmed as MRSA by PCR."
+        }
+      },
+      {
+        "theme": "burden_incidence",
+        "subtheme": "epidemiology of SSI (incidence, trends)",
+        "summary": "Staphylococcus aureus is highly prevalent (28.7%) in surgical site infections in Mulago Hospital, Uganda.",
+        "evidence_quotes": [
+          {
+            "quote": "Out of the 188 specimen cultured, 54 (28.7%) grew S. aureus.",
+            "page": 4,
+            "section": "Abstract"
+          },
+          {
+            "quote": "S. aureus is highly (28.7%) prevalent in surgical site infections in Mulago National Referral Hospital, Kampala Uganda.",
+            "page": 12,
+            "section": "Conclusion"
+          }
+        ],
+        "location_context": "Mulago National Referral Hospital, Kampala, Uganda",
+        "confidence": "high",
+        "provenance": {
+          "page": 4,
+          "section_heading": "Abstract",
+          "text_snippet": "Out of the 188 specimen cultured, 54 (28.7%) grew S. aureus."
+        }
+      },
+      {
+        "theme": "drivers_amr",
+        "subtheme": "determinants (inappropriate use, IPC gaps, diagnostics delays, policy failures, supply chain, workforce, patient factors)",
+        "summary": "Indiscriminate use of antibiotics may explain the observed MRSA prevalence in SSI at Mulago Hospital.",
+        "evidence_quotes": [
+          {
+            "quote": "Emergence of documented multi-drug resistance bacteria pathogens (Agwu et al., 2004) due to indiscriminate use of antibiotics (Agwu et al., 2005) may explain the observed 31.5% prevalence of MRSA in SSI at the Mulago National Referral Hospital Kampala, Uganda.",
+            "page": 10,
+            "section": "Discussion"
+          }
+        ],
+        "location_context": "Mulago National Referral Hospital, Kampala, Uganda",
+        "confidence": "moderate",
+        "provenance": {
+          "page": 10,
+          "section_heading": "Discussion",
+          "text_snippet": "Emergence of documented multi-drug resistance bacteria pathogens (Agwu et al., 2004) due to indiscriminate use of antibiotics (Agwu et al., 2005) may explain the observed 31.5% prevalence of MRSA in SSI at the Mulago National Referral Hospital Kampala, Uganda."
+        }
+      }
+    ]
+  },
+  "risk_of_bias": {
+    "tool_used": "not_reported",
+    "domain_judgements": {},
+    "overall_judgement": "not_reported",
+    "provenance": {}
+  },
+  "funding_conflicts": {
+    "funding_sources": [],
+    "provenance": {}
+  },
+  "notes_flags": [
+    {
+      "type": [
+        "missing_data"
+      ],
+      "detail": "No SSI incidence (events/denominator) reported; only S. aureus isolation rate among SSI patients.",
+      "provenance": {
+        "page": 4,
+        "section_heading": "Abstract",
+        "text_snippet": "Out of the 188 specimen cultured, 54 (28.7%) grew S. aureus."
+      }
+    },
+    {
+      "type": [
+        "missing_data"
+      ],
+      "detail": "No clinical outcomes (morbidity, mortality, reoperation, readmission, LOS, costs) reported.",
+      "provenance": {
+        "page": 4,
+        "section_heading": "Abstract",
+        "text_snippet": "Results Out of the 188 specimen cultured, 54 (28.7%) grew S. aureus. Seventeen (31.5%) of the 54 isolates were confirmed as MRSA by PCR."
+      }
+    },
+    {
+      "type": [
+        "missing_data"
+      ],
+      "detail": "No stewardship guidelines, interventions, or policy capacity data reported.",
+      "provenance": {
+        "page": 4,
+        "section_heading": "Abstract",
+        "text_snippet": "The objective of this study was to determine the prevalence of MRSA among S. aureus isolates from surgical site infections in Mulago Hospital, Kampala, Uganda."
+      }
+    },
+    {
+      "type": [
+        "unit_unclear"
+      ],
+      "detail": "SSI ascertainment window (days) not specified.",
+      "provenance": {
+        "page": 6,
+        "section_heading": "Materials And Methods",
+        "text_snippet": "This was done on a patient who developed SSI after surgery as defined by Centers for Disease Control and Prevention criteria ( Horan et al, 1992)."
+      }
+    }
+  ],
+  "provenance_index": [
+    {
+      "page": 4,
+      "section_heading": "Abstract",
+      "text_snippet": "Seventeen (31.5%) of the 54 isolates were confirmed as MRSA by PCR."
+    },
+    {
+      "page": 4,
+      "section_heading": "Abstract",
+      "text_snippet": "Out of the 188 specimen cultured, 54 (28.7%) grew S. aureus."
+    },
+    {
+      "page": 6,
+      "section_heading": "Materials And Methods",
+      "text_snippet": "All patients (n = 188) who underwent elective and emergency surgery during the study period were enrolled."
+    },
+    {
+      "page": 10,
+      "section_heading": "Discussion",
+      "text_snippet": "Emergence of documented multi-drug resistance bacteria pathogens (Agwu et al., 2004) due to indiscriminate use of antibiotics (Agwu et al., 2005) may explain the observed 31.5% prevalence of MRSA in SSI at the Mulago National Referral Hospital Kampala, Uganda."
+    },
+    {
+      "page": 12,
+      "section_heading": "Conclusion",
+      "text_snippet": "MRSA is highly (31.5%) prevalent among populations of S. aureus isolated from surgical site infections in Mulago National Referral Hospital, Kampala Uganda."
+    }
+  ],
+  "extraction_summary": {
+    "completeness_score": 60,
+    "missing_fields": [
+      "ssi_incidence (events/denominator)",
+      "clinical outcomes (morbidity, mortality, reoperation, readmission, LOS, costs)",
+      "interventions",
+      "stewardship_guidelines",
+      "policy_capacity",
+      "follow_up_window_days",
+      "bed_capacity",
+      "surgical_volume_per_year",
+      "comorbidities_key",
+      "specimen_collection_window_days",
+      "qualitative method context",
+      "funding/conflicts"
+    ],
+    "parser_warnings": [
+      "No SSI incidence (events/denominator) reported; only S. aureus isolation rate among SSI patients.",
+      "No clinical outcomes reported.",
+      "No stewardship, intervention, or policy capacity data.",
+      "SSI ascertainment window not specified."
+    ],
+    "confidence_overall": "moderate"
+  }
+}

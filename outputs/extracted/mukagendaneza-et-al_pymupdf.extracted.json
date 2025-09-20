@@ -1,0 +1,587 @@
+{
+  "study": {
+    "study_id": "Mukagendaneza2019-Rwanda-KigaliCHUK-2017_2018-01",
+    "title": "Incidence, root causes, and outcomes of surgical site infections in a tertiary care hospital in Rwanda: a prospective observational cohort study",
+    "authors": [
+      "Marie Josée Mukagendaneza",
+      "Emmanuel Munyaneza",
+      "Esperance Muhawenayo",
+      "Dancilla Nyirasebura",
+      "Egide Abahuje",
+      "John Nyirigira",
+      "Jean De Dieu Harelimana",
+      "Thierry Zawadi Muvunyi",
+      "Florence Masaisa",
+      "Jean Claude Byiringiro",
+      "Théobald Hategekimana",
+      "Claude Mambo Muvunyi"
+    ],
+    "journal": "Patient Safety in Surgery",
+    "year_publication": 2019,
+    "doi": "10.1186/s13037-019-0190-8",
+    "country_list": [
+      "Rwanda"
+    ],
+    "country_iso3": "RWA",
+    "region_classification": "ECSA",
+    "surgical_specialty": [
+      "general",
+      "orthopedics",
+      "urology"
+    ],
+    "language": "English",
+    "data_source_type": "published_full_text",
+    "ownership_type": "public"
+  },
+  "design": {
+    "study_design": "cohort",
+    "randomized": false,
+    "prospective": true,
+    "single_center": true,
+    "multi_center": false,
+    "inclusion_criteria_text": "All patients undergoing surgery either as elective or emergency surgical procedures and developed wound infection within the stipulated duration of this study and who were 18 years old and above.",
+    "exclusion_criteria_text": "Patients who were having another operation within one month proceeding study period were excluded.",
+    "sample_frame": "patients",
+    "unit_of_analysis": "patient",
+    "duplicate_publication_likelihood": false
+  },
+  "setting": {
+    "facility_level": "tertiary",
+    "urban_rural": "urban",
+    "care_setting": "hospital",
+    "country_specific_sites": [
+      "University Teaching Hospital of Kigali (CHUK)"
+    ]
+  },
+  "eligibility": {
+    "population": "All patients undergoing surgery (elective or emergency) aged 18 years and above at CHUK.",
+    "classification": "adult",
+    "intervention": "Ceftriaxone prescribed as prophylactic antibiotic to all operated patients.",
+    "comparator": "None specified.",
+    "outcomes_reported": [
+      "ssi_incidence",
+      "amr_prevalence",
+      "mortality",
+      "length_of_stay",
+      "risk_factors_effects"
+    ],
+    "timeframe_years": "October 10, 2017 to February 12, 2018",
+    "setting_types": [
+      "hospital",
+      "surgical_unit"
+    ],
+    "included_designs": [
+      "prospective cohort"
+    ],
+    "excluded_designs": [
+      "patients with another operation within one month preceding study period"
+    ],
+    "provenance": {
+      "page": 2,
+      "section_heading": "Materials and methods"
+    }
+  },
+  "timeframe": {
+    "data_collection_start_year": 2017,
+    "data_collection_start_month": 10,
+    "data_collection_end_year": 2018,
+    "data_collection_end_month": 2,
+    "follow_up_window_days": 30
+  },
+  "populations": [
+    {
+      "arm_id": "overall",
+      "description": "All adult patients (≥18 years) undergoing surgery (orthopedics, general, urology) at CHUK during study period.",
+      "n_participants": 294,
+      "age_group": "adult",
+      "elective_emergency": "mixed",
+      "wound_class": "unspecified",
+      "comorbidities_key": "Mean age 40.41 (SD 16.7); BMI mean 23.4 (SD 2.5); 37.1% alcohol use; 3.4% smokers; ASA I: 71.8%, ASA II-IV: 28.2%",
+      "surgical_specialties": [
+        "orthopedics",
+        "general",
+        "urology"
+      ],
+      "provenance": {
+        "page": 3,
+        "section_heading": "Results"
+      }
+    }
+  ],
+  "definitions": {
+    "ssi_definition_standard": "CDC_NHSN",
+    "ssi_window_days": 30,
+    "amr_definition_standard": "CLSI",
+    "breakpoint_version": "CLSI 2015",
+    "resistance_definition_text": "Bacteria classified as sensitive, intermediate or resistant per CLSI guidelines using disk diffusion.",
+    "outcome_definitions_text": "SSI: superficial infection per CDC definition; mortality: in-hospital deaths; LOS: hospital stay post-operatively.",
+    "specimen_type": [
+      "wound_swab",
+      "aspirate"
+    ],
+    "provenance": {
+      "page": 2,
+      "section_heading": "Materials and methods"
+    }
+  },
+  "lab_methods": {
+    "specimen_collection_method": "Wound swabs or pus aspirates collected after cleaning with 70% ethyl alcohol and irrigating with saline; two sterile cotton swabs collected.",
+    "culture_method": "Inoculation on MacConkey and 5% Sheep Blood agar, aerobic incubation at 37°C for 24–48 h.",
+    "AST_method": [
+      "disk_diffusion"
+    ],
+    "QC_measures": "Quality control performed using E. coli ATCC 25922, Staphylococcus aureus ATCC 25923, and Pseudomonas aeruginosa ATCC 27853.",
+    "organism_identification_method": "Standard guidelines (Koneman et al.)",
+    "provenance": {
+      "page": 3,
+      "section_heading": "Specimen collection and processing"
+    }
+  },
+  "outcomes": {
+    "ssi_incidence": [
+      {
+        "arm_id": "overall",
+        "denominator_type": "patients",
+        "ssi_type": "superficial",
+        "n_ssi_events": 34,
+        "n_total": 294,
+        "rate_as_reported": {
+          "value": 10.2,
+          "unit": "percent"
+        },
+        "ascertainment_window_days": 30,
+        "data_period": {
+          "start_year": 2017,
+          "end_year": 2018
+        },
+        "subgroup_labels": {
+          "country": "Rwanda",
+          "facility_level": "tertiary",
+          "setting": "hospital"
+        },
+        "notes": "All infections were superficial per CDC definition. No infection identified 30 days after discharge.",
+        "provenance": {
+          "page": 3,
+          "section_heading": "Incidence rate of surgical site infections"
+        }
+      },
+      {
+        "arm_id": "orthopedics",
+        "surgical_specialty": "orthopedics",
+        "denominator_type": "patients",
+        "ssi_type": "superficial",
+        "n_ssi_events": 26,
+        "n_total": 217,
+        "rate_as_reported": {
+          "value": 12.0,
+          "unit": "percent"
+        },
+        "ascertainment_window_days": 30,
+        "data_period": {
+          "start_year": 2017,
+          "end_year": 2018
+        },
+        "subgroup_labels": {
+          "country": "Rwanda",
+          "facility_level": "tertiary",
+          "setting": "hospital"
+        },
+        "provenance": {
+          "page": 4,
+          "table_id": "Table 2"
+        }
+      },
+      {
+        "arm_id": "general",
+        "surgical_specialty": "general",
+        "denominator_type": "patients",
+        "ssi_type": "superficial",
+        "n_ssi_events": 8,
+        "n_total": 66,
+        "rate_as_reported": {
+          "value": 12.1,
+          "unit": "percent"
+        },
+        "ascertainment_window_days": 30,
+        "data_period": {
+          "start_year": 2017,
+          "end_year": 2018
+        },
+        "subgroup_labels": {
+          "country": "Rwanda",
+          "facility_level": "tertiary",
+          "setting": "hospital"
+        },
+        "provenance": {
+          "page": 4,
+          "table_id": "Table 2"
+        }
+      },
+      {
+        "arm_id": "urology",
+        "surgical_specialty": "urology",
+        "denominator_type": "patients",
+        "ssi_type": "superficial",
+        "n_ssi_events": 0,
+        "n_total": 11,
+        "rate_as_reported": {
+          "value": 0.0,
+          "unit": "percent"
+        },
+        "ascertainment_window_days": 30,
+        "data_period": {
+          "start_year": 2017,
+          "end_year": 2018
+        },
+        "subgroup_labels": {
+          "country": "Rwanda",
+          "facility_level": "tertiary",
+          "setting": "hospital"
+        },
+        "provenance": {
+          "page": 4,
+          "table_id": "Table 2"
+        }
+      }
+    ],
+    "amr_proportions": [],
+    "morbidity": [],
+    "mortality": [
+      {
+        "measure": "in_hospital",
+        "n_deaths": 3,
+        "n_total": 294,
+        "rate_as_reported": {
+          "value": 1.1,
+          "unit": "percent"
+        },
+        "definition_text": "In-hospital deaths during study period.",
+        "subgroup_labels": {
+          "country": "Rwanda",
+          "facility_level": "tertiary",
+          "setting": "hospital"
+        },
+        "notes": "No deaths among SSI cases.",
+        "provenance": {
+          "page": 4,
+          "table_id": "Table 2"
+        }
+      }
+    ],
+    "reoperations": [],
+    "readmissions": [],
+    "length_of_stay": [
+      {
+        "group": "overall",
+        "notes": "Hospital stay post-operatively >14 days associated with higher SSI risk (OR=42.3).",
+        "provenance": {
+          "page": 4,
+          "table_id": "Table 3"
+        }
+      }
+    ],
+    "costs": [],
+    "risk_factors_effects": [
+      {
+        "exposure": "ASA class II-IV vs I",
+        "outcome": "ssi_incidence",
+        "effect_measure": "OR",
+        "effect_value": 3.9,
+        "ci_lower": 1.9,
+        "ci_upper": 8.1,
+        "adjusted": false,
+        "n_included": 294,
+        "notes": "Bivariate analysis.",
+        "provenance": {
+          "page": 4,
+          "table_id": "Table 3"
+        }
+      },
+      {
+        "exposure": "Contaminated/dirty wound vs clean/clean-contaminated",
+        "outcome": "ssi_incidence",
+        "effect_measure": "OR",
+        "effect_value": 8.5,
+        "ci_lower": 2.0,
+        "ci_upper": 35.9,
+        "adjusted": false,
+        "n_included": 294,
+        "notes": "Bivariate analysis.",
+        "provenance": {
+          "page": 4,
+          "table_id": "Table 3"
+        }
+      },
+      {
+        "exposure": "Resident vs Surgeon",
+        "outcome": "ssi_incidence",
+        "effect_measure": "OR",
+        "effect_value": 2.2,
+        "ci_lower": 1.1,
+        "ci_upper": 4.6,
+        "adjusted": false,
+        "n_included": 294,
+        "notes": "Bivariate analysis.",
+        "provenance": {
+          "page": 4,
+          "table_id": "Table 3"
+        }
+      },
+      {
+        "exposure": "Duration of surgery ≥2h vs <2h",
+        "outcome": "ssi_incidence",
+        "effect_measure": "OR",
+        "effect_value": 2.2,
+        "ci_lower": 1.1,
+        "ci_upper": 4.6,
+        "adjusted": false,
+        "n_included": 294,
+        "notes": "Bivariate analysis.",
+        "provenance": {
+          "page": 4,
+          "table_id": "Table 3"
+        }
+      },
+      {
+        "exposure": "Transfusion during surgery",
+        "outcome": "ssi_incidence",
+        "effect_measure": "OR",
+        "effect_value": 6.8,
+        "ci_lower": 2.9,
+        "ci_upper": 16.3,
+        "adjusted": false,
+        "n_included": 294,
+        "notes": "Bivariate analysis.",
+        "provenance": {
+          "page": 4,
+          "table_id": "Table 3"
+        }
+      },
+      {
+        "exposure": "Hospital stay >14 days vs ≤14 days",
+        "outcome": "ssi_incidence",
+        "effect_measure": "OR",
+        "effect_value": 42.3,
+        "ci_lower": 16.4,
+        "ci_upper": 108.9,
+        "adjusted": false,
+        "n_included": 294,
+        "notes": "Bivariate analysis.",
+        "provenance": {
+          "page": 4,
+          "table_id": "Table 3"
+        }
+      }
+    ]
+  },
+  "interventions": [
+    {
+      "type": "antibiotic_prophylaxis_protocol",
+      "description": "Ceftriaxone prescribed as prophylactic antibiotic to all operated patients; timing varied, majority within 30 min of surgery.",
+      "implementation_level": "facility",
+      "outcomes_measured": [
+        "ssi_incidence"
+      ],
+      "effect_direction": "no_effect",
+      "provenance": {
+        "page": 4,
+        "table_id": "Table 3"
+      }
+    }
+  ],
+  "stewardship_guidelines": [],
+  "policy_capacity": [],
+  "qualitative_thematic": {
+    "codes": [
+      {
+        "theme": "burden_incidence",
+        "subtheme": "incidence",
+        "summary": "SSI incidence rate at CHUK was 10.9%, comparable to other developing countries.",
+        "evidence_quotes": [
+          {
+            "quote": "The overall incidence of SSI after surgery was 10.2% (34/294)...",
+            "page": 3,
+            "section": "Incidence rate of surgical site infections"
+          }
+        ],
+        "location_context": "Rwanda, CHUK",
+        "confidence": "high",
+        "provenance": {
+          "page": 3,
+          "section_heading": "Incidence rate of surgical site infections"
+        }
+      },
+      {
+        "theme": "amr_prevalence",
+        "subtheme": "resistance patterns",
+        "summary": "High resistance rates to commonly used antibiotics (amoxicillin-clavulanate, gentamicin, ciprofloxacin, ceftriaxone) among SSI isolates; amikacin and imipenem remained effective.",
+        "evidence_quotes": [
+          {
+            "quote": "The pathogens revealed different levels of antibiotic resistance; amoxy-clavilinic acid (98.8%), gentamicin (92.6%), ciprofloxacin (78.1%) and ceftriaxone (53.3%).",
+            "page": 1,
+            "section": "Abstract"
+          }
+        ],
+        "location_context": "Rwanda, CHUK",
+        "confidence": "high",
+        "provenance": {
+          "page": 5,
+          "figure_id": "Fig. 2"
+        }
+      },
+      {
+        "theme": "drivers_amr",
+        "subtheme": "inappropriate use",
+        "summary": "High resistance may be due to easy availability and inappropriate use of antibiotics in hospitals.",
+        "evidence_quotes": [
+          {
+            "quote": "This remarkably higher resistance may be due to their easily availability and inappropriate use of the drugs in our hospitals.",
+            "page": 7,
+            "section": "Discussion"
+          }
+        ],
+        "location_context": "Rwanda, CHUK",
+        "confidence": "moderate",
+        "provenance": {
+          "page": 7,
+          "section_heading": "Discussion"
+        }
+      },
+      {
+        "theme": "prevention_control",
+        "subtheme": "surveillance practices",
+        "summary": "Periodic surveillance of bacteria and antibiotic susceptibility, coupled with strict protocols for antibiotic administration and operative room regulations, are recommended.",
+        "evidence_quotes": [
+          {
+            "quote": "Periodic surveillance of bacteria and antibiotic susceptibility coupled with the implementation of strict protocol for antibiotic administration and operative room regulations are important to minimize the burden of SSI with resistant bacteria pathogens.",
+            "page": 1,
+            "section": "Abstract"
+          }
+        ],
+        "location_context": "Rwanda, CHUK",
+        "confidence": "high",
+        "provenance": {
+          "page": 7,
+          "section_heading": "Conclusion"
+        }
+      }
+    ]
+  },
+  "risk_of_bias": {
+    "tool_used": "not_reported",
+    "domain_judgements": {},
+    "overall_judgement": "not_reported",
+    "provenance": {}
+  },
+  "funding_conflicts": {
+    "funding_sources": [
+      "Seed grant from Kigali University Teaching Hospital"
+    ],
+    "conflicts_of_interest": "The authors declare that they have no competing interests.",
+    "role_of_funder": "The funder had no part in the design of the study, the collection, analysis, and interpretation of data, or in writing the manuscript.",
+    "provenance": {
+      "page": 7,
+      "section_heading": "Funding"
+    }
+  },
+  "notes_flags": [
+    {
+      "type": [
+        "missing_data"
+      ],
+      "detail": "No raw n_tested or n_resistant per pathogen-antibiotic pair; only percentages reported.",
+      "provenance": {
+        "page": 5,
+        "figure_id": "Fig. 2"
+      }
+    },
+    {
+      "type": [
+        "missing_data"
+      ],
+      "detail": "No stewardship guideline adherence or policy capacity data.",
+      "provenance": {}
+    },
+    {
+      "type": [
+        "missing_data"
+      ],
+      "detail": "No cost or economic impact data reported.",
+      "provenance": {}
+    },
+    {
+      "type": [
+        "missing_data"
+      ],
+      "detail": "No readmission or reoperation data reported.",
+      "provenance": {}
+    },
+    {
+      "type": [
+        "unit_unclear"
+      ],
+      "detail": "No explicit reporting of n_tested for AMR proportions; only percentages.",
+      "provenance": {
+        "page": 5,
+        "figure_id": "Fig. 2"
+      }
+    }
+  ],
+  "provenance_index": [
+    {
+      "page": 1,
+      "section_heading": "Title/Abstract",
+      "text_snippet": "Incidence, root causes, and outcomes of surgical site infections in a tertiary care hospital in Rwanda"
+    },
+    {
+      "page": 2,
+      "section_heading": "Materials and methods",
+      "text_snippet": "This prospective study included 294 patients admitted between October 10, 2017 and February 12, 2018"
+    },
+    {
+      "page": 3,
+      "section_heading": "Incidence rate of surgical site infections",
+      "text_snippet": "The overall incidence of SSI after surgery was 10.2% (34/294)"
+    },
+    {
+      "page": 4,
+      "table_id": "Table 2",
+      "text_snippet": "Clinical and procedure characteristics of participants who had surgery"
+    },
+    {
+      "page": 4,
+      "table_id": "Table 3",
+      "text_snippet": "Descriptive data and bivariate analyses of surgical risk factors associated with SSI"
+    },
+    {
+      "page": 5,
+      "figure_id": "Fig. 2",
+      "text_snippet": "Antibiotic resistance pattern of SSI isolates"
+    },
+    {
+      "page": 7,
+      "section_heading": "Funding",
+      "text_snippet": "This study was financially supported by a seed grant from Kigali University Teaching Hospital."
+    }
+  ],
+  "extraction_summary": {
+    "completeness_score": 80,
+    "missing_fields": [
+      "n_tested and n_resistant per pathogen-antibiotic",
+      "stewardship_guidelines",
+      "policy_capacity",
+      "costs",
+      "readmissions",
+      "reoperations",
+      "length_of_stay (quantitative)",
+      "qualitative method context",
+      "risk_of_bias (tool/judgement)"
+    ],
+    "parser_warnings": [
+      "AMR proportions only reported as percentages, not raw counts.",
+      "No stewardship or policy capacity data.",
+      "No economic or cost data."
+    ],
+    "confidence_overall": "high"
+  }
+}

@@ -1,0 +1,3 @@
+study_id,outcome,n_events,n_total,window_days,definition_text,country,facility_level,setting,year_start,year_end
+Varghese2024-Multicountry-FALCON-2018-2020-01,readmissions,136,1137,30,Readmission within 30 days postoperatively.,Benin,mixed,hospital,2018,2020
+Kachipedzu2024-Malawi-QECH-2023-1,readmissions,12,20,30,Readmission of patients who developed SSIs.,Malawi,tertiary,hospital,2023,2023

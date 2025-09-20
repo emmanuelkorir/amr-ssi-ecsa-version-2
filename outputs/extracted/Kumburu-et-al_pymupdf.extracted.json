@@ -1,0 +1,510 @@
+{
+  "study": {
+    "study_id": "Kumburu2017-Tanzania-KCMC-2013-2015-01",
+    "title": "Patterns of infections, aetiological agents and antimicrobial resistance at a tertiary care hospital in northern Tanzania",
+    "authors": [
+      "Happiness Houka Kumburu",
+      "Tolbert Sonda",
+      "Blandina Theophil Mmbaga",
+      "Michael Alifrangis",
+      "Ole Lund",
+      "Gibson Kibiki",
+      "Frank M. Aarestrup"
+    ],
+    "journal": "Tropical Medicine and International Health",
+    "year_publication": 2017,
+    "doi": "10.1111/tmi.12836",
+    "country_list": [
+      "Tanzania"
+    ],
+    "country_iso3": "TZA",
+    "region_classification": "ECSA",
+    "surgical_specialty": [
+      "general",
+      "obstetrics/gynecology",
+      "other"
+    ],
+    "language": "English",
+    "data_source_type": "published_full_text",
+    "ownership_type": "public"
+  },
+  "design": {
+    "study_design": "cross_sectional",
+    "randomized": false,
+    "prospective": false,
+    "single_center": true,
+    "multi_center": false,
+    "inclusion_criteria_text": "Inpatients admitted to medical or surgical wards at KCMC, Moshi, Tanzania, from August 2013 to August 2015, with suspected infection (wound, pneumonia, tuberculosis, septicemia, diarrhoea, meningitis).",
+    "exclusion_criteria_text": "Specimens with insufficient quantity; patients with incomplete information.",
+    "sample_frame": "patients",
+    "unit_of_analysis": "isolate",
+    "duplicate_publication_likelihood": false
+  },
+  "setting": {
+    "facility_level": "tertiary",
+    "urban_rural": "urban",
+    "care_setting": "hospital",
+    "country_specific_sites": [
+      "Kilimanjaro Christian Medical Centre (KCMC), Moshi"
+    ]
+  },
+  "eligibility": {
+    "population": "Inpatients (adults and children) admitted to medical or surgical wards with suspected infection (wound, pneumonia, tuberculosis, septicemia, diarrhoea, meningitis).",
+    "classification": "mixed",
+    "intervention": "Not specified; empirical antibiotic treatment prior to admission was common.",
+    "comparator": "None specified.",
+    "outcomes_reported": [
+      "amr_prevalence"
+    ],
+    "timeframe_years": "August 2013 to August 2015",
+    "setting_types": [
+      "hospital",
+      "surgical_unit",
+      "icu",
+      "ward"
+    ],
+    "included_designs": [
+      "cross_sectional"
+    ],
+    "excluded_designs": []
+  },
+  "timeframe": {
+    "data_collection_start_year": 2013,
+    "data_collection_start_month": 8,
+    "data_collection_end_year": 2015,
+    "data_collection_end_month": 8
+  },
+  "populations": [
+    {
+      "arm_id": "overall",
+      "description": "All inpatients admitted to medical and surgical wards with suspected infection; 575 patients, 590 specimens (286 wound swabs, 126 blood, 122 sputum, 56 stool).",
+      "n_participants": 575,
+      "age_group": "mixed",
+      "elective_emergency": "unspecified",
+      "wound_class": "unspecified",
+      "comorbidities_key": "Diabetes mellitus: 21.3% (n=122); HIV: 14.1% (n=81); Cancer: 9.1% (n=52)",
+      "surgical_specialties": [
+        "general",
+        "obstetrics/gynecology",
+        "other"
+      ],
+      "provenance": {
+        "page": 3,
+        "section_heading": "Characteristics of the study participants",
+        "table_id": "Table 1",
+        "text_snippet": "Table 1 summarises characteristics of 575 patients with different medical conditions enrolled in the study from August 2013 to August 2015."
+      }
+    }
+  ],
+  "definitions": {
+    "ssi_definition_standard": "unspecified",
+    "amr_definition_standard": "CLSI",
+    "breakpoint_version": "CLSI 2013",
+    "resistance_definition_text": "Interpretation as susceptible, intermediate resistant and resistant was performed according to CLSI 2013. Isolates with intermediate or resistant results were merged into a single group as resistant during data analysis.",
+    "outcome_definitions_text": "No explicit definitions for mortality, LOS, readmission, or cost components.",
+    "specimen_type": [
+      "wound_swab",
+      "blood",
+      "sputum",
+      "stool"
+    ]
+  },
+  "lab_methods": {
+    "specimen_collection_method": "Stool, sputum, blood, and wound/pus swabs collected from inpatients; blood samples collected in BD BACTEC bottles; wound/pus swabs from wounds due to burns, surgical procedures, diabetes, animal bites, motor traffic accidents, and other injuries.",
+    "culture_method": "Wound/pus swabs and sputum cultured onto trypticase soy agar with 5% sheep blood, chocolate agar, and McConkey agar; stool on McConkey agar; blood in BD BACTEC incubated up to 5 days.",
+    "AST_method": [
+      "disk_diffusion"
+    ],
+    "organism_identification_method": "Gram stain, API 20E and/or API NE 20 for Gram-negatives; catalase and coagulase tests for Gram-positives; optochin susceptibility and enzyme latex test for streptococci.",
+    "lab_capacity_notes": "Samples processed at Kilimanjaro Clinical Research Institute (KCRI) microbiology unit."
+  },
+  "outcomes": {
+    "ssi_incidence": [],
+    "amr_proportions": [
+      {
+        "arm_id": "overall",
+        "pathogen": "Proteus spp.",
+        "antibiotic": "ampicillin",
+        "who_class": "important",
+        "n_tested": 28,
+        "n_resistant": 21,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2013",
+        "specimen_type": "wound_swab",
+        "site": "wound",
+        "data_period": {
+          "start_year": 2013,
+          "end_year": 2015
+        },
+        "zone_diameter_unit": "mm",
+        "notes": "Intermediate and resistant merged as resistant.",
+        "provenance": {
+          "page": 7,
+          "section_heading": "Table 5",
+          "table_id": "Table 5a",
+          "text_snippet": "Proteus spp 28 21 (75)"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Proteus spp.",
+        "antibiotic": "cefazolin",
+        "who_class": "important",
+        "n_tested": 28,
+        "n_resistant": 23,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2013",
+        "specimen_type": "wound_swab",
+        "site": "wound",
+        "data_period": {
+          "start_year": 2013,
+          "end_year": 2015
+        },
+        "zone_diameter_unit": "mm",
+        "notes": "Intermediate and resistant merged as resistant.",
+        "provenance": {
+          "page": 7,
+          "section_heading": "Table 5",
+          "table_id": "Table 5a",
+          "text_snippet": "Proteus spp 28 23 (82.1)"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Klebsiella spp.",
+        "antibiotic": "ampicillin",
+        "who_class": "important",
+        "n_tested": 26,
+        "n_resistant": 24,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2013",
+        "specimen_type": "wound_swab",
+        "site": "wound",
+        "data_period": {
+          "start_year": 2013,
+          "end_year": 2015
+        },
+        "zone_diameter_unit": "mm",
+        "notes": "Intermediate and resistant merged as resistant.",
+        "provenance": {
+          "page": 7,
+          "section_heading": "Table 5",
+          "table_id": "Table 5a",
+          "text_snippet": "Klebsiella spp 26 24 (92.3)"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Escherichia coli",
+        "antibiotic": "ampicillin",
+        "who_class": "important",
+        "n_tested": 19,
+        "n_resistant": 13,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2013",
+        "specimen_type": "wound_swab",
+        "site": "wound",
+        "data_period": {
+          "start_year": 2013,
+          "end_year": 2015
+        },
+        "zone_diameter_unit": "mm",
+        "notes": "Intermediate and resistant merged as resistant.",
+        "provenance": {
+          "page": 7,
+          "section_heading": "Table 5",
+          "table_id": "Table 5a",
+          "text_snippet": "Escherichia coli 19 13 (68.4)"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "penicillin",
+        "who_class": "important",
+        "n_tested": 22,
+        "n_resistant": 22,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2013",
+        "specimen_type": "wound_swab",
+        "site": "wound",
+        "data_period": {
+          "start_year": 2013,
+          "end_year": 2015
+        },
+        "mrsa_detection_method": "Cefoxitin disk diffusion",
+        "zone_diameter_unit": "mm",
+        "notes": "All S. aureus tested were resistant to penicillin (100%) and susceptible to vancomycin.",
+        "provenance": {
+          "page": 7,
+          "section_heading": "Table 5",
+          "table_id": "Table 5b",
+          "text_snippet": "S. aureus 22 22 (100)"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "cefoxitin",
+        "who_class": "important",
+        "n_tested": 22,
+        "n_resistant": 6,
+        "n_susceptible": 16,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI 2013",
+        "specimen_type": "wound_swab",
+        "site": "wound",
+        "data_period": {
+          "start_year": 2013,
+          "end_year": 2015
+        },
+        "mrsa_detection_method": "Cefoxitin disk diffusion",
+        "zone_diameter_unit": "mm",
+        "notes": "Cefoxitin resistance used to infer MRSA.",
+        "provenance": {
+          "page": 7,
+          "section_heading": "Table 5",
+          "table_id": "Table 5b",
+          "text_snippet": "S. aureus 22 6 (27.3)"
+        }
+      }
+    ],
+    "morbidity": [],
+    "mortality": [],
+    "reoperations": [],
+    "readmissions": [],
+    "length_of_stay": [],
+    "costs": [],
+    "risk_factors_effects": [
+      {
+        "exposure": "Diabetes mellitus",
+        "outcome": "amr_infection",
+        "effect_measure": "proportion",
+        "effect_value": 0.19,
+        "ci_lower": 0.12,
+        "ci_upper": 0.28,
+        "p_value": 0.07,
+        "adjusted": false,
+        "notes": "Non-significant association between diabetes and Proteus spp infection.",
+        "provenance": {
+          "page": 6,
+          "section_heading": "Table 4a",
+          "table_id": "Table 4a",
+          "text_snippet": "Proteus spp 0.19 (0.12–0.28) p=0.07"
+        }
+      },
+      {
+        "exposure": "Wound infection",
+        "outcome": "amr_infection",
+        "effect_measure": "proportion",
+        "effect_value": 0.16,
+        "ci_lower": 0.12,
+        "ci_upper": 0.21,
+        "p_value": 0.03,
+        "adjusted": false,
+        "notes": "Significant association between wound infection and Proteus spp infection.",
+        "provenance": {
+          "page": 6,
+          "section_heading": "Table 4b",
+          "table_id": "Table 4b",
+          "text_snippet": "Proteus spp 0.16 (0.12–0.21) p=0.03"
+        }
+      }
+    ]
+  },
+  "interventions": [],
+  "stewardship_guidelines": [],
+  "policy_capacity": [
+    {
+      "domain": "lab_capacity",
+      "status_text": "Samples processed at KCRI microbiology unit; diagnostic capacity present at tertiary hospital.",
+      "indicators": {},
+      "provenance": {
+        "page": 2,
+        "section_heading": "Materials and methods",
+        "text_snippet": "All samples were transported immediately after collection to the Kilimanjaro Clinical Research Institute (KCRI), to be processed by the microbiology unit of the biotechnology laboratory department."
+      }
+    }
+  ],
+  "qualitative_thematic": {
+    "codes": [
+      {
+        "theme": "amr_prevalence",
+        "subtheme": "resistance patterns and rates by pathogen/antibiotic",
+        "summary": "High rates of resistance to commonly used antibiotics were observed among Gram-negative and Gram-positive isolates, including 100% penicillin resistance in S. aureus and >70% resistance to ampicillin and cefazolin in Proteus and Klebsiella spp.",
+        "evidence_quotes": [
+          {
+            "quote": "All Staphylococcus aureus tested were resistant to penicillin (n = 22, 100%) and susceptible to vancomycin. Significant resistance to cephalosporins such as cefazolin (n = 62, 72.9%), ceftriaxone (n = 44, 51.8%) and ceftazidime (n = 40, 37.4%) was observed in Gram-negative bacteria, as well as resistance to cefoxitin (n = 6, 27.3%) in S. aureus.",
+            "page": 1,
+            "section": "Abstract"
+          }
+        ],
+        "location_context": "KCMC, Moshi, Tanzania",
+        "confidence": "high",
+        "provenance": {
+          "page": 1,
+          "section_heading": "Abstract",
+          "text_snippet": "All Staphylococcus aureus tested were resistant to penicillin (n = 22, 100%) and susceptible to vancomycin."
+        }
+      },
+      {
+        "theme": "drivers_amr",
+        "subtheme": "inappropriate use",
+        "summary": "A majority of patients (71.9%) had received antibiotics prior to admission, with common use of ceftriaxone, metronidazole, and cloxacillin, suggesting widespread empirical and possibly inappropriate antibiotic use.",
+        "evidence_quotes": [
+          {
+            "quote": "About three-quarters of the patients (n = 412, 71.9%) had a history of antibiotic/antimicrobial treatment before arriving to the hospital (Table 1). Drugs that were commonly used were ceftriaxone (n = 173, 46.2%), metronidazole (n = 147, 39.4%), cloxacillin (n = 64, 17.1%), ciprofloxacin (n = 25, 6.6%) and co-trimoxazole (n = 21, 5.5%).",
+            "page": 4,
+            "section": "Pattern of resistance to antimicrobial agents"
+          }
+        ],
+        "location_context": "KCMC, Moshi, Tanzania",
+        "confidence": "high",
+        "provenance": {
+          "page": 4,
+          "section_heading": "Pattern of resistance to antimicrobial agents",
+          "text_snippet": "About three-quarters of the patients (n = 412, 71.9%) had a history of antibiotic/antimicrobial treatment before arriving to the hospital (Table 1)."
+        }
+      },
+      {
+        "theme": "policy_capacity",
+        "subtheme": "surveillance",
+        "summary": "The study highlights the need for regular generation and reporting of data on aetiological agents and antimicrobial susceptibility, with recommendations for sentinel sites and a central organising body.",
+        "evidence_quotes": [
+          {
+            "quote": "Sentinel sites (hospitals) across the country (and region) should report on a representative subset of bacterial species and their susceptibility to drugs at least annually. A central organising body should collate the data and report to relevant national and international stakeholders.",
+            "page": 1,
+            "section": "Abstract"
+          }
+        ],
+        "location_context": "Tanzania (national recommendation)",
+        "confidence": "high",
+        "provenance": {
+          "page": 1,
+          "section_heading": "Abstract",
+          "text_snippet": "Sentinel sites (hospitals) across the country (and region) should report on a representative subset of bacterial species and their susceptibility to drugs at least annually."
+        }
+      }
+    ]
+  },
+  "risk_of_bias": {
+    "tool_used": "not_reported",
+    "domain_judgements": {},
+    "overall_judgement": "not_reported",
+    "provenance": {}
+  },
+  "funding_conflicts": {
+    "funding_sources": [
+      "DANIDA"
+    ],
+    "conflicts_of_interest": "Not reported.",
+    "provenance": {
+      "page": 9,
+      "section_heading": "Acknowledgements",
+      "text_snippet": "DANIDA for funding the study."
+    }
+  },
+  "notes_flags": [
+    {
+      "type": [
+        "missing_data"
+      ],
+      "detail": "No SSI incidence data reported; no explicit surgical site infection definitions.",
+      "provenance": {}
+    },
+    {
+      "type": [
+        "unit_unclear"
+      ],
+      "detail": "No ascertainment window for SSI reported.",
+      "provenance": {}
+    },
+    {
+      "type": [
+        "missing_data"
+      ],
+      "detail": "No data on mortality, reoperations, readmissions, length of stay, or costs.",
+      "provenance": {}
+    }
+  ],
+  "provenance_index": [
+    {
+      "page": 1,
+      "section_heading": "Abstract",
+      "text_snippet": "All Staphylococcus aureus tested were resistant to penicillin (n = 22, 100%) and susceptible to vancomycin."
+    },
+    {
+      "page": 3,
+      "section_heading": "Characteristics of the study participants",
+      "table_id": "Table 1",
+      "text_snippet": "Table 1 summarises characteristics of 575 patients with different medical conditions enrolled in the study from August 2013 to August 2015."
+    },
+    {
+      "page": 7,
+      "section_heading": "Table 5",
+      "table_id": "Table 5a",
+      "text_snippet": "Proteus spp 28 21 (75)"
+    },
+    {
+      "page": 7,
+      "section_heading": "Table 5",
+      "table_id": "Table 5b",
+      "text_snippet": "S. aureus 22 22 (100)"
+    },
+    {
+      "page": 6,
+      "section_heading": "Table 4a",
+      "table_id": "Table 4a",
+      "text_snippet": "Proteus spp 0.19 (0.12–0.28) p=0.07"
+    },
+    {
+      "page": 6,
+      "section_heading": "Table 4b",
+      "table_id": "Table 4b",
+      "text_snippet": "Proteus spp 0.16 (0.12–0.21) p=0.03"
+    },
+    {
+      "page": 2,
+      "section_heading": "Materials and methods",
+      "text_snippet": "All samples were transported immediately after collection to the Kilimanjaro Clinical Research Institute (KCRI), to be processed by the microbiology unit of the biotechnology laboratory department."
+    },
+    {
+      "page": 4,
+      "section_heading": "Pattern of resistance to antimicrobial agents",
+      "text_snippet": "About three-quarters of the patients (n = 412, 71.9%) had a history of antibiotic/antimicrobial treatment before arriving to the hospital (Table 1)."
+    },
+    {
+      "page": 9,
+      "section_heading": "Acknowledgements",
+      "text_snippet": "DANIDA for funding the study."
+    }
+  ],
+  "extraction_summary": {
+    "completeness_score": 65,
+    "missing_fields": [
+      "ssi_incidence",
+      "mortality",
+      "reoperations",
+      "readmissions",
+      "length_of_stay",
+      "costs",
+      "stewardship_guidelines",
+      "interventions",
+      "qualitative method context",
+      "risk_of_bias tool and domains"
+    ],
+    "parser_warnings": [
+      "No SSI incidence or definition reported.",
+      "No clinical outcome data (mortality, LOS, reoperation, readmission, costs).",
+      "No stewardship guidelines or interventions described.",
+      "No risk of bias assessment."
+    ],
+    "confidence_overall": "moderate"
+  }
+}

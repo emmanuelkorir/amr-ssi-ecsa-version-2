@@ -1,0 +1,775 @@
+{
+  "study": {
+    "study_id": "Kachipedzu2024-Malawi-QECH-2023-1",
+    "title": "Surgical site infection and antimicrobial use following caesarean section at QECH in Blantyre, Malawi: a prospective cohort study",
+    "authors": [
+      "Amos Tumizani Kachipedzu",
+      "David King Kulapani",
+      "Samuel James Meja",
+      "Janelisa Musaya"
+    ],
+    "journal": "Antimicrobial Resistance & Infection Control",
+    "year_publication": 2024,
+    "doi": "10.1186/s13756-024-01483-5",
+    "country_list": [
+      "Malawi"
+    ],
+    "country_iso3": "MWI",
+    "region_classification": "ECSA",
+    "surgical_specialty": [
+      "obstetrics/gynecology"
+    ],
+    "language": "English",
+    "data_source_type": "published_full_text",
+    "ownership_type": "public"
+  },
+  "design": {
+    "study_design": "cohort",
+    "randomized": false,
+    "prospective": true,
+    "single_center": true,
+    "multi_center": false,
+    "inclusion_criteria_text": "All women who underwent a caesarean section procedure at QECH from 1st February 2023 to 31st July 2023.",
+    "exclusion_criteria_text": "All women who underwent CS in other health facilities.",
+    "sample_frame": "patients",
+    "unit_of_analysis": "patient"
+  },
+  "setting": {
+    "facility_level": "tertiary",
+    "urban_rural": "urban",
+    "care_setting": "hospital",
+    "country_specific_sites": [
+      "Queen Elizabeth Central Hospital (QECH), Blantyre"
+    ],
+    "stewardship_program_present": false
+  },
+  "eligibility": {
+    "population": "Pregnant women who underwent a caesarean section procedure.",
+    "population_classification": "adult",
+    "intervention": "Routine care including antibiotic prophylaxis (preoperative ceftriaxone) and postoperative antibiotics.",
+    "comparator": "Not applicable (observational study). Subgroup analyses by risk factors were performed.",
+    "outcomes_reported": [
+      "ssi_incidence",
+      "amr_prevalence",
+      "readmissions"
+    ],
+    "timeframe_years": "2023",
+    "setting_types": [
+      "hospital",
+      "surgical_unit"
+    ],
+    "included_designs": [
+      "prospective cohort"
+    ]
+  },
+  "timeframe": {
+    "data_collection_start_year": 2023,
+    "data_collection_start_month": 2,
+    "data_collection_end_year": 2023,
+    "data_collection_end_month": 7,
+    "follow_up_window_days": 30
+  },
+  "populations": [
+    {
+      "arm_id": "overall",
+      "description": "Overall cohort of pregnant women undergoing caesarean section.",
+      "n_participants": 208,
+      "n_procedures": 208,
+      "age_group": "adult",
+      "elective_emergency": "mixed",
+      "wound_class": "unspecified",
+      "comorbidities_key": "Mean age 26.1 (SD 6.2) years; HIV positive: 9.6% (20/208); BMI > 25: 55.5% (115/208); ASA score >= 2: 10.58% (22/208).",
+      "surgical_specialties": [
+        "obstetrics/gynecology"
+      ],
+      "provenance": {
+        "pointer": 1
+      }
+    }
+  ],
+  "definitions": {
+    "ssi_definition_standard": "CDC_NHSN",
+    "ssi_window_days": 30,
+    "amr_definition_standard": "unspecified",
+    "resistance_definition_text": "Susceptibility testing was conducted using the Kirby-Bauer disk diffusion method with results reported only as susceptible, intermediate, or resistant.",
+    "outcome_definitions_text": "SSI: defined as an infection that occurs at or near the surgical incision within 30 days of the operation. Assessed via phone interviews and clinical visit if symptomatic.",
+    "specimen_type": [
+      "wound_swab",
+      "aspirate"
+    ]
+  },
+  "lab_methods": {
+    "specimen_collection_method": "Wound swab samples were collected from the infected surgical wounds.",
+    "culture_method": "Microbiology culture and sensitivity performed at QECH main laboratory.",
+    "AST_method": "disk_diffusion",
+    "lab_capacity_notes": "Of 11 samples collected, 10 were processed and 1 was reportedly missing from the laboratory. Of 10 processed, 5 yielded bacterial growth."
+  },
+  "outcomes": {
+    "ssi_incidence": [
+      {
+        "arm_id": "overall",
+        "surgical_specialty": "obstetrics/gynecology",
+        "denominator_type": "patients",
+        "ssi_type": "overall",
+        "n_ssi_events": 20,
+        "n_total": 208,
+        "rate_as_reported": {
+          "value": 9.61,
+          "unit": "percent"
+        },
+        "ascertainment_window_days": 30,
+        "data_period": {
+          "start_year": 2023,
+          "end_year": 2023
+        },
+        "provenance": {
+          "pointer": 2
+        }
+      },
+      {
+        "arm_id": "overall",
+        "surgical_specialty": "obstetrics/gynecology",
+        "denominator_type": "patients",
+        "ssi_type": "superficial",
+        "n_ssi_events": 19,
+        "n_total": 208,
+        "ascertainment_window_days": 30,
+        "data_period": {
+          "start_year": 2023,
+          "end_year": 2023
+        },
+        "notes": "Reported as 19 (95%) of the 20 SSI cases.",
+        "provenance": {
+          "pointer": 3
+        }
+      },
+      {
+        "arm_id": "overall",
+        "surgical_specialty": "obstetrics/gynecology",
+        "denominator_type": "patients",
+        "ssi_type": "deep",
+        "n_ssi_events": 1,
+        "n_total": 208,
+        "ascertainment_window_days": 30,
+        "data_period": {
+          "start_year": 2023,
+          "end_year": 2023
+        },
+        "notes": "Reported as 1 (5%) of the 20 SSI cases.",
+        "provenance": {
+          "pointer": 3
+        }
+      }
+    ],
+    "amr_proportions": [
+      {
+        "arm_id": "overall",
+        "pathogen": "Acinetobacter baumannii",
+        "antibiotic": "ceftriaxone",
+        "who_class": "critically_important",
+        "n_tested": 1,
+        "n_resistant": 1,
+        "n_intermediate": 0,
+        "n_susceptible": 0,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "unspecified",
+        "specimen_type": "wound_swab",
+        "site": "surgical_site",
+        "data_period": {
+          "start_year": 2023,
+          "end_year": 2023
+        },
+        "provenance": {
+          "pointer": 4
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Acinetobacter baumannii",
+        "antibiotic": "ciprofloxacin",
+        "who_class": "critically_important",
+        "n_tested": 1,
+        "n_resistant": 1,
+        "n_intermediate": 0,
+        "n_susceptible": 0,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "unspecified",
+        "specimen_type": "wound_swab",
+        "site": "surgical_site",
+        "data_period": {
+          "start_year": 2023,
+          "end_year": 2023
+        },
+        "provenance": {
+          "pointer": 4
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Acinetobacter baumannii",
+        "antibiotic": "gentamicin",
+        "who_class": "highly_important",
+        "n_tested": 1,
+        "n_resistant": 0,
+        "n_intermediate": 0,
+        "n_susceptible": 1,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "unspecified",
+        "specimen_type": "wound_swab",
+        "site": "surgical_site",
+        "data_period": {
+          "start_year": 2023,
+          "end_year": 2023
+        },
+        "provenance": {
+          "pointer": 4
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Acinetobacter baumannii",
+        "antibiotic": "cefotaxime",
+        "who_class": "critically_important",
+        "n_tested": 1,
+        "n_resistant": 1,
+        "n_intermediate": 0,
+        "n_susceptible": 0,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "unspecified",
+        "specimen_type": "wound_swab",
+        "site": "surgical_site",
+        "data_period": {
+          "start_year": 2023,
+          "end_year": 2023
+        },
+        "provenance": {
+          "pointer": 4
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Acinetobacter baumannii",
+        "antibiotic": "tigecycline",
+        "who_class": "highly_important",
+        "n_tested": 1,
+        "n_resistant": 1,
+        "n_intermediate": 0,
+        "n_susceptible": 0,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "unspecified",
+        "specimen_type": "wound_swab",
+        "site": "surgical_site",
+        "data_period": {
+          "start_year": 2023,
+          "end_year": 2023
+        },
+        "provenance": {
+          "pointer": 4
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Enterobacteriaceae",
+        "antibiotic": "chloramphenicol",
+        "who_class": "highly_important",
+        "n_tested": 1,
+        "n_resistant": 1,
+        "n_intermediate": 0,
+        "n_susceptible": 0,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "unspecified",
+        "specimen_type": "wound_swab",
+        "site": "surgical_site",
+        "data_period": {
+          "start_year": 2023,
+          "end_year": 2023
+        },
+        "provenance": {
+          "pointer": 4
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Enterobacteriaceae",
+        "antibiotic": "ciprofloxacin",
+        "who_class": "critically_important",
+        "n_tested": 1,
+        "n_resistant": 0,
+        "n_intermediate": 0,
+        "n_susceptible": 1,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "unspecified",
+        "specimen_type": "wound_swab",
+        "site": "surgical_site",
+        "data_period": {
+          "start_year": 2023,
+          "end_year": 2023
+        },
+        "provenance": {
+          "pointer": 4
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Enterobacteriaceae",
+        "antibiotic": "co-trimoxazole",
+        "who_class": "highly_important",
+        "n_tested": 1,
+        "n_resistant": 1,
+        "n_intermediate": 0,
+        "n_susceptible": 0,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "unspecified",
+        "specimen_type": "wound_swab",
+        "site": "surgical_site",
+        "data_period": {
+          "start_year": 2023,
+          "end_year": 2023
+        },
+        "notes": "Original text: Trimethoprim /Sulfamethoxazole",
+        "provenance": {
+          "pointer": 4
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Enterobacteriaceae",
+        "antibiotic": "gentamicin",
+        "who_class": "highly_important",
+        "n_tested": 1,
+        "n_resistant": 0,
+        "n_intermediate": 1,
+        "n_susceptible": 0,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "unspecified",
+        "specimen_type": "wound_swab",
+        "site": "surgical_site",
+        "data_period": {
+          "start_year": 2023,
+          "end_year": 2023
+        },
+        "provenance": {
+          "pointer": 4
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Enterobacteriaceae",
+        "antibiotic": "meropenem",
+        "who_class": "critically_important",
+        "n_tested": 1,
+        "n_resistant": 0,
+        "n_intermediate": 0,
+        "n_susceptible": 1,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "unspecified",
+        "specimen_type": "wound_swab",
+        "site": "surgical_site",
+        "data_period": {
+          "start_year": 2023,
+          "end_year": 2023
+        },
+        "provenance": {
+          "pointer": 4
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Enterobacteriaceae",
+        "antibiotic": "amikacin",
+        "who_class": "highly_important",
+        "n_tested": 1,
+        "n_resistant": 0,
+        "n_intermediate": 0,
+        "n_susceptible": 1,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "unspecified",
+        "specimen_type": "wound_swab",
+        "site": "surgical_site",
+        "data_period": {
+          "start_year": 2023,
+          "end_year": 2023
+        },
+        "provenance": {
+          "pointer": 4
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Enterobacteriaceae",
+        "antibiotic": "tigecycline",
+        "who_class": "highly_important",
+        "n_tested": 1,
+        "n_resistant": 0,
+        "n_intermediate": 0,
+        "n_susceptible": 1,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "unspecified",
+        "specimen_type": "wound_swab",
+        "site": "surgical_site",
+        "data_period": {
+          "start_year": 2023,
+          "end_year": 2023
+        },
+        "provenance": {
+          "pointer": 4
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "clindamycin",
+        "who_class": "highly_important",
+        "n_tested": 3,
+        "n_resistant": 3,
+        "n_intermediate": 0,
+        "n_susceptible": 0,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "unspecified",
+        "specimen_type": "wound_swab",
+        "site": "surgical_site",
+        "data_period": {
+          "start_year": 2023,
+          "end_year": 2023
+        },
+        "notes": "A footnote states: 'Three patients with staphylococcus aureus and no antibiotic was indicated as to be sensitive'. This implies all 3 isolates were resistant to all antibiotics tested.",
+        "provenance": {
+          "pointer": 4
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "erythromycin",
+        "who_class": "highly_important",
+        "n_tested": 3,
+        "n_resistant": 3,
+        "n_intermediate": 0,
+        "n_susceptible": 0,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "unspecified",
+        "specimen_type": "wound_swab",
+        "site": "surgical_site",
+        "data_period": {
+          "start_year": 2023,
+          "end_year": 2023
+        },
+        "provenance": {
+          "pointer": 4
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "gentamicin",
+        "who_class": "highly_important",
+        "n_tested": 3,
+        "n_resistant": 3,
+        "n_intermediate": 0,
+        "n_susceptible": 0,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "unspecified",
+        "specimen_type": "wound_swab",
+        "site": "surgical_site",
+        "data_period": {
+          "start_year": 2023,
+          "end_year": 2023
+        },
+        "provenance": {
+          "pointer": 4
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "cefoxitin",
+        "who_class": "highly_important",
+        "n_tested": 3,
+        "n_resistant": 3,
+        "n_intermediate": 0,
+        "n_susceptible": 0,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "unspecified",
+        "specimen_type": "wound_swab",
+        "site": "surgical_site",
+        "data_period": {
+          "start_year": 2023,
+          "end_year": 2023
+        },
+        "mrsa_detection_method": "Cefoxitin screen suggests MRSA.",
+        "provenance": {
+          "pointer": 4
+        }
+      }
+    ],
+    "morbidity": [],
+    "mortality": [],
+    "reoperations": [],
+    "readmissions": [
+      {
+        "n_events": 12,
+        "n_total": 20,
+        "window_days": 30,
+        "definition_text": "Readmission of patients who developed SSIs.",
+        "subgroup_labels": {
+          "group": "patients with SSI"
+        },
+        "notes": "Reported as 'The majority of patients with SSIs (n = 12; 60%) were readmitted'. The denominator is the 20 patients with SSI.",
+        "provenance": {
+          "pointer": 3
+        }
+      }
+    ],
+    "length_of_stay": [],
+    "costs": [],
+    "risk_factors_effects": [
+      {
+        "exposure": "Ruptured membrane vs intact membrane",
+        "outcome": "ssi_incidence",
+        "p_value": 0.148,
+        "adjusted": false,
+        "n_included": 208,
+        "notes": "Univariate analysis. Chi-square = 2.0922. Raw data: SSI+/Ruptured=12, SSI-/Ruptured=81. SSI+/Intact=8, SSI-/Intact=107.",
+        "provenance": {
+          "pointer": 5
+        }
+      }
+    ]
+  },
+  "interventions": [],
+  "stewardship_guidelines": [
+    {
+      "guideline_name": "Surgical antibiotic prophylaxis (local practice)",
+      "year": 2023,
+      "adherence_definition": "Adherence to guideline of NOT prolonging prophylaxis post-operatively without indication.",
+      "adherence_rate": {
+        "n_adherent": 70,
+        "n_total": 208,
+        "percent": 33.65
+      },
+      "antibiotics_used": [
+        "pre-operative: ceftriaxone (all patients)",
+        "post-operative: ceftriaxone, metronidazole"
+      ],
+      "inappropriate_use_definition": "Receipt of post-operative antibiotics without a known infection or specific bacterial organism isolated.",
+      "provenance": {
+        "pointer": 6
+      }
+    }
+  ],
+  "policy_capacity": [
+    {
+      "domain": "stewardship_program",
+      "status_text": "The study concludes that there is a need to establish an antimicrobial stewardship (AMS) program at QECH.",
+      "indicators": {
+        "ams_program_needed": "true"
+      },
+      "provenance": {
+        "pointer": 7
+      }
+    },
+    {
+      "domain": "surveillance",
+      "status_text": "The study concludes that there is a need for routine surveillance of SSIs at QECH.",
+      "indicators": {
+        "ssi_surveillance_needed": "true"
+      },
+      "provenance": {
+        "pointer": 7
+      }
+    }
+  ],
+  "qualitative_thematic": {
+    "codes": [
+      {
+        "theme": "burden_incidence",
+        "subtheme": "other",
+        "summary": "The overall incidence of surgical site infections following caesarean section was 9.61% (20/208) over a 6-month period, which is considered high compared to developed countries.",
+        "evidence_quotes": [
+          {
+            "quote": "The overall cumulative incidence of SSI recorded at QECH during the study period was 9.61% (20 cases out of 208).",
+            "page": 1,
+            "section": "Abstract"
+          }
+        ],
+        "location_context": "QECH, Blantyre, Malawi",
+        "confidence": "high",
+        "provenance": {
+          "pointer": 2
+        }
+      },
+      {
+        "theme": "amr_prevalence",
+        "subtheme": "other",
+        "summary": "Among 20 patients with SSI, 5 (25%) had antimicrobial resistance. Out of 10 cultured samples, 5 yielded bacterial growth, with Staphylococcus aureus (3 isolates) being the most common, showing resistance to clindamycin, erythromycin, gentamicin, and cefoxitin. Acinetobacter baumannii and Enterobacteriaceae were also isolated and showed resistance to multiple antibiotics.",
+        "evidence_quotes": [
+          {
+            "quote": "5 (25%) out of 20 with SSIs had antimicrobial resistance following susceptibility testing.",
+            "page": 1,
+            "section": "Abstract"
+          },
+          {
+            "quote": "The Staphylococcus aureus bacteria isolated were resistant to most antibiotics, including clindamycin, erythromycin, gentamicin, and cefoxitin.",
+            "page": 5,
+            "section": "Bacterial isolates and susceptibility pattern"
+          }
+        ],
+        "location_context": "QECH, Blantyre, Malawi",
+        "confidence": "moderate",
+        "provenance": {
+          "pointer": 8
+        }
+      },
+      {
+        "theme": "drivers_amr",
+        "subtheme": "inappropriate_use",
+        "summary": "A high proportion of patients (66.35%) received both pre-operative and post-operative antibiotics without a confirmed bacterial infection, contributing to unnecessary antibiotic use. The most common post-operative regimen was a combination of metronidazole and ceftriaxone, even in uncomplicated cases.",
+        "evidence_quotes": [
+          {
+            "quote": "This study also revealed that 138 (66.35%) patients received both preop antibiotics (ceftriaxone) and post-CS antibiotics.",
+            "page": 4,
+            "section": "Antimicrobial use"
+          },
+          {
+            "quote": "No patient had a known infection or specific bacterial organism isolated in the current study at the time these antibiotics were prescribed and administered which may increase the risk for antimicrobial resistance spread.",
+            "page": 4,
+            "section": "Antimicrobial use"
+          }
+        ],
+        "location_context": "QECH, Blantyre, Malawi",
+        "confidence": "high",
+        "provenance": {
+          "pointer": 6
+        }
+      },
+      {
+        "theme": "policy_capacity",
+        "subtheme": "other",
+        "summary": "The study highlights a need to establish formal antimicrobial stewardship programs and routine surveillance for SSIs at the hospital to address the high SSI rate and inappropriate antibiotic use.",
+        "evidence_quotes": [
+          {
+            "quote": "Therefore, due to increased number of SSIs following CS with relative emergence of AMR ensure intensive infection prevention and control practices, establishing AMS program and routine surveillance of SSIs at QECH.",
+            "page": 1,
+            "section": "Conclusion"
+          }
+        ],
+        "location_context": "QECH, Blantyre, Malawi",
+        "confidence": "high",
+        "provenance": {
+          "pointer": 9
+        }
+      }
+    ],
+    "method": "unspecified"
+  },
+  "risk_of_bias": {
+    "tool_used": "not_reported",
+    "overall_judgement": "not_reported"
+  },
+  "funding_conflicts": {
+    "funding_sources": [
+      "B. BRAUN FOUNDATION"
+    ],
+    "conflicts_of_interest": "The authors declare no competing interests.",
+    "role_of_funder": "The funder had no role in the study design, data collection and analysis, decision to publish or manuscript preparation.",
+    "provenance": {
+      "pointer": 10
+    }
+  },
+  "notes_flags": [
+    {
+      "type": "missing_data",
+      "detail": "Antimicrobial susceptibility testing breakpoint standards (e.g., CLSI, EUCAST) and version are not specified.",
+      "provenance": {
+        "pointer": 11
+      }
+    },
+    {
+      "type": "missing_data",
+      "detail": "Data on mortality, length of stay, and costs associated with SSI were not reported."
+    },
+    {
+      "type": "inconsistency",
+      "detail": "In the Results section (page 5), the proportion of S. aureus is stated as (3, 15%), Enterobacteriaceae (1, 5%), Acinetobacter baumanni (1, 5%). The percentages seem to be out of total SSIs (n=20) rather than positive cultures (n=5). In the abstract, S. aureus is (3, 60%), which is correct for n=5.",
+      "provenance": {
+        "pointer": 12
+      }
+    }
+  ],
+  "provenance_index": [
+    {
+      "page": 3,
+      "section_heading": "Socio-demographic and clinical characteristics",
+      "table_id": "Table 1",
+      "text_snippet": "A total of 208 pregnant women who underwent CS were enrolled... The mean age was 26.1 years, with a standard deviation of 6.2 years... 20 (9.6%) of the women were HIV positive"
+    },
+    {
+      "page": 1,
+      "section_heading": "Abstract",
+      "text_snippet": "The overall cumulative incidence of SSI recorded at QECH during the study period was 9.61% (20 cases out of 208)."
+    },
+    {
+      "page": 4,
+      "section_heading": "Incidence of surgical site infection",
+      "table_id": "Table 3",
+      "text_snippet": "Of these, 19 (95%) reported superficial SSI, and 1 (5%) reported deep SSI following CS... The majority of patients with SSIs (n = 12; 60%) were readmitted"
+    },
+    {
+      "page": 6,
+      "table_id": "Table 4",
+      "text_snippet": "Antibiotic susceptibility tests against the identified organisms"
+    },
+    {
+      "page": 5,
+      "table_id": "Table 3",
+      "text_snippet": "Univariate analysis of possible risk factors for SSIs in women who underwent CS"
+    },
+    {
+      "page": 4,
+      "section_heading": "Antimicrobial use",
+      "text_snippet": "However, 138 (66.35%) patients received both preop antibiotics (ceftriaxone) and post-CS antibiotics"
+    },
+    {
+      "page": 7,
+      "section_heading": "Conclusion",
+      "text_snippet": "...establish AMS programs and routine surveillance of SSIs at QECH."
+    },
+    {
+      "page": 1,
+      "section_heading": "Abstract",
+      "text_snippet": "5 (25%) out of 20 with SSIs had antimicrobial resistance following susceptibility testing."
+    },
+    {
+      "page": 1,
+      "section_heading": "Conclusion",
+      "text_snippet": "The incidence of SSIs and inappropriate antimicrobial use following CS remains a challenge at QECH."
+    },
+    {
+      "page": 7,
+      "section_heading": "Funding",
+      "text_snippet": "Partial support from B. BRAUN FOUNDATION..."
+    },
+    {
+      "page": 1,
+      "section_heading": "Abstract",
+      "text_snippet": "susceptibility testing was conducted using the Kirby-Bauer disk diffusion method with results reported only as susceptible, intermediate, or resistant"
+    },
+    {
+      "page": 5,
+      "section_heading": "Bacterial isolates and susceptibility pattern",
+      "text_snippet": "Staphylococcus aureus was the most common organism (3, 15%). Other isolates included Enterobacteriaceae (1, 5%) and Acinetobacter baumanni (1, 5%)"
+    }
+  ],
+  "extraction_summary": {
+    "completeness_score": 90,
+    "missing_fields": [
+      "amr_definition_standard",
+      "breakpoint_version",
+      "length_of_stay",
+      "mortality",
+      "costs"
+    ],
+    "parser_warnings": [],
+    "confidence_overall": "high"
+  }
+}

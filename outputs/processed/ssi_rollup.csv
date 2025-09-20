@@ -1,0 +1,26 @@
+country,facility_level,setting,surgical_specialty,year_start,year_end,n_studies,events,total,pct,ci95_low,ci95_high,logit,se_logit
+"Benin, Ghana, India, Mexico, Nigeria, Rwanda, South Africa",mixed,hospital,general,2018.0,2020.0,1,1163,5284,22.01,20.91,23.15,-1.265093,0.033204
+Cameroon,mixed,hospital,general,2010.0,2011.0,1,338,424,79.72,75.63,83.27,1.368699,0.120775
+Ethiopia,tertiary,hospital,general,2016.0,2016.0,1,90,676,13.31,10.96,16.08,-1.87351,0.113215
+Ethiopia,tertiary,hospital,general,2017.0,2017.0,1,84,510,16.47,13.5,19.94,-1.623623,0.119382
+Ethiopia,tertiary,hospital,general,2019.0,2019.0,2,168,416,40.38,35.78,45.17,-0.389465,0.099923
+Ethiopia,tertiary,hospital,general,2019.0,2020.0,1,112,1124,9.96,8.35,11.85,-2.201185,0.099583
+Ethiopia,tertiary,hospital,general,2023.0,2023.0,1,29,183,15.85,11.27,21.83,-1.669657,0.202426
+Ethiopia,tertiary,hospital,general,2012.0,2012.0,1,96,128,75.0,66.84,81.7,1.098612,0.204124
+Ethiopia,tertiary,hospital,general,2020.0,2021.0,1,1245,1504,82.78,80.79,84.6,1.570063,0.068295
+Ethiopia,tertiary,hospital,general,2022.0,2023.0,1,252,456,55.26,50.67,59.76,0.211309,0.094182
+Ethiopia,tertiary,hospital,obstetrics/gynecology,2021.0,2021.0,1,33,262,12.6,9.11,17.16,-1.937214,0.186198
+Gabon,tertiary,hospital,general,2009.0,2009.0,1,40,3984,1.0,0.74,1.36,-4.591071,0.158914
+Gabon,tertiary,hospital,obstetrics/gynecology,2009.0,2009.0,1,8,106,7.55,3.87,14.19,-2.505526,0.367701
+Kenya,tertiary,hospital,general,,,1,45,62,72.58,60.41,82.12,0.973449,0.284685
+Kenya,tertiary,hospital,general,2008.0,2009.0,1,89,707,12.59,10.34,15.24,-1.937852,0.113376
+Malawi,tertiary,hospital,obstetrics/gynecology,2023.0,2023.0,1,40,624,6.41,4.74,8.61,-2.681022,0.163439
+Rwanda,secondary,hospital,obstetrics/gynecology,2019.0,2020.0,1,45,795,5.66,4.26,7.49,-2.813411,0.153478
+Rwanda,secondary,hospital,obstetrics/gynecology,2015.0,2016.0,1,24,602,3.99,2.69,5.86,-3.18152,0.208319
+Rwanda,tertiary,hospital,general,2017.0,2018.0,1,42,360,11.67,8.75,15.39,-2.024382,0.164177
+Rwanda,tertiary,hospital,orthopedics,2017.0,2018.0,1,26,217,11.98,8.31,16.98,-1.994177,0.209039
+Rwanda,tertiary,hospital,urology,2017.0,2018.0,1,0,11,0.0,0.0,25.88,-3.135494,1.44463
+Tanzania,tertiary,hospital,obstetrics/gynecology,2013.0,2013.0,2,874,2785,31.38,29.69,33.13,-0.782302,0.040834
+Tanzania,tertiary,hospital,obstetrics/gynecology,2015.0,2015.0,1,186,763,24.38,21.46,27.55,-1.132096,0.084318
+Tanzania,tertiary,hospital,orthopedics,2024.0,2024.0,1,108,312,34.62,29.55,40.05,-0.635989,0.119001
+Uganda,tertiary,hospital,obstetrics/gynecology,2017.0,2018.0,1,109,109,100.0,96.6,100.0,5.389072,1.417439

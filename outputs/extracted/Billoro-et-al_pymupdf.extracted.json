@@ -1,0 +1,645 @@
+{
+  "study": {
+    "study_id": "Billoro2019-Ethiopia-WUNEMMH-2017-01",
+    "title": "Evaluation of antimicrobial prophylaxis use and rate of surgical site infection in surgical ward of Wachemo University Nigist Eleni Mohammed Memorial Hospital, Southern Ethiopia: prospective cohort study",
+    "authors": [
+      "Bruke B. Billoro",
+      "Mengistu H. Nunemo",
+      "Seid E. Gelan"
+    ],
+    "journal": "BMC Infectious Diseases",
+    "year_publication": 2019,
+    "doi": "10.1186/s12879-019-3895-5",
+    "country_list": [
+      "Ethiopia"
+    ],
+    "country_iso3": "ETH",
+    "region_classification": "ECSA",
+    "surgical_specialty": [
+      "general",
+      "obstetrics/gynecology",
+      "other"
+    ],
+    "language": "English",
+    "data_source_type": "published_full_text",
+    "ownership_type": "public"
+  },
+  "design": {
+    "study_design": "cohort",
+    "randomized": false,
+    "prospective": true,
+    "single_center": true,
+    "multi_center": false,
+    "inclusion_criteria_text": "All patients who admitted for elective and emergency surgical procedures, and who fulfill eligibility criteria during the study period.",
+    "exclusion_criteria_text": "Patients who were not willing to participate, receiving antimicrobial during admission or stopped receiving within 48 hours before operation and patients with initial diagnosis suggestive of infection were excluded.",
+    "sample_frame": "patients",
+    "unit_of_analysis": "patient",
+    "duplicate_publication_likelihood": false
+  },
+  "setting": {
+    "facility_level": "tertiary",
+    "urban_rural": "mixed",
+    "care_setting": "hospital",
+    "country_specific_sites": [
+      "Wachemo University Nigist Eleni Mohammed Memorial Hospital (WUNEMMH), Hosanna, Ethiopia"
+    ]
+  },
+  "eligibility": {
+    "population": "All patients admitted for elective and emergency surgical procedures at WUNEMMH during the study period.",
+    "classification": "mixed",
+    "intervention": "Antimicrobial prophylaxis (ceftriaxone used as prophylactic antibiotic); administration timing and duration assessed.",
+    "comparator": "Timing of AMP administration (>1 hour vs <=1 hour before operation); surgery waiting time (>7 days vs <=7 days); operation time (>1 hour vs <=1 hour); smoking status.",
+    "outcomes_reported": [
+      "ssi_incidence",
+      "amr_prevalence",
+      "risk_factors_effects"
+    ],
+    "timeframe_years": "January 1, 2017 to September 1, 2017",
+    "setting_types": [
+      "hospital",
+      "surgical_unit"
+    ],
+    "included_designs": [
+      "cohort"
+    ],
+    "excluded_designs": [
+      "rct",
+      "case_control",
+      "cross_sectional",
+      "surveillance",
+      "other"
+    ]
+  },
+  "timeframe": {
+    "data_collection_start_year": 2017,
+    "data_collection_start_month": 1,
+    "data_collection_end_year": 2017,
+    "data_collection_end_month": 9,
+    "follow_up_window_days": 30
+  },
+  "populations": [
+    {
+      "arm_id": "overall",
+      "description": "All patients admitted for elective and emergency surgical procedures at WUNEMMH from Jan 1 to Sep 1, 2017.",
+      "n_participants": 255,
+      "n_procedures": 255,
+      "age_group": "mixed",
+      "elective_emergency": "mixed",
+      "wound_class": "unspecified",
+      "comorbidities_key": "Obesity (BMI >=30): 3.5%; Preoperative blood transfusion: 4.7%; Smoking: 24.7%; ASA II/III: 74.1%",
+      "surgical_specialties": [
+        "general",
+        "obstetrics/gynecology",
+        "other"
+      ],
+      "provenance": {
+        "page": 3,
+        "section_heading": "Result",
+        "table_id": "Table 1",
+        "text_snippet": "Twenty-five patients out of 280 patients were excluded based on the exclusion criteria. The analysis was done on a total of 255 patients."
+      }
+    }
+  ],
+  "definitions": {
+    "ssi_definition_standard": [
+      "CDC_NHSN"
+    ],
+    "ssi_window_days": 30,
+    "amr_definition_standard": [
+      "CLSI"
+    ],
+    "resistance_definition_text": "Disk diffusion test performed for sensitivity; resistance defined per standard operating procedure.",
+    "outcome_definitions_text": "SSI: infection at operative site within 30 days; AMR: resistance by disk diffusion; no explicit definitions for mortality, LOS, readmission, cost.",
+    "specimen_type": [
+      "wound_swab"
+    ]
+  },
+  "lab_methods": {
+    "specimen_collection_method": "Sterile swabs collected from wound exudates of patients who developed SSI, transferred to laboratory within 20 minutes at room temperature.",
+    "culture_method": "Inoculation on chocolate, blood, and Mac-Conkey agar; chocolate plate incubated in candle jar at 35–37°C for 24–48 hours; gram stain performed on culture growth; additional blood agar plate inoculated anaerobically at 35–37°C for 48–72 hours.",
+    "AST_method": [
+      "disk_diffusion"
+    ],
+    "organism_identification_method": "Gram stain and standard culture methods."
+  },
+  "outcomes": {
+    "ssi_incidence": [
+      {
+        "arm_id": "overall",
+        "denominator_type": "patients",
+        "ssi_type": "overall",
+        "n_ssi_events": 42,
+        "n_total": 255,
+        "rate_as_reported": {
+          "value": 16.5,
+          "unit": "percent"
+        },
+        "ascertainment_window_days": 30,
+        "data_period": {
+          "start_year": 2017,
+          "end_year": 2017
+        },
+        "subgroup_labels": {
+          "country": "Ethiopia",
+          "facility_level": "tertiary",
+          "setting": "hospital"
+        },
+        "notes": "SSI events ascertained during hospital stay and up to 30 days post-operation.",
+        "provenance": {
+          "page": 3,
+          "section_heading": "Rate of SSI",
+          "text_snippet": "Out of 255 patients, 42(16.5%) patients developed SSIs."
+        }
+      },
+      {
+        "arm_id": "clean",
+        "denominator_type": "procedures",
+        "ssi_type": "overall",
+        "n_ssi_events": 15,
+        "n_total": 144,
+        "rate_as_reported": {
+          "value": 10.4,
+          "unit": "percent"
+        },
+        "ascertainment_window_days": 30,
+        "data_period": {
+          "start_year": 2017,
+          "end_year": 2017
+        },
+        "subgroup_labels": {
+          "country": "Ethiopia",
+          "facility_level": "tertiary",
+          "setting": "hospital"
+        },
+        "notes": "SSI rate in clean wounds.",
+        "provenance": {
+          "page": 5,
+          "section_heading": "Discussion",
+          "text_snippet": "In our study, the rate of SSIs were 10.4% and 24.3% in the clean wound and in the clean-contaminated wound respectively."
+        }
+      },
+      {
+        "arm_id": "clean_contaminated",
+        "denominator_type": "procedures",
+        "ssi_type": "overall",
+        "n_ssi_events": 27,
+        "n_total": 111,
+        "rate_as_reported": {
+          "value": 24.3,
+          "unit": "percent"
+        },
+        "ascertainment_window_days": 30,
+        "data_period": {
+          "start_year": 2017,
+          "end_year": 2017
+        },
+        "subgroup_labels": {
+          "country": "Ethiopia",
+          "facility_level": "tertiary",
+          "setting": "hospital"
+        },
+        "notes": "SSI rate in clean-contaminated wounds.",
+        "provenance": {
+          "page": 5,
+          "section_heading": "Discussion",
+          "text_snippet": "In our study, the rate of SSIs were 10.4% and 24.3% in the clean wound and in the clean-contaminated wound respectively."
+        }
+      }
+    ],
+    "amr_proportions": [
+      {
+        "arm_id": "overall",
+        "pathogen": "Klebsiella pneumoniae",
+        "antibiotic": "ceftriaxone",
+        "who_class": "critically_important",
+        "n_tested": 9,
+        "n_resistant": 1,
+        "n_susceptible": 8,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2017,
+          "end_year": 2017
+        },
+        "zone_diameter_unit": "mm",
+        "notes": "88.9% susceptible, 11.1% resistant.",
+        "provenance": {
+          "page": 4,
+          "section_heading": "Table 4",
+          "table_id": "Table 4",
+          "text_snippet": "ceftriaxone\nResistant\n1 (11.1)\nSensitivity\n8 (88.9)"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Klebsiella pneumoniae",
+        "antibiotic": "ciprofloxacin",
+        "who_class": "critically_important",
+        "n_tested": 9,
+        "n_resistant": 1,
+        "n_susceptible": 8,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2017,
+          "end_year": 2017
+        },
+        "zone_diameter_unit": "mm",
+        "notes": "88.9% susceptible, 11.1% resistant.",
+        "provenance": {
+          "page": 4,
+          "section_heading": "Table 4",
+          "table_id": "Table 4",
+          "text_snippet": "ciprofloxacillin\nResistant\n1 (11.1)\nSensitivity\n8 (88.9)"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Klebsiella pneumoniae",
+        "antibiotic": "gentamicin",
+        "who_class": "critically_important",
+        "n_tested": 9,
+        "n_resistant": 3,
+        "n_susceptible": 6,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2017,
+          "end_year": 2017
+        },
+        "zone_diameter_unit": "mm",
+        "notes": "66.6% susceptible, 33.3% resistant.",
+        "provenance": {
+          "page": 4,
+          "section_heading": "Table 4",
+          "table_id": "Table 4",
+          "text_snippet": "gentamycin\nResistant\n3 (33.3)\nSensitivity\n6 (66.6)"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Klebsiella pneumoniae",
+        "antibiotic": "chloramphenicol",
+        "who_class": "highly_important",
+        "n_tested": 6,
+        "n_resistant": 2,
+        "n_susceptible": 4,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2017,
+          "end_year": 2017
+        },
+        "zone_diameter_unit": "mm",
+        "notes": "66.6% susceptible, 33.3% resistant.",
+        "provenance": {
+          "page": 4,
+          "section_heading": "Table 4",
+          "table_id": "Table 4",
+          "text_snippet": "chloramphenicol (CAF)\nResistant\n2 (33.3)\nSensitivity\n4 (66.6)"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "ceftriaxone",
+        "who_class": "critically_important",
+        "n_tested": 3,
+        "n_resistant": 0,
+        "n_susceptible": 3,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2017,
+          "end_year": 2017
+        },
+        "zone_diameter_unit": "mm",
+        "notes": "100% susceptible.",
+        "provenance": {
+          "page": 4,
+          "section_heading": "Table 4",
+          "table_id": "Table 4",
+          "text_snippet": "ceftriaxone\nResistant\n0\nSensitivity\n3 (100)"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "ciprofloxacin",
+        "who_class": "critically_important",
+        "n_tested": 4,
+        "n_resistant": 1,
+        "n_susceptible": 3,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2017,
+          "end_year": 2017
+        },
+        "zone_diameter_unit": "mm",
+        "notes": "75% susceptible, 25% resistant.",
+        "provenance": {
+          "page": 4,
+          "section_heading": "Table 4",
+          "table_id": "Table 4",
+          "text_snippet": "ciprofloxacillin\nResistant\n1 (25)\nSensitivity\n3 (75)"
+        }
+      }
+    ],
+    "morbidity": [],
+    "mortality": [],
+    "reoperations": [],
+    "readmissions": [],
+    "length_of_stay": [],
+    "costs": [],
+    "risk_factors_effects": [
+      {
+        "exposure": "Surgery waiting time >7 days",
+        "outcome": "ssi_incidence",
+        "effect_measure": "aOR",
+        "effect_value": 2.48,
+        "ci_lower": 1.28,
+        "ci_upper": 4.79,
+        "p_value": 0.007,
+        "adjusted": true,
+        "n_included": 255,
+        "notes": "Adjusted relative risk (ARR) reported.",
+        "provenance": {
+          "page": 5,
+          "section_heading": "Table 5",
+          "table_id": "Table 5",
+          "text_snippet": "Surgery waiting time\n>7 days\n33 (55%)\n27 (45%)\n1.92 (1.12–3.31)\n2.48 (1.28–4.79)\n0.007*"
+        }
+      },
+      {
+        "exposure": "Operation time >1 hour",
+        "outcome": "ssi_incidence",
+        "effect_measure": "aOR",
+        "effect_value": 2.13,
+        "ci_lower": 1.18,
+        "ci_upper": 3.86,
+        "p_value": 0.012,
+        "adjusted": true,
+        "n_included": 255,
+        "notes": "Adjusted relative risk (ARR) reported.",
+        "provenance": {
+          "page": 5,
+          "section_heading": "Table 5",
+          "table_id": "Table 5",
+          "text_snippet": "Operation time\n>1 h\n33 (32.4%)\n69 (67.6%)\n2.57 (1.56–4.23)\n2.13 (1.18–3.86)\n0.012*"
+        }
+      },
+      {
+        "exposure": "Administering antibiotic before 1 hour of operation",
+        "outcome": "ssi_incidence",
+        "effect_measure": "aOR",
+        "effect_value": 5.05,
+        "ci_lower": 1.79,
+        "ci_upper": 14.21,
+        "p_value": 0.002,
+        "adjusted": true,
+        "n_included": 255,
+        "notes": "Adjusted relative risk (ARR) reported.",
+        "provenance": {
+          "page": 5,
+          "section_heading": "Table 5",
+          "table_id": "Table 5",
+          "text_snippet": "Administering antibiotic before 1 h of operation\n> 1 h\n30 (20%)\n120 (80%)\n5.27 (2.05–13.54)\n5.05 (1.79–14.21)\n0.002*"
+        }
+      },
+      {
+        "exposure": "Smoking",
+        "outcome": "ssi_incidence",
+        "effect_measure": "aOR",
+        "effect_value": 8.01,
+        "ci_lower": 2.15,
+        "ci_upper": 29.84,
+        "p_value": 0.002,
+        "adjusted": true,
+        "n_included": 255,
+        "notes": "Adjusted relative risk (ARR) reported.",
+        "provenance": {
+          "page": 5,
+          "section_heading": "Table 5",
+          "table_id": "Table 5",
+          "text_snippet": "Smokers\nYes\n18 (30%)\n42 (70%)\n7.55 (2.50–22.78)\n8.01 (2.15–29.84)\n0.002*"
+        }
+      }
+    ]
+  },
+  "interventions": [
+    {
+      "type": "antibiotic_prophylaxis_protocol",
+      "description": "Ceftriaxone used as prophylactic antibiotic; timing of administration assessed (before 1 hour vs within 1 hour of operation).",
+      "implementation_level": "facility",
+      "comparator": "Timing of AMP administration",
+      "outcomes_measured": [
+        "ssi_incidence",
+        "amr_prevalence",
+        "risk_factors_effects"
+      ],
+      "effect_direction": "unclear",
+      "provenance": {
+        "page": 4,
+        "section_heading": "Sensitivity of causative organisms",
+        "text_snippet": "Ceftriaxone was used as prophylactic antibiotic in study area. Susceptibility test to identified organisms were done in eight drugs."
+      }
+    }
+  ],
+  "stewardship_guidelines": [],
+  "policy_capacity": [],
+  "qualitative_thematic": {
+    "codes": [
+      {
+        "theme": "burden_incidence",
+        "subtheme": "incidence",
+        "summary": "SSI rate was 16.5% among surgical patients at WUNEMMH, higher than developed countries but similar to other African settings.",
+        "evidence_quotes": [
+          {
+            "quote": "Out of 255 patients, 42(16.5%) patients developed SSIs.",
+            "page": 3,
+            "section": "Rate of SSI"
+          }
+        ],
+        "location_context": "Ethiopia, WUNEMMH",
+        "confidence": "high",
+        "provenance": {
+          "page": 3,
+          "section_heading": "Rate of SSI",
+          "text_snippet": "Out of 255 patients, 42(16.5%) patients developed SSIs."
+        }
+      },
+      {
+        "theme": "amr_prevalence",
+        "subtheme": "resistance patterns",
+        "summary": "Klebsiella pneumoniae was the most common SSI pathogen, with high sensitivity to ceftriaxone and ciprofloxacin; resistance to ampicillin, tetracycline, and erythromycin was noted.",
+        "evidence_quotes": [
+          {
+            "quote": "Klebsiella pneumonia was found to be the most common for 60.0% of isolates followed by Staphylococcus aureus (17.8%), Escherichia colli (11.1%) and Pseudomonas aeruginosa (11.1%).",
+            "page": 4,
+            "section": "Etiological organisms for SSIs"
+          },
+          {
+            "quote": "Klebsiella species were 88.9% susceptible to ciprofloxacin, ceftriaxone, and Pseudomonas aeruginosa was 100% susceptible to both drugs.",
+            "page": 4,
+            "section": "Sensitivity of causative organisms"
+          }
+        ],
+        "location_context": "Ethiopia, WUNEMMH",
+        "confidence": "high",
+        "provenance": {
+          "page": 4,
+          "section_heading": "Sensitivity of causative organisms",
+          "table_id": "Table 4",
+          "text_snippet": "Klebsiella species were 88.9% susceptible to ciprofloxacin, ceftriaxone, and Pseudomonas aeruginosa was 100% susceptible to both drugs."
+        }
+      },
+      {
+        "theme": "drivers_amr",
+        "subtheme": "inappropriate use",
+        "summary": "Unnecessarily prolonged administration of antibiotics contributes to antimicrobial resistance; AMP for long periods should be avoided.",
+        "evidence_quotes": [
+          {
+            "quote": "Antimicrobial resistance is one of world problem, which results partly due to unnecessarily administration of antibiotic for long period so administration of surgical AMP for long time should be avoided.",
+            "page": 6,
+            "section": "Conclusion"
+          }
+        ],
+        "location_context": "Ethiopia, WUNEMMH",
+        "confidence": "moderate",
+        "provenance": {
+          "page": 6,
+          "section_heading": "Conclusion",
+          "text_snippet": "Antimicrobial resistance is one of world problem, which results partly due to unnecessarily administration of antibiotic for long period so administration of surgical AMP for long time should be avoided."
+        }
+      },
+      {
+        "theme": "prevention_control",
+        "subtheme": "surveillance practices",
+        "summary": "Periodic surveillance and feedback to surgeons on SSI rates and associated factors are recommended to reduce SSI rates.",
+        "evidence_quotes": [
+          {
+            "quote": "A surveillance system for SSI with feedback of proper data to surgeons and hospital authorities is highly recommended to reduce SSI rate in WUNEMMH.",
+            "page": 7,
+            "section": "Conclusion"
+          }
+        ],
+        "location_context": "Ethiopia, WUNEMMH",
+        "confidence": "moderate",
+        "provenance": {
+          "page": 7,
+          "section_heading": "Conclusion",
+          "text_snippet": "A surveillance system for SSI with feedback of proper data to surgeons and hospital authorities is highly recommended to reduce SSI rate in WUNEMMH."
+        }
+      }
+    ]
+  },
+  "risk_of_bias": {
+    "tool_used": "not_reported",
+    "domain_judgements": {},
+    "overall_judgement": "not_reported",
+    "provenance": {}
+  },
+  "funding_conflicts": {
+    "funding_sources": [
+      "Research grant from Wachemo University [Hosanna, Ethiopia]"
+    ],
+    "conflicts_of_interest": "The authors declare that they have no competing interests.",
+    "role_of_funder": "The funders had no role in the design, collection, investigation and explanation of data and in preparing the manuscript.",
+    "provenance": {
+      "page": 7,
+      "section_heading": "Funding",
+      "text_snippet": "The study was supported by research grant from Wachemo University [Hosanna, Ethiopia]. The funders had no role in the design, collection, investigation and explanation of data and in preparing the manuscript."
+    }
+  },
+  "notes_flags": [
+    {
+      "type": [
+        "missing_data"
+      ],
+      "detail": "No data on mortality, reoperations, readmissions, length of stay, or costs.",
+      "provenance": {}
+    },
+    {
+      "type": [
+        "unit_unclear"
+      ],
+      "detail": "No explicit breakpoint version or MIC/zone diameter units reported for AST.",
+      "provenance": {
+        "page": 4,
+        "section_heading": "Sensitivity pattern of antibiotics",
+        "table_id": "Table 4",
+        "text_snippet": "Disk diffusion test was performed for testing sensitivity [22]."
+      }
+    }
+  ],
+  "provenance_index": [
+    {
+      "page": 1,
+      "section_heading": "Abstract",
+      "text_snippet": "This study aimed to determine the rate, associated factors of surgical site infection, and identification of causative agents and their antimicrobial susceptibility in surgical ward of Wachemo University Nigist Eleni Mohamed Memorial Hospital (WUNEMMH), Southern Ethiopia."
+    },
+    {
+      "page": 3,
+      "section_heading": "Rate of SSI",
+      "text_snippet": "Out of 255 patients, 42(16.5%) patients developed SSIs."
+    },
+    {
+      "page": 4,
+      "section_heading": "Table 4",
+      "table_id": "Table 4",
+      "text_snippet": "ceftriaxone\nResistant\n1 (11.1)\nSensitivity\n8 (88.9)"
+    },
+    {
+      "page": 5,
+      "section_heading": "Table 5",
+      "table_id": "Table 5",
+      "text_snippet": "Surgery waiting time\n>7 days\n33 (55%)\n27 (45%)\n1.92 (1.12–3.31)\n2.48 (1.28–4.79)\n0.007*"
+    },
+    {
+      "page": 6,
+      "section_heading": "Conclusion",
+      "text_snippet": "Antimicrobial resistance is one of world problem, which results partly due to unnecessarily administration of antibiotic for long period so administration of surgical AMP for long time should be avoided."
+    },
+    {
+      "page": 7,
+      "section_heading": "Funding",
+      "text_snippet": "The study was supported by research grant from Wachemo University [Hosanna, Ethiopia]. The funders had no role in the design, collection, investigation and explanation of data and in preparing the manuscript."
+    }
+  ],
+  "extraction_summary": {
+    "completeness_score": 80,
+    "missing_fields": [
+      "mortality",
+      "reoperations",
+      "readmissions",
+      "length_of_stay",
+      "costs",
+      "stewardship_guidelines",
+      "policy_capacity",
+      "qualitative method context",
+      "lab QC measures",
+      "breakpoint version",
+      "MIC/zone diameter units"
+    ],
+    "parser_warnings": [
+      "No explicit reporting of mortality, LOS, reoperations, readmissions, or costs.",
+      "No stewardship guideline adherence data.",
+      "No policy capacity indicators.",
+      "No qualitative method details."
+    ],
+    "confidence_overall": "high"
+  }
+}

@@ -1,0 +1,557 @@
+{
+  "study": {
+    "study_id": "Ali2023-Ethiopia-DessieHospital-2016-01",
+    "title": "Incidence of surgical site infection, bacterial isolate, and their antimicrobial susceptibility pattern among patients who underwent surgery at Dessie Comprehensive Specialized Hospital, Northeast Ethiopia",
+    "authors": [
+      "Abdurrahman Ali",
+      "Daniel Gebretsadik",
+      "Kassu Desta"
+    ],
+    "journal": "SAGE Open Medicine",
+    "year_publication": 2023,
+    "doi": "10.1177/20503121231172345",
+    "country_list": [
+      "Ethiopia"
+    ],
+    "country_iso3": "ETH",
+    "region_classification": "ECSA",
+    "surgical_specialty": [
+      "general",
+      "obstetrics/gynecology"
+    ],
+    "language": "English",
+    "data_source_type": "published_full_text",
+    "ownership_type": "public",
+    "bed_capacity": 200,
+    "surgical_volume_per_year": 3650
+  },
+  "design": {
+    "study_design": "cross_sectional",
+    "randomized": false,
+    "prospective": false,
+    "single_center": true,
+    "multi_center": false,
+    "inclusion_criteria_text": "Patients admitted to obstetrics and gynecology and general surgical wards for surgery who underwent clean or clean contaminated surgeries and/or those who were willing to give informed consent.",
+    "exclusion_criteria_text": "Infection occurring 30 days after the operation if no implant was in place, infection on the episiotomy, contaminated wounds, procedures in which healthy skin was not incised (e.g., opening abscesses), pediatrics below the age of 15 years, and orthopedic surgeries.",
+    "sample_frame": "patients",
+    "unit_of_analysis": "patient",
+    "duplicate_publication_likelihood": false
+  },
+  "setting": {
+    "facility_level": "tertiary",
+    "urban_rural": "mixed",
+    "care_setting": "hospital",
+    "country_specific_sites": [
+      "Dessie Comprehensive Specialized Hospital, South Wollo Zone, Amhara Region, Northeast Ethiopia"
+    ]
+  },
+  "eligibility": {
+    "population": "All patients from obstetrics and gynecology and general surgical wards who underwent clean and clean contaminated surgeries during the study period.",
+    "classification": "adult",
+    "intervention": "Preoperative antibiotic prophylaxis (ampicillin and ceftriaxone alone or with metronidazole)",
+    "comparator": "None",
+    "outcomes_reported": [
+      "ssi_incidence",
+      "amr_prevalence"
+    ],
+    "timeframe_years": "July 22 to October 25, 2016",
+    "setting_types": [
+      "hospital",
+      "surgical_unit"
+    ],
+    "included_designs": [
+      "cross_sectional"
+    ],
+    "excluded_designs": [
+      "rct",
+      "cohort",
+      "case_control",
+      "surveillance",
+      "other"
+    ]
+  },
+  "timeframe": {
+    "data_collection_start_year": 2016,
+    "data_collection_start_month": 7,
+    "data_collection_end_year": 2016,
+    "data_collection_end_month": 10,
+    "follow_up_window_days": 30
+  },
+  "populations": [
+    {
+      "arm_id": "overall",
+      "description": "All adult patients (≥15 years) undergoing clean or clean contaminated surgery in general surgery and obstetrics/gynecology wards",
+      "n_participants": 338,
+      "n_procedures": 338,
+      "age_group": "adult",
+      "elective_emergency": "unspecified",
+      "wound_class": "clean_contaminated",
+      "surgical_specialties": [
+        "general",
+        "obstetrics/gynecology"
+      ],
+      "provenance": {
+        "page": 2,
+        "section_heading": "Population",
+        "text_snippet": "All patients from obstetrics and gynecology and general surgical wards who underwent clean and clean contaminated surgeries during the study period"
+      }
+    }
+  ],
+  "definitions": {
+    "ssi_definition_standard": [
+      "CDC_NHSN"
+    ],
+    "ssi_window_days": 30,
+    "amr_definition_standard": [
+      "CLSI",
+      "ECDC"
+    ],
+    "breakpoint_version": "CLSI M100-S24",
+    "resistance_definition_text": "Antibiotic susceptibility patterns were reported by measuring the zone of inhibition on a millimeter scale. The antibiotic discs were reported as susceptible, intermediate, susceptible-dose dependent, and resistant, based on the criteria provided by CLSI document M100-S24. MDR defined per ECDC: non-susceptible to at least one agent in three or more antimicrobial categories.",
+    "outcome_definitions_text": "SSI cases were defined by surgical and obstetrics and gynecology residents who had provided adequate information regarding the CDC SSI criteria.",
+    "specimen_type": [
+      "wound_swab"
+    ]
+  },
+  "lab_methods": {
+    "specimen_collection_method": "Aseptic collection of wound swabs from depth of wound with sterile cotton swab sticks moistened with sterile saline before cleaning with antiseptic.",
+    "culture_method": "Aerobic culture on sheep blood agar, MacConkey agar, and Mannitol salt agar incubated at 37°C for 24–48h.",
+    "AST_method": [
+      "disk_diffusion"
+    ],
+    "QC_measures": "International control bacterial strains used: E. coli ATCC 25922, S. aureus ATCC 25923, Pseudomonas aeruginosa ATCC 27853. SOPs followed for sample collection, transport, culture, and susceptibility testing.",
+    "organism_identification_method": "Morphology, Gram stain, and relevant biochemical tests.",
+    "contamination_handling": "Aseptic techniques followed in all steps; mixed growth colonies subcultured for pure colonies.",
+    "lab_capacity_notes": "Anaerobic bacterial pathogens could not be isolated due to lack of laboratory facilities."
+  },
+  "outcomes": {
+    "ssi_incidence": [
+      {
+        "arm_id": "overall",
+        "denominator_type": "patients",
+        "ssi_type": "overall",
+        "n_ssi_events": 49,
+        "n_total": 338,
+        "rate_as_reported": {
+          "value": 14.5,
+          "unit": "percent"
+        },
+        "ascertainment_window_days": 30,
+        "data_period": {
+          "start_year": 2016,
+          "end_year": 2016
+        },
+        "subgroup_labels": {
+          "country": "Ethiopia",
+          "facility_level": "tertiary",
+          "setting": "hospital"
+        },
+        "notes": "Clinical SSI diagnosis; culture-confirmed SSI in 41/338 (12.13%)",
+        "provenance": {
+          "page": 4,
+          "section_heading": "Culture results",
+          "text_snippet": "Forty-nine (14.5%) of the total study subjects were clinically diagnosed with SSI"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "denominator_type": "patients",
+        "ssi_type": "overall",
+        "n_ssi_events": 41,
+        "n_total": 338,
+        "rate_as_reported": {
+          "value": 12.13,
+          "unit": "percent"
+        },
+        "ascertainment_window_days": 30,
+        "data_period": {
+          "start_year": 2016,
+          "end_year": 2016
+        },
+        "subgroup_labels": {
+          "country": "Ethiopia",
+          "facility_level": "tertiary",
+          "setting": "hospital"
+        },
+        "notes": "Culture-confirmed SSI",
+        "provenance": {
+          "page": 4,
+          "section_heading": "Culture results",
+          "text_snippet": "Bacterial growth was detected in 41 (83.7%) of the 49 wound swabs, resulting in a 12.13% overall prevalence of bacterial SSI."
+        }
+      }
+    ],
+    "amr_proportions": [
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "penicillin",
+        "who_class": "important",
+        "n_tested": 14,
+        "n_resistant": 14,
+        "n_susceptible": 0,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI M100-S24",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2016,
+          "end_year": 2016
+        },
+        "mdr_definition_text": "ECDC: non-susceptible to at least one agent in three or more antimicrobial categories.",
+        "n_mdr": 9,
+        "mrsa_detection_method": "Cefoxitin (30 μg) disk diffusion; zone diameter ≤21 mm considered resistant",
+        "zone_diameter_unit": "mm",
+        "notes": "100% resistance to penicillin; 6/14 (42.86%) MRSA",
+        "provenance": {
+          "page": 7,
+          "section_heading": "Antibiotic susceptibility pattern",
+          "table_id": "Table 5",
+          "text_snippet": "100% of the Staphylococcus species were resistant to penicillin"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Staphylococcus aureus",
+        "antibiotic": "cefoxitin",
+        "who_class": "important",
+        "n_tested": 14,
+        "n_resistant": 6,
+        "n_susceptible": 8,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI M100-S24",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2016,
+          "end_year": 2016
+        },
+        "mdr_definition_text": "ECDC: non-susceptible to at least one agent in three or more antimicrobial categories.",
+        "n_mdr": 9,
+        "mrsa_detection_method": "Cefoxitin (30 μg) disk diffusion; zone diameter ≤21 mm considered resistant",
+        "zone_diameter_unit": "mm",
+        "notes": "6/14 (42.86%) MRSA",
+        "provenance": {
+          "page": 7,
+          "section_heading": "Antibiotic susceptibility pattern",
+          "table_id": "Table 5",
+          "text_snippet": "Out of 14 S. aureus species, 6 (42.86%) were found to be methicillin-resistant"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Escherichia coli",
+        "antibiotic": "ampicillin",
+        "who_class": "important",
+        "n_tested": 9,
+        "n_resistant": 8,
+        "n_susceptible": 1,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI M100-S24",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2016,
+          "end_year": 2016
+        },
+        "mdr_definition_text": "ECDC: non-susceptible to at least one agent in three or more antimicrobial categories.",
+        "n_mdr": 8,
+        "esbl_test": "Double disc approximation method",
+        "n_esbl_positive": 6,
+        "zone_diameter_unit": "mm",
+        "notes": "66.67% ESBL-producing strains",
+        "provenance": {
+          "page": 8,
+          "section_heading": "Antibiotic susceptibility pattern",
+          "table_id": "Table 5",
+          "text_snippet": "About 66.67% of E. coli ... found to be ESBL-producing strains"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Klebsiella pneumoniae",
+        "antibiotic": "ampicillin",
+        "who_class": "important",
+        "n_tested": 7,
+        "n_resistant": 7,
+        "n_susceptible": 0,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI M100-S24",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2016,
+          "end_year": 2016
+        },
+        "mdr_definition_text": "ECDC: non-susceptible to at least one agent in three or more antimicrobial categories.",
+        "n_mdr": 7,
+        "esbl_test": "Double disc approximation method",
+        "n_esbl_positive": 2,
+        "zone_diameter_unit": "mm",
+        "notes": "2/7 ESBL-producing strains",
+        "provenance": {
+          "page": 8,
+          "section_heading": "Antibiotic susceptibility pattern",
+          "table_id": "Table 5",
+          "text_snippet": "two of the K. pneumoniae species were found to be ESBL-producing strains"
+        }
+      },
+      {
+        "arm_id": "overall",
+        "pathogen": "Enterobacteriaceae",
+        "antibiotic": "ampicillin",
+        "who_class": "important",
+        "n_tested": 23,
+        "n_resistant": 21,
+        "n_susceptible": 2,
+        "ast_method": "disk_diffusion",
+        "breakpoint_standard": "CLSI",
+        "breakpoint_version": "CLSI M100-S24",
+        "specimen_type": "wound_swab",
+        "site": "surgical site",
+        "data_period": {
+          "start_year": 2016,
+          "end_year": 2016
+        },
+        "mdr_definition_text": "ECDC: non-susceptible to at least one agent in three or more antimicrobial categories.",
+        "zone_diameter_unit": "mm",
+        "notes": "91.3% resistance to ampicillin",
+        "provenance": {
+          "page": 9,
+          "section_heading": "Antibiotic susceptibility pattern",
+          "text_snippet": "The highest resistance which is exhibited by Enterobacteriaceae isolates was for ampicillin (91.3%)"
+        }
+      }
+    ],
+    "morbidity": [],
+    "mortality": [],
+    "reoperations": [],
+    "readmissions": [],
+    "length_of_stay": [
+      {
+        "group": "overall",
+        "mean_days": 35.25,
+        "sd_days": 15.07,
+        "median_days": 28,
+        "n": 338,
+        "notes": "Mean age reported; no LOS data available. Flagged as missing_data.",
+        "provenance": {
+          "page": 4,
+          "section_heading": "Sociodemographic characteristic of the study participants",
+          "table_id": "Table 1",
+          "text_snippet": "Mean ± SD 35.25 ± 15.07"
+        }
+      }
+    ],
+    "costs": [],
+    "risk_factors_effects": []
+  },
+  "interventions": [
+    {
+      "type": "antibiotic_prophylaxis_protocol",
+      "description": "Preoperative antibiotic prophylaxis with ampicillin and ceftriaxone (alone or with metronidazole) given to 97.1% of patients.",
+      "implementation_level": "facility",
+      "outcomes_measured": [
+        "ssi_incidence",
+        "amr_prevalence"
+      ],
+      "effect_direction": "unclear",
+      "provenance": {
+        "page": 10,
+        "section_heading": "Discussion",
+        "text_snippet": "ampicillin and ceftriaxone (alone or together with metronidazole) were the antibiotics given to 97.1% of the patients who had received preoperative antibiotic prophylaxis"
+      }
+    }
+  ],
+  "stewardship_guidelines": [],
+  "policy_capacity": [],
+  "qualitative_thematic": {
+    "codes": [
+      {
+        "theme": "burden_incidence",
+        "subtheme": "epidemiology of SSI",
+        "summary": "The study found an average rate of surgical site infection (SSI) among patients undergoing surgery, with higher rates in general surgery compared to obstetrics/gynecology.",
+        "evidence_quotes": [
+          {
+            "quote": "Clinically, 49 patients (14.5%) were diagnosed as developing surgical site infection, and wound swabs were taken for bacteriological study.",
+            "page": 1,
+            "section": "Abstract"
+          },
+          {
+            "quote": "The rate of SSI was 16.8% and 9.2% in the general surgical ward and the obstetrics and gynecology ward, respectively.",
+            "page": 4,
+            "section": "The rate and distribution of SSI"
+          }
+        ],
+        "location_context": "Dessie Comprehensive Specialized Hospital, Ethiopia",
+        "confidence": "high",
+        "provenance": {
+          "page": 1,
+          "section_heading": "Abstract",
+          "text_snippet": "Clinically, 49 patients (14.5%) were diagnosed as developing surgical site infection"
+        }
+      },
+      {
+        "theme": "amr_prevalence",
+        "subtheme": "resistance patterns and rates by pathogen/antibiotic",
+        "summary": "A high proportion of bacterial isolates from SSI cases were multidrug resistant, especially among Gram-negative organisms, with notable resistance to commonly used antibiotics.",
+        "evidence_quotes": [
+          {
+            "quote": "Out of the total bacterial isolates, 38 (79.2%) isolates were found to be multidrug resistant, and the rate of multidrug resistant was higher among Gram-negative isolates.",
+            "page": 1,
+            "section": "Abstract"
+          },
+          {
+            "quote": "The highest resistance which is exhibited by Enterobacteriaceae isolates was for ampicillin (91.3%), followed by augmentin (87%), cotrimoxazole (82.6%), and ceftriaxone (78.3).",
+            "page": 9,
+            "section": "Discussion"
+          }
+        ],
+        "location_context": "Dessie Comprehensive Specialized Hospital, Ethiopia",
+        "confidence": "high",
+        "provenance": {
+          "page": 1,
+          "section_heading": "Abstract",
+          "text_snippet": "Out of the total bacterial isolates, 38 (79.2%) isolates were found to be multidrug resistant"
+        }
+      },
+      {
+        "theme": "drivers_amr",
+        "subtheme": "determinants (inappropriate use, IPC gaps, diagnostics delays, policy failures, supply chain, workforce, patient factors)",
+        "summary": "The high rate of multidrug resistance is attributed to antimicrobial drug overuse, overdosing, improper susceptibility testing, unethical drug promotion, self-medication, and prolonged hospitalization.",
+        "evidence_quotes": [
+          {
+            "quote": "This coincides with the fact that the problem of MDR continues to grow, especially in developing countries, as a result of antimicrobial drug overuse, overdosing, drug prescription with an improper susceptibility test, unethical drug promotion, self-medication, and a long duration of hospitalization.",
+            "page": 10,
+            "section": "Discussion"
+          }
+        ],
+        "location_context": "Dessie Comprehensive Specialized Hospital, Ethiopia",
+        "confidence": "moderate",
+        "provenance": {
+          "page": 10,
+          "section_heading": "Discussion",
+          "text_snippet": "problem of MDR continues to grow, especially in developing countries, as a result of antimicrobial drug overuse"
+        }
+      }
+    ]
+  },
+  "risk_of_bias": {
+    "tool_used": "not_reported",
+    "domain_judgements": {},
+    "overall_judgement": "not_reported",
+    "provenance": {}
+  },
+  "funding_conflicts": {
+    "funding_sources": [
+      "No financial support for the research, authorship, and/or publication of this article."
+    ],
+    "conflicts_of_interest": "No potential conflicts of interest with respect to the research, authorship, and/or publication of this article.",
+    "provenance": {
+      "page": 11,
+      "section_heading": "Funding",
+      "text_snippet": "The author(s) received no financial support for the research, authorship, and/or publication of this article."
+    }
+  },
+  "notes_flags": [
+    {
+      "type": [
+        "missing_data"
+      ],
+      "detail": "No data reported for mortality, reoperations, readmissions, costs, or risk factor effects.",
+      "provenance": {}
+    },
+    {
+      "type": [
+        "unit_unclear"
+      ],
+      "detail": "Length of stay data not reported; mean and SD given for age, not LOS.",
+      "provenance": {
+        "page": 4,
+        "section_heading": "Sociodemographic characteristic of the study participants",
+        "table_id": "Table 1",
+        "text_snippet": "Mean ± SD 35.25 ± 15.07"
+      }
+    },
+    {
+      "type": "dropped_ssi_rows",
+      "detail": "Dropped 2 SSI rows missing required counts (n_ssi_events and/or n_total)"
+    }
+  ],
+  "provenance_index": [
+    {
+      "page": 1,
+      "section_heading": "Abstract",
+      "text_snippet": "Clinically, 49 patients (14.5%) were diagnosed as developing surgical site infection"
+    },
+    {
+      "page": 4,
+      "section_heading": "Culture results",
+      "text_snippet": "Bacterial growth was detected in 41 (83.7%) of the 49 wound swabs, resulting in a 12.13% overall prevalence of bacterial SSI."
+    },
+    {
+      "page": 4,
+      "section_heading": "The rate and distribution of SSI",
+      "text_snippet": "The rate of SSI was 16.8% and 9.2% in the general surgical ward and the obstetrics and gynecology ward, respectively."
+    },
+    {
+      "page": 7,
+      "section_heading": "Antibiotic susceptibility pattern",
+      "table_id": "Table 5",
+      "text_snippet": "100% of the Staphylococcus species were resistant to penicillin"
+    },
+    {
+      "page": 8,
+      "section_heading": "Antibiotic susceptibility pattern",
+      "table_id": "Table 5",
+      "text_snippet": "About 66.67% of E. coli ... found to be ESBL-producing strains"
+    },
+    {
+      "page": 9,
+      "section_heading": "Antibiotic susceptibility pattern",
+      "text_snippet": "The highest resistance which is exhibited by Enterobacteriaceae isolates was for ampicillin (91.3%)"
+    },
+    {
+      "page": 10,
+      "section_heading": "Discussion",
+      "text_snippet": "ampicillin and ceftriaxone (alone or together with metronidazole) were the antibiotics given to 97.1% of the patients who had received preoperative antibiotic prophylaxis"
+    },
+    {
+      "page": 4,
+      "section_heading": "Sociodemographic characteristic of the study participants",
+      "table_id": "Table 1",
+      "text_snippet": "Mean ± SD 35.25 ± 15.07"
+    },
+    {
+      "page": 11,
+      "section_heading": "Funding",
+      "text_snippet": "The author(s) received no financial support for the research, authorship, and/or publication of this article."
+    }
+  ],
+  "extraction_summary": {
+    "completeness_score": 80,
+    "missing_fields": [
+      "mortality",
+      "reoperations",
+      "readmissions",
+      "costs",
+      "risk_factors_effects",
+      "stewardship_guidelines",
+      "policy_capacity",
+      "qualitative method context",
+      "length_of_stay (true LOS)",
+      "comorbidities_key"
+    ],
+    "parser_warnings": [
+      "No data for mortality, reoperations, readmissions, costs, or risk factor effects.",
+      "Mean and SD reported for age, not length of stay.",
+      "No stewardship guidelines or policy capacity data reported.",
+      "No qualitative method context reported."
+    ],
+    "confidence_overall": "high"
+  }
+}
