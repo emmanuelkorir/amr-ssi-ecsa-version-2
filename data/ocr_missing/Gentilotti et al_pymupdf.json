@@ -1,0 +1,2438 @@
+[
+  {
+    "page": 1,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      60.71808624267578,
+      91.54707336425781,
+      534.5006713867188,
+      104.54707336425781
+    ],
+    "text": "RESEARCH\nOpen Access\n"
+  },
+  {
+    "page": 1,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      121.50559997558594,
+      457.9666748046875,
+      274.8920593261719
+    ],
+    "text": "Implementing a combined infection\nprevention and control with antimicrobial\nstewardship joint program to prevent\ncaesarean section surgical site infections\nand antimicrobial resistance: a Tanzanian\ntertiary hospital experience\n"
+  },
+  {
+    "page": 1,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      282.8141784667969,
+      523.8984375,
+      323.9978942871094
+    ],
+    "text": "Elisa Gentilotti1,2*†\n, Pasquale De Nardo1,2†, Boniface Nguhuni1,2, Alessandro Piscini1,2, Caroline Damian3,\nFrancesco Vairo1, Zainab Chaula2, Paola Mencarini1, Peter Torokaa2, Alimuddin Zumla4,5, Emanuele Nicastri1 and\nGiuseppe Ippolito1\n"
+  },
+  {
+    "page": 1,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      63.21260070800781,
+      352.09661865234375,
+      101.68311309814453,
+      362.3966369628906
+    ],
+    "text": "Abstract\n"
+  },
+  {
+    "page": 1,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      63.21260070800781,
+      370.356689453125,
+      518.5211791992188,
+      416.3571472167969
+    ],
+    "text": "Background: Surgical site infections are a leading cause of morbidity and mortality after caesarean section,\nespecially in Low and Middle Income Countries. We hypothesized that a combined infection prevention and\ncontrol with antimicrobial stewardship joint program would decrease the rate of post- caesarean section surgical\nsite infections at the Obstetrics & Gynaecology Department of a Tanzanian tertiary hospital.\n"
+  },
+  {
+    "page": 1,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      63.21260070800781,
+      421.3811950683594,
+      530.6253662109375,
+      479.3437805175781
+    ],
+    "text": "Methods: The intervention included: 1. formal and on-job trainings on infection prevention and control; 2. evidence-\nbased education on antimicrobial resistance and good antimicrobial prescribing practice. A second survey was performed\nto determine the impact of the intervention. The primary outcome of the study was post-caesarean section surgical site\ninfections prevalence and secondary outcome the determinant factors of surgical site infections before/after the\nintervention and overall. The microbiological characteristics and patterns of antimicrobial resistance were ascertained.\n"
+  },
+  {
+    "page": 1,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      63.21260070800781,
+      485.9118957519531,
+      146.49636840820312,
+      493.91180419921875
+    ],
+    "text": "(Continued on next page)\n"
+  },
+  {
+    "page": 1,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      180.340087890625,
+      662.0595092773438,
+      519.9008178710938,
+      732.8899536132812
+    ],
+    "text": "© The Author(s). 2020 Open Access This article is licensed under a Creative Commons Attribution 4.0 International License,\nwhich permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give\nappropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if\nchanges were made. The images or other third party material in this article are included in the article's Creative Commons\nlicence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons\nlicence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain\npermission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.\nThe Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the\ndata made available in this article, unless otherwise stated in a credit line to the data.\n"
+  },
+  {
+    "page": 1,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      56.692779541015625,
+      590.7832641601562,
+      287.58624267578125,
+      652.2544555664062
+    ],
+    "text": "* Correspondence: dr.elisagentilotti@gmail.com\n†Elisa Gentilotti and Pasquale De Nardo contributed equally to this work.\n1”Lazzaro Spallanzani” National Institute for Infectious Diseases-IRCCS, Via\nPortuense 292, Rome, Italy\n2Resource Centre for Infectious Diseases, Dodoma Regional Referral Hospital,\nDodoma, Tanzania\nFull list of author information is available at the end of the article\n"
+  },
+  {
+    "page": 1,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      56.692100524902344,
+      32.82426834106445,
+      317.5344543457031,
+      50.8016471862793
+    ],
+    "text": "Gentilotti et al. Antimicrobial Resistance and Infection Control            (2020) 9:69 \nhttps://doi.org/10.1186/s13756-020-00740-7\n"
+  },
+  {
+    "page": 2,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      63.21159362792969,
+      93.8805160522461,
+      529.6602783203125,
+      186.35440063476562
+    ],
+    "text": "(Continued from previous page)\nResults: Total 464 and 573 women were surveyed before and after the intervention, respectively. After the intervention,\nthe antibiotic prophylaxis was administered to a significantly higher number of patients (98% vs 2%, p < 0.001), caesarean\nsections were performed by more qualified operators (40% vs 28%, p = 0.001), with higher rates of Pfannenstiel skin\nincisions (29% vs 18%, p < 0.001) and of absorbable continuous intradermic sutures (30% vs 19%, p < 0.001). The total\nnumber of post-caesarean section surgical site infections was 225 (48%) in the pre-intervention and 95 (17%) in the post\nintervention group (p < 0.001). A low prevalence of gram-positive isolates and of methicillin-resistant Staphylococus aureus\nwas detected in the post-intervention survey.\n"
+  },
+  {
+    "page": 2,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      63.21161651611328,
+      191.37841796875,
+      508.2841796875,
+      213.34066772460938
+    ],
+    "text": "Conclusions: Further researches are needed to better understand the potential of a hospital-based multidisciplinary\napproach to surgical site infections and antimicrobial resistance prevention in resource-constrained settings.\n"
+  },
+  {
+    "page": 2,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      63.210594177246094,
+      220.3487548828125,
+      528.9923706054688,
+      242.36795043945312
+    ],
+    "text": "Keywords: Caesarean section, Surgical site infection, Antimicrobial resistance, Antimicrobial stewardship, Resource-limited\nsettings\n"
+  },
+  {
+    "page": 2,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      56.69288635253906,
+      262.5785217285156,
+      290.593017578125,
+      717.0438232421875
+    ],
+    "text": "Background\nHealth-care associated infections (HAIs) and antimicro-\nbial resistance (AMR) are major global health challenges\nrecognized worldwide The spread of HAIs and AMR is\nparticularly alarming in low and middle income coun-\ntries (LMICs) [1, 2] where high level of resistance to\ncommonly prescribed antibiotics together with lack of\nlocal AMR surveillance systems need urgent attention\n[3, 4]. According to the World Health Organization\n(WHO), HAIs are increasing at alarming high rates in\nLMICs, being two- to 20-times higher than in high-\nincome countries [5].\nSurgical Site infection (SSI) is the most frequent cause of\nHAIs in LMICs, affecting up to one third of patients under-\ngoing surgery [6]. In light of this, WHO guidelines for SSI\nprevention outlined a roadmap for quality improvement\nand suggested a multimodal strategy and multidisciplinary\napproach [7–9]. A cultural and attitude change is essential\nto ensure that protocols for Infection Prevention and Con-\ntrol (IPC) and Antimicrobial Stewardship (AMS) are strictly\nfollowed [10]. Although SSIs are largely avoidable, in\nLMICs they continue to be a leading cause of morbidity\nand mortality also among women undergoing caesarean\nsection (CS), a live-saving procedure classified as a clean-\ncontaminated operative wound according to Centre for\nDiseases Control (CDC) Classification [11].\nDodoma Regional Referral Hospital (DRRH) is one of\nthe few centres of the Dodoma Region, Tanzania, offer-\ning CS services. A prospective observational study con-\nducted\nin\n2013\nat\nthe\nObstetrics\n&\nGynaecology\nDepartment (OGD) of DRRH reported an extremely\nhigh prevalence of CS-SSIs (48.2%), 40.6% of them\ncaused by Staphylococcus aureus. Seventy-nine percent\nof the Staphylococcus aureus detected were methicillin-\nresistant (MRSA) [12]. A recent before-after intervention\ncohort study, conducted in five hospitals of sub-Saharan\nAfrica, found that a multimodal SSI prevention strategy\nin low-resource settings can reduce the risk of SSIs [13].\n"
+  },
+  {
+    "page": 2,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      304.72833251953125,
+      263.22705078125,
+      538.58642578125,
+      297.00732421875
+    ],
+    "text": "Our study aimed to assess the impact of the imple-\nmentation of a combined IPC with AMS joint program\non the prevalence of CS associated SSIs at DRRH.\n"
+  },
+  {
+    "page": 2,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      304.72430419921875,
+      312.184814453125,
+      538.6322631835938,
+      466.64031982421875
+    ],
+    "text": "Methods\nStudy design\nA before-after intervention cohort study was conducted\nduring 2 years starting from August 2013 at the OGD of\nDRRH. The study included a pre-intervention survey\n(PRE-Int), an intervention and a post-intervention survey\n(POST-Int). Each of the two surveys lasted 3 months\nand were conducted during the dry season. The study\nwas directly supported by the Resource Centre for In-\nfectious Diseases (RCID) of DRRH. The intervention\nincluded literature-based education, on-job training\nand the constitution of an AMS multidisciplinary\nteam.\n"
+  },
+  {
+    "page": 2,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      304.72430419921875,
+      482.6032409667969,
+      538.5480346679688,
+      540.2300415039062
+    ],
+    "text": "Study sites and study population\nDRRH has a bed capacity of 580 and 5 operating the-\natres, one of them dedicated to the OGD. Data available\nfrom 2013 to 2015 report an average number of 14,800\ndeliveries per year, with approximately 2700 (18%) CS.\n"
+  },
+  {
+    "page": 2,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      304.72430419921875,
+      556.247314453125,
+      538.5686645507812,
+      733.8328857421875
+    ],
+    "text": "Study procedures\nA four-steps protocol was adopted (Fig. 1). The first step\nconsisted\nof\nthe\nPRE-Int,\nenrolling\nall\nconsecutive\nwomen undergoing a CS during 3 months from August\n19, 2013, with a 30 days post-CS follow up. During the\nsecond step, data from the PRE-Int were shared with the\nhospital\nstaff.\nTherefore,\nan\nAMS\nMultidisciplinary\nTeam was constituted, including an Infectious Diseases\n(ID) Specialist, the head of OGD, a pharmacist, an IPC\nnurse, a clinical microbiologist and a representative of\nthe hospital management. These professionals identified\nthe prevention measures and the interventions to be\nprioritized: a) implementing the reporting system; b)\nstrengthening the supply chain for antibiotics, disinfec-\ntants and operating room/laboratory disposables; c)\n"
+  },
+  {
+    "page": 2,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      56.69288635253906,
+      32.82426834106445,
+      538.5765380859375,
+      41.00479507446289
+    ],
+    "text": "Gentilotti et al. Antimicrobial Resistance and Infection Control            (2020) 9:69 \nPage 2 of 11\n"
+  },
+  {
+    "page": 3,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      56.69192886352539,
+      376.0564270019531,
+      290.55084228515625,
+      733.8272705078125
+    ],
+    "text": "proper surgical hand preparation; d) administration of a\npre-operative prophylaxis 30–60 min before the incision;\ne) optimizing the appropriateness of antibiotic prescrip-\ntion in the post-operative period; f) improving operating\ntheatre discipline and organization and g) strengthening\nthe capability and capacity of the Microbiology Unit. In\nparticular,\nthe\nimportance\nof\nthe\nprophylaxis\nwas\nstressed. In fact, before the intervention, almost every\nwoman received an antibiotic course lasting 8–10 days\npost-CS, irrespective of the presence of risk factors or\nsigns/symptoms of infection. The antibiotic course usu-\nally included 3 days of intravenous ceftriaxone plus\nmetronidazole, followed by oral penicillin (amoxicillin\nalone or ampicillin/cloxacillin) plus metronidazole for at\nleast 5 days. The timing was highly variable, ranging\nfrom 1 to 24 h post-CS. A pre-operative prophylaxis with\nampicillin 1 g given 30–60 min before the incision was\nsuggested, based on drugs availability. The third step\nconsisted in the introduction of the prevention measures\ninto clinical practice and in the organization of seminars\nfocusing on IPC and AMS. Literature-based education\nwas encouraged. On-job trainings were also conducted\nunder the supervision of a pool of ID specialists and\nclinical microbiologists. Standard Operating Procedures\n(SOPs), recent publications, guidelines, expert consult-\nation and mentorship on data collection were available\nat the RCID from Monday to Friday. The last step in-\ncluded the POST-Int, enrolling all consecutive women\nundergoing a CS during 3 months starting from April 1,\n2015, followed by 30 days post-CS surveillance.\n"
+  },
+  {
+    "page": 3,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      304.7232971191406,
+      376.2474365234375,
+      538.5792236328125,
+      733.82763671875
+    ],
+    "text": "Survey and laboratory procedures\nA 30-days follow up was conducted, including a variable\nnumber of visits starting from day 7 post-CS. We aimed\nto have at least one post-operative contact with the pa-\ntient, either by clinical visit or telephone [14]. Patients\nwere considered lost to follow up after five unsuccessful\nattempts by telephone. At each visit, an examination of\nthe wound was performed by an ID specialist and the\nantibiotic treatment history was collected. In case of\ntelephone contact, a structured interview was used to\ndetect SSIs. In the suspicion of SSI, the patient was re-\nferred to the nearest health centre. The classification of\nSSIs was done according to CDC definitions [11]. A\nwound swab was collected in any case of suspicion of\nSSI. The specimens were processed soon after collection.\nBriefly, the specimens were inoculated on blood agar\nand MacConkey agar and incubated aerobically. Petri\ndishes were checked after 24 and 48 h for bacteria detec-\ntion and identification. Antimicrobial susceptibility of\nisolates was determined using disc diffusion method.\nThe antibiotics tested included: oxacillin (1 μg), ampicil-\nlin (10 μg), amoxicillin (25 μg), amoxicillin/clavulanate\n(20 μg + 10 μg), clindamycin (2 μg), erythromycin (15 μg),\nciprofloxacin\n(5 μg),\ntrimethoprim-sulfamethoxazole\n(1.25 μg + 23.75 μg), ceftriaxone (30 μg), chloramphenicol\n(30 μg), gentamicin (10 μg), tetracycline (30 μg). Vanco-\nmycin 5 μg, ceftazidime 10 μg and meropenem 10 μg\nwere also tested in the POST-Int study. Based on Kirby-\nBauer susceptibility test, gram-negative bacteria were\nclassified as multidrug resistant organisms (MDROs) if\n"
+  },
+  {
+    "page": 3,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      62.702301025390625,
+      314.35919189453125,
+      527.0809326171875,
+      342.37164306640625
+    ],
+    "text": "Fig. 1 Four-steps protocol of the study. PRE-Int = pre-intervention; CS = caesarean section; SSI=Surgical Site Infections; DRRH = Dodoma Regional\nReferral Hospital; AMS = Antimicrobial stewardship; SOPs = Standard Operating Procedures; IPC=Infection Prevention and Control; ID = Infectious\nDiseases; OGD = Obstetrics & Gynaecology Department; POST-Int = post-intervention\n"
+  },
+  {
+    "page": 3,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      56.692779541015625,
+      32.82548904418945,
+      538.5763549804688,
+      41.00601577758789
+    ],
+    "text": "Gentilotti et al. Antimicrobial Resistance and Infection Control            (2020) 9:69 \nPage 3 of 11\n"
+  },
+  {
+    "page": 4,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      88.05646514892578,
+      290.53125,
+      133.85533142089844
+    ],
+    "text": "resistances to amoxicillin/clavulanate, ceftriaxone (or\nceftazidime), and/or gentamycin, and/or ciprofloxacin\nwere detected. MRSA were identified by using the diffu-\nsion method with oxacillin disc [15, 16].\n"
+  },
+  {
+    "page": 4,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      148.22854614257812,
+      290.5626220703125,
+      229.83567810058594
+    ],
+    "text": "Outcomes\nThe primary outcome was to report the CS-SSIs rate.\nThe secondary outcome was to assess the determinant\nfactors of SSIs before/after the intervention and overall.\nThe microbiological characteristics and patterns of AMR\nwere determined to provide an overall picture of the\nSSIs.\n"
+  },
+  {
+    "page": 4,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      244.20962524414062,
+      290.5920104980469,
+      445.8345947265625
+    ],
+    "text": "Data collection and statistical analysis\nAll consecutive CS performed during the study period\nwere eligible for inclusion in the analysis. Data were re-\ntrieved from different sources, including: hospital medical\nrecords, antenatal cards, surgical notes and structured tele-\nphone interviews questionnaires. Data collection was done\nby trained staff from the RCID and entered in a dedicated\nMicrosoft Excel dataset. Comparison of mean values was\ndone using the Student’s t test. The χ2 test and Fisher’s\nexact test were used to explore univariate associations be-\ntween categorical variables. Log binomial regression model\nwas adopted for multivariate analysis to detect the associ-\nation between predictor variables and SSIs and to assess the\nimpact of the intervention on outcomes. Co-variates with\np < 0.1 and considered to be relevant based on clinical\nknowledge and available evidences, were included in the\nmultivariate analysis. Odd ratios and confidence intervals\n"
+  },
+  {
+    "page": 4,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      304.72442626953125,
+      85.55612182617188,
+      538.5716552734375,
+      121.8351821899414
+    ],
+    "text": "were computed. A p < 0.05 was considered significant. The\nstatistical analysis was performed using SPSS (software\nversion 21, NY, U.S.A.).\n"
+  },
+  {
+    "page": 4,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      304.72235107421875,
+      135.35958862304688,
+      538.6450805664062,
+      445.82977294921875
+    ],
+    "text": "Results\nComparison of demographic and surgical procedure\ncharacteristics\nOverall, 1377 women with CS were enrolled, 664 (48.2%)\nin the PRE-Int study and 713 (51.8%) in the POST-Int\nstudy. The follow-up was available for 1040 women, 467\n(70%) and 573 (81%) in the two studies, respectively\n(Fig. 2). A total number of 337 (25%) women (197 and 140\nin the two studies, respectively) were lost to follow up.\nThe demographic characteristics were similar in the two\npopulations. In the POST-Int a higher proportion of\nwomen had a college/university education (adj. p = 0.027),\nbut SSIs prevalence was not affected by the level of\neducation.\nTable 1 presents the CS characteristics and the surgi-\ncal procedures in all enrolled patients with available\nfollow-up and in the two study populations, separately\n(Table 1).\nIn the POST-Int study, a greater CS number was per-\nformed by experienced surgeons (adj. p = 0.052) and pre-\nincision antibiotic prophylaxis was administered in more\ncases (adj. p < 0.001). The timing of prophylaxis was re-\nported to be adequate only in 28% of cases in the POST-\nInt group, but this did not seem to affect SSI prevalence.\nOn the other hand, post-operative antibiotic administra-\ntion was significantly lower in the POST-Int group (adj.\n"
+  },
+  {
+    "page": 4,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      62.70245361328125,
+      718.9194946289062,
+      398.2358703613281,
+      726.91943359375
+    ],
+    "text": "Fig. 2 Number of patients surveyed for post-CS SSI in the Pre-Intervention and Post-Intervention groups\n"
+  },
+  {
+    "page": 4,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      56.69293212890625,
+      32.82683181762695,
+      538.5765380859375,
+      41.00735855102539
+    ],
+    "text": "Gentilotti et al. Antimicrobial Resistance and Infection Control            (2020) 9:69 \nPage 4 of 11\n"
+  },
+  {
+    "page": 5,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      88.11859893798828,
+      376.2776184082031,
+      97.11859893798828
+    ],
+    "text": "Table 1 Overall and per-groups analysis of surgical procedure and CS-SSI Characteristics\n"
+  },
+  {
+    "page": 5,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      233.00779724121094,
+      102.04427337646484,
+      538.63037109375,
+      119.05845642089844
+    ],
+    "text": "Overall (n = 1040)\nn (col%)\nPRE-Int (n = 467)\nn (col%)\nPOST-Int (n = 573)\nn (col%)\np-value\nadj-p-value*\n"
+  },
+  {
+    "page": 5,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      56.69398880004883,
+      122.55614471435547,
+      528.2789306640625,
+      132.2111053466797
+    ],
+    "text": "CS type\n0.059\n0.170β\n"
+  },
+  {
+    "page": 5,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      64.68659973144531,
+      138.21438598632812,
+      404.2174987792969,
+      146.2142791748047
+    ],
+    "text": "Elective\n76 (7.3)\n42 (9.0)\n34 (5.9)\n"
+  },
+  {
+    "page": 5,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      64.68659973144531,
+      152.21743774414062,
+      411.849365234375,
+      160.2173309326172
+    ],
+    "text": "Emergency\n964 (92.7)\n425 (91.0)\n539 (94.1)\n"
+  },
+  {
+    "page": 5,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      56.69309997558594,
+      164.56553649902344,
+      527.5949096679688,
+      174.22032165527344
+    ],
+    "text": "Reason for CS\n0.043\n0.155γ\n"
+  },
+  {
+    "page": 5,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      64.68659973144531,
+      180.22378540039062,
+      411.84857177734375,
+      188.2236785888672
+    ],
+    "text": "CS indication\n431 (41.4)\n209 (44.8)\n222 (38.7)\n"
+  },
+  {
+    "page": 5,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      64.68659973144531,
+      194.22683715820312,
+      411.849365234375,
+      202.2267303466797
+    ],
+    "text": "No CS indication\n606 (58.3)\n255 (54.6)\n351 (61.3)\n"
+  },
+  {
+    "page": 5,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      64.68659973144531,
+      208.17300415039062,
+      384.8641662597656,
+      216.1728973388672
+    ],
+    "text": "Not known\n3 (0.3)\n3 (0.6)\n0\n"
+  },
+  {
+    "page": 5,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      56.69309997558594,
+      220.57810974121094,
+      529.9760131835938,
+      230.1759490966797
+    ],
+    "text": "Operator grade\n0.001\n0.052 γ\n"
+  },
+  {
+    "page": 5,
+    "block_no": 10,
+    "block_type": 0,
+    "bbox": [
+      64.68659973144531,
+      236.17971801757812,
+      411.84857177734375,
+      244.1796112060547
+    ],
+    "text": "Senior\n345 (33.1)\n127 (27.2)\n218 (38.1)\n"
+  },
+  {
+    "page": 5,
+    "block_no": 11,
+    "block_type": 0,
+    "bbox": [
+      64.68659973144531,
+      250.18276977539062,
+      409.7685852050781,
+      258.18267822265625
+    ],
+    "text": "Junior\n685 (65.9)\n337 (72.2)\n348 60.7)\n"
+  },
+  {
+    "page": 5,
+    "block_no": 12,
+    "block_type": 0,
+    "bbox": [
+      64.68659973144531,
+      264.1857604980469,
+      400.4199523925781,
+      272.1856689453125
+    ],
+    "text": "Not known\n10 (1.0)\n3 (0.6)\n7 (1.2)\n"
+  },
+  {
+    "page": 5,
+    "block_no": 13,
+    "block_type": 0,
+    "bbox": [
+      56.69309997558594,
+      276.5340270996094,
+      529.9760131835938,
+      286.1886901855469
+    ],
+    "text": "Skin disinfection\n0.000\n0.001 γ\n"
+  },
+  {
+    "page": 5,
+    "block_no": 14,
+    "block_type": 0,
+    "bbox": [
+      64.68659973144531,
+      292.1922912597656,
+      400.4191589355469,
+      300.19219970703125
+    ],
+    "text": "Dettol\n2 (0.2)\n0\n2 (0.3)\n"
+  },
+  {
+    "page": 5,
+    "block_no": 15,
+    "block_type": 0,
+    "bbox": [
+      64.68659973144531,
+      306.1953125,
+      400.4191589355469,
+      314.1952209472656
+    ],
+    "text": "Ethanol\n94 (9.0)\n90 (19.3)\n4 (0.7)\n"
+  },
+  {
+    "page": 5,
+    "block_no": 16,
+    "block_type": 0,
+    "bbox": [
+      64.68659973144531,
+      320.1983337402344,
+      411.849365234375,
+      328.1982421875
+    ],
+    "text": "Povidone/Iodine\n923 (88.8)\n366 (78.4)\n557 (97.2)\n"
+  },
+  {
+    "page": 5,
+    "block_no": 17,
+    "block_type": 0,
+    "bbox": [
+      64.68659973144531,
+      334.20135498046875,
+      404.2182922363281,
+      342.2012634277344
+    ],
+    "text": "Not known\n21 (2.0)\n11 (2.4)\n10 (1.7)\n"
+  },
+  {
+    "page": 5,
+    "block_no": 18,
+    "block_type": 0,
+    "bbox": [
+      56.69309997558594,
+      346.54974365234375,
+      529.9760131835938,
+      356.2043151855469
+    ],
+    "text": "Tipe of CS incision\n0.000\n0.058 γ\n"
+  },
+  {
+    "page": 5,
+    "block_no": 19,
+    "block_type": 0,
+    "bbox": [
+      64.68659973144531,
+      362.2080078125,
+      411.84857177734375,
+      370.2098693847656
+    ],
+    "text": "Pfannenstiel\n247 (23.8)\n82 (17.6)\n165 (28.8)\n"
+  },
+  {
+    "page": 5,
+    "block_no": 20,
+    "block_type": 0,
+    "bbox": [
+      64.68659973144531,
+      376.2110290527344,
+      411.84857177734375,
+      384.2109375
+    ],
+    "text": "Midline Vertical\n737 (70.9)\n341 (73.0)\n396 (69.1)\n"
+  },
+  {
+    "page": 5,
+    "block_no": 21,
+    "block_type": 0,
+    "bbox": [
+      64.68659973144531,
+      390.21405029296875,
+      404.2182922363281,
+      398.2139587402344
+    ],
+    "text": "Not known\n56 (5.4)\n44 (9.4)\n12 (2.1)\n"
+  },
+  {
+    "page": 5,
+    "block_no": 22,
+    "block_type": 0,
+    "bbox": [
+      56.69309997558594,
+      402.5623474121094,
+      529.9760131835938,
+      412.21697998046875
+    ],
+    "text": "Material used for skin suture\n0.000\n0.044 γ\n"
+  },
+  {
+    "page": 5,
+    "block_no": 23,
+    "block_type": 0,
+    "bbox": [
+      64.68659973144531,
+      418.2206115722656,
+      411.84857177734375,
+      426.22052001953125
+    ],
+    "text": "Silk (non-absorbable)\n693 (66.6)\n339 (72.6)\n354 (61.8)\n"
+  },
+  {
+    "page": 5,
+    "block_no": 24,
+    "block_type": 0,
+    "bbox": [
+      64.68659973144531,
+      432.2236328125,
+      411.84857177734375,
+      440.2235412597656
+    ],
+    "text": "Vicryl (absorbable)\n265 (25.5)\n91 (19.5)\n174 (30.4)\n"
+  },
+  {
+    "page": 5,
+    "block_no": 25,
+    "block_type": 0,
+    "bbox": [
+      64.68659973144531,
+      446.2266540527344,
+      404.2182922363281,
+      454.2265625
+    ],
+    "text": "Not known\n82 (7.9)\n37 (7.9)\n45 (7.9)\n"
+  },
+  {
+    "page": 5,
+    "block_no": 26,
+    "block_type": 0,
+    "bbox": [
+      56.69309997558594,
+      458.574951171875,
+      529.9760131835938,
+      468.17279052734375
+    ],
+    "text": "Suture type\n0.000\n0.076 γ\n"
+  },
+  {
+    "page": 5,
+    "block_no": 27,
+    "block_type": 0,
+    "bbox": [
+      64.68659973144531,
+      474.176513671875,
+      411.84857177734375,
+      482.1764221191406
+    ],
+    "text": "Interrupted\n700 (67.3)\n327 (70.0)\n373 (65.1)\n"
+  },
+  {
+    "page": 5,
+    "block_no": 28,
+    "block_type": 0,
+    "bbox": [
+      64.68659973144531,
+      488.1795349121094,
+      411.849365234375,
+      496.179443359375
+    ],
+    "text": "Continuousintradermic and semisubcutaneous\n260 (26.0)\n96 (20.6)\n174 (30.4)\n"
+  },
+  {
+    "page": 5,
+    "block_no": 29,
+    "block_type": 0,
+    "bbox": [
+      64.68659973144531,
+      502.18255615234375,
+      404.2182922363281,
+      510.1824645996094
+    ],
+    "text": "Not known\n70 6.7\n44 (9.4)\n26 (4.5)\n"
+  },
+  {
+    "page": 5,
+    "block_no": 30,
+    "block_type": 0,
+    "bbox": [
+      56.69309997558594,
+      514.5875244140625,
+      529.9760131835938,
+      524.1854858398438
+    ],
+    "text": "Pre-Incision Antibiotic Prophylaxis\n0.000\n0.000 γ\n"
+  },
+  {
+    "page": 5,
+    "block_no": 31,
+    "block_type": 0,
+    "bbox": [
+      64.68659973144531,
+      530.1890869140625,
+      400.41912841796875,
+      538.1890258789062
+    ],
+    "text": "No\n457 (43.9)\n451 (96.6)\n6 (1.0)\n"
+  },
+  {
+    "page": 5,
+    "block_no": 32,
+    "block_type": 0,
+    "bbox": [
+      64.68659973144531,
+      544.1920776367188,
+      411.84857177734375,
+      552.1920166015625
+    ],
+    "text": "Yes\n572 (55.0)\n10 (2.1)\n562 (98.1)\n"
+  },
+  {
+    "page": 5,
+    "block_no": 33,
+    "block_type": 0,
+    "bbox": [
+      64.68659973144531,
+      558.1951293945312,
+      400.4199523925781,
+      566.195068359375
+    ],
+    "text": "Not Known\n11 (1.1)\n6 (1.3)\n5 (0.9)\n"
+  },
+  {
+    "page": 5,
+    "block_no": 34,
+    "block_type": 0,
+    "bbox": [
+      56.69309997558594,
+      570.5433349609375,
+      529.9760131835938,
+      580.1980590820312
+    ],
+    "text": "Timing of Pre-Incision Antibiotic Prophylaxis\n0.017\n0.011 γ\n"
+  },
+  {
+    "page": 5,
+    "block_no": 35,
+    "block_type": 0,
+    "bbox": [
+      64.68659973144531,
+      586.20166015625,
+      411.8486022949219,
+      594.2015991210938
+    ],
+    "text": "Appropriate\n162 (28.3)\n5 (50)\n157 (27.9)\n"
+  },
+  {
+    "page": 5,
+    "block_no": 36,
+    "block_type": 0,
+    "bbox": [
+      64.68659973144531,
+      600.2047119140625,
+      411.84942626953125,
+      608.2046508789062
+    ],
+    "text": "Not appropriate\n372 (65)\n2 (20)\n370 (65.8)\n"
+  },
+  {
+    "page": 5,
+    "block_no": 37,
+    "block_type": 0,
+    "bbox": [
+      64.68659973144531,
+      614.2077026367188,
+      404.21832275390625,
+      622.2076416015625
+    ],
+    "text": "Not known\n38 (6.7)\n3 (30)\n35 (6.3)\n"
+  },
+  {
+    "page": 5,
+    "block_no": 38,
+    "block_type": 0,
+    "bbox": [
+      56.69309997558594,
+      626.5560302734375,
+      529.9760131835938,
+      636.210693359375
+    ],
+    "text": "Post-Incysion Antibiotic administration\n0.000\n0.000 γ\n"
+  },
+  {
+    "page": 5,
+    "block_no": 39,
+    "block_type": 0,
+    "bbox": [
+      64.68659973144531,
+      642.2142944335938,
+      411.8486022949219,
+      650.2142333984375
+    ],
+    "text": "No\n406 (39.0)\n4 (0.9)\n402 (70.2)\n"
+  },
+  {
+    "page": 5,
+    "block_no": 40,
+    "block_type": 0,
+    "bbox": [
+      64.68659973144531,
+      656.21728515625,
+      411.84857177734375,
+      664.2172241210938
+    ],
+    "text": "Yes\n627 (60.3)\n459 (98.2)\n168 (29.3)\n"
+  },
+  {
+    "page": 5,
+    "block_no": 41,
+    "block_type": 0,
+    "bbox": [
+      56.69309997558594,
+      670.2203369140625,
+      400.4199523925781,
+      678.2202758789062
+    ],
+    "text": "Not Known\n7 (0.7)\n4 (0.9)\n3 (0.5)\n"
+  },
+  {
+    "page": 5,
+    "block_no": 42,
+    "block_type": 0,
+    "bbox": [
+      56.69309997558594,
+      684.0059814453125,
+      478.1349182128906,
+      692.2232666015625
+    ],
+    "text": "Day of first visit, mean, range (±SD)\n8.5, 1–38 (3.4)\n8.5, 2–37 (2.5)\n8.4, 1–38 (4.0)\n0.701\n"
+  },
+  {
+    "page": 5,
+    "block_no": 43,
+    "block_type": 0,
+    "bbox": [
+      56.69388961791992,
+      696.5717163085938,
+      530.6600341796875,
+      706.226318359375
+    ],
+    "text": "Wound infection\n0.000\n0.001 β\n"
+  },
+  {
+    "page": 5,
+    "block_no": 44,
+    "block_type": 0,
+    "bbox": [
+      64.68659973144531,
+      712.1732788085938,
+      408.0494079589844,
+      720.1732177734375
+    ],
+    "text": "Yes\n320 (30.8)\n225 (48.2)\n95 (16.6)\n"
+  },
+  {
+    "page": 5,
+    "block_no": 45,
+    "block_type": 0,
+    "bbox": [
+      56.69309997558594,
+      32.82695388793945,
+      538.5767211914062,
+      41.00748062133789
+    ],
+    "text": "Gentilotti et al. Antimicrobial Resistance and Infection Control            (2020) 9:69 \nPage 5 of 11\n"
+  },
+  {
+    "page": 6,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      265.5576477050781,
+      290.6312255859375,
+      361.8160095214844
+    ],
+    "text": "p < 0.001). Skin disinfection was performed using povi-\ndone/iodine more often in POST-Int operations (adj.\np = 0.001). In the POST-Int group Pfannenstiel incision,\nabsorbable and continuous intradermic/semi-subcutane-\nous suture were more often adopted compared to PRE-Int\ngroup, but this finding was not significant after Bonferroni\ncorrection. The mean number of days of hospitalization\nwas similar in both groups (approximately 2 days).\n"
+  },
+  {
+    "page": 6,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      56.6870002746582,
+      376.2474365234375,
+      290.54400634765625,
+      733.8280639648438
+    ],
+    "text": "Rate and determinants of SSIs in the PRE-Int and POST-Int\npopulations\nOverall, 320 (30.8%) SSIs were reported in all enrolled\nwomen, 225 (48.2%) in the PRE-Int group and 95\n(16.6%) in the POST-Int group (adj. p = 0.001) (Table 1).\nSSI diagnosis at first visit (approximately 8 days after CS)\nwas higher in the PRE-Int group (adj. p = 0.001). The\nanalysis of CS-SSI determinant factors is showed in table\n2 (Table 2).\nIn the overall and per-group analysis the risk of CS\nSSI was lower in case of Pfannenstiel incision (overall:\nOR 0.288; 95%CI 0.197–0.420; p < 0.001) and of continu-\nous intradermic/semi-subcutaneous suture (overall: OR\n0.322; 95%CI 0.226–0.460; p < 0.001). In the PRE-Int\ngroup only, a higher experience of the surgeon was sig-\nnificantly associated with a lower CS-SSI risk (OR 0.644;\n95%CI 0.425–0.974; p = 0.038). In the POST-Int group,\nyounger age of the patient was significantly associated\nwith higher risk of SSI (OR 2.379; 95%CI 1.384–4.089;\np = 0.001), whereas the use of absorbable stitches was\nfound to be protective (OR 0.468; 95%CI 0.269–0.814;\np = 0.006). This finding was confirmed when pooled data\nfrom the two studies were combined (OR 0.539; 95%CI\n0.387–0.750; p < 0.001).\nIn the PRE-Int and POST-Int studies no significant\nSSI differences with respect of skin disinfection and\nbody mass index (BMI) were reported. Nevertheless, in\nall enrolled population the use of povidone-iodine and a\nlow BMI were significantly associated with a lower SSI\nrisk (p = 0.031 and p < 0.001, respectively).\n"
+  },
+  {
+    "page": 6,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      304.7165832519531,
+      268.048583984375,
+      538.549072265625,
+      373.82672119140625
+    ],
+    "text": "Multivariate analysis showed an independent associ-\nation between SSI and lack of pre-incision antibiotic\nprophylaxis (OR 3.588; 95%CI 1.922–6.696; p < 0.001)\nand skin disinfection performed with Dettol or Ethanol\n(OR 2.396; 95%CI 1.000–5.738; p = 0.050). Conversely,\nthe utilization of absorbable suture for skin closure was\nan independent protective factor (OR 0.522; 95%CI\n0.280–0.970; p = 0.040), together with a normal BMI\n(18,5-24,9) (OR 0.632; 95%CI 0.403–0.990; p = 0.045).\n"
+  },
+  {
+    "page": 6,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      304.72430419921875,
+      388.2095642089844,
+      538.6275634765625,
+      673.8486938476562
+    ],
+    "text": "Microbiological characteristics\nMicrobiological characteristics are displayed in Table 3.\nThe rate of microbiologically-confirmed SSIs was consider-\nably higher in the POST-Int study compared with the pre-\nvious survey (OR 2.534; 95% CI 1.435–4.475; p = 0.001).\nThe prevalence of SSIs caused by gram-positive bacteria\nsignificantly decreased (OR 0.263; 95% CI 0.126–0.548; p <\n0.001), and the MRSA prevalence rate dropped down from\n79 to 21.4% (OR 0.072; 95% CI 0.016–0.314; p < 0.001). All\nMRSA isolates detected in the second survey had an indu-\ncible resistance to clindamycin (data not available in the\nfirst survey). Overall, 16 (43.2%), 5 (13.5%) and 2 (5.4%)\nMRSA isolates were susceptible to tetracycline, chloram-\nphenicol and cotrimoxazole, respectively (data not shown\nin the table). Enterococcus spp was not identified in the\nPRE-Int study while in the POST-Int accounted for 16.1%\nof the pathogens isolated. Eighty per cent of the Entero-\ncoccus spp were resistant to ampicillin. The prevalence of\nSSIs due to gram-negative (including Klebsiella spp and\nPseudomonas spp) significantly increased in the POST-Int\nstudy (OR 3.800; 95% CI 1.822–7.926; p < 0.001). Overall,\nmore than half gram-negative had a phenotypic profile con-\nsistent with MDROs. Finally, no resistances to vancomicin\nand meropenem were observed.\n"
+  },
+  {
+    "page": 6,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      304.72430419921875,
+      687.3783569335938,
+      538.5332641601562,
+      733.8366088867188
+    ],
+    "text": "Discussion\nA substantial decrease in SSI rates was observed after\nthe introduction of a combined IPC with AMS joint\nprogram.\n"
+  },
+  {
+    "page": 6,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      88.11859893798828,
+      419.26776123046875,
+      97.1208267211914
+    ],
+    "text": "Table 1 Overall and per-groups analysis of surgical procedure and CS-SSI Characteristics (Continued)\n"
+  },
+  {
+    "page": 6,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      233.00779724121094,
+      102.04427337646484,
+      538.63037109375,
+      119.05845642089844
+    ],
+    "text": "Overall (n = 1040)\nn (col%)\nPRE-Int (n = 467)\nn (col%)\nPOST-Int (n = 573)\nn (col%)\np-value\nadj-p-value*\n"
+  },
+  {
+    "page": 6,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      64.6875228881836,
+      124.2112045288086,
+      411.8494873046875,
+      132.2111053466797
+    ],
+    "text": "No\n720 (69.2)\n242 (51.8)\n478 (83.4)\n"
+  },
+  {
+    "page": 6,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      56.69401931762695,
+      136.5592498779297,
+      529.9760131835938,
+      146.21409606933594
+    ],
+    "text": "Wound infection at first visit\n0.037\n0.001 γ\n"
+  },
+  {
+    "page": 6,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      64.68659973144531,
+      152.21762084960938,
+      408.0494079589844,
+      160.21751403808594
+    ],
+    "text": "Yes\n224 (21.5)\n166 (73.8)\n58 (61.1)\n"
+  },
+  {
+    "page": 6,
+    "block_no": 10,
+    "block_type": 0,
+    "bbox": [
+      64.68659973144531,
+      166.22067260742188,
+      408.0494079589844,
+      174.22056579589844
+    ],
+    "text": "No\n742 (71.3)\n57 (25.3)\n37 (38.9)\n"
+  },
+  {
+    "page": 6,
+    "block_no": 11,
+    "block_type": 0,
+    "bbox": [
+      64.68659973144531,
+      180.22366333007812,
+      384.8641662597656,
+      188.2235565185547
+    ],
+    "text": "Not known\n2 (0.2)\n2 (0.9)\n0\n"
+  },
+  {
+    "page": 6,
+    "block_no": 12,
+    "block_type": 0,
+    "bbox": [
+      56.69309997558594,
+      192.5718231201172,
+      529.9760131835938,
+      202.2266082763672
+    ],
+    "text": "Type of wound infection\n0.000\n0.045 γ\n"
+  },
+  {
+    "page": 6,
+    "block_no": 13,
+    "block_type": 0,
+    "bbox": [
+      64.68659973144531,
+      208.17343139648438,
+      408.0494079589844,
+      216.17332458496094
+    ],
+    "text": "Superficial\n218 (21.0)\n138 (61.3)\n80 (84.2)\n"
+  },
+  {
+    "page": 6,
+    "block_no": 14,
+    "block_type": 0,
+    "bbox": [
+      64.68659973144531,
+      222.17642211914062,
+      408.0509948730469,
+      230.1763153076172
+    ],
+    "text": "Deep/involving organ and/or spaces\n85 (8.2)\n74 (32.9)\n11 (11.6)\n"
+  },
+  {
+    "page": 6,
+    "block_no": 15,
+    "block_type": 0,
+    "bbox": [
+      64.68659973144531,
+      236.17947387695312,
+      400.4199523925781,
+      244.1793670654297
+    ],
+    "text": "Not known\n17 (1.6)\n13 (5.8)\n4 (4.2)\n"
+  },
+  {
+    "page": 6,
+    "block_no": 16,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      246.79693603515625,
+      353.49151611328125,
+      257.10687255859375
+    ],
+    "text": "CS caesarean section, SSI Surgical Site Infections; *Bonferroni adjusted p-value; β α = 0.012; γα = 0.008\n"
+  },
+  {
+    "page": 6,
+    "block_no": 17,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      32.82426834106445,
+      538.5765380859375,
+      41.00479507446289
+    ],
+    "text": "Gentilotti et al. Antimicrobial Resistance and Infection Control            (2020) 9:69 \nPage 6 of 11\n"
+  },
+  {
+    "page": 7,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      88.11859893798828,
+      463.7421569824219,
+      97.11859893798828
+    ],
+    "text": "Table 2 Analysis of risk factors for SSI in patients undergoing CS in the PRE-Int and POST-Int groups and Overall\n"
+  },
+  {
+    "page": 7,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      146.381103515625,
+      102.04427337646484,
+      470.91619873046875,
+      110.04615020751953
+    ],
+    "text": "Overall (n = 1040)\nPRE-Int (n = 467)\nPOST-Int (n = 573)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      146.381103515625,
+      115.1969223022461,
+      538.6129760742188,
+      123.19879913330078
+    ],
+    "text": "SSI (n = 320) No SSI (n = 720) p-value SSI (n = 225) No SSI (n = 242) p-value SSI (n = 95)\nNo SSI (n = 478) p-value\n"
+  },
+  {
+    "page": 7,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      56.69504165649414,
+      128.34957885742188,
+      532.1651000976562,
+      136.34947204589844
+    ],
+    "text": "Age, years\n0.403\n0.561\n0.009\n"
+  },
+  {
+    "page": 7,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      66.27571868896484,
+      142.35256958007812,
+      484.75433349609375,
+      150.3524627685547
+    ],
+    "text": "< 20\n58 (35.2)\n107 (64.8)\n33 (43.4)\n43 (56.6)\n25 (28.1)\n64 (71.9)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      64.68853759765625,
+      156.1382293701172,
+      488.5558776855469,
+      164.3555145263672
+    ],
+    "text": "21–34\n220 (29.9)\n516 (70.1)\n164 (48.4)\n175 (51.6)\n56 (14.1)\n341 (85.9)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      66.27651977539062,
+      170.35861206054688,
+      484.755126953125,
+      178.35850524902344
+    ],
+    "text": "> 34\n39 (29.8)\n92 (70.2)\n27 (52.9)\n24 (47.1)\n12 (15.0)\n68 (85.0)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      64.68933868408203,
+      184.36166381835938,
+      480.901611328125,
+      192.36155700683594
+    ],
+    "text": "Not known\n1 (100)\n0\n2 (28.6)\n5 (71.4)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      56.695838928222656,
+      198.1472625732422,
+      532.1659545898438,
+      206.3645477294922
+    ],
+    "text": "BMI, median (range)\n27.8 (14–46)\n26.9 (16–66)\n0.031\n27.7 (19–46)\n26.7 (18–45)\n0.060\n27.8 (14–41) 27 (16–66)\n0.224\n"
+  },
+  {
+    "page": 7,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      56.69664001464844,
+      212.36770629882812,
+      532.1666870117188,
+      220.3675994873047
+    ],
+    "text": "Education\n0.327\n0.518\n0.621\n"
+  },
+  {
+    "page": 7,
+    "block_no": 10,
+    "block_type": 0,
+    "bbox": [
+      64.69014739990234,
+      226.37069702148438,
+      484.7567138671875,
+      234.37059020996094
+    ],
+    "text": "No\n46 (35.1)\n85 (64.9)\n34 (51.5)\n32 (48.5)\n12 (18.5)\n53 (81.5)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 11,
+    "block_type": 0,
+    "bbox": [
+      64.69014739990234,
+      238.61448669433594,
+      488.55426025390625,
+      248.3749237060547
+    ],
+    "text": "Standard 7a\n165 (31.2)\n364 (68.8)\n112 (46.5)\n129 (53.5)\n53 (18.4)\n235 (81.6)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 12,
+    "block_type": 0,
+    "bbox": [
+      64.68692779541016,
+      252.61766052246094,
+      488.5526428222656,
+      262.37799072265625
+    ],
+    "text": "Form I-VIb\n88 (30.4)\n201 (69.6)\n68 (51.5)\n64 (48.5)\n20 (12.7)\n137 (87.3)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 13,
+    "block_type": 0,
+    "bbox": [
+      64.68692779541016,
+      268.3243103027344,
+      484.7535400390625,
+      276.32421875
+    ],
+    "text": "College/University\n16 (21.1)\n60 (78.9)\n7 (33.3)\n14 (66.7)\n9 (16.4)\n46 (83.6)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 14,
+    "block_type": 0,
+    "bbox": [
+      64.68692779541016,
+      282.32733154296875,
+      480.8992004394531,
+      290.3272399902344
+    ],
+    "text": "Not known\n5 (33.3)\n10 (66.7)\n4 (57.1)\n3 (42.9)\n1 (12.5)\n7 (87.5)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 15,
+    "block_type": 0,
+    "bbox": [
+      56.69343185424805,
+      296.3303527832031,
+      532.1635131835938,
+      304.33026123046875
+    ],
+    "text": "HIV+\n0.097\n0.462\n0.104\n"
+  },
+  {
+    "page": 7,
+    "block_no": 16,
+    "block_type": 0,
+    "bbox": [
+      64.68692779541016,
+      310.3333740234375,
+      484.7535095214844,
+      318.3332824707031
+    ],
+    "text": "Yes\n16 (44.4)\n20 (55.6)\n10 (58.8)\n7 (41.2)\n6 (31.6)\n13 (68.4)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 17,
+    "block_type": 0,
+    "bbox": [
+      64.68692779541016,
+      324.3363952636719,
+      488.55426025390625,
+      332.3363037109375
+    ],
+    "text": "No\n295 (30.4)\n676 (69.6)\n211 (48.2)\n227 (51.8)\n84 (15.8)\n449 (84.2)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 18,
+    "block_type": 0,
+    "bbox": [
+      64.68692779541016,
+      338.3394470214844,
+      484.75433349609375,
+      346.33935546875
+    ],
+    "text": "Not known\n9 (27.3)\n24 (72.7)\n4 (33.3)\n8 (66.7)\n5 (23.8)\n16 (76.2)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 19,
+    "block_type": 0,
+    "bbox": [
+      56.69343948364258,
+      352.3424377441406,
+      532.1635131835938,
+      360.34234619140625
+    ],
+    "text": "CS type\n0.607\n0.469\n0.338\n"
+  },
+  {
+    "page": 7,
+    "block_no": 20,
+    "block_type": 0,
+    "bbox": [
+      64.68694305419922,
+      366.345458984375,
+      484.7535705566406,
+      374.3453674316406
+    ],
+    "text": "Elective\n21 (27.6)\n55 (72.4)\n18 (42.9)\n24 (57.1)\n3 (8.8)\n31 (91.2)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 21,
+    "block_type": 0,
+    "bbox": [
+      64.68694305419922,
+      380.3485107421875,
+      488.5542907714844,
+      388.3484191894531
+    ],
+    "text": "Emergency\n299 (21.0)\n665 (69.0)\n207 (48.7)\n218 (51.3)\n92 (17.1)\n447 (82.9)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 22,
+    "block_type": 0,
+    "bbox": [
+      56.69343948364258,
+      394.3515319824219,
+      532.1635131835938,
+      402.3514404296875
+    ],
+    "text": "Indication for CS\n0.801\n0.558\n0.084\n"
+  },
+  {
+    "page": 7,
+    "block_no": 23,
+    "block_type": 0,
+    "bbox": [
+      64.68695068359375,
+      406.5955810546875,
+      488.55426025390625,
+      416.35589599609375
+    ],
+    "text": "Previously knownc\n133 (30.8)\n299 (69.2)\n104 (49.5)\n106 (50.5)\n29 (13.1)\n193 (86.9)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 24,
+    "block_type": 0,
+    "bbox": [
+      64.68692779541016,
+      422.3590087890625,
+      488.55426025390625,
+      430.3589172363281
+    ],
+    "text": "Not previously known\n187 (30.8)\n420 (69.2)\n121 (47.3)\n135 (52.7)\n66 (18.8)\n285 (81.2)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 25,
+    "block_type": 0,
+    "bbox": [
+      56.69343185424805,
+      436.3620300292969,
+      532.1635131835938,
+      444.3619384765625
+    ],
+    "text": "Operator grade\n0.006\n0.038\n1.000\n"
+  },
+  {
+    "page": 7,
+    "block_no": 26,
+    "block_type": 0,
+    "bbox": [
+      64.68692779541016,
+      450.36505126953125,
+      488.55426025390625,
+      458.3649597167969
+    ],
+    "text": "Junior\n229 (33.4)\n456 (66.6)\n172 (51.0)\n165 (49.0)\n57 (16.4)\n291 (83.6)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 27,
+    "block_type": 0,
+    "bbox": [
+      64.68692779541016,
+      464.3680725097656,
+      488.5526428222656,
+      472.36798095703125
+    ],
+    "text": "Senior\n87 (25.2)\n258 (74.8)\n51 (40.2)\n76 (59.8)\n36 (16.5)\n182 (83.5)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 28,
+    "block_type": 0,
+    "bbox": [
+      56.69343948364258,
+      478.3711242675781,
+      532.1634521484375,
+      486.37103271484375
+    ],
+    "text": "Skin disinfection\n< 0.001\n0.410\n1.000\n"
+  },
+  {
+    "page": 7,
+    "block_no": 29,
+    "block_type": 0,
+    "bbox": [
+      64.68694305419922,
+      492.3741455078125,
+      480.8984375,
+      500.3740539550781
+    ],
+    "text": "Dettol/Ethanol\n48 (50.0)\n48 (50.0)\n47 (52.2)\n43 (47.8)\n1 (16.7)\n5 (83.3)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 30,
+    "block_type": 0,
+    "bbox": [
+      64.68694305419922,
+      506.3771667480469,
+      488.5550842285156,
+      514.3770751953125
+    ],
+    "text": "Povidone-Iodine\n265 (28.7)\n658 (71.3)\n172 (47.0)\n194 (53.0)\n93 (16.7)\n464 (83.3)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 31,
+    "block_type": 0,
+    "bbox": [
+      56.69343948364258,
+      520.3233642578125,
+      538.4553833007812,
+      528.3233032226562
+    ],
+    "text": "Type of incision\n< 0.001\n< 0.001\n< 0.001\n"
+  },
+  {
+    "page": 7,
+    "block_no": 32,
+    "block_type": 0,
+    "bbox": [
+      64.68695068359375,
+      534.3263549804688,
+      488.55426025390625,
+      542.3262939453125
+    ],
+    "text": "Midline Vertical\n280 (38.0)\n457 (62.0)\n198 (58.1)\n143 (41.9)\n82 (20.7)\n152 (92.1)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 33,
+    "block_type": 0,
+    "bbox": [
+      64.68695068359375,
+      548.3294067382812,
+      488.55267333984375,
+      556.331298828125
+    ],
+    "text": "Pfannenstiel\n37 (15.0)\n210 (85.0)\n24 (29.3)\n58 (70.7)\n13 (7.9)\n314 (79.3)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 34,
+    "block_type": 0,
+    "bbox": [
+      56.693450927734375,
+      562.3324584960938,
+      532.1634521484375,
+      570.3323974609375
+    ],
+    "text": "Skin suture\n< 0.001\n0.370\n0.006\n"
+  },
+  {
+    "page": 7,
+    "block_no": 35,
+    "block_type": 0,
+    "bbox": [
+      64.68695831298828,
+      576.33544921875,
+      488.5542907714844,
+      584.3353881835938
+    ],
+    "text": "Silk\n237 (34.2)\n456 (65.8)\n167 (49.3)\n172 (50.7)\n70 (19.8)\n284 (80.2)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 36,
+    "block_type": 0,
+    "bbox": [
+      64.68695831298828,
+      590.3384399414062,
+      488.5527038574219,
+      598.33837890625
+    ],
+    "text": "Vicryl (absorbable)\n58 (21.9)\n207 (78.1)\n40 (44.0)\n51 (56.0)\n18 (10.3)\n156 (89.7)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 37,
+    "block_type": 0,
+    "bbox": [
+      56.693458557128906,
+      604.3414916992188,
+      538.4553833007812,
+      612.3414306640625
+    ],
+    "text": "Suture type\n< 0.001\n< 0.001\n< 0.001\n"
+  },
+  {
+    "page": 7,
+    "block_no": 38,
+    "block_type": 0,
+    "bbox": [
+      64.68695831298828,
+      618.3445434570312,
+      488.5543212890625,
+      626.344482421875
+    ],
+    "text": "Interrupted\n268 (38.3)\n432 (61.7)\n190 (58.1)\n137 (41.9)\n78 (20.9)\n295 (79.1)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 39,
+    "block_type": 0,
+    "bbox": [
+      64.63015747070312,
+      632.3475341796875,
+      488.552734375,
+      649.3617553710938
+    ],
+    "text": "Continuous intradermic\nand semisubcutaneous\n45 (16.7)\n225 (83.3)\n31 (32.3)\n65 (67.7)\n14 (8.0)\n160 (92.0)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 40,
+    "block_type": 0,
+    "bbox": [
+      56.693458557128906,
+      655.3648681640625,
+      532.1635131835938,
+      663.3648071289062
+    ],
+    "text": "Pre-Incision Prophylaxis\n< 0.001\n1.000\n1.000\n"
+  },
+  {
+    "page": 7,
+    "block_no": 41,
+    "block_type": 0,
+    "bbox": [
+      64.68697357177734,
+      669.3678588867188,
+      480.9000549316406,
+      677.3677978515625
+    ],
+    "text": "No\n216 (47.3)\n241 (52.7)\n215 (47.7)\n236 (52.3)\n1 (16.7)\n5 (83.3)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 42,
+    "block_type": 0,
+    "bbox": [
+      64.68697357177734,
+      683.3709106445312,
+      488.552734375,
+      691.370849609375
+    ],
+    "text": "Yes\n97 (17.0)\n475 (83.0)\n5 (50.0)\n5 (50.0)\n92 (16.4)\n470 (83.6)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 43,
+    "block_type": 0,
+    "bbox": [
+      56.6934700012207,
+      32.82500076293945,
+      538.5770874023438,
+      41.00552749633789
+    ],
+    "text": "Gentilotti et al. Antimicrobial Resistance and Infection Control            (2020) 9:69 \nPage 7 of 11\n"
+  },
+  {
+    "page": 8,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      88.11859893798828,
+      506.74505615234375,
+      97.1208267211914
+    ],
+    "text": "Table 2 Analysis of risk factors for SSI in patients undergoing CS in the PRE-Int and POST-Int groups and Overall (Continued)\n"
+  },
+  {
+    "page": 8,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      146.381103515625,
+      102.04427337646484,
+      470.91619873046875,
+      110.04615020751953
+    ],
+    "text": "Overall (n = 1040)\nPRE-Int (n = 467)\nPOST-Int (n = 573)\n"
+  },
+  {
+    "page": 8,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      146.381103515625,
+      115.1969223022461,
+      538.6129760742188,
+      123.19879913330078
+    ],
+    "text": "SSI (n = 320) No SSI (n = 720) p-value SSI (n = 225) No SSI (n = 242) p-value SSI (n = 95)\nNo SSI (n = 478) p-value\n"
+  },
+  {
+    "page": 8,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      56.69504165649414,
+      128.34957885742188,
+      532.1651000976562,
+      145.36375427246094
+    ],
+    "text": "Timing of pre-Incision\nProphylaxis\n0.548\n0.428\n0.307\n"
+  },
+  {
+    "page": 8,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      64.68855285644531,
+      151.36685180664062,
+      488.5543212890625,
+      159.3667449951172
+    ],
+    "text": "Adequate\n25 (27.2)\n137 (31)\n3 (100)\n2 (50)\n22 (24.7)\n135 (30.8)\n"
+  },
+  {
+    "page": 8,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      64.68855285644531,
+      165.36990356445312,
+      488.55596923828125,
+      173.3697967529297
+    ],
+    "text": "Not adequate\n67 (72.8)\n305 (69)\n0\n2 (50)\n67 (75.3)\n303 (69.2)\n"
+  },
+  {
+    "page": 8,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      56.69504928588867,
+      179.37289428710938,
+      532.1651000976562,
+      196.33030700683594
+    ],
+    "text": "Post-CS ATB\nadministration\n< 0.001\n1.000\n0.220\n"
+  },
+  {
+    "page": 8,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      64.68856048583984,
+      202.33340454101562,
+      488.5543212890625,
+      210.3332977294922
+    ],
+    "text": "No\n64 (15.8)\n342 (84.2)\n2 (50.0)\n2 (50.0)\n62 (15.4)\n340 (84.6)\n"
+  },
+  {
+    "page": 8,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      64.68856048583984,
+      216.33645629882812,
+      488.555908203125,
+      224.3363494873047
+    ],
+    "text": "Yes\n253 (40.4)\n374 (59.6)\n220 (47.9)\n239 (52.1)\n33 (19.6)\n135 (80.4)\n"
+  },
+  {
+    "page": 8,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      228.73068237304688,
+      372.0238952636719,
+      237.26446533203125
+    ],
+    "text": "aPrimary education; bSecondary education; ccephalopelvic disproportion, bad obstetric history, previous CS\n"
+  },
+  {
+    "page": 8,
+    "block_no": 10,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      306.8398742675781,
+      322.54132080078125,
+      315.8398742675781
+    ],
+    "text": "Table 3 Overall and per-groups analysis of microbiological characteristics\n"
+  },
+  {
+    "page": 8,
+    "block_no": 11,
+    "block_type": 0,
+    "bbox": [
+      264.18890380859375,
+      320.7655029296875,
+      536.6278686523438,
+      328.7673645019531
+    ],
+    "text": "Overall SSI (n = 320)\nPRE-Int SSI (n = 225)\nPOST-Int SSI (n = 95)\np-value\n"
+  },
+  {
+    "page": 8,
+    "block_no": 12,
+    "block_type": 0,
+    "bbox": [
+      56.69392013549805,
+      333.91815185546875,
+      538.6397705078125,
+      341.9180603027344
+    ],
+    "text": "Swab Performed, n (col %)\n0.887\n"
+  },
+  {
+    "page": 8,
+    "block_no": 13,
+    "block_type": 0,
+    "bbox": [
+      64.68740844726562,
+      347.9211730957031,
+      456.5239562988281,
+      355.92108154296875
+    ],
+    "text": "Yes\n280 (87.5)\n197 (87.5)\n83 (87.4)\n"
+  },
+  {
+    "page": 8,
+    "block_no": 14,
+    "block_type": 0,
+    "bbox": [
+      64.68740844726562,
+      361.9241943359375,
+      456.5223388671875,
+      369.9241027832031
+    ],
+    "text": "No\n40 (12.5)\n28 (12.5)\n12 (12.6)\n"
+  },
+  {
+    "page": 8,
+    "block_no": 15,
+    "block_type": 0,
+    "bbox": [
+      56.69390869140625,
+      375.7098083496094,
+      538.6389770507812,
+      383.9271240234375
+    ],
+    "text": "Swab result, n (col %)\nn = 280\nn = 197\nn = 83\n0.001\n"
+  },
+  {
+    "page": 8,
+    "block_no": 16,
+    "block_type": 0,
+    "bbox": [
+      64.68740844726562,
+      389.93023681640625,
+      456.5232238769531,
+      397.9301452636719
+    ],
+    "text": "No bacterial growth\n112 (40)\n91 (45.2)\n21 (25.3)\n"
+  },
+  {
+    "page": 8,
+    "block_no": 17,
+    "block_type": 0,
+    "bbox": [
+      64.68740844726562,
+      403.9332580566406,
+      456.5240173339844,
+      411.93316650390625
+    ],
+    "text": "Bacterial Growth\n168 (60)\n106 (53.8)\n62 (74.7)\n"
+  },
+  {
+    "page": 8,
+    "block_no": 18,
+    "block_type": 0,
+    "bbox": [
+      56.69390869140625,
+      417.7188720703125,
+      538.6390380859375,
+      425.9361877441406
+    ],
+    "text": "Isolated pathogen, n (col %)\nn = 168\nn = 106\nn = 62\n< 0.001\n"
+  },
+  {
+    "page": 8,
+    "block_no": 19,
+    "block_type": 0,
+    "bbox": [
+      64.68742370605469,
+      431.9393005371094,
+      456.523193359375,
+      439.939208984375
+    ],
+    "text": "Gram-positive\n127 (75.6)\n90 (84.9)\n37 (59.7)\n"
+  },
+  {
+    "page": 8,
+    "block_no": 20,
+    "block_type": 0,
+    "bbox": [
+      64.68742370605469,
+      445.94232177734375,
+      456.5231628417969,
+      453.9422302246094
+    ],
+    "text": "Gram-negative\n41 (24.4)\n16 (15.1)\n25 (40.3)\n"
+  },
+  {
+    "page": 8,
+    "block_no": 21,
+    "block_type": 0,
+    "bbox": [
+      56.69392013549805,
+      459.7279357910156,
+      451.03936767578125,
+      467.94525146484375
+    ],
+    "text": "Gram positive, n (col %)\nn = 127\nn = 90\nn = 37\n"
+  },
+  {
+    "page": 8,
+    "block_no": 22,
+    "block_type": 0,
+    "bbox": [
+      64.68742370605469,
+      473.9483947753906,
+      456.5223388671875,
+      481.95025634765625
+    ],
+    "text": "Staphylococcus aureus\n57 (44.9)\n43 (40.6)\n14 (37.9)\n"
+  },
+  {
+    "page": 8,
+    "block_no": 23,
+    "block_type": 0,
+    "bbox": [
+      64.68742370605469,
+      487.8965759277344,
+      452.13848876953125,
+      495.8964538574219
+    ],
+    "text": "MRSA\n37 (64.9)\n34 (79.0)\n3 (21.4)\n"
+  },
+  {
+    "page": 8,
+    "block_no": 24,
+    "block_type": 0,
+    "bbox": [
+      64.68742370605469,
+      501.89764404296875,
+      456.5223388671875,
+      509.8995056152344
+    ],
+    "text": "Coagulase-negative Staphylococcus species\n57 (44.9)\n47 (44.4)\n10 (27.0)\n"
+  },
+  {
+    "page": 8,
+    "block_no": 25,
+    "block_type": 0,
+    "bbox": [
+      64.68742370605469,
+      515.900634765625,
+      448.8921813964844,
+      523.9025268554688
+    ],
+    "text": "Streptococcus A\n3 (2.4)\n0\n3 (8.1)\n"
+  },
+  {
+    "page": 8,
+    "block_no": 26,
+    "block_type": 0,
+    "bbox": [
+      64.68742370605469,
+      529.9036254882812,
+      456.5224304199219,
+      537.905517578125
+    ],
+    "text": "Enterococcus spp.\n10 (7.8)\n0\n10 (27.0)\n"
+  },
+  {
+    "page": 8,
+    "block_no": 27,
+    "block_type": 0,
+    "bbox": [
+      56.69392013549805,
+      543.6893310546875,
+      451.03936767578125,
+      551.9066162109375
+    ],
+    "text": "Gram negative, n (%)\nn = 41\nn = 16\nn = 25\n"
+  },
+  {
+    "page": 8,
+    "block_no": 28,
+    "block_type": 0,
+    "bbox": [
+      64.68743133544922,
+      557.9097290039062,
+      452.7240905761719,
+      565.91162109375
+    ],
+    "text": "Escherichia Coli\n4 (9.8)\n1 (6.3)\n3 (12.0)\n"
+  },
+  {
+    "page": 8,
+    "block_no": 29,
+    "block_type": 0,
+    "bbox": [
+      64.68743133544922,
+      571.9147338867188,
+      452.13934326171875,
+      579.9146118164062
+    ],
+    "text": "MDROs\n2 (50.0)\n1 (100)\n1 (33.4)\n"
+  },
+  {
+    "page": 8,
+    "block_no": 30,
+    "block_type": 0,
+    "bbox": [
+      64.68743133544922,
+      585.9157104492188,
+      448.89215087890625,
+      593.9176025390625
+    ],
+    "text": "Proteus mirabilis\n4 (9.8)\n3 (18.7)\n1 (4.0)\n"
+  },
+  {
+    "page": 8,
+    "block_no": 31,
+    "block_type": 0,
+    "bbox": [
+      64.68743133544922,
+      599.9207763671875,
+      433.169189453125,
+      607.920654296875
+    ],
+    "text": "MDROs\n1 (25.0)\n1 (33.4)\n0\n"
+  },
+  {
+    "page": 8,
+    "block_no": 32,
+    "block_type": 0,
+    "bbox": [
+      64.68743133544922,
+      613.9218139648438,
+      452.7240295410156,
+      621.9237060546875
+    ],
+    "text": "Klebsiella spp.\n11 (26.8)\n4 (25.0)\n7 (28.0)\n"
+  },
+  {
+    "page": 8,
+    "block_no": 33,
+    "block_type": 0,
+    "bbox": [
+      64.68743133544922,
+      627.9268188476562,
+      452.13934326171875,
+      635.9266967773438
+    ],
+    "text": "MDR0s\n7 (63.6)\n4 (100)\n3 (42.8)\n"
+  },
+  {
+    "page": 8,
+    "block_no": 34,
+    "block_type": 0,
+    "bbox": [
+      64.68743133544922,
+      641.9278564453125,
+      452.72406005859375,
+      649.9297485351562
+    ],
+    "text": "Pseudomonas aeruginosa\n6 (14.6)\n1 (6.3)\n5 (20.0)\n"
+  },
+  {
+    "page": 8,
+    "block_no": 35,
+    "block_type": 0,
+    "bbox": [
+      64.68743133544922,
+      655.932861328125,
+      452.13934326171875,
+      663.9327392578125
+    ],
+    "text": "MDROs\n4 (66.7)\n1 (100)\n3 (60.0)\n"
+  },
+  {
+    "page": 8,
+    "block_no": 36,
+    "block_type": 0,
+    "bbox": [
+      64.68743133544922,
+      669.9338989257812,
+      452.7240295410156,
+      677.935791015625
+    ],
+    "text": "Other GRAM-negative\n16 (39.0)\n7 (43.7)\n9 (36.0)\n"
+  },
+  {
+    "page": 8,
+    "block_no": 37,
+    "block_type": 0,
+    "bbox": [
+      64.68743133544922,
+      683.9389038085938,
+      452.13934326171875,
+      691.9387817382812
+    ],
+    "text": "MDROs\n7 (43.7)\n2 (28.6)\n5 (55.6)\n"
+  },
+  {
+    "page": 8,
+    "block_no": 38,
+    "block_type": 0,
+    "bbox": [
+      56.693931579589844,
+      697.93994140625,
+      538.6399536132812,
+      705.9398803710938
+    ],
+    "text": "Total MRSA, n (isolated pathogens %)\n37 (22)\n34 (32.0)\n3 (4.8)\n< 0.001\n"
+  },
+  {
+    "page": 8,
+    "block_no": 39,
+    "block_type": 0,
+    "bbox": [
+      56.693931579589844,
+      711.9429321289062,
+      538.6414794921875,
+      719.94287109375
+    ],
+    "text": "Total gram negative MDROs, n (isolated pathogens %)\n22 (13)\n9 (8.5)\n12 (19.3)\n0.052\n"
+  },
+  {
+    "page": 8,
+    "block_no": 40,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      725.8738403320312,
+      310.8236389160156,
+      732.8737182617188
+    ],
+    "text": "MRSA Methicillin-Resistant Staphylococcus aureus, MDROs Multidrug Resistant Organisms\n"
+  },
+  {
+    "page": 8,
+    "block_no": 41,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      32.82426834106445,
+      538.5765380859375,
+      41.00479507446289
+    ],
+    "text": "Gentilotti et al. Antimicrobial Resistance and Infection Control            (2020) 9:69 \nPage 8 of 11\n"
+  },
+  {
+    "page": 9,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      56.69097137451172,
+      88.24746704101562,
+      290.54791259765625,
+      529.8441772460938
+    ],
+    "text": "Impact of IPC and AMS intervention on CS SSI incidence\nThis multimodal approach led to a percentage reduction\nin the CS SSIs rates by more than 65%. Furthermore,\nless SSIs were detected at first visit (8 days after the CS)\nin the POST-Int group, possibly suggesting that fewer\ninfections were acquired in the theatre room and during\ninpatient stay [17]. Strengthening the chain supply for\nantibiotics and skin disinfectant was a priority. In the\nPOST-Int study almost every CS was preceded by an\nantibiotic prophylaxis, and the skin disinfection was per-\nformed following a standardized procedure in the vast\nmajority of cases. The AMS intervention led to a better\nappropriateness\nof\nantibiotic\nprescription,\nas\ndocu-\nmented also by other studies in LMICs [18]. Post-CS\nantimicrobial prescription was limited to cases requiring\na treatment. Administering multiple doses of post-\noperative antibiotics was not associated with a better\noutcome\ncompared\nwith\npre-operative\nsingle\ndose\nprophylaxis, as also reported by other authors [19, 20].\nFurthermore, by administering a pre-operative prophy-\nlaxis instead of a 3 days intravenous post-operative\ncourse, we estimate that hospital total cost savings have\nbeen around €1500 during the Post-Int study. Moreover,\na reduction of post-discharge antibiotics prescription by\napproximately 70% was achieved. This led to a personal\nsaving of around €3/patient in a country where 28% of\nthe population is estimated to live under the national\nbasic needs poverty line (approximately €14/month per\nadult) [21]. These findings suggest that AMS pro-\ngrammes are highly recommended in LMICs to improve\nthe prescription attitude and reduce the burden of\nhealth-care associated costs.\nThe study was not designed to assess the impact of\neach prevention measure on the occurrence of SSIs. A\nstudy with a more robust design, such as an interrupted\ntime series analysis or a controlled randomized clinical\ntrial would be useful to better address this issue [22, 23].\n"
+  },
+  {
+    "page": 9,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      544.2283935546875,
+      290.5567321777344,
+      733.8324584960938
+    ],
+    "text": "Risk factors for post-CS before and after the intervention\nFormal education and on-job training of the health-care\npersonnel were essential components of this interven-\ntion. In particular, after sharing literature evidences, in-\ncluding reviews [24–27] and guidelines, we observed\nimprovements in the operating room discipline and a\nmore rigorous compliance to SOPs and reporting tools.\nThe supervision of younger doctors was encouraged ac-\ncording with literature [12, 25, 28]. Therefore, in the\nPOST-Int study, a greater number of CS were performed\nby more experienced doctors. Higher rates of Pfannen-\nstiel incision, povidone-iodine for skin disinfection and\nabsorbable continuous/semi-subcutaneous sutures for\nskin closure were also observed in the POST-Int. Ab-\nsorbable suture and disinfection with povidone-iodine\nwere associated with lower risk of SSIs at multivariate\n"
+  },
+  {
+    "page": 9,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      304.72344970703125,
+      88.05426788330078,
+      538.5794677734375,
+      217.8127899169922
+    ],
+    "text": "analysis. Literature-based evidences suggest that sub-\ncutaneous tissue closure is associated with fewer wound\ncomplications [29], but the outcome may be different ac-\ncording with the type of CS incision [30]. Further well-\ndesigned trials at low risk of bias are needed to provide\nnon-conflicting results on the best type of suturing.\nData retrieved did not allow for the evaluation of other\nfactors that may have an impact on the risk of develop-\ning SSI post-CS, including diabetes, chorioamnionitis\nand hypertension. This must be considered a setting-\nrelated limitation of the present study.\n"
+  },
+  {
+    "page": 9,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      304.72430419921875,
+      232.24746704101562,
+      538.6595458984375,
+      649.8073120117188
+    ],
+    "text": "Changes in the characteristics of the isolates after the\nintervention\nA greater proportion of microbiologically-confirmed\nSSIs in the POST-Int study was reported, possibly re-\nlated to a better collection and processing of the sam-\nples. Also the laboratory diagnostic capability seemed to\nbe improved, as suggested by the detection of Entero-\ncoccus spp, which was not identified in the PRE-Int\nstudy. In 2016 the DRRH Laboratory has been audited\nper the WHO AFRO Stepwise Laboratory Quality Im-\nprovement Process Towards Accreditation (SLIPTA)\nChecklist and has met the requirement for “three star”\nrecognition level.\nThe significant reduction of gram-positive strains iso-\nlated and the lower MRSA prevalence in the second sur-\nvey are noteworthy. This is likely a consequence of the\nAMS education and on-job training which dramatically\naffected the health care workers’ attitude and behaviour\ntowards antibiotic prescription and IPC [31]. By avoiding\nunnecessary use of ceftriaxone in the post-operative\nperiod, the intervention may have contributed to the re-\nduction in MRSA rates in the second survey. The choice\nof Ampicillin for prophylaxis depended on the unavail-\nability of cefazolin, that is more widely used for surgical\nprophylaxis and more effective against Staphylococcus\naureus [32]. Probably, this is the reason why we observed\na similar rate in MSSA before and after the intervention.\nOn the other hand, considering the unavailability of sec-\nond line antibiotics in the majority of health facilities in\nTanzania, the high rate of MDROs - including gram-\nnegative bacteria – detected in this study is a serious con-\ncern. The lack of detailed data on MDROs prevalence all\nover the country highlights the need for building an effi-\ncient surveillance system in order to guide continuous tar-\ngeted interventions.\n"
+  },
+  {
+    "page": 9,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      304.72430419921875,
+      663.3973388671875,
+      538.5724487304688,
+      733.8359985351562
+    ],
+    "text": "Conclusions\nThe intervention implemented within this study was a\nmultidisciplinary collaborative strategy involving, among\nthe others, the hospital management, the pharmacist,\nthe microbiologist and the dedicated nurse. This AMS\nMultidisciplinary Team worked to improve the SSI\n"
+  },
+  {
+    "page": 9,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      32.82426834106445,
+      538.5765380859375,
+      41.00479507446289
+    ],
+    "text": "Gentilotti et al. Antimicrobial Resistance and Infection Control            (2020) 9:69 \nPage 9 of 11\n"
+  },
+  {
+    "page": 10,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      88.05646514892578,
+      290.56060791015625,
+      265.8324890136719
+    ],
+    "text": "prevention, surgical procedures and laboratory capability\nand cooperated to ensure a better management of\nwound infections. The participation of different health\ncare figures could be key to obtain an efficient hospital\nbased surveillance system, able to detect the gap,\nprioritize interventions and inform national and inter-\nnational institutions on the magnitude of AMR [4].\nThis multimodal approach demonstrated to be effect-\nive in a resource-constrained setting and highlighted the\nneed to improve IPC and AMR education of hospital\nstaff [9]. Improved SSI and AMR surveillance is war-\nranted to better understand the occurrence of SSIs and\ntheir microbiological characteristics. Further IPC-AMS\njoint programmes with robust study designs should be\nencouraged and scaled up in LMICs.\n"
+  },
+  {
+    "page": 10,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      275.5141296386719,
+      287.3740539550781,
+      373.04132080078125
+    ],
+    "text": "Abbreviations\nAMR: Antimicrobial Resistance; AMS: Antimicrobial Stewardship; BMI: Body\nMass Index; CDC: Center for Diseases Control; CS: Caesarean Section;\nDRRH: Dodoma Regional Referral Hospital; HAI: Health-care Associated\nInfection; ID: Infectious Diseases; IPC: Infection Prevention and Control;\nLMIC: Low and Middle Income Country; MDRO: Multidrug Resistant\nOrganisms; MRSA: Methicillin-Resistant Staphylococcus aureus;\nOGD: Obstetrics & Gynaecology Department; POST-Int: Post-intervention\nsurvey; PRE- Int: Pre-intervention survey; RCID: Resource Centre for Infectious\nDiseases; SOP: Standard Operating Procedure; SSIs: Surgical site infections;\nWHO: World Health Organization\n"
+  },
+  {
+    "page": 10,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      56.692909240722656,
+      383.513427734375,
+      277.6198425292969,
+      427.01287841796875
+    ],
+    "text": "Acknowledgements\nWe thank Prof. Stephan Harbarth, University of Geneva, for his input into\nscientific advice. We also thank all the staff working at the Obstetrics and\nGynaecology Department of the Dodoma Regional Referral Hospital and\nPost-Natal Care of the Makole Health Centre.\n"
+  },
+  {
+    "page": 10,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      56.692161560058594,
+      437.3374328613281,
+      282.012451171875,
+      490.0547790527344
+    ],
+    "text": "Authors’ contributions\nPDN and EG designed the study. Patients were clinically reviewed by PDN,\nEG, BN, and PM. AP was responsible of the microbiology procedures. EG\nperformed the statistical analysis. EN and FV were involved in drafting the\nmanuscript and reviewing the literature. AZ and GI revised the final paper.\nAll authors read and approved the final manuscript.\n"
+  },
+  {
+    "page": 10,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      56.692161560058594,
+      500.526123046875,
+      283.4375,
+      535.0114135742188
+    ],
+    "text": "Funding\nThis work was supported by the Italian Development Cooperation, Ministry\nof Foreign Affairs [AID9562] and the Italian Ministry of Health [Ricerca\nCorrente].\n"
+  },
+  {
+    "page": 10,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      56.692161560058594,
+      545.5397338867188,
+      277.28369140625,
+      571.0109252929688
+    ],
+    "text": "Availability of data and materials\nThe datasets used and/or analysed during the current study are available\nfrom the corresponding author on reasonable request.\n"
+  },
+  {
+    "page": 10,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      56.692161560058594,
+      581.5392456054688,
+      288.747314453125,
+      625.0387573242188
+    ],
+    "text": "Ethics approval and consent to participate\nThis study was approved by the Hospital Management of DRRH and the\nTanzanian National Institute for Medical Research (NIMR/HQ/R.8a/vol. IX/\n1927). All enrolled patients provided written informed consent. All data were\nanonymized.\n"
+  },
+  {
+    "page": 10,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      56.692161560058594,
+      635.510009765625,
+      133.6898956298828,
+      652.0241088867188
+    ],
+    "text": "Consent for publication\nNot applicable.\n"
+  },
+  {
+    "page": 10,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      56.692161560058594,
+      662.5524291992188,
+      236.19032287597656,
+      679.01025390625
+    ],
+    "text": "Competing interests\nThe authors declare that they have no competing interests.\n"
+  },
+  {
+    "page": 10,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      56.692161560058594,
+      689.53857421875,
+      290.31964111328125,
+      733.042236328125
+    ],
+    "text": "Author details\n1”Lazzaro Spallanzani” National Institute for Infectious Diseases-IRCCS, Via\nPortuense 292, Rome, Italy. 2Resource Centre for Infectious Diseases, Dodoma\nRegional Referral Hospital, Dodoma, Tanzania. 3Gynaecology and Obstetrics\nDepartment, Dodoma Regional Referral Hospital, Dodoma, Tanzania.\n"
+  },
+  {
+    "page": 10,
+    "block_no": 10,
+    "block_type": 0,
+    "bbox": [
+      304.7241516113281,
+      87.91450500488281,
+      512.23876953125,
+      115.03288269042969
+    ],
+    "text": "4Division of Infection and Immunity, Centre for Clinical Microbiology,\nUniversity College London, London, UK. 5National Institute of Health\nResearch Biomedical, Research Centre at UCL Hospitals, London, UK.\n"
+  },
+  {
+    "page": 10,
+    "block_no": 11,
+    "block_type": 0,
+    "bbox": [
+      304.7241516113281,
+      125.56309509277344,
+      464.41937255859375,
+      133.06300354003906
+    ],
+    "text": "Received: 30 January 2020 Accepted: 12 May 2020\n"
+  },
+  {
+    "page": 10,
+    "block_no": 12,
+    "block_type": 0,
+    "bbox": [
+      304.7242736816406,
+      163.54562377929688,
+      537.8078002929688,
+      732.991943359375
+    ],
+    "text": "References\n1.\nLaxminarayan R, Heymann DL. Challenges of drug resistance in the\ndeveloping world. BMJ. 2012;344:e1567.\n2.\nAllegranzi B, Bagheri Nejad S, Combescure C, et al. Burden of endemic\nhealthcare-associated infection in developing countries: systematic review\nand meta-analysis. Lancet. 2011;377:228–41.\n3.\nTadesse BT, Ashley EA, Ongarello S, Havumaki J, Wijegoonewardena M,\nGonzález IJ, Dittrich S. Antimicrobial resistance in Africa: a systematic review.\nBMC Infect Dis. 2017;17(1):616.\n4.\nPerovic O, Schultsz C. Stepwise approach fr implementation of antimicrobial\nresistance surveillance in Africa. Afr J Lab Med. 2016;5(3):482.\n5.\nBagheri Nejad S, Allegranzi B, Syed SB, Ellis B, Pittet D. Health-care-\nassociated infection in Africa: a systematic review. Bull World Health Organ.\n2011;89:757–65.\n6.\nECDC. Point prevalence survey of healthcare-associated infections and\nantimicrobial use in European acute care hospitals. Stockholm: European Centre\nfor Disease Prevention and Control; 2013. Available at: https://www.ecdc.europa.\neu/sites/default/files/media/en/publications/Publications/healthcare-associated-\ninfections-antimicrobial-use-PPS.pdf. Accessed 5 May 2020.\n7.\nAllegranzi B, Bischoff P, de Jonge S, et al. New WHO recommendations on\npreoperative measures for surgical site infection prevention: an evidence-\nbased global perspective. Lancet Infect Dis. 2016;16:e276–87.\n8.\nAllegranzi B, Zayed B, Bischoff P, et al. New WHO recommendations on\nintraoperative and postoperative measures for surgical site infection\nprevention: an evidence-based global perspective. Lancet Infect Dis. 2016;\n16:e288–303.\n9.\nWHO. WHO surgical safety checklist. Available at: http://www.who.int/\npatientsafety/safesurgery/checklist/en/. Accessed 5 May 2020.\n10.\nHaynes AB, Weiser TG, Berry WR, et al. Changes in safety attitude and\nrelationship to decreased postoperative morbidity and mortality following\nimplementation of a checklist-based surgical safety intervention. BMJ Qual\nSaf. 2011;20:102–7.\n11.\nHoran TC, Gaynes RP, Martone WJ, Jarvis WR, Emori TG. CDC definitions of\nnosocomial surgical site infections, 1992: a modification of CDC definitions\nof surgical wound infections. Am J Infect Control. 1992;20:271e274.\n12.\nDe Nardo P, Gentilotti E, Nguhuni B, Vairo F, Chaula Z, Nicastri E, Nassoro\nMM, Bevilacqua N, Ismail A, Savoldi A, Zumla A, Ippolito G. Post-caesarean\nsection surgical site infections at a Tanzanian tertiary hospital: a prospective\nobservational study. J Hosp Infect. 2016;93(4):355–9.\n13.\nAllegranzi B, Aiken AM, Zeynep Kubilay N, Nthumba P, Barasa J, Okumu G,\nMugarura R, Elobu A, Jombwe J, Maimbo M, Musowoya J, Gayet-Ageron A,\nBerenholtz SM. A multimodal infection control and patient safety intervention\nto reduce surgical site infections in Africa: a multicentre, before-after, cohort\nstudy. Lancet Infect Dis. 2018;18:507–15 [Epub ahead of print].\n14.\nNguhuni B, De Nardo P, Gentilotti E, et al. Reliability and validity of using\ntelephone calls for post-discharge surveillance of surgical site infection\nfollowing caesarean section at a tertiary hospital in Tanzania. Antimicrob\nResist Infect Control. 2017;6:43.\n15.\nEuropean Committee on Antimicrobial Susceptibility Testing. Breakpoint\ntables for interpretation of MICs and zone diameters. Version 4.0, 2014.\nAvailable at: http://www.eucast.org/fileadmin/src/media/PDFs/EUCAST_files/\nBreakpoint_tables/Breakpoint_table_v_4.0.pdf. Accessed 5 May 2020.\n16.\nEuropean Committee on Antimicrobial Susceptibility Testing. Breakpoint\ntables for interpretation of MICs and zone diameters. Version 3.1, 2013.\nAvailable at: http://www.eucast.org/fileadmin/src/media/PDFs/EUCAST_files/\nBreakpoint_tables/Breakpoint_table_v_3.1.pdf. Accessed 5 May 2020.\n17.\nKawakita T, Landy HL. Surgical site infections after cesarean delivery:\nepidemiology, prevention and treatment. Matern Health Neonatol Perinatol.\n2017;3:12.\n18.\nAiken AM, Wanyoro AK, Mwangi J, Juma F, Mugoya IK, Scott JA. Changing\nuse of surgical antibiotic prophylaxis in Thika hospital, Kenya: a quality\nimprovement intervention with an interrupted time series design. PLoS\nOne. 2013;8(11):e78942.\n"
+  },
+  {
+    "page": 10,
+    "block_no": 13,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      32.82426834106445,
+      538.5764770507812,
+      41.00479507446289
+    ],
+    "text": "Gentilotti et al. Antimicrobial Resistance and Infection Control            (2020) 9:69 \nPage 10 of 11\n"
+  },
+  {
+    "page": 11,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      56.69219970703125,
+      89.70819091796875,
+      290.3277282714844,
+      546.9859619140625
+    ],
+    "text": "19.\nLyimo FM, Massinde AN, Kidenya BR, Konje ET, Mshana SE. Single dose of\ngentamicin in combination with metronidazole versus multiple doses for\nprevention of post-caesarean infection at Bugando Medical Centre in\nMwanza, Tanzania: a randomized, equivalence, controlled trial. BMC\nPregnancy Childbirth. 2013;13:123.\n20.\nAbdel Jalil MH, Abu Hammour K, Alsous M, et al. Surgical site infections\nfollowing caesarean operations at a Jordanian teaching hospital: frequency\nand implicated factors. Sci Rep. 2017;7(1):12210.\n21.\nThe World Bank. Tanzania - Mainland poverty assessment (Vol. 2): Main\nreport. Available at: http://documents.worldbank.org/curated/en/53060146\n8179976437/Main-report. Accessed 5 May 2020.\n22.\nde Kraker MEA, Abbas M, Huttner B, Harbarth S. Good epidemiological\npractice: a narrative review of appropriate scientific methods to evaluate\nthe impact of antimicrobial stewardship interventions. Clin Microbiol Infect.\n2017;23(11):819–25.\n23.\nSchweitzer VA, van Heijl I, van Werkhoven CH, Islam J, Hendriks-Spoor KD,\nBielicki J, Bonten MJM, Walker AS, Llewelyn MJ, Consensus on Antimicrobial\nStewardship Evaluations (CASE) study group. The quality of studies\nevaluating antimicrobial stewardship interventions: a systematic review. Clin\nMicrobiol Infect. 2018;25:555–61.\n24.\nNthumba PM, Stepita-Poenaru E, Poenaru D, Bird P, Allegranzi B, Pittet D,\nHarbarth S. Cluster-randomized, crossover trial of the efficacy of plain soap\nand water versus alcohol-based rub for surgical hand preparation in a rural\nhospital in Kenya. Br J Surg. 2010;97(11):1621–8.\n25.\nMpogoro FJ, Mshana SE, Mirambo MM, et al. Incidence and predictors of\nsurgical site infections following caesarean sections at Bugando Medical\nCentre, Mwanza, Tanzania. Antimicrob Resist Infect Control. 2014;3:25.\n26.\nDahlke JD, Mendez-Figueroa H, Rouse DJ. Evidence-based surgery for\ncesarean delivery: an updated systematic review. Am J Obstet Gynecol.\n2013;209(4):294–306.\n27.\nMackeen AD, Berghella V, Larsen ML. Techniques and materials for skin\nclosure in caesarean section. Cochrane Database Syst Rev. 2012;11:\nCD003577.\n28.\nCorcoran S, Jackson V, Coulter-Smith S, et al. Surgical site infection after\ncesarean section: implementing 3 changes to improve the quality of patient\ncare. Am J Infect Control. 2013;41(12):1258–63.\n29.\nPergialiotis V, Prodromidou A, Perrea DN, et al. The impact of subcutaneous\ntissue suturing at caesarean section on wound complications: a meta-\nanalysis. BJOG. 2017;124(7):1018–25.\n30.\nMackeen AD, Berghella V, Larsen ML. Techniques and materials for skin\nclosure in caesarean section. Cochrane Database Syst Rev. 2012;9:CD003577.\n31.\nBitew Kifilie A, Dagnew M, Tegenie B, Yeshitela B, Howe R, Abate E. Bacterial\nprofile, antibacterial resistance pattern, and associated factors from women\nattending postnatal health service at university of gondar teaching hospital,\nnorthwest ethiopia. Int J Microbiol. 2018;2018:3165391.\n32.\nBratzler DW, Dellinger EP, Olsen KM, Perl TM, Auwaerter PG, Bolon MK, Fish\nDN, Napolitano LM, Sawyer RG, Slain D, Steinberg JP, Weinstein RA,\nAmerican Society of Health-System Pharmacists; Infectious Disease Society\nof America; Surgical Infection Society; Society for Healthcare Epidemiology\nof America. Clinical practice guidelines for antimicrobial prophylaxis in\nsurgery. Am J Health Syst Pharm. 2013;70(3):195–283.\n"
+  },
+  {
+    "page": 11,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      561.0701293945312,
+      267.2346496582031,
+      589.042236328125
+    ],
+    "text": "Publisher’s Note\nSpringer Nature remains neutral with regard to jurisdictional claims in\npublished maps and institutional affiliations.\n"
+  },
+  {
+    "page": 11,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      32.8243293762207,
+      538.5764770507812,
+      41.00485610961914
+    ],
+    "text": "Gentilotti et al. Antimicrobial Resistance and Infection Control            (2020) 9:69 \nPage 11 of 11\n"
+  }
+]

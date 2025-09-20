@@ -1,0 +1,1202 @@
+[
+  {
+    "page": 1,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      71.99946594238281,
+      37.49617004394531,
+      506.7540283203125,
+      62.28498840332031
+    ],
+    "text": "   Pattern of Pathogens and their Sensitivity  \nDinda V et al \n \n"
+  },
+  {
+    "page": 1,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      71.99946594238281,
+      743.8961181640625,
+      74.99373626708984,
+      755.8846435546875
+    ],
+    "text": " \n"
+  },
+  {
+    "page": 1,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      523.4397583007812,
+      37.58477783203125,
+      539.9892578125,
+      48.61420822143555
+    ],
+    "text": "141\n"
+  },
+  {
+    "page": 1,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      71.99946594238281,
+      74.23452758789062,
+      543.9821166992188,
+      220.42137145996094
+    ],
+    "text": "ORIGINAL ARTICLE \n \nPATTERN OF PATHOGENS AND THEIR SENSITIVITY \nISOLATED FROM SURGICAL SITE INFECTIONS AT THE \nAGA KHAN UNIVERSITY HOSPITAL, NAIROBI, KENYA \n \nDinda Victor5, GunturuRevathi1, Kariuki Sam2, Hakeem Abdi3, Raja Asad3, \nKimang'a Andrew4 \n \n"
+  },
+  {
+    "page": 1,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      71.99946594238281,
+      231.95193481445312,
+      131.0341796875,
+      242.9813690185547
+    ],
+    "text": "ABSTRACT \n"
+  },
+  {
+    "page": 1,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      71.99946594238281,
+      254.63192749023438,
+      542.7550048828125,
+      494.4047546386719
+    ],
+    "text": "BACKGROUND: In low income countries, surgical site infections (SSIs) are costly and impose a \nheavy and potentially preventable burden on both patients and healthcare providers. This study aimed \nto determine the occurrence of SSI, pathogens associated with SSI, the antibiogram of the causative \npathogens and specific risk factors associated with SSI at the hospital. METHODS: Two hundred and \nsixty-eight respondents admitted for general surgical procedures (other than neurological and \ncardiothoracic surgeries) at the Aga Khan University Hospital were eligible to take part in the study. \nPost-surgery patients were observed for symptoms of infection. Follow ups were done through the \nconsulting clinics, breast clinic and casualty dressing clinic by a team of surgeons. In cases of \ninfection, pus swabs were collected for culture.  \nRESULTS: SSI incidence rate was 7.0%, pathogens isolated from SSI included gram negative enteric \nbacilli and S. aureus which was the most prevalent bacterial isolate. Only one isolate of MRSA was \nfound and all staphylococci were susceptible to Vancomycin. Preoperative stay ≥ 2 days and wound \nclass were the risk factors associated with SSI.  \nCONCLUSION: The SSI incidence rates (7.0%) observed in this study were relatively lower than the \nones documented in other studies in Kenya. S. aureus is the most prevalent pathogen associated with \nSSI. Similar to findings from other studies done in the region; prolonged hospital stay and dirty \nwounds were the risks associated with postsurgical sepsis at the hospital. \nKEYWORDS:  Surgical sites, Infection, Surveillance, Antibiotics \n \n"
+  },
+  {
+    "page": 1,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      77.03945922851562,
+      508.8152160644531,
+      304.194091796875,
+      595.573974609375
+    ],
+    "text": "INTRODUCTION \n \nPost-operative infections have always been a \nfeature of human life. Sepsis in modern surgery \ncontinues to be a significant problem for \nhealthcare practitioners across the globe. Patients \nthat are undergoing surgery or surgical procedures \n"
+  },
+  {
+    "page": 1,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      71.99923706054688,
+      508.70458984375,
+      557.154296875,
+      696.8389282226562
+    ],
+    "text": "are at risk of acquiring infections at the site of \nincision as a result of the same surgical procedure. \nSurgical site infections (SSIs) are real risks \nassociated with any surgical procedure and \nrepresent a significant burden contributing to \nmorbidity and mortality, and increased cost to \nhealth services around the world (1).  \n \n1 Department of Pathology, Aga Khan University Hospital Nairobi, Kenya \n2 Center of Microbiology Research, Kenya Institute Medical Research Institute, Kenya \n3Department of Surgery, Aga Khan University Hospital Nairobi, Kenya \n4Department of Medical Microbiology, College of Health Sciences, Jomo Kenyatta University of Agriculture & \nTechnology, Kenya \n5Department of Medical laboratory science, School of Health sciences, Masinde Muliro University of Science and \nTechnology \nCorresponding Author: Dinda Victor, Email:vicuek2006@yahoo.com \n"
+  },
+  {
+    "page": 2,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      71.99946594238281,
+      37.69641876220703,
+      516.5945434570312,
+      61.19453811645508
+    ],
+    "text": "142           \n Ethiop J Health Sci.                               Vol. 23, No. 3                       July 2013 \n \n"
+  },
+  {
+    "page": 2,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      71.99946594238281,
+      743.8961181640625,
+      537.4735107421875,
+      755.8846435546875
+    ],
+    "text": " \n \n"
+  },
+  {
+    "page": 2,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      71.99946594238281,
+      73.58477783203125,
+      290.7541809082031,
+      717.0136108398438
+    ],
+    "text": "SSI remains one of the critically serious \nproblems \nin \npost-operative \ncomplications, \nconstituting approximately 20% of all of health \ncare-associated infections (2).  \nAlthough data on SSI in Kenya is scant, \nreports indicate that the situation is not that \ngood. Reports from studies in Nigeria, Ethiopia, \nSudan, Tanzania and some of the Kenyan \nhospitals are in harmony in terms of indicating \nthat the situation warrants more attention (3-8). \nAlthough surgical site infection is a \nrelatively serious problem in our health \ninstitution, there are scanty published reports on \nthe bacterial pathogens that are involved in SSIs \nin our local hospitals. The sporadic reports from \nthe public sector hospitals are mainly from the \nmicrobiology laboratory records which may not \nshow the complete clinical picture. Paucity of \npublished data on risk factors for SSIs has \nimpacted negatively on management of patients \nparticularly in the resource strained setup. Data \nfrom this study could be used to benchmark for a \nlarge scale study that could be useful for policy \nmakers to make informed decisions on issues of \ninfection control pertaining to surgical wound \nsepsis. \nThe objective of this study was to determine the \nincidence of SSI, the bacteria isolated, their \nantimicrobial susceptibility patterns and the risk \nfactors associated with surgical site infections \n(SSIs) among patients undergoing surgery at the \nAga Khan University Hospital, Nairobi (AKUH-\nN). \n \n MATERIALS AND METHODS  \n \nStudy Population: Two hundred and sixty-eight \n(268) successive adult patients who were \nreferred for surgery to the Aga Khan University \nHospital, Nairobi between March 2008 and May \n2009 and who had not undergone any surgical \nprocedure in the previous one month were \nrecruited into this study. This study excluded \npatients who were referred for surgery out of \ndisease complications that were being managed \nand those on multiple antimicrobial exposures \ndue to chronic care prior to the surgical \nprocedure. All diagnostic surgical procedures \nwere also excluded.  \nPre-operative, \nintra-operative, \npost-\noperative and management related factors were \n"
+  },
+  {
+    "page": 2,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      323.9993896484375,
+      73.58447265625,
+      542.7554321289062,
+      704.4136962890625
+    ],
+    "text": "recorded in detail on a structured questionnaire. \nAntibiotic \nprophylaxis \nwas \nadministered \naccording to the institutional policy. The \nsurgical sites were examined on the 2nd post-\noperative day and then daily for pain, redness, \nwarmth, and swelling and purulent drainage at \nthe incision site. SSIs were diagnosed and \ndefined by the surgeon according to the CDC \ndefinition (10). All patients’ charts, including \nlaboratory reports were reviewed six times a \nweek. \nPost-discharge \nexamination \nof \nthe \nsurgical site was performed for all patients in the \noutpatient clinic for any evidence of SSIs.  All \npatients were reviewed at follow-up clinics after \nseven days after discharge and other subsequent \nfollow-ups were carried out at the consulting \nsurgical clinics, breast clinic and casualty \ndressing clinic for the purpose of SSI \nsurveillance. The follow-up process involved \nfour consultant surgeons assisted by two resident \nsurgeons and a team of infection control nurses. \nThe surveillance was extended for up to 30 days \nafter surgery. \nImmediately on admission to the hospital, \nsurveillance \ncultures \nwere \nperformed \nby \nswabbing the anterior nares, axilla, groin and \nperianal regions. Pus swabs were collected from \ninfected surgical sites suspected of SSI and \ntransported to the laboratory in Stuart’s transport \nmedium. Culture was done using standard \nbacteriological \nprocedures. \nBacterial \nidentification was done by colony morphology \nanalysis, Gram stain, routine biochemical tests \nand analytic profile indexing (bioMerieux, Inc., \nHazelwood, MO). Susceptibility testing was \ndone using the disk diffusion technique \naccording to CLSI 2009 guidelines (11).  \nStandard \noperating \nprocedures \nfor \nsample \ncollection, \ntransport, \nculture \nand \nsusceptibility testing for isolated organisms were \nfollowed \nto \nensure \nprocedural \nquality. \nEscherichia coli ATCC 25922, Pseudomonas \naeruginosa \nATCC \n27853, \nStaphylococcus \naureus ATCC 25923 and Enterococcus faecalis \nATCC 29212 were used as control organisms. \nThe microbiology laboratory at the Aga Khan \nUniversity \nHospital \nis \na \nparticipant \nin \nUKNEQAS program in addition to being an \ninternationally accredited laboratory (ISO 15189 \n-2007). \n"
+  },
+  {
+    "page": 3,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      71.99946594238281,
+      37.49617004394531,
+      506.7540283203125,
+      62.28498840332031
+    ],
+    "text": "   Pattern of Pathogens and their Sensitivity  \nDinda V et al \n \n"
+  },
+  {
+    "page": 3,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      71.99946594238281,
+      743.8961181640625,
+      74.99373626708984,
+      755.8846435546875
+    ],
+    "text": " \n"
+  },
+  {
+    "page": 3,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      523.4397583007812,
+      37.58477783203125,
+      539.9892578125,
+      48.61420822143555
+    ],
+    "text": "143\n"
+  },
+  {
+    "page": 3,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      71.99946594238281,
+      73.58477783203125,
+      290.75421142578125,
+      274.4444274902344
+    ],
+    "text": "Data were analyzed using SPSS version 17.0. \nDescriptive statistics was used to show simple \nfrequencies and means. The chi-square test was \nused to determine the relationship between the \ndependent and the independent variables.  \nInstitutional approval was obtained and the \nstudy was conducted according to the ethical \nguidelines of the declaration of Helsinki as \nrevised in 2000 (9). All subjects provided \nwritten informed consent before entering the \nstudy. No one was recruited solely for the \npurpose of the study; results obtained were used \nin the improved management of the patients.  \n \n \n \n"
+  },
+  {
+    "page": 3,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      323.9993896484375,
+      73.69509887695312,
+      542.7542114257812,
+      261.73345947265625
+    ],
+    "text": "RESULTS \n \nTwo hundred and sixty-eight respondents were \nenrolled, 262 were followed through one month, \nand 6 were lost during follow-up. The \nrespondents had a mean age of 38yrs; median \nage of 37 years and modal age of 45 years. More \nSSI cases were noted in adult patients (above 30 \nyears) than younger patients below (30 years). A \ntotal of 189 females and 79 males were recruited \nin the study. Out of these, 24 (13.6%) of the \nfemale and 15(18%) of males patients developed \nSSI, \nalthough \nthere \nwas \nno \nstatistically \nsignificant correlation between sex and SSI \n(Table 1). \n"
+  },
+  {
+    "page": 3,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      71.99946594238281,
+      276.1363220214844,
+      309.2333984375,
+      288.1248474121094
+    ],
+    "text": "Table 1: Incidence rates of surgical site infection \n"
+  },
+  {
+    "page": 3,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      73.92141723632812,
+      302.29852294921875,
+      461.4238586425781,
+      695.904296875
+    ],
+    "text": "Frequency\nIncidence %\np ≤0.05\nAll infections after surgery\n39(268)\n14.60\nTrue SSI \n12(171)\n7.00\nClass I\nClean wound surgery\n5(91)\n5.50\n0.506\nClass II\nClean contaminated wound surgery\n7(80)\n8.80\n0.613\nClass III\nContaminated wound surgery\n6(30)\n20.00\n0.09\nClass IV\nDirty wound surgery\n20(67)\n29.90\n0.003\nMale\n15(79)\n18.90\n0.082\nFemale\n24(189)\n12.70\n0.075\nAbdominal\n10 (39)\n25.64\n0.093\nNeck\n2 (38)\n5.26\n1.348\nThorax\n7 (39)\n17.95\n0.276\nHead\n0(40)\n0.00\n-\nPerineum\n10(39)\n25.64\n0.093\nUpper Limbs\n3 (39)\n7.69\n0.308\nLower Limbs\n7 (39)\n17.95\n0.543\n≤18.4\n5(74)\n6.76\n0.073\n18.5-24.9\n14(158)\n8.86\n0.098\n≥25\n20(36)\n55.56\n0.156\nLess than a day\n4(23)\n17.39\n0.135\n1 day\n14(178)\n7.87\n0.106\n2 days\n5(15)\n33.33\n0.002\n3 days\n3(12)\n0.25\n0.05\n4 days\n2(2)\n100.00\n0.04\n5 days\n3(3)\n100.00\n0.048\n7 days\n2(4)\n50.00\n0.037\n> 7days\n6(30)\n20.00\n0.024\nASA Grade 1\n27(197)\n13.71\n0.079\nASA Grade 2\n9(46)\n19.56\n0.084\n ASA Grade 3\n3(25)\n12.00\n0.068\nNo\n25(190)\n13.16\n0.459\nYes\n14 (78)\n17.95\n0.067\n*Key\nSSI occurence (number of surgery in the category)\nTrue SSI Rate = (SSI occurrence in Clean and clean contaminated/Total Clean and Clean \ncontaminated Surgical procedure X 100)\n"
+  },
+  {
+    "page": 3,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      73.92141723632812,
+      477.4093933105469,
+      91.21949005126953,
+      485.90435791015625
+    ],
+    "text": "BMI\n"
+  },
+  {
+    "page": 3,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      73.92141723632812,
+      509.9294128417969,
+      124.94342041015625,
+      529.1043090820312
+    ],
+    "text": "Preoperative \noperative stay\n"
+  },
+  {
+    "page": 3,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      73.92141723632812,
+      599.329345703125,
+      119.05241394042969,
+      618.5042724609375
+    ],
+    "text": "ASA Grade \nscores\n"
+  },
+  {
+    "page": 3,
+    "block_no": 10,
+    "block_type": 0,
+    "bbox": [
+      73.92141723632812,
+      631.849365234375,
+      128.8924102783203,
+      651.0242309570312
+    ],
+    "text": "Intraoperative \nProphylaxis\n"
+  },
+  {
+    "page": 3,
+    "block_no": 11,
+    "block_type": 0,
+    "bbox": [
+      73.92141723632812,
+      314.8094177246094,
+      101.41557312011719,
+      323.30438232421875
+    ],
+    "text": "Overall\n"
+  },
+  {
+    "page": 3,
+    "block_no": 12,
+    "block_type": 0,
+    "bbox": [
+      73.92141723632812,
+      336.5294189453125,
+      120.01950073242188,
+      345.0243835449219
+    ],
+    "text": "Wound class\n"
+  },
+  {
+    "page": 3,
+    "block_no": 13,
+    "block_type": 0,
+    "bbox": [
+      73.92141723632812,
+      379.84942626953125,
+      86.90342712402344,
+      388.3443908691406
+    ],
+    "text": "Sex\n"
+  },
+  {
+    "page": 3,
+    "block_no": 14,
+    "block_type": 0,
+    "bbox": [
+      73.92141723632812,
+      401.56939697265625,
+      130.5794677734375,
+      410.0643615722656
+    ],
+    "text": "Operation Sites\n"
+  },
+  {
+    "page": 3,
+    "block_no": 15,
+    "block_type": 0,
+    "bbox": [
+      474.23980712890625,
+      688.2161865234375,
+      480.2340393066406,
+      700.2047119140625
+    ],
+    "text": "  \n"
+  },
+  {
+    "page": 4,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      71.99946594238281,
+      37.69641876220703,
+      516.5945434570312,
+      61.19453811645508
+    ],
+    "text": "144           \n Ethiop J Health Sci.                               Vol. 23, No. 3                       July 2013 \n \n"
+  },
+  {
+    "page": 4,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      71.99946594238281,
+      743.8961181640625,
+      537.4735107421875,
+      755.8846435546875
+    ],
+    "text": " \n \n"
+  },
+  {
+    "page": 4,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      71.99946594238281,
+      73.49617004394531,
+      292.55364990234375,
+      84.61420440673828
+    ],
+    "text": "Table 2: Bacteria isolated from the study subjects \n"
+  },
+  {
+    "page": 4,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      73.91947174072266,
+      98.89981842041016,
+      456.2107238769531,
+      281.4203796386719
+    ],
+    "text": "Intraoperative \nPostoperative \nOrganisms\nNasal\nAxilla\nGroin\nPerianal \nn =39\nCoagulase negative \nStaphylococcus\n94\n62\n20\n0\n1\n6(15.4%)\nE. coli\n0\n0\n8\n58\n2\n5(12.8%)\nS. aureus\n34\n27\n0\n0\n1\n12(30.8%)\nKlebsiella spp\n1\n0\n2\n10\n0\n5(12.8%)\nKluyvera spp\n0\n0\n5\n8\n0\n5(12.8%)\nCitrobacter frendii\n0\n3\n2\n0\n0\n0 (0)\nEnterococcus spp.\n0\n0\n8\n5\n0\n0 (0)\nP. aeruginosa\n0\n0\n1\n0\n0\n4 (10.3%)\nProteus spp.\n0\n0\n0\n4\n0\n0 (0)\nAcinetobacter spp.\n0\n0\n0\n1\n0\n0 (0)\nE. cloacae\n0\n0\n0\n0\n0\n1(2.6%)\nSerratia marscence\n0\n0\n0\n0\n0\n1 (2.6%)\nTotal\n129\n92\n46\n86\n4\n39\n"
+  },
+  {
+    "page": 4,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      200.27992248535156,
+      99.49979400634766,
+      277.5972595214844,
+      108.50045776367188
+    ],
+    "text": "Preoperative culture\n"
+  },
+  {
+    "page": 4,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      71.99993896484375,
+      274.5763244628906,
+      468.4740905761719,
+      297.3648376464844
+    ],
+    "text": " \n \n"
+  },
+  {
+    "page": 4,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      77.03901672363281,
+      312.8646240234375,
+      304.1941833496094,
+      488.2940368652344
+    ],
+    "text": "Table 2 shows the frequencies of bacterial isolates \nfrom three stages of samples: Preoperative (Nasal, \nAxilla, Groin and Perianal), Intra-operative and \nPostoperative. Coagulase negative staphylococci \nshowed high frequency in preoperative samples, \nE. coli in intra-operative and S. aureus in \npostoperative samples. Thirty-nine (39) cases of \nSSI were detected, 29 of the cases were culture \npositive, and 3 of the cases had multiple \norganisms (S. aureus with Coagulase negative \nstaphylococci; S. aureus with E. coli; Klebsiella \nspp with E. coli). Repeat samples were excluded \nfrom the analysis. In 3 cases of SSI, S. aureus \nisolates with the same antibiogram were isolated \n"
+  },
+  {
+    "page": 4,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      329.9993591308594,
+      312.86468505859375,
+      557.1541137695312,
+      475.694091796875
+    ],
+    "text": "from both nasal swab and pus swab, indicating a \npossible case of nasal carriage resulting in \nendogenous infection. Also, in one case of SSI, a \nP. aeruginosa isolate with the same antibiogram \nwas isolated from the groin swab and surgical site \npus swab. The preoperative cultures were included \nto show the relationship between bacteria isolated \nfrom the SSI and bacterial carriage by the \nrespondents. \nTable 3 shows the resistance patterns of S. \naureus and CN staphylococcus on selected \nantibiotics as outlined by AKUH (N) protocols for \nfirst \nline \ntesting \nfor \ngram \npositive.\n"
+  },
+  {
+    "page": 4,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      71.99899291992188,
+      502.58465576171875,
+      498.2337951660156,
+      513.6140747070312
+    ],
+    "text": "Table 3: Antibiotic susceptibility pattern for S. aureus and CN staphylococcus isolated from SSI \n"
+  },
+  {
+    "page": 4,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      109.91893005371094,
+      537.6033935546875,
+      399.56781005859375,
+      658.5784912109375
+    ],
+    "text": "Antibiotic \nS. aureus (n= 10) \nCN Staphylococcus (n=5)\nAmpicillin\n6 (60%)\n4(80%)\nDoxycycline\n4(40%)\n3(60%)\nAzithromycin\n3(30%\n3(60%)\nAugmentin\n1(10%)\n2(40%\nCefuroxime\n1(10%)\n3(60%)\nCiprofloxacin\n5(50%)\n1(20%)\nChloramphenicol\n2(20%\n2(40%\nOxacillin\n1(10%)\n0\nNetilmicin\n0\n0\nVancomycin\n0\n0\n"
+  },
+  {
+    "page": 4,
+    "block_no": 10,
+    "block_type": 0,
+    "bbox": [
+      257.75885009765625,
+      528.1234741210938,
+      344.5960693359375,
+      536.67822265625
+    ],
+    "text": "Frequency of Resistance\n"
+  },
+  {
+    "page": 4,
+    "block_no": 11,
+    "block_type": 0,
+    "bbox": [
+      71.99946594238281,
+      673.215087890625,
+      74.75418090820312,
+      709.4539184570312
+    ],
+    "text": " \n \n \n"
+  },
+  {
+    "page": 4,
+    "block_no": 12,
+    "block_type": 0,
+    "bbox": [
+      323.9993896484375,
+      673.1044921875,
+      326.7541198730469,
+      696.73388671875
+    ],
+    "text": " \n \n"
+  },
+  {
+    "page": 5,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      71.99946594238281,
+      37.49617004394531,
+      506.7540283203125,
+      62.28498840332031
+    ],
+    "text": "   Pattern of Pathogens and their Sensitivity  \nDinda V et al \n \n"
+  },
+  {
+    "page": 5,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      71.99946594238281,
+      743.8961181640625,
+      74.99373626708984,
+      755.8846435546875
+    ],
+    "text": " \n"
+  },
+  {
+    "page": 5,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      523.4397583007812,
+      37.58477783203125,
+      539.9892578125,
+      48.61420822143555
+    ],
+    "text": "145\n"
+  },
+  {
+    "page": 5,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      71.99946594238281,
+      73.58477783203125,
+      290.7541198730469,
+      122.53412628173828
+    ],
+    "text": "Table 4 shows the resistance patterns of gram \nnegative bacteria on selected antibiotics as \noutlined by AKUH(N) protocols for first and \nsecond \nline \ntesting \nfor \ngram \nnegative \n"
+  },
+  {
+    "page": 5,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      323.9993896484375,
+      73.49610900878906,
+      542.754150390625,
+      109.93408966064453
+    ],
+    "text": "(P.aeruginosa was tested on second line \nantibiotics while the rest were tested on first line \nfor gram negative bacteria). \n"
+  },
+  {
+    "page": 5,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      71.99948120117188,
+      124.22467041015625,
+      451.433837890625,
+      160.45399475097656
+    ],
+    "text": " \nTable 4: Antibiotic susceptibility pattern for gram negative bacteria isolated from SSI \n \n"
+  },
+  {
+    "page": 5,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      71.99996948242188,
+      163.70895385742188,
+      559.6740112304688,
+      716.053955078125
+    ],
+    "text": "Frequency of Resistance\nAntibiotics\nKluyvera  spp.(n=4)\nE. coli(n=4)\nKlebsiella spp.(n=3)\nP. aeruginosa(n=4)\nCotrimoxazole\n0(0%)\n3(75%)\n2(67%)\n-\nDoxycycline\n3(75%)\n3(75%)\n1(33%)\n-\nAugmentin\n2(50%)\n3(75%)\n2(67%)\n-\nCefotaxime\n2(50%)\n1(25%)\n2(67%)\n-\nChloramphenicol\n1(25%)\n2(50%)\n1(33%)\n-\nCefuroxime\n1(25%)\n2(50%)\n0(0%)\n-\nCiprofloxacin\n1(25%)\n2(50%)\n0(0%)\n3(75%)\nGentamicin\n1(25%)\n2(50%)\n2(67%)\n2(50%)\nTazo-piperacillin\n-\n-\n-\n3(75%)\nCefepime\n-\n-\n-\n2(50%)\nCeftazidime\n-\n-\n-\n2(50%)\nImipenem\n-\n-\n-\n2(50%)\nPiperacillin\n-\n-\n-\n2(50%)\nCeftriaxone\n-\n-\n-\n1(25%)\nKey\nE. cloacae and Serratia marcescens susceptibility pattern not included because only one (1) of each was isolated in SSI \n  - Not tested\n \n \nDISCUSSION \n \nIt was noted that the true incidence rate of SSI at \nthe hospital was 7.0%. The findings of this study \nwere at variance with the findings of a study by \nBrown et al., (12) in Russia which reported a \n9.5% incidence and Mitchell et al. (13) in \nAustralia that reported an incidence rate of 10%. \nA study in Bolivia by Soleto et al. (14) reported \nan incidence rate of 12% whereas in Sudan, \nAbdalla et al. (3) reported a 13.8% SSI \nincidence rate; Ericksen et al., Tanzania reported \nSSI rate of 19.4% in 2003 (15). \nAlthough the findings of the study are at \nvariance with most SSI studies reviewed, the \nrelatively low incidence rates observed were \ncomparable with study findings by Petrosillo et \nal. (16) in Italy who reported the SSI incidence \nrate of 5.2% in 2008, and findings from the \nstudy by Fiorio et al., in 2006 that reported \nincidence of SSI of 5.2% in 100 operations (17). \nVariable occurrence rates were observed in \ndifferent groups in this study. Incidence rate \n"
+  },
+  {
+    "page": 5,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      324.0008239746094,
+      414.0246887207031,
+      542.7557983398438,
+      715.9654541015625
+    ],
+    "text": "among females was found to be lower than \namong males. It was, however, difficult to \nestablish the reason for the variation, although \nthis observation was also reported from a study \nby Brown et al., (12) in Russia. It was proven \nthat the SSI rate was higher in dirty wounds \nclass than in any other class. These findings \nconfirm that the dirtier the wound is, the higher \nthe chances of infection and are in agreement \nwith the findings from other studies (18-20).  \nThis study found out that the pathogens \ninvolved in SSI at the AKUHN included S. \naureus \n(30.8%), \nCoagulase \nnegative \nStaphylococcus \n(15.4%), \nPseudomonas \naeruginosa (10.4%), Kluyvera spp. (12.8%), E. \ncoli (12.8%), Klebsiella species (12.8%), \nSerratia marcescens (2.6 %) and Enterobacter \ncloacae (2.6%).  A report (Internal audit Report \n2007) from Aga Khan University Hospital, \nNairobi, Microbiology section, agrees with the \nfindings of this study in that the most prevalent \npathogen isolated from the pus swabs taken from \npatients \nwith \npostoperative \nhistory \nis \nStaphylococcus aureus. \n"
+  },
+  {
+    "page": 6,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      37.678340911865234,
+      275.3941345214844,
+      61.19828414916992,
+      720.0005493164062
+    ],
+    "text": "146           \n Ethiop J Health Sci.                               Vol. 23, No. 3                       July 2013 \n \n"
+  },
+  {
+    "page": 6,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      563.8786010742188,
+      74.51554107666016,
+      575.889892578125,
+      720.0005493164062
+    ],
+    "text": " \n \n"
+  },
+  {
+    "page": 6,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      73.56806182861328,
+      273.7149963378906,
+      140.8019256591797,
+      720.0005493164062
+    ],
+    "text": "  \nTable 5: Association of corneal opacity and potential risk factors, eye level analysis (n=596) \n \nRisk factor \n \nTotal no \nof eyes \n \n"
+  },
+  {
+    "page": 6,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      114.39442443847656,
+      459.6257019042969,
+      140.8019256591797,
+      494.879638671875
+    ],
+    "text": "Eyes with \ncorneal \nopacity\n"
+  },
+  {
+    "page": 6,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      114.39442443847656,
+      386.66595458984375,
+      140.8019256591797,
+      451.4401550292969
+    ],
+    "text": "Percentage of eyes \nwith corneal \nopacity\n"
+  },
+  {
+    "page": 6,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      114.39442443847656,
+      101.1855239868164,
+      122.44193267822266,
+      355.5601806640625
+    ],
+    "text": "Univariate analysis \n \nMultivariate analysis \n"
+  },
+  {
+    "page": 6,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      127.23442077636719,
+      61.465248107910156,
+      144.40191650390625,
+      375.36016845703125
+    ],
+    "text": "Odds \nRatio \n95% CI \nP value \nP value \nfor trend \nOdds \nRatio \n95% CI \nP value \nP value \nfor trend \n"
+  },
+  {
+    "page": 6,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      146.04881286621094,
+      94.1055679321289,
+      154.12191772460938,
+      720.0005493164062
+    ],
+    "text": "Sex \nMale \n188\n29\n15.4\n1.0 \n \n \n \n1.0 \n \n \n \n"
+  },
+  {
+    "page": 6,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      157.2088165283203,
+      94.10501861572266,
+      167.17630004882812,
+      720.0005493164062
+    ],
+    "text": " \nFemale \n408\n44\n10.8\n0.6 \n0.4-1.2 \n0.14 \n \n0.7 \n0.3-1.4 \n0.314 \n \n"
+  },
+  {
+    "page": 6,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      168.24879455566406,
+      117.6254653930664,
+      176.3218994140625,
+      720.0005493164062
+    ],
+    "text": " \n \n \n \n \n \n \n \n \n"
+  },
+  {
+    "page": 6,
+    "block_no": 10,
+    "block_type": 0,
+    "bbox": [
+      180.12879943847656,
+      67.9454116821289,
+      188.201904296875,
+      720.0005493164062
+    ],
+    "text": "Age  \n<45 \n197\n12\n6.1\n1.0 \n \n \n<0.001 \n1.0 \n \n \n0.001 \n"
+  },
+  {
+    "page": 6,
+    "block_no": 11,
+    "block_type": 0,
+    "bbox": [
+      191.28878784179688,
+      94.10501861572266,
+      201.13629150390625,
+      720.0005493164062
+    ],
+    "text": " \n45-64 \n325\n43\n13.2\n2.8 \n1.3-6.3 \n0.01 \n \n3.0 \n1.3-6.6 \n0.008 \n \n"
+  },
+  {
+    "page": 6,
+    "block_no": 12,
+    "block_type": 0,
+    "bbox": [
+      201.2954559326172,
+      94.10501861572266,
+      213.0162811279297,
+      720.0005493164062
+    ],
+    "text": " \n≥65 \n74\n18\n24.3\n5.5 \n2.2-13.7 \n<0.01 \n \n4.9 \n1.9-12.7 \n0.001 \n \n"
+  },
+  {
+    "page": 6,
+    "block_no": 13,
+    "block_type": 0,
+    "bbox": [
+      214.2087860107422,
+      117.6254653930664,
+      222.28189086914062,
+      720.0005493164062
+    ],
+    "text": " \n \n \n \n \n \n \n \n \n"
+  },
+  {
+    "page": 6,
+    "block_no": 14,
+    "block_type": 0,
+    "bbox": [
+      225.248779296875,
+      94.1053237915039,
+      235.21627807617188,
+      720.0005493164062
+    ],
+    "text": "Education \nIlliterate \n549\n71\n12.9\n1.0 \n \n \n \n \n \n \n \n"
+  },
+  {
+    "page": 6,
+    "block_no": 15,
+    "block_type": 0,
+    "bbox": [
+      236.4087677001953,
+      117.6254653930664,
+      253.57626342773438,
+      720.0005493164062
+    ],
+    "text": " \nNon formal or formal \neducation \n47\n2\n4.3\n0.2 \n0.04-1.1 \n0.06 \n \n \n \n \n"
+  },
+  {
+    "page": 6,
+    "block_no": 16,
+    "block_type": 0,
+    "bbox": [
+      254.7687530517578,
+      117.6254653930664,
+      262.84185791015625,
+      720.0005493164062
+    ],
+    "text": " \nSome formal \n14\n0\n0.0\n \n \n \n \n \n \n \n"
+  },
+  {
+    "page": 6,
+    "block_no": 17,
+    "block_type": 0,
+    "bbox": [
+      265.9287414550781,
+      117.6254653930664,
+      274.0018615722656,
+      720.0005493164062
+    ],
+    "text": " \n \n \n \n \n \n \n \n \n"
+  },
+  {
+    "page": 6,
+    "block_no": 18,
+    "block_type": 0,
+    "bbox": [
+      276.9687194824219,
+      94.10538482666016,
+      294.2818603515625,
+      720.0005493164062
+    ],
+    "text": "Time since trichiasis \nsurgery  \n0-12 months \n495\n54\n10.9\n1.0 \n \n \n \n1.0 \n \n \n \n"
+  },
+  {
+    "page": 6,
+    "block_no": 19,
+    "block_type": 0,
+    "bbox": [
+      288.8487243652344,
+      94.1054458618164,
+      296.896240234375,
+      636.1200561523438
+    ],
+    "text": ">12 months \n101\n19\n18.8\n2.4 \n1.2-4.9 \n0.01 \n \n2.7 \n1.3-5.5 \n0.007 \n \n"
+  },
+  {
+    "page": 6,
+    "block_no": 20,
+    "block_type": 0,
+    "bbox": [
+      299.88873291015625,
+      117.6254653930664,
+      307.96185302734375,
+      720.0005493164062
+    ],
+    "text": " \n \n \n \n \n \n \n \n \n"
+  },
+  {
+    "page": 6,
+    "block_no": 21,
+    "block_type": 0,
+    "bbox": [
+      311.0487365722656,
+      117.6254653930664,
+      328.3618469238281,
+      720.0005493164062
+    ],
+    "text": "Epilation prior to \nsurgery \nYes \n442\n51\n11.5\n1.0 \n \n \n \n \n \n \n"
+  },
+  {
+    "page": 6,
+    "block_no": 22,
+    "block_type": 0,
+    "bbox": [
+      333.96868896484375,
+      117.6254653930664,
+      342.0418395996094,
+      720.0005493164062
+    ],
+    "text": " \nNo \n154\n22\n14.3\n1.2 \n0.7-2.3 \n0.54 \n \n \n \n \n"
+  },
+  {
+    "page": 6,
+    "block_no": 23,
+    "block_type": 0,
+    "bbox": [
+      345.1286926269531,
+      117.6254653930664,
+      353.2018127441406,
+      720.0005493164062
+    ],
+    "text": " \n \n \n \n \n \n \n \n \n"
+  },
+  {
+    "page": 6,
+    "block_no": 24,
+    "block_type": 0,
+    "bbox": [
+      356.8887023925781,
+      117.6254653930664,
+      364.9618225097656,
+      720.0005493164062
+    ],
+    "text": "Frequency of epilation Once a week or more \n223\n21\n9.4\n1.0 \n \n \n0.24 \n \n \n \n"
+  },
+  {
+    "page": 6,
+    "block_no": 25,
+    "block_type": 0,
+    "bbox": [
+      379.2087097167969,
+      117.6254653930664,
+      387.2818298339844,
+      720.0005493164062
+    ],
+    "text": " \n< Once a week \n218\n30\n13.8\n1.6 \n0.8-3.1 \n0.20 \n \n \n \n \n"
+  },
+  {
+    "page": 6,
+    "block_no": 26,
+    "block_type": 0,
+    "bbox": [
+      391.0887145996094,
+      117.6254653930664,
+      399.1618347167969,
+      720.0005493164062
+    ],
+    "text": " \nNot at all \n155\n22\n14.2\n1.5 \n0.7-3.1 \n0.26 \n \n \n \n \n"
+  },
+  {
+    "page": 6,
+    "block_no": 27,
+    "block_type": 0,
+    "bbox": [
+      402.128662109375,
+      117.6254653930664,
+      410.2017822265625,
+      720.0005493164062
+    ],
+    "text": " \n \n \n \n \n \n \n \n \n"
+  },
+  {
+    "page": 6,
+    "block_no": 28,
+    "block_type": 0,
+    "bbox": [
+      413.2886657714844,
+      94.10538482666016,
+      430.4817810058594,
+      720.0005493164062
+    ],
+    "text": "Any surgical \ncomplication \nNo \n511\n54\n10.6\n1.0 \n \n \n \n1.0 \n \n \n \n"
+  },
+  {
+    "page": 6,
+    "block_no": 29,
+    "block_type": 0,
+    "bbox": [
+      425.0486755371094,
+      94.1055679321289,
+      433.09619140625,
+      636.1200561523438
+    ],
+    "text": "Yes \n85\n19\n22.4\n2.5 \n1.3-4.7 \n0.01 \n \n2.9 \n1.4-5.9 \n<0.01 \n \n"
+  },
+  {
+    "page": 6,
+    "block_no": 30,
+    "block_type": 0,
+    "bbox": [
+      436.20867919921875,
+      117.6254653930664,
+      444.28179931640625,
+      720.0005493164062
+    ],
+    "text": " \n \n \n \n \n \n \n \n \n"
+  },
+  {
+    "page": 6,
+    "block_no": 31,
+    "block_type": 0,
+    "bbox": [
+      448.08868408203125,
+      94.10538482666016,
+      465.28179931640625,
+      720.0005493164062
+    ],
+    "text": "Recurrence of \ntrichiasis \nNo \n556\n63\n11.3\n1.0 \n \n \n \n1.0 \n \n \n \n"
+  },
+  {
+    "page": 6,
+    "block_no": 32,
+    "block_type": 0,
+    "bbox": [
+      457.20867919921875,
+      94.1054458618164,
+      465.2561950683594,
+      636.1200561523438
+    ],
+    "text": "Yes  \n40\n10\n25.0\n2.7 \n1.1-6.4 \n0.03 \n \n2.5 \n1.0-6.3 \n0.042 \n \n"
+  },
+  {
+    "page": 6,
+    "block_no": 33,
+    "block_type": 0,
+    "bbox": [
+      470.04864501953125,
+      717.98681640625,
+      478.0961608886719,
+      720.0005493164062
+    ],
+    "text": " \n"
+  },
+  {
+    "page": 6,
+    "block_no": 34,
+    "block_type": 0,
+    "bbox": [
+      489.00836181640625,
+      717.2354125976562,
+      537.9786376953125,
+      720.0005493164062
+    ],
+    "text": " \n \n \n \n"
+  },
+  {
+    "page": 7,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      77.03946685791016,
+      51.89613342285156,
+      511.79449462890625,
+      76.68495178222656
+    ],
+    "text": "   Pattern of Pathogens and their Sensitivity  \nDinda V et al \n \n"
+  },
+  {
+    "page": 7,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      77.03946685791016,
+      729.49609375,
+      80.03373718261719,
+      741.484619140625
+    ],
+    "text": " \n"
+  },
+  {
+    "page": 7,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      537.8397827148438,
+      51.9847412109375,
+      554.3892822265625,
+      63.0141716003418
+    ],
+    "text": "147\n"
+  },
+  {
+    "page": 7,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      77.03945922851562,
+      78.384765625,
+      304.19659423828125,
+      684.013916015625
+    ],
+    "text": " The findings of other surveillance studies are in \nagreement with the findings of this study in terms \nof the distribution of the organism isolated from \nthe surgical site. Ericksen et al, in Tanzania \nreported \na \nprevalence \nof \n54.5% \n(15), \nTourmousoglou et al in 2008  in Greece reported \nS.aureus as the most common bacteria from \ninfected surgical site among other pathogens \nrecovered in that study (21); similar findings were \nreported in Sudan by Abdalla et al., in 1998 (3). \nContrary to the findings of this study, a \nstudy done in Nigeria by Oguntibeju and Nwobu \n2004 (22) reported Pseudomonas aeruginosa as \nthe most prevalent pathogen recovered from SSI \namong microorganisms. The study revealed that \nPseudomonas aeruginosa was the most prevalent \npathogen causing sepsis post-surgery followed \nclosely by Staphylococcus aureus. A study by \nKohli et al, in 2010 at the Aga Khan University \nHospital that also revealed S. aureus as the most \nprevalent organism also confirms the S. aureus \nhigh prevalence (23).  Additionally, findings \nshowed that infection occurred in all individuals \nirrespective of medical underlying condition. \nIntraoperative prophylaxis did not alter disease \noutcome as shown by the results. Varied SSI \noccurrence was noted on anatomical sites while \nabdominal and perineum surgery had the highest \nfrequency among other anatomical sites. \n  \nAlthough the numbers of microorganisms \nisolated in the study were low, the sensitivity \npattern revealed that the prevalence of MRSA \n(one (1) isolate) is low among the staphylococcus \nspecies isolated from SSI. Recent studies done at \nthe Aga Khan University Hospital further revealed \nthe absence of nasal carriage among the hospital \ncare-givers (24). The MRSA prevalence in this \nstudy is comparatively lower compared with the \nstudy findings by Brown et al., (12) in Russia and \nThu et al., (2006) in Vietnam (25).  \nThis study found out that wound class IV \nand preoperative stay ≥2 days were the risk factors \nassociated with SSI at the hospital. Different \nstudies in the world have associated SSIs to \ndifferent risk factors in varied settings. Fehr et al., \n(4) at Ifakara Hospital, Tanzania, reported ASA \nscore of 2 or higher, duration of surgery greater \nthan 75th percentile of the duration for the relevant \n"
+  },
+  {
+    "page": 7,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      329.9992980957031,
+      78.384765625,
+      557.154296875,
+      671.2936401367188
+    ],
+    "text": "type of surgical procedure, type of intervention, \nand wound class. Brown et al., (12), in Russia, in \nhis study reported that emergency operation, male \nsex, ASA classification greater than 2, wound \nclass greater than 2 and prolonged operation \nduration were significant predictors of SSI. Soleto \net al., (14), in Bolivia, reported that ASA scores, \nwound class, procedure duration and presence of \ndrains were significantly associated with SSI. The \nabove findings from different studies and settings \nidentified wound class as a common risk factor \nassociated with SSI which is similar to the \nfindings of this study. Prolonged preoperative \nhospital stay is frequently suggested as a patient \ncharacteristic associated with increased SSI risk. \nHowever, length of preoperative stay is likely a \nsurrogate factor for severity of illness and co-\nmorbid conditions requiring inpatient workup \nand/or therapy before operation (26). \nPus swabs are not ideal specimens for \nstudy of SSI according to CDC definitions; \nhowever, it was clinically not practical to obtain \nideal specimens from the study population due to \npatient acceptability and constrains of resources. \nAlthough the SSI was defined according to CDC \nprotocol, the SSIs were not stratified according to \nsuperficial, deep and organ space. All precautions \nwere taken to avoid skin contaminants. The lack \nof anaerobic culture system was additional \nlimitation.  \nIn conclusion, the SSI incidence rate \n(7.0%) observed in this study were relatively \nlower than the ones documented in other studies in \nKenya. S. aureus is the most prevalent pathogen \nassociated with SSI. Similar with the findings \nfrom other studies done in Kenya, prolonged \nhospital stays and dirty wounds were the risk \nassociated with postsurgical sepsis at the target \nhospital. \n  \nACKNOWLEDGEMENTS \n \nMy appreciation goes to the Aga Khan University \nHospital for hosting and providing partial funding \nto this study and to the Jomo Kenyatta University \nof Agriculture and Technology for the expertise \nsupport during the study. \n"
+  },
+  {
+    "page": 7,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      77.03946685791016,
+      685.6961669921875,
+      80.03373718261719,
+      725.28466796875
+    ],
+    "text": " \n \n \n"
+  },
+  {
+    "page": 8,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      77.03946685791016,
+      52.09644317626953,
+      521.6345825195312,
+      75.59455871582031
+    ],
+    "text": "148           \n Ethiop J Health Sci.                               Vol. 23, No. 3                       July 2013 \n \n"
+  },
+  {
+    "page": 8,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      77.03946685791016,
+      729.4961547851562,
+      551.8735961914062,
+      741.4846801757812
+    ],
+    "text": " \n \n"
+  },
+  {
+    "page": 8,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      77.03946685791016,
+      77.51582336425781,
+      304.19586181640625,
+      709.2139282226562
+    ],
+    "text": "REFERENCES \n \n1. Gottrup F, Melling A, Hollander DA. An \noverview of surgical site infections: etiology, \nincidence \nand \nrisk \nfactors. \nEWMA \nJournal.2005; 5(2): 11-15.   \n2. Gregory L, Kathy F, Valerie H, Denise M, \nDavid S, Brian BV, Surgical site infection: \nIncidence and impact on hospital utilization \nand treatment costs. Am J infect control. 2009; \n37(5): 387-397. \n3. Abdalla AA, Alex B, Ahmed HF.  Nasal \nCarriage of Staphylococcus aureus and \nEpidemiology of Surgical-Site Infections, In a \nSudanese \nUniversity \nHospital. \nJ \nClin \nMicrobiol 1998; 36 (12): 3614–3618. \n4. Fehr J, Christoph H, Isaac S, et al. Risk \nFactors for Surgical Site Infection in a \nTanzanian District Hospital: A Challenge for \nthe \nTraditional \nNational \nNosocomial \nInfections Surveillance System Index. Infect \nControl Hosp Epidemiol 2006; 27(12): 1401-\n1404. \n5. Koigi KR, Kabare LW, Wanyoike GJ. \nIncidence of wound infection after caesarean \ndelivery in a district hospital in central Kenya \nEAMJ. 2005; 82(7): 357-61. \n6. Kotisso B, \nAseffa A. \nSurgical \nWound \nInfection in a Teaching Hospital in Ethiopia. \nEAMJ. 998; 75: 402-405.   \n7. Onche AO. Microbiology of post-operative \nwound infection in implant surgery. Nigerian \nJournal of Surgical Research 2004; 6 (2): 37-\n40. \n8. Ussiri EV, Mkony CA, Aziz MR. Surgical \nWound Infection in Clean-Contaminated and \nContaminated \nLaparotomy \nWounds \nat \nMuhimbili National Hospital. East and \nCentral African Journal of Surgery 2005; \n10(2):19-23. \n9. The International Response to Helsinki VI - \nThe WMA’s Declaration of Helsinki on \nEthical Principles for Medical Research \nInvolving Human Subjects, as adopted by the \n52nd 2000;  WMA General Assembly, \nEdinburgh.  \n10. Mangram AJ, Horan TC, Pearson ML, et al. \nGuideline for prevention of surgical site \ninfection.  Infect Control Hosp Epidemiol \n1999; 20(4): 247-278. \n"
+  },
+  {
+    "page": 8,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      329.9964904785156,
+      103.24832916259766,
+      559.9114379882812,
+      709.2136840820312
+    ],
+    "text": "11. Clinical \nLaboratory \nStandard \nInstitute. \nPerformance Standards for Antimicrobial Disk \nSusceptibility \nTesting; \nNineteenth \nInformational Supplement; 2009 ISBN 1-\n56238-690-5; 29(3): M100-S19. \n \n12. Brown SM, Sergey RE, Sergey AS, et al. \nProspective Surveillance for Surgical Site \nInfection \nin \nSt. \nPetersburg, \nRussian \nFederation. Infect Control Hosp Epidemiol \n2007; 28: 319-325.  \n13. Mitchell DH, Geoffrey S, Gwendolyn LG. \nSurgical Wound Infection Surveillance the \nImportance of Infections that develop after \nhospital \ndischarge: \nANZ \nJournal \nof \nSurgery.1999; 69: 117–120. \n14. Soleto L, Marianne P, Marleen B, et al. \nIncidence of Surgical-Site Infections and The \nValidity \nof \nThe \nNational \nNosocomial \nInfections Surveillance System Risk Index In \nA General Surgical Ward In Santa Cruz, \nBolivia. Infect Control Hosp Epidemiol 2003; \n24:26-30. \n15. Eriksen HM, Chugulu S, Kondo S, Lingaas E. \n2003. Surgical-site infections at Kilimanjaro \nChristian Medical Center. J Hosp Infect. 2003; \n55(1):14-20. \n16. Petrosillo N, Cecilia MJD, Emanuele N, et al. \nSurgical site infections in Italian Hospitals: a \nprospective; \nmulticenter \nstudy. \nBMC \nInfectious Diseases 2008; 8:3. \n17. Fiorio M, Marvaso A, Viganò F, Marchetti F. \n2006. Incidence of surgical site infections in \ngeneral surgery in Italy. Infection. 34(6):310-\n4. \n18. Culver DH, Horan TC, Gaynes RP. Surgical \nwound infection rates by wound class, \noperative procedure, and patient risk index. \nNational Nosocomial Infections Surveillance \nSystem. Am J Med1991; 91: 152S. \n19. Haley RW, Culver DH, Morgan WM.  \nIdentifying patients at high risk of surgical \nwound infection. A simple multivariate index \nof \npatient \nsusceptibility \nand \nwound \ncontamination. Am J Epidemiol 1985; 121: \n206. \n20. Olson M, O'Connor M, Schwart ML. Surgical \nwound infections. A 5-year prospective study \n"
+  },
+  {
+    "page": 9,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      77.03946685791016,
+      51.89613342285156,
+      511.79449462890625,
+      76.68495178222656
+    ],
+    "text": "   Pattern of Pathogens and their Sensitivity  \nDinda V et al \n \n"
+  },
+  {
+    "page": 9,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      77.03946685791016,
+      729.49609375,
+      80.03373718261719,
+      741.484619140625
+    ],
+    "text": " \n"
+  },
+  {
+    "page": 9,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      537.8397827148438,
+      51.9847412109375,
+      554.3892822265625,
+      63.0141716003418
+    ],
+    "text": "149\n"
+  },
+  {
+    "page": 9,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      77.03871154785156,
+      78.384765625,
+      304.1942443847656,
+      277.07989501953125
+    ],
+    "text": "of 20,193 wounds at the Minneapolis VA \nMedical Center. Ann Surg 1984; 199: 253. \n21. Tourmousoglou CE, Yiannakopoulou EC, \nKalapothaki V, Bramis J, St Papadopoulos J. \n(2008). Surgical-site infection surveillance in \ngeneral surgery: a critical issue. J Chemother; \n20(3):312-8. \n22. Oguntibeju OO, Nwobu R. Occurrence of \nPseudomonas aeruginosa in Post-Operative \nWound Infection; Pak J Med Sci 2004; \n20(3):187-191. \n23. Ruchika K, Omuse G, Revathi G. A ten-year \nreview of neonatal bloodstream infections in a \ntertiary private hospital in Kenya. J Infect Dev \nCtries 2011; 5(11):799-803. \n \n"
+  },
+  {
+    "page": 9,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      77.03927612304688,
+      291.1678771972656,
+      306.955078125,
+      707.4139404296875
+    ],
+    "text": "24. Omuse G, Kariuki S, Revathi G.  Unexpected \nabsence of meticillin-resistant Staphylococcus \naureus nasal carriage by healthcare workers in \na tertiary hospital in Kenya. J Hosp Infect \n2012; 80: 71-73. \n25. Thu AL, Annette HS, Nguyen PT, et al. \nMicrobiology of Surgical Site Infections and \nAssociated \nAntimicrobial \nUse \nAmong \nVietnamese Orthopedic and Neurosurgical \nPatients; Infect Control Hosp Epidemiol 2006: \n27:855-862.  \n26. Conte John E. Jnr. Manual of Antibiotics and \nInfectious Diseases Treatment and Prevention. \n9th Edition. Philadelphia: Lippincot William \nand Wilkins; 2002. \n27. es RP. Surgical wound infection rates by \nwound class, operative procedure, and patient \nrisk index. National Nosocomial Infections \nSurveillance System. Am J Med1991; 91: \n152S. \n28. Haley RW, Culver DH, Morgan WM.  \nIdentifying patients at high risk of surgical \nwound infection. A simple multivariate index \nof \npatient \nsusceptibility \nand \nwound \ncontamination. Am J Epidemiol 1985; 121: \n206. \n29. Olson M, O'Connor M, Schwart ML. Surgical \nwound infections. A 5-year prospective study \nof 20,193 wounds at the Minneapolis VA \nMedical Center. Ann Surg 1984; 199: 253. \n30. Tourmousoglou CE, Yiannakopoulou EC, \nKalapothaki V, Bramis J, St Papadopoulos J. \n(2008). Surgical-site infection surveillance in \n"
+  },
+  {
+    "page": 9,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      329.9992980957031,
+      78.29621887207031,
+      559.9144897460938,
+      419.40478515625
+    ],
+    "text": "general surgery: a critical issue. J Chemother; \n20(3):312-8. \n31. Oguntibeju OO, Nwobu R. Occurrence of \nPseudomonas aeruginosa in Post-Operative \nWound Infection; Pak J Med Sci 2004; \n20(3):187-191. \n32. Ruchika K, Omuse G, Revathi G. A ten-year \nreview of neonatal bloodstream infections in a \ntertiary private hospital in Kenya. J Infect Dev \nCtries 2011; 5(11):799-803. \n33. Omuse G, Kariuki S, Revathi G.  Unexpected  \nabsence \nof \nmeticillin-resistant \nStaphylococcus aureus     nasal carriage by \nhealthcare workers in a tertiary hospital in \nKenya. J Hosp Infect 2012; 80: 71-73. \n34. Thu AL, Annette HS, Nguyen PT, et al. \nMicrobiology of Surgical Site Infections and \nAssociated \nAntimicrobial \nUse \nAmong \nVietnamese Orthopedic and Neurosurgical \nPatients; Infect Control Hosp Epidemiol \n2006: 27:855-862.  \n35. Conte John E. Jnr. Manual of Antibiotics and \nInfectious \nDiseases \nTreatment \nand \nPrevention. \n9th \nEdition. \nPhiladelphia: \nLippincot William and Wilkins; 2002. \n \n \n"
+  }
+]

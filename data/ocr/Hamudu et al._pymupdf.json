@@ -1,0 +1,1346 @@
+[
+  {
+    "page": 1,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      60.82279968261719,
+      89.60076141357422,
+      535.5147094726562,
+      106.00018310546875
+    ],
+    "text": "RESEARCH\nOpen Access\n"
+  },
+  {
+    "page": 1,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      180.70860290527344,
+      671.5319213867188,
+      540.0867919921875,
+      736.2048950195312
+    ],
+    "text": "© The Author(s) 2025. Open Access  This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 \nInternational License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long as you \ngive appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the \nlicensed material. You do not have permission under this licence to share adapted material derived from this article or parts of it. The images or \nother third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the \nmaterial. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or \nexceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit ​h​t​t​p​:​/​/​c​r​e​a​t​i​\nv​e​c​o​m​m​o​n​s​.​o​r​g​/​l​i​c​e​n​s​e​s​/​b​y​-​n​c​-​n​d​/​4​.​0​/.\n"
+  },
+  {
+    "page": 1,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      31.54475212097168,
+      541.2197265625,
+      53.00018310546875
+    ],
+    "text": "Hamudu et al. Journal of Orthopaedic Surgery and Research          (2025) 20:252 \nhttps://doi.org/10.1186/s13018-025-05638-x\nJournal of Orthopaedic \n"
+  },
+  {
+    "page": 1,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      426.5526123046875,
+      46.46070861816406,
+      538.584228515625,
+      61.40156555175781
+    ],
+    "text": "Surgery and Research\n"
+  },
+  {
+    "page": 1,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      57.0,
+      612.4053955078125,
+      124.66499328613281,
+      639.2929077148438
+    ],
+    "text": "*Correspondence:\nHelmut Nyawale\nhelmutny@yahoo.com\n"
+  },
+  {
+    "page": 1,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      57.0,
+      644.4053955078125,
+      248.42178344726562,
+      653.2929077148438
+    ],
+    "text": "Full list of author information is available at the end of the article\n"
+  },
+  {
+    "page": 1,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      63.192901611328125,
+      325.2782897949219,
+      532.8660278320312,
+      577.9649658203125
+    ],
+    "text": "Abstract\nBackground  Surgical site infections (SSIs) after limb amputations have been associated with increased patient \nmorbidity, mortality and costs. This study aimed to determine the incidence, bacteriological profile and predictors of \nSSIs following limb amputation at Bugando Medical Centre (BMC) and Sekou Toure Regional Referral Hospital (SRRH).\nMethods  The longitudinal study was conducted among patients undergoing limb amputations between March and \nJuly 2024 at BMC and SRRH. Pre-tested structured questionnaires were used to collect sociodemographic and clinical \ndata. Clinical diagnosis of SSI was done using CDC criteria followed by collection of wound or pus swab for culture \nand susceptibility testing. Univariate and multivariate logistic regression modelling was done using STATA version 15.0 \nto assess associations between clinical variables and odds of SSI.\nResults  A total of 120 patients with a median (IQR) age of 58 [43.5–66.5] years were enrolled. The indications for \nlimb amputations included diabetic foot ulcers (50.8%,61/120), trauma (8.3%,10/120), malignancy (8.3%,10/120), \ngangrene (9.2%,11/120), peripheral vascular disease (16.7%,20/120) and congenital malformations (6.7%,8/120). The \nincidence of SSIs was (30%,36/120), with Escherichia coli (36.7%; 11/30) and Staphylococcus aureus (23%; 7/30) being \nthe most frequently isolated pathogens. More than half of the Gram-negative isolates were resistant to third and \nfourth generations cephalosporins which were commonly used as prophylactic antibiotics in the study settings. Age \nabove 65 years (OR = 0.21, 95% CI: 0.05–0.95, p = 0.043), smoking (OR = 14.3, 95% CI: 1.33-10.00, p = 0.027), ASA Class III \n(OR = 13.33, 95% CI: 2.82–63.14, p = 0.001), longer surgery duration (≥ 2 h) (OR = 4.09, 95% CI: 1.30-12.89, p = 0.016) and \nblood transfusion (OR = 2.4, 95% CI: 0.7-8.00, p = 0.02) were independently associated with SSIs.\nConclusion  About one third of the patients developed SSIs following limb amputation. Odds of SSIs were increased \nin patients with low age, smoking, high ASA score, prolonged surgery and who received blood transfusion. This \n"
+  },
+  {
+    "page": 1,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      120.6418685913086,
+      438.0684509277344,
+      253.4898681640625
+    ],
+    "text": "Incidence, bacteriological profile \nand predictors of surgical site infections \nfollowing limb amputation at Bugando \nmedical centre and Sekou toure referral \nregional hospital, Mwanza, Tanzania\n"
+  },
+  {
+    "page": 1,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      269.8904113769531,
+      506.6770935058594,
+      298.2398986816406
+    ],
+    "text": "Haitham Hamudu1,2, Helmut Nyawale3*, Vitus Silago3, Mariam M. Mirambo3, Phillipo L. Chalya1,2 and Stephen \nE. Mshana3\n"
+  },
+  {
+    "page": 2,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      56.69300079345703,
+      33.126182556152344,
+      538.5889892578125,
+      42.75018310546875
+    ],
+    "text": "Page 2 of 9\nHamudu et al. Journal of Orthopaedic Surgery and Research          (2025) 20:252 \n"
+  },
+  {
+    "page": 2,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      56.69300079345703,
+      145.8134765625,
+      292.8818359375,
+      329.22357177734375
+    ],
+    "text": "Background\nLimb amputation, defined as the surgical removal of a \nlimb, or part of a limb through the bone, is reported to \nbe a major but preventable public health problem [1–3]. \nAmputation of a limb has been considered as the last \nmanagement option when limb salvage is not possible \nor when the limb is non-functional or the patient’s life \nis in danger due to the limb [4, 5]. Despite its devastat­\ning impact on patients and the families, limb amputation \nremains among the most commonly performed surger­\nies with approximately 185,000 surgeries performed \neach year worldwide [2]. Indications for limb amputation \ninclude trauma, musculoskeletal malignancies, diabetes, \ninfections, peripheral vascular disease, congenital mal­\nformations, sepsis, and burns [6, 7].\n"
+  },
+  {
+    "page": 2,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      56.69300079345703,
+      326.690185546875,
+      292.88177490234375,
+      581.2235717773438
+    ],
+    "text": "Surgical site infections (SSIs) have been reported to be \nthe most common complications following limb amputa­\ntion [1, 4, 8]. SSIs following limb amputation contribute \nsignificantly to patient morbidity and mortality, longer \nhospital stays, increased risk of readmission, revision sur­\ngery, higher treatment costs, and compromised health \noutcomes [4, 9]. Cumulative incidence of SSIs has been \nestimated to range from 13 to 48% following amputation, \nhowever SSIs rates as high as 57% has also been reported \nfollowing traumatic limb amputation [7, 10–12]. Previ­\nous studies from Tanzania reported different rates of \nSSIs, ranging from 19% in Kilimanjaro Christian Medi­\ncal College Centre(KCMC) to 35% in Muhimbili National \nHospital(MNH) [13, 14]. This variability, together with \nlimited publications, prompts further research into the \nmagnitude of the problem in various settings as well as \ntrends in SSIs following amputation over time. Previous \nstudies by Chalya et al. in 2012 [4] and Mawalla et al. in \n2011 [15] at BMC reported more than ten years ago dem­\nonstrated SSIs rates of 21.0% and 12.5% respectively fol­\nlowing limb amputations.\n"
+  },
+  {
+    "page": 2,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      56.69300079345703,
+      578.690185546875,
+      292.8837890625,
+      737.2234497070312
+    ],
+    "text": "The patient’s age, smoking habit, diabetes, HIV infec­\ntion, jaundice, anemia, Body Mass Index (BMI, bacterial \ncolonization, steroid use, hospitalization, and uremia \nhave all been documented to be associated factors with \nSSIs [16–18]. Prolonged duration of operation, wound \ncontamination status, prophylactic antibiotics, type of \nprocedure, emergency nature of the surgery, American \nsociety of Anesthesiology(ASA) class, contaminated \ninstruments and suture material have also been docu­\nmented as the most common procedure-related risk \nfactors of SSIs [17, 18]. Furthermore, it should be noted \nthat the bacteriological profile and antimicrobial suscep­\ntibility patterns of the bacteria isolates causing SSIs vary \n"
+  },
+  {
+    "page": 2,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      304.7244873046875,
+      146.690185546875,
+      540.8624267578125,
+      185.2235870361328
+    ],
+    "text": "between one places to another, different surgeries, sur­\ngeons, facilities, wards in the same hospital, and it might \neven change periodically [17, 18].\n"
+  },
+  {
+    "page": 2,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      304.7244873046875,
+      182.690185546875,
+      540.914306640625,
+      317.22357177734375
+    ],
+    "text": "Recent data regarding SSIs following limb amputa­\ntions in our setting are limited, and the few available are \noutdated [4]. Moreover, there is no evidence-based data \nto support the preoperative and postoperative care pro­\ntocols in many health facilities in developing countries. \nTherefore, this study was carried out to determine the \nincidence, susceptibility patterns of isolated pathogens \nand factors associated with SSI among patients undergo­\ning limb amputations at BMC and SRRH. The results of \nthis study are critical in developing an evidence-based \ntreatment protocol for post amputation SSIs.\n"
+  },
+  {
+    "page": 2,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      304.7244873046875,
+      325.8134765625,
+      540.9222412109375,
+      497.22357177734375
+    ],
+    "text": "Materials and methods\nStudy design, population and setting\nThis was a longitudinal study that involved all consent­\ning patients who underwent limb amputation at Bugando \nMedical Centre (BMC) and Sekou Toure Regional Refer­\nral Hospital (SRRH) between March and July 2024. BMC \nis the Lake Zonal referral hospital situated in the city of \nMwanza, Northwestern Tanzania. It is a consultant and \ntertiary care hospital with a bed capacity of 1060. BMC \nhas about 30–45 limb amputations performed every \nmonth. SRRH is located in Nyamagana district in the \ncity of Mwanza, it is a public regional facility serving the \npopulation of Mwanza Region with 450-bed capacity and \nabout 15–20 limb amputations performed every month.\n"
+  },
+  {
+    "page": 2,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      304.7244873046875,
+      507.0577697753906,
+      540.894775390625,
+      557.2235717773438
+    ],
+    "text": "Exclusion criteria\nPatients who previously undergone amputation in other \nhealthcare facilities who were referred for stump revi­\nsions were excluded.\n"
+  },
+  {
+    "page": 2,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      304.7244873046875,
+      567.0578002929688,
+      540.9132690429688,
+      737.2235717773438
+    ],
+    "text": "Sample size Estimation and sampling procedures\nThe minimum sample size was 120 patients calculated \nusing Yamane-Taro [19]. Purposive sampling of patients \nwho met the inclusion criteria was performed until the \nsample size was reached. Patients were recruited from \ngeneral surgery, pediatric surgery, plastic surgery and \northopedic surgery wards, also from the emergency \ndepartment and surgical outpatient clinic once the sur­\ngeon reached a decision of amputation. The attending \nsurgeon performed limb amputation based on the stan­\ndard care. The level of amputation was determined in \naccordance with clinical evaluation and radiographic \ntests (e.g., plain X-rays of the affected limb, Dop­\npler studies, CT angiography), and histopathological \n"
+  },
+  {
+    "page": 2,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      62.94300079345703,
+      88.40018463134766,
+      522.9660034179688,
+      127.25018310546875
+    ],
+    "text": "highlighted the need to update the management protocol of limb amputation in relation to antibiotics prophylaxis \namong patients with increased risk of SSIs based on the local antimicrobial surveillance prevalence data.\nKeywords  Limb amputation, Surgical site infection, Incidence, Bacteriological profile, Tanzania\n"
+  },
+  {
+    "page": 3,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      33.126182556152344,
+      538.5889892578125,
+      42.75018310546875
+    ],
+    "text": "Page 3 of 9\nHamudu et al. Journal of Orthopaedic Surgery and Research          (2025) 20:252 \n"
+  },
+  {
+    "page": 3,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      86.690185546875,
+      292.8709411621094,
+      173.2235870361328
+    ],
+    "text": "investigations. Standard of care pre operative investiga­\ntions were performed to assess general fitness for sur­\ngery. Patients were screened for HIV using Tanzania HIV \nRapid Test Algorithm [3] and CD 4 + count using FACS \nor FACSCALIBUR from BD Biosciences USA. A deter­\nmination of CD 4 + count was performed only in HIV \npositive patients.\n"
+  },
+  {
+    "page": 3,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      170.690185546875,
+      292.8797607421875,
+      257.22357177734375
+    ],
+    "text": "After surgery, the surgical wound was examined once \nfor the initial dressing and then once a week for the next \n30 days as per CDC protocol [20]. Patients were followed \nup in the ward from the time of admission until time of \nthe discharge and for 30 days postoperatively in the sur­\ngical outpatient clinic or dressing clinic or through tele­\nphone interview.\n"
+  },
+  {
+    "page": 3,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      267.0577697753906,
+      292.8826904296875,
+      389.22357177734375
+    ],
+    "text": "Clinical case definitions\nSuperficial surgical site infection was diagnosed if any \none of the following criteria was fulfilled: purulent drain­\nage from the superficial incision, organisms isolated from \nan aseptically obtained culture of fluid or tissue from the \nsuperficial incision, at least one of the following signs \nor symptoms of infection: pain or tenderness, local­\nized swelling, redness, or heat, and superficial incision is \ndeliberately opened by surgeon, and is culture-positive or \nnot cultured.\n"
+  },
+  {
+    "page": 3,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      386.690185546875,
+      292.8807373046875,
+      485.22357177734375
+    ],
+    "text": "Deep surgical site infection was diagnosed if any one of \nthe following criteria is fulfilled; purulent drainage from \nthe deep incision but not from the organ/space compo­\nnent of the surgical site, a deep incision spontaneously \ndehisces or is deliberately opened by a surgeon and is cul­\nture-positive or not cultured and the patient has at least \none of the following signs or symptoms: fever (> 38 °C), \nor localized pain or tenderness.\n"
+  },
+  {
+    "page": 3,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      495.0577697753906,
+      292.87982177734375,
+      557.2235717773438
+    ],
+    "text": "The primary and secondary outcomes\nThe primary outcome was to establish the incidence of \nSSI within 30 days following major amputations with two \nsecondary aims of identifying predictors of SSI as well as \nbacterial etiology and susceptibility patterns.\n"
+  },
+  {
+    "page": 3,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      567.0578002929688,
+      292.8622131347656,
+      629.2235717773438
+    ],
+    "text": "Data collection\nA pretested, structured questionnaire was used for data \ncollection, including demographic and clinical charac­\nteristics, pre-operative investigations, operative and out­\ncome variables.\n"
+  },
+  {
+    "page": 3,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      639.0578002929688,
+      292.87200927734375,
+      737.2235717773438
+    ],
+    "text": "Specimen collection and laboratory procedures\nTwo pus swabs: one for microscopy and the other for cul­\nture were obtained from the surgical infected wound by \nsterile cotton swabs and transported in Stuart transport \nmedia to the laboratory for processing within an hour of \ncollection. Before sample collection surrounding skin was \ncleaned with sterile saline or 70% alcohol (Aldrich Sigma; \nNairobi). All specimens were processed in accordance \n"
+  },
+  {
+    "page": 3,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      86.690185546875,
+      540.8936157226562,
+      281.22357177734375
+    ],
+    "text": "with the standard operating procedures of the laboratory. \nBriefly specimens were inoculated on Blood agar and \nMacConkey agar (Oxoid; UK) and incubated aerobically \nfor 24–48  h. Identification of bacteria was done using \nconventional physiological and biochemical methods. \nBiochemical and physiological methods included; gram \nstain, catalase reaction, coagulase reaction, hemolytic \nactivity on 5% sheep blood agar plate, hippurate hydro­\nlysis and CAMP test for Gram positive bacteria while for \nGram negative; colonies morphology on blood agar and \nMacConkey agar, triple sugar iron (TSI) reaction, indole, \nmotility, citrate, urease and hydrogen sulphide produc­\ntion (Oxoid, UK) was used [21, 22]. Antimicrobial sus­\nceptibility of isolates was determined using disk diffusion \nmethod according to Clinical Laboratory Standard Insti­\ntute [23].\n"
+  },
+  {
+    "page": 3,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      291.0577697753906,
+      540.9024658203125,
+      437.22357177734375
+    ],
+    "text": "Data management and statistical analysis\nData was entered in the Microsoft excel data sheet and \nanalyzed using STATA version 15 (Collage Station, Texas, \nthe United States). The median (+ IQR)/mean ± stan­\ndard deviation was calculated for continuous variables \ndepending on the distribution of data whereas propor­\ntions, frequency tables, bar and pie charts were used for \ncategorical variables. Univariate logistic regression analy­\nsis was done and all factors with p values less than 0.05 \nwere used to build up a multivariate logistic regression to \ndetermine predictors of SSI. In all tests, p values of < 0.05 \nwere regarded as statistically significant.\n"
+  },
+  {
+    "page": 3,
+    "block_no": 10,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      445.8134765625,
+      540.89453125,
+      557.2235717773438
+    ],
+    "text": "Results\nSocio-demographic and clinical characteristics\nA total of 120 patients were included in the study. The \nmedian [IQR] age was 58[43.5–66.5] years. Most patients \nhad primary education (58.3%, 70/120) and unemployed \n(83.3%,100/120). Nearly half of the patients had a medi­\ncal co-morbid (47.5%,57/120) or were underweight \n(45.8%,55/120) while only (4.2%,5/120) patients reported \nsmoking cigarettes (Table 1).\n"
+  },
+  {
+    "page": 3,
+    "block_no": 11,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      567.0578002929688,
+      540.9072875976562,
+      641.2235717773438
+    ],
+    "text": "Pre-operative indications for amputations\nThe most common indication for surgery was complica­\ntions of diabetes mellitus (DM), affecting (50.8%,61/120) \nof patients. Trauma and malignant tumors each \naccounted for (8.3%,10/120) while gangrene was present \nin (9.2%,11/120) of cases Table 2.\n"
+  },
+  {
+    "page": 3,
+    "block_no": 12,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      651.0578002929688,
+      540.9043579101562,
+      737.2235717773438
+    ],
+    "text": "Post operative outcomes\nOut of 120 enrolled and followed patients, 36 devel­\noped SSI, therefore the overall incidence of SSI within \n3 months of amputation was 30.0% (95% CI 21.8–38). \nSuperficial SSIs were the most common type accounting \nfor 28(77.8%) cases and 8(22.2%) were deep SSIs. Out of \n90 patients recruited from BMC, 23(25.5%) developed \n"
+  },
+  {
+    "page": 4,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      33.126182556152344,
+      538.5889892578125,
+      42.75018310546875
+    ],
+    "text": "Page 4 of 9\nHamudu et al. Journal of Orthopaedic Surgery and Research          (2025) 20:252 \n"
+  },
+  {
+    "page": 4,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      86.690185546875,
+      540.9031982421875,
+      113.22358703613281
+    ],
+    "text": "SSIs while out of 30 patients recruited from SRRH, \n13(43.3%) developed SSIs (p = 0.066).\n"
+  },
+  {
+    "page": 4,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      123.05778503417969,
+      540.9110717773438,
+      233.2235870361328
+    ],
+    "text": "Bacteria and their susceptibility patterns\nOut of 36 patients clinically diagnosed with SSI, \n(83.3%,30/36) had positive cultures. Among these 30 \npatients, (66.7%,20/30) had SSIs due to Gram-negative \nbacteria while (33.33%,10/30) SSIs were due to Gram-\npositive bacteria. The predominant bacterial species \nidentified were E. coli, found in (36.7%,11/30) of cases, \nfollowed by S. aureus in (23%,7/30) and P. aeruginosa in \n(13.3%,4/30), Table 3.\n"
+  },
+  {
+    "page": 4,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      230.690185546875,
+      540.904296875,
+      281.22357177734375
+    ],
+    "text": "The majority of Gram-negative isolates were resistant \nto third generation cephalosporins, while the majority \nof Gram-positive bacteria were resistant to ceftriaxone, \nampicillin as shown in Table 4.\n"
+  },
+  {
+    "page": 4,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      291.0577697753906,
+      540.9130249023438,
+      425.22357177734375
+    ],
+    "text": "Distribution of surgical site infections among the study \nparticipants\nA large number of the participants who developed \nsurgical site infection were of the age below or equal \nto 45 years, (46.9%,15/32). Most of the study partici­\npants underwent were listed for emergency surgeries, \n( 93.3%,112/120) compared to the ones who were listed \nfor elective, (6.7%,8/120 ), however, SSI occurred more \nfrequent in patients who underwent elective surgeries, \ncompared to those who underwent emergency surgeries \n(Table 5).\n"
+  },
+  {
+    "page": 4,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      435.0577697753906,
+      540.900390625,
+      581.2235717773438
+    ],
+    "text": "Predictors of surgical site infections following limb \namputations\nThe study analyzed various factors documented to be \nassociated with surgical site infections (SSI). On univari­\nate logistic regression factors found to be associated SSI \nwere: age group between 46 and 65 years (OR = 0.36, 95% \nCI: 0.15–0.93, p = 0.034), those over 65 years (OR = 0.33, \n95% CI: 0.11–0.98, p = 0.047), duration of surgery ≥ 2  h \n(OR = 4.36, 95% CI: 1.80-10.57, p = 0.001), smoking \n(OR = 25, 95% CI: 2.85-10, p = 0.003), ASA class III \n(OR = 4.36, 95% CI: 1.21–9.79, p = 0.02) and blood trans­\nfusion (OR = 3.33, 95% CI: 1.29–9.09, p = 0.012).\n"
+  },
+  {
+    "page": 4,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      578.690185546875,
+      540.9122314453125,
+      689.2235717773438
+    ],
+    "text": "When these predictors were subjected to multivari­\nate logistic regression analysis the factors that remained \nstatistically significant were, age group 46–65 years \n(OR = 0.25, 95% CI: 0.07–0.92, p = 0.037), smoking \n(OR = 14.3, 95% CI: 1.33-10, p = 0.027), ASA Class III \n(OR = 13.33, 95% CI: 2.82–63.14, p = 0.001), surgery dura­\ntion (≥ 2 h) (OR = 4.09, 95% CI: 1.30-12.89, p = 0.016) and \nblood transfusion (OR = 4.0, 95% CI:1.25–12.5, p = 0.02) \n(Table 6).\n"
+  },
+  {
+    "page": 4,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      84.68389892578125,
+      285.6228942871094,
+      561.76220703125
+    ],
+    "text": "Table 1  Socio-demographic and clinical characteristic of study \nparticipants(N = 120)\nCharacteristics\nFrequency(n)\nPercentage (%)\nAge group (years)\n≤ 45\n32\n26.7\n46–65\n57\n47.5\n> 65\n31\n25.8\nGender\nMale\n64\n53.3\nFemale\n56\n46.7\nEducation\nInformal\n6\n5\nPrimary\n70\n58.3\nSecondary\n35\n29.2\nTertiary\n9\n7.5\nOccupation\nEmployed\n20\n16.7\nUnemployed\n100\n83.3\nMarital Status\nSingle\n23\n19.2\nMarried\n47\n39.2\nDivorced\n50\n41.6\nRegion of residence\nMwanza\n55\n45.8\nOutside Mwanza\n65\n54.2\nResidence\nUrban\n84\n70.0\nRural\n36\n30.0\nHospital centre\nSekou Toure\n30\n25.0\nBMC\n90\n75.0\n*Comorbidity\nYes\n57\n47.5\nNo\n63\n52.5\nBMI\nUnderweight\n55\n45.8\nNormal\n60\n50.0\nOverweight\n5\n4.2\nSmoking\nYes\n5\n4.2\nNo\n115\n95.8\n"
+  },
+  {
+    "page": 4,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      564.0175170898438,
+      227.70147705078125,
+      572.4315185546875
+    ],
+    "text": "Key: BMI -Body Mass Index, BMC-Bugando Medical Centre\n"
+  },
+  {
+    "page": 4,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      575.3521118164062,
+      292.0357971191406,
+      592.26611328125
+    ],
+    "text": "*Comorbid conditions: HIV = 1, Diabetes Mellitus = 23, Hypertension = 4, \nMalignancy = 7, Osteomyelitis = 2, Peripheral artery disease = 13, Trauma = 8\n"
+  },
+  {
+    "page": 4,
+    "block_no": 10,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      607.0255737304688,
+      284.88238525390625,
+      711.35595703125
+    ],
+    "text": "Table 2  Indications for limb amputation (N = 120)\nCharacteristics\nFrequency(n)\nPercentage (%)\nIndication\nOther complications of DM\n61\n50.8\nTrauma\n10\n8.3\nMalignant tumors\n10\n8.3\nGangrene\n11\n9.2\nPeripherals vascular diseases\n20\n16.7\nMalformations\n8\n6.67\n"
+  },
+  {
+    "page": 5,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      33.126182556152344,
+      538.5889892578125,
+      42.75018310546875
+    ],
+    "text": "Page 5 of 9\nHamudu et al. Journal of Orthopaedic Surgery and Research          (2025) 20:252 \n"
+  },
+  {
+    "page": 5,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      433.8134765625,
+      292.8612060546875,
+      581.2235717773438
+    ],
+    "text": "Discussion\nThe overall incidence of surgical site infections follow­\ning limb amputations was found to be 30% in two refer­\nral hospitals in Mwanza, Tanzania. The current observed \nprevalence is higher than 21% and 12.5% that were previ­\nously reported more than a decade ago by Chalya et al. \n[4] and Mawalla et al. [15] at the same center following \nlimb amputations, respectively. However, it was lower \nthan what was reported in a Nigerian study which pre­\nsented an SSI incidence of 58.8% after major limb ampu­\ntation, however contrary to our study the Nigerian study \nwas a five year retrospective [1].\n"
+  },
+  {
+    "page": 5,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      578.690185546875,
+      292.88079833984375,
+      737.2235717773438
+    ],
+    "text": "In the present study, the majority of patients were in \ntheir fourth and fifth decades of life, which is consistent \nwith Chalya et al. [4] at BMC and other studies [14, 24], \nbut unlike with a Ghanaian study which reported high \nmedian age incidence in the 7th decade [9]. Other stud­\nies reported even lower peak age incidence [25]. In this \nstudy, age above 65 years was found to be protective fac­\ntor of development of SSIs following limb amputation \nwith young age group being more likely to develop SSI. \nThis was due to the reason explained above of the major­\nity young age groups having amputation due to trauma \n(road traffic accidents). Previous studies have docu­\nmented increased SSI among patients with trauma [11, \n"
+  },
+  {
+    "page": 5,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      434.690185546875,
+      540.9185791015625,
+      461.22357177734375
+    ],
+    "text": "14, 26].However, this association is weak due to a p value \nof 0.043 and wide confidence intervals.\n"
+  },
+  {
+    "page": 5,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      458.690185546875,
+      540.9115600585938,
+      497.22357177734375
+    ],
+    "text": "Also, in this study young age were shown to be at high \nrisk of SSIs due to the fact that majority had trauma as \nindication of amputation.\n"
+  },
+  {
+    "page": 5,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      494.690185546875,
+      540.914306640625,
+      701.2235717773438
+    ],
+    "text": "In keeping with other studies done elsewhere [2, 15], \ncomplication of diabetic foot ulcers was the most com­\nmon indication for limb amputation. These findings are \nnot in agreement with other studies which reported \ntrauma as the most common indication for limb ampu­\ntation [7, 23]. It has been documented in several stud­\nies that approximately 80–90% of limb amputations in \ndeveloped countries are performed as a result of vascu­\nlar problems [24, 27]. These differences in the pattern of \nindications reflect differences in incidences of different \npathologies leading to limb amputation which tend to \nvary from one place to the other. The increased incidence \nof diabetic foot complications requiring limb amputation \nmay reflect the level of effectiveness of the early detection \nof diabetes mellitus and the foot at risk, medical educa­\ntion, patient compliance and overall control of diabetes \nmellitus in this population.\n"
+  },
+  {
+    "page": 5,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      698.690185546875,
+      540.8916015625,
+      737.2235717773438
+    ],
+    "text": "In this study Gram-negative bacteria predominantly \nEscherichia coli(36.7%) and Pseudomonas aeruginosa \n(13.3%) were the most frequently isolated bacteria \n"
+  },
+  {
+    "page": 5,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      84.68389892578125,
+      532.9138793945312,
+      200.6834716796875
+    ],
+    "text": "Table 3  Pathogens isolated from 30 patients with positive growth of wound swabs(N = 30)\nGram stain\nBacterial isolates\nFrequency (n)\nPercentage (%)\nGram-positive\nStaphylococcus aureus\n7\n23.4\nEnterococcus feacalis\n3\n10\nGram-negative\nEscherichia coli\n11\n36.7\nPseudomonas aeruginosa\n4\n13.3\nKlebsiella pneumoniae\n1\n3.3\nMorganella morganii\n2\n6.7\nEnterobacter cloacae\n1\n3.3\nAcinetobacter baumannii\n1\n3.3\n"
+  },
+  {
+    "page": 5,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      215.26800537109375,
+      481.6841125488281,
+      259.50830078125
+    ],
+    "text": "Table 4  The resistance pattens of the 30 isolates from patient with SSI\nANTOBIOTICS\nBACTERIA ISOLATED\nEnterobacterales(N = 15)\nP. aeruginosa(N = 4)\nA. baumannii(N = 1)\nS. aureus\n(N = 7)\n"
+  },
+  {
+    "page": 5,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      239.7322998046875,
+      532.9149169921875,
+      411.28399658203125
+    ],
+    "text": "E. faecalis\n(N = 3)\nn (%)\nn (%)\nn (%)\nn (%)\nn (%)\nAmpicillin\n13(86.7)\n3(75)\n1(100)\n4(57.14)\n1(33.33)\nTrimethoprim/sulphamethoxazole\n12(80.0)\n3(75)\n1(100)\n4(57.14)\n1 (33.33)\nCefepime\n9(60.0)\n0(0)\n0(0)\nNA\nNA\nCeftazidime\n11(73.3)\n1(25)\n0(0)\nNA\nNA\nCeftriaxone\n12(80.0)\n2(50)\n0(0)\nNA\nNA\nCeftriaxone/sulbactam\n10(66.7)\n3(75)\n0(0)\nNA\nNA\nCiprofloxacin\n9(60.0)\n0(0)\n1(100)\n2(28.57)\n0(0)\nGentamycin\n11(73.33)\n1(25)\n1(100)\n1(14.29)\n0(0)\nAmikacin\n5(33.3)\n1(25)\n0(0)\n1(14.29)\n0(0)\nMeropenem\n0(0.0)\n0(0)\n0(0)\nNA\nNA\nPiperacillin/tazobactam\n8(53.3)\n2(50)\n0(0)\nNA\nNA\nVancomycin\nNA\nNA\nNA\n0(0.0)\n0(0)\n"
+  },
+  {
+    "page": 5,
+    "block_no": 10,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      413.2802734375,
+      528.445068359375,
+      421.9532775878906
+    ],
+    "text": "KEY: Enterobacterales group comprise of the following bacteria species: -Escherichia coli, Morganella morganii, Klebsiella pneumoniae and Enterobacter cloacae\n"
+  },
+  {
+    "page": 6,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      33.126182556152344,
+      538.5889892578125,
+      42.75018310546875
+    ],
+    "text": "Page 6 of 9\nHamudu et al. Journal of Orthopaedic Surgery and Research          (2025) 20:252 \n"
+  },
+  {
+    "page": 6,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      602.690185546875,
+      292.8808898925781,
+      725.2235717773438
+    ],
+    "text": "contrary to previous studies done at BMC which dem­\nonstrated Staphylococcus aureus as the most common \norganism isolated in SSIs following limb amputation \n[2, 15]. Findings from this study concurs with a recent \nstudy [28] which observed a shifting towards Gram nega­\ntive bacteria as the commonest pathogens isolated from \nwound swabs. The predominance of Gram-negative \norganisms in the postoperative wound infections can be \nattributed to transmission from health care environment \n[29].\n"
+  },
+  {
+    "page": 6,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      86.690185546875,
+      540.8861083984375,
+      161.2235870361328
+    ],
+    "text": "In line with previous studies [4, 15] done at BMC, the \nmajority of bacteria isolates in this study demonstrated \nmulti drugs resistance phenotypes to commonly pre­\nscribed antibiotics such as ciprofloxacin, ampicillin, trim­\nethoprim/sulphamethoxazole, gentamicin, erythromycin \nand ceftriaxone.\n"
+  },
+  {
+    "page": 6,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      158.690185546875,
+      540.8907470703125,
+      209.2235870361328
+    ],
+    "text": "As reported in other reports done elsewhere [2, 14, 15], \nmajority of Gram-negative isolates in this study were sen­\nsitive to meropenem while Gram positive bacteria were \nuniformly sensitive to vancomycin.\n"
+  },
+  {
+    "page": 6,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      206.690185546875,
+      540.9103393554688,
+      341.22357177734375
+    ],
+    "text": "In agreement with other studies conducted elsewhere \n[15, 30], this study observed association between ciga­\nrette smoking and increased odds of SSIs development. \nCigarette smoking has been reported to have an impact \non wound healing through impairment of tissue oxy­\ngenation and local hypoxia via vasoconstriction [15, 31]. \nAdditionally, tobacco smoke has high concentrations of \ncarbon monoxide, which binds hemoglobin, forming car­\nboxyhemoglobin which in turn binds to oxygen with high \naffinity and thereby interferes with normal oxygen deliv­\nery to hypoxic tissues [31].\n"
+  },
+  {
+    "page": 6,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      304.7244873046875,
+      338.690185546875,
+      540.9202270507812,
+      449.22357177734375
+    ],
+    "text": "As in the current studies, several studies have shown a \nstrong association between ASA status and SSIs follow­\ning surgery [15, 27, 32]. ASA classification is a standard­\nized, reproducible numeric determination that has been \nused to routinely stratify severity of illness for surgical \npatients and is known to be a good indicator of host sus­\nceptibility to infection [15, 33]. The overall poor general \nhealth of the study subjects with higher ASA class could \nbe the reason for this association.\n"
+  },
+  {
+    "page": 6,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      304.7244873046875,
+      446.690185546875,
+      540.9164428710938,
+      569.2235717773438
+    ],
+    "text": "In agreement with other studies, this study found that \nlength of surgery > 2 h was associated with increased risk \nof developing SSI [27]. The increasing length of surgery \ncan lead to higher risk of SSI due to desiccation of tis­\nsues, increased bacterial exposure and decreased level of \nprophylactic antibiotic in the tissues [15, 34]. This finding \nsupports the notion that the administration of an addi­\ntional dose of antibiotic in lengthy procedures (e.g.>2 h) \nmight be effective in reducing the overall SSI rate [15, 27, \n34].\n"
+  },
+  {
+    "page": 6,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      304.7244873046875,
+      566.690185546875,
+      540.9124755859375,
+      713.2235717773438
+    ],
+    "text": "Blood transfusion has been reported in the literature \nto be associated with SSIs following surgery [3, 35]. Stud­\nies have shown that blood transfusion leads to immuno­\nmodulation, increased serum iron, and microcirculatory \ndysfunction, which can cause bacterial overgrowth [3, \n36]. Allogeneic blood transfusion induces immunosup­\npression and predisposes to postoperative infection \n[36]. In this study, perioperative blood transfusion was \nsignificantly associated with SSI following limb amputa­\ntion. However, potential of contamination due hospital \nsurfaces(settings) surpasses the potential of SSI due to \nblood infection [29].\n"
+  },
+  {
+    "page": 6,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      304.7244873046875,
+      710.690185546875,
+      540.9113159179688,
+      737.2235717773438
+    ],
+    "text": "Limitations of the study includes failure to perform \nanaerobic culture that led to inability to establish the \n"
+  },
+  {
+    "page": 6,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      84.68389892578125,
+      287.5767517089844,
+      585.1015014648438
+    ],
+    "text": "Table 5  Distribution of surgical site infections among the study \nparticipants\nVariables\nSurgical Site Infections\nYes\nNo\nn (%)\nn (%)\nAge group (years)\n≤ 45\n15(46.9)\n17(53.1)\n46–65\n14(24.6)\n43(75.4)\n> 65\n7(22.6)\n24(77.4)\nGender\nMale\n16(25.0)\n48(75.0)\nFemale\n20(35.7)\n36(64.3)\nBMI\n< 18.5\n19(34.6)\n36(65.4)\n18.5–24.9\n16(26.7)\n44(73.3)\n≥ 25.0\n1(20.0)\n4(80.0)\nComorbidity\nNo\n16(25.4)\n47(74.6)\nYes\n20(35.09)\n37(64.91)\nSmoking\nNo\n28(25.23)\n83(74.8)\nYes\n8(88.89)\n1(11.1)\nASA class score\nI &II\n5(14.29)\n30(85.7)\nIII\n31(36.47)\n54(63.5)\nTiming of Surgery\nEmergency\n33(29.46)\n79(70.54)\nElective\n3(37.5)\n5(62.5)\nProphylactic antibiotics\nYes\n33(28.95)\n81(71.05)\nNo\n3(50)\n3(50)\nDuration of surgery (hours)\n< 2\n20(22.0)\n71(78.0)\n≥ 2\n16(55.2)\n13(44.8)\nLimb involved\nUpper\n5(55.6)\n4(44.4)\nLower\n31(27.9)\n80(72.1)\nAmputation type\nClosed\n23(30.3)\n53(69.7)\nOpen\n13(29.5)\n31(70.5)\nBlood Transfusion\nNo\n20(20.6)\n77(79.4)\nYes\n16(69.6)\n7(30.4)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      33.126182556152344,
+      538.5889892578125,
+      42.75018310546875
+    ],
+    "text": "Page 7 of 9\nHamudu et al. Journal of Orthopaedic Surgery and Research          (2025) 20:252 \n"
+  },
+  {
+    "page": 7,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      590.690185546875,
+      292.8816833496094,
+      701.2235717773438
+    ],
+    "text": "presence of anaerobic organisms hence underestimate \nthe patterns of the bacteria and the yield of the culture \nof wound swab. However, the positive rate of the swabs \nwas within the range of previously reported rates. The \nsuperficial swab culture results may not always repre­\nsent the organism’s causing infection, particularly in deep \nwounds. Another limitation is lack of reporting of resis­\ntance mechanism proportions in gram negatives (e.g. \nampC, ESBL) and Gram-positive organisms (MRSA).\n"
+  },
+  {
+    "page": 7,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      589.8134765625,
+      540.9053344726562,
+      737.2235717773438
+    ],
+    "text": "Conclusion and recommendations\nThis study has demonstrated an increased trend of SSI \namongst patients who underwent limb amputation \nunderscoring the need to improve infection preven­\ntion and control (IPC) programs in these hospitals. The \nobserved predominance of multi drug resistant (MDR) \nGram negative bacteria causing SSI requires strength­\nening of antimicrobial stewardship and IPC programs \nin these hospitals and other hospitals in low- and mid­\ndle-income countries to control emergence and spread \nof MDR Enterobacterales which have been classified by \nWHO as critical priority pathogens. Patients with history \n"
+  },
+  {
+    "page": 7,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      84.68389892578125,
+      532.9149169921875,
+      574.1015014648438
+    ],
+    "text": "Table 6  Predictors of SSI following major limb amputations\nPredictors\nSurgical Site Infections\nUnivariate\nMultivariate\nYes\nNo\nn (%)\nn (%)\nOR [95% CI]\np-value\nOR [95% CI]\np-value\nAge group (years)\n≤ 45\n15(46.9)\n17(53.1)\nRef\n46–65\n14(24.6)\n43(75.4)\n0.36(0.15–0.93)\n0.034\n0.25(0.06–0.91)\n0.037\n> 65\n7(22.6)\n24(77.4)\n0.33(0.11–0.98)\n0.047\n0.21(0.04–0.95)\n0.043\nGender\nMale\n16(25.0)\n48(75.0)\nRef\nFemale\n20(35.7)\n36(64.3)\n1.6(0.75–3.66)\n0.203\nBMI\n< 18.5\n19(34.6)\n36(65.4)\nRef\n18.5–24.9\n16(26.7)\n44(73.3)\n0.68(0.31–1.52)\n0.360\n≥ 25.0\n1(20.0)\n4(80.0)\n0.47(0.04–4.54)\n0.517\nComorbidity\nNo\n16(25.4)\n47(74.6)\nRef\nYes\n20(35.09)\n37(64.91)\n1.58(0.72–3.48)\n0.249\nSmoking\nNo\n28(25.23)\n83(74.8)\nRef\nYes\n8(88.89)\n1(11.1)\n25(2.85-10.00)\n0.003\n14.3(1.33-10.0)\n0.027\nASA class score\nI &II\n5(14.29)\n30(85.7)\nRef\nIII\n31(36.47)\n54(63.5)\n3.44(1.21–9.79)\n0.020\n13.3(2.81–63.1)\n0.001\nTiming of Surgery\nEmergency\n33(29.46)\n79(70.54)\nElective\n3(37.5)\n5(62.5)\n1.43(0.32–6.35)\n0.633\nProphylactic antibiotics\nYes\n33(28.95)\n81(71.05)\nRef\nNo\n3(50)\n3(50)\n2.45(0.47–12.78)\n0.286\nDuration of surgery (hours)\n< 2\n20(22.0)\n71(78.0)\nRef\n≥ 2\n16(55.2)\n13(44.8)\n4.36(1.80-10.57)\n0.001\n4.08(1.29–12.9)\n0.016\nLimb involved\nUpper\n5(55.6)\n4(44.4)\nRef\nLower\n31(27.9)\n80(72.1)\n0.31(0.07–1.23)\n0.096\nAmputation type\nClosed\n23(30.3)\n53(69.7)\nRef\nOpen\n13(29.5)\n31(70.5)\n1.14(0.51–2.56)\n0.741\nBlood Transfusion\nNo\n20(20.6)\n77(79.4)\nRef\nYes\n16(69.6)\n7(30.4)\n3.0(1.10–7.70)\n0.012\n4.0(1.25–12.5)\n0.020\n"
+  },
+  {
+    "page": 8,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      33.126182556152344,
+      538.5889892578125,
+      42.75018310546875
+    ],
+    "text": "Page 8 of 9\nHamudu et al. Journal of Orthopaedic Surgery and Research          (2025) 20:252 \n"
+  },
+  {
+    "page": 8,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      86.690185546875,
+      292.8583068847656,
+      137.2235870361328
+    ],
+    "text": "of cigarette smoking and those with high ASA status, \nprolonged duration of surgery and blood transfusion \nshould be carefully prepared and managed to ensure the \nrisk of SSI are minimized.\n"
+  },
+  {
+    "page": 8,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      142.71018981933594,
+      286.7321472167969,
+      187.87518310546875
+    ],
+    "text": "Acknowledgements\nThe authors wish to thank members of the Department of Surgery and \nMicrobiology at Bugando Medical Centre and Sekou Toure Regional hospital. \nWe appreciate Hospital administration at Bugando Medical Centre Mwanza \nTanzania and Sekou Toure regional hospital.\n"
+  },
+  {
+    "page": 8,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      196.71018981933594,
+      291.4939270019531,
+      250.87518310546875
+    ],
+    "text": "Author contributions\nHH, PLC and conceived and designed the study. HH, VS and HN performed \ndata collection and laboratory procedures. HH, VS and HN analyzed the data. \nHH and HN drafted the manuscript. MMM, PLC and SEM critically reviewed the \nmanuscripts and responsible for validation. All authors read and approved the \nmanuscript.\n"
+  },
+  {
+    "page": 8,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      259.7101745605469,
+      287.63885498046875,
+      286.87518310546875
+    ],
+    "text": "Funding\nNo formal funding for this research, the Article publication Charges (APC) will \nbe covered by the Catholic University of Health and Allied Sciences.\n"
+  },
+  {
+    "page": 8,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      295.7101745605469,
+      252.39041137695312,
+      313.87518310546875
+    ],
+    "text": "Data availability\nNo datasets were generated or analysed during the current study.\n"
+  },
+  {
+    "page": 8,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      327.0577697753906,
+      106.57530212402344,
+      338.3001708984375
+    ],
+    "text": "Declarations\n"
+  },
+  {
+    "page": 8,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      346.7101745605469,
+      286.0504455566406,
+      391.87518310546875
+    ],
+    "text": "Ethical approval and consent to participate\nEthical approval for this study was sought was sought from the Joint CUHAS/\nBMC Research, Ethics and Review Committee (CREC/796/2024). Permission \nto carry out the study was obtained from the hospital authority (BMC) and \nSekou-Toure Regional Referral Hospital.\n"
+  },
+  {
+    "page": 8,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      400.7101745605469,
+      132.79539489746094,
+      418.87518310546875
+    ],
+    "text": "Consent for publication\nNot applicable.\n"
+  },
+  {
+    "page": 8,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      427.7101745605469,
+      188.21966552734375,
+      445.87518310546875
+    ],
+    "text": "Competing interests\nThe authors declare no competing interests.\n"
+  },
+  {
+    "page": 8,
+    "block_no": 10,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      454.7101745605469,
+      277.78240966796875,
+      508.87518310546875
+    ],
+    "text": "Author details\n1Department of Surgery, Catholic University of Health and Allied Sciences, \nMwanza, Tanzania\n2Department of Surgery, Bugando Medical Centre, Mwanza, Tanzania\n3Department of Microbiology/Immunology, Catholic University of Health \nand Allied Sciences, Mwanza, Tanzania\n"
+  },
+  {
+    "page": 8,
+    "block_no": 11,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      520.19873046875,
+      241.52296447753906,
+      529.2137451171875
+    ],
+    "text": "Received: 24 September 2024 / Accepted: 21 February 2025\n"
+  },
+  {
+    "page": 8,
+    "block_no": 12,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      566.048828125,
+      290.49908447265625,
+      719.2138061523438
+    ],
+    "text": "References\n1.\t\nAjibade AAO, Okoye CS. Indications and complications of major limb ampu­\ntations in Kano,Nigeria. Ghana Med J. 2013;47(4):185–8.\n2.\t\nAhmad N, Thomas GN, Gill P, Torella F. The prevalence of major lower \nlimb amputation in the diabetic and non-diabetic population of England \n2003–2013. Diabetes Vascular Disease Res. 2016;13(5):348–53.\n3.\t\nLyamuya EF, Aboud S, Urassa WK, Sufi J, Mbwana J, Ndugulile F, Massambu C. \nEvaluation of simple rapid HIV assays and development of National rapid HIV \ntest algorithms in Dar Es Salaam, Tanzania. BMC Infect Dis. 2009;9:1–7.\n4.\t\nChalya PL, Mabula JB, Dass RM, Ngayomela IH, Chandika AB, Mbelenge N, \nGilyoma JM. Major limb amputations: A tertiary hospital experience in North­\nwestern Tanzania. J Orthop Surg Res. 2012;7:1–6.\n5.\t\nLazzarini PA, O’Rourke SR, Russell AW, Clark D, Kuys SS. What are the key \nconditions associated with lower limb amputations in a major Australian \nteaching hospital? J Foot Ankle Res. 2012;5:1–9.\n6.\t\nPaudel B, Shrestha B, Banskota A. Two faces of major lower limb amputations. \nKathmandu Univ Med J. 2005;3(3):212–6.\n"
+  },
+  {
+    "page": 8,
+    "block_no": 13,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      82.61268615722656,
+      539.534912109375,
+      154.50018310546875
+    ],
+    "text": "7.\t\nDada A, Awoyomi B. Is the trend of amputation in Nigeria changing? A \nreview of 51 consecutives cases seen at federal medical centre Ebute Metta, \nLagos, Nigeria. Nigerian Med J. 2010;51(4):167.\n8.\t\nOgeng’o JA, Obimbo MM, King’ori J. Pattern of limb amputation in a Kenyan \nrural hospital. Int Orthop. 2009;33:1449–53.\n9.\t\nEssoh S, Bamba I, Dje VB, Traore A, Lambin Y. Limb amputations in adults in an \nIvorian teaching hospital. Nigerian J Orthop Trauma. 2007;6(2):61–3.\n10.\t Akinyoola A, Ojo O, Oginni L. Microbiology of amputation wound infection in \n"
+  },
+  {
+    "page": 8,
+    "block_no": 14,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      154.61268615722656,
+      531.277099609375,
+      172.50018310546875
+    ],
+    "text": "a Nigerian setting. J Wound Care. 2008;17(5):202–6.\n11.\t Sadat U, Chaudhuri A, Hayes P, Gaunt M, Boyle J, Varty K. Five day antibiotic \n"
+  },
+  {
+    "page": 8,
+    "block_no": 15,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      172.61268615722656,
+      535.6682739257812,
+      199.50018310546875
+    ],
+    "text": "prophylaxis for major lower limb amputation reduces wound infection rates \nand the length of in-hospital stay. Eur J Vasc Endovasc Surg. 2008;35(1):75–8.\n12.\t Omoke NI, Chukwu COO, Madubueze CC, Egwu AN. Traumatic extremity \n"
+  },
+  {
+    "page": 8,
+    "block_no": 16,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      199.61268615722656,
+      538.9526977539062,
+      226.50018310546875
+    ],
+    "text": "amputation in a Nigerian setting: patterns and challenges of care. Int Orthop. \n2012;36:613–8.\n13.\t Kitembo S, Chugulu S. Incidence of surgical site infections and microbial pat­\n"
+  },
+  {
+    "page": 8,
+    "block_no": 17,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      226.61268615722656,
+      521.6752319335938,
+      244.50018310546875
+    ],
+    "text": "tern at Kilimanjaro Christian medical centre. Annals Afr Surg 2013, 10(1).\n14.\t Kisibo A, Ndume V, Semiono A, Mika E, Sariah A, Protas J, Landolin H. \n"
+  },
+  {
+    "page": 8,
+    "block_no": 18,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      244.61268615722656,
+      539.7650146484375,
+      280.50018310546875
+    ],
+    "text": "Surgical site infection among patients undergone orthopaedic surgery at \nmuhimbili orthopaedic institute, Dar Es Salaam, Tanzania. East Cent Afr J Surg. \n2017;22(1):49–58.\n15.\t Mawalla B, Mshana SE, Chalya PL, Imirzalioglu C, Mahalu W. Predictors of sur­\n"
+  },
+  {
+    "page": 8,
+    "block_no": 19,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      280.6126708984375,
+      534.7387084960938,
+      307.50018310546875
+    ],
+    "text": "gical site infections among patients undergoing major surgery at Bugando \nmedical centre in Northwestern Tanzania. BMC Surg. 2011;11(1):1–7.\n16.\t Malik S, Gupta A, Singh K, Agarwal J, Singh M. Antibiogram of aerobic bacte­\n"
+  },
+  {
+    "page": 8,
+    "block_no": 20,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      307.6126708984375,
+      539.8141479492188,
+      334.50018310546875
+    ],
+    "text": "rial isolates from post-operative wound infections at a tertiary care hospital in \nIndia. J Infect Dis Antimicrob Agents. 2011;28(1):45–51.\n17.\t Sonawane J, Kamath N, Swaminathan R, Dosani K. Bacterial profile of surgical \n"
+  },
+  {
+    "page": 8,
+    "block_no": 21,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      334.6126708984375,
+      538.2081909179688,
+      361.50018310546875
+    ],
+    "text": "site infections and their antibiograms in a tertiary care hospital in navi Mum­\nbai. Bombay Hosp J. 2010;52:358–61.\n18.\t Negi V, Pal S, Juyal D, Sharma MK, Sharma N. Bacteriological profile of surgical \n"
+  },
+  {
+    "page": 8,
+    "block_no": 22,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      361.6126708984375,
+      530.8623046875,
+      406.50018310546875
+    ],
+    "text": "site infections and their antibiogram: A study from resource constrained \nrural setting of Uttarakhand State, India. J Clin Diagn Research: JCDR. \n2015;9(10):DC17.\n19.\t Yamane T. Statistics: An introductory analysis. 1973.\n20.\t Keely Boyle K, Rachala S, Nodzo SR. Centers for disease control and preven­\n"
+  },
+  {
+    "page": 8,
+    "block_no": 23,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      406.6126708984375,
+      528.3143920898438,
+      433.50018310546875
+    ],
+    "text": "tion 2017 guidelines for prevention of surgical site infections: review and \nrelevant recommendations. Curr Rev Musculoskelet Med. 2018;11:357–69.\n21.\t Horan TC, Gaynes RP, Martone WJ, Jarvis WR, Emori TG. CDC definitions of \n"
+  },
+  {
+    "page": 8,
+    "block_no": 24,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      433.6126708984375,
+      538.9819946289062,
+      460.50018310546875
+    ],
+    "text": "nosocomial surgical site infections, 1992: a modification of CDC definitions of \nsurgical wound infections. Infect Control Hosp Epidemiol. 1992;13(10):606–8.\n22.\t Ahuja S, Peiffer-Smadja N, Peven K, White M, Leather AJ, Singh S, Mendelson \n"
+  },
+  {
+    "page": 8,
+    "block_no": 25,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      460.6126708984375,
+      538.9944458007812,
+      496.50018310546875
+    ],
+    "text": "M, Holmes A, Birgand G, Sevdalis N. Use of feedback data to reduce surgical \nsite infections and optimize antibiotic use in surgery: a systematic scoping \nreview. Ann Surg. 2022;275(2):e345.\n23.\t Owens C, Stoessel K. Surgical site infections: epidemiology, microbiology and \n"
+  },
+  {
+    "page": 8,
+    "block_no": 26,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      496.6126708984375,
+      513.2068481445312,
+      514.5001831054688
+    ],
+    "text": "prevention. J Hosp Infect. 2008;70:3–10.\n24.\t Brown S, Kurtsikashvili G, Alonso-Echanove J, Ghadua M, Ahmeteli L, \n"
+  },
+  {
+    "page": 8,
+    "block_no": 27,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      514.6126708984375,
+      535.9895629882812,
+      550.5001831054688
+    ],
+    "text": "Bochoidze T, Shushtakashvili M, Eremin S, Tsertsvadze E, Imnadze P. Preva­\nlence and predictors of surgical site infection in Tbilisi, Republic of Georgia. J \nHosp Infect. 2007;66(2):160–6.\n25.\t Sharan J, Tiwary R, Raza MA, Chauhan C. Surgical site infections in elec­\n"
+  },
+  {
+    "page": 8,
+    "block_no": 28,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      550.6126708984375,
+      538.2943725585938,
+      577.5001831054688
+    ],
+    "text": "tive abdominal surgery and their prevention in a tertiary Care Centre of \nRohilkhand Region.\n26.\t Classen DC, Evans RS, Pestotnik SL, Horn SD, Menlove RL, Burke JP. The timing \n"
+  },
+  {
+    "page": 8,
+    "block_no": 29,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      577.6126708984375,
+      532.3123779296875,
+      604.5001831054688
+    ],
+    "text": "of prophylactic administration of antibiotics and the risk of surgical-wound \ninfection. N Engl J Med. 1992;326(5):281–6.\n27.\t Tang R, Chen HH, Wang YL, Changchien CR, Chen J-S, Hsu K-C, Chiang J-M, \n"
+  },
+  {
+    "page": 8,
+    "block_no": 30,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      604.6126708984375,
+      535.361083984375,
+      640.5001831054688
+    ],
+    "text": "Wang J-Y. Risk factors for surgical site infection after elective resection of the \ncolon and rectum: a single-center prospective study of 2,809 consecutive \npatients. Ann Surg. 2001;234(2):181.\n28.\t Baraka N. Antimicrobial resistance surveillance on bacterial species causing \n"
+  },
+  {
+    "page": 8,
+    "block_no": 31,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      640.6126708984375,
+      535.3887939453125,
+      667.5001831054688
+    ],
+    "text": "skin and soft tissue infections at BMC, Mwanza, Tanzania. Catholic University \nAnd Allied Sciences; 2023.\n29.\t Ali KM, Al-Jaff BM. Source and antibiotic susceptibility of gram-negative \n"
+  },
+  {
+    "page": 8,
+    "block_no": 32,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      667.6126708984375,
+      538.02587890625,
+      694.5001831054688
+    ],
+    "text": "bacteria causing superficial incisional surgical site infections. Int J Surg Open. \n2021;30:100318.\n30.\t Dale WB, Peter MH, Workgroup SIPGW. Antimicrobial prophylaxis for surgery: \n"
+  },
+  {
+    "page": 8,
+    "block_no": 33,
+    "block_type": 0,
+    "bbox": [
+      319.7243957519531,
+      694.6126708984375,
+      531.7465209960938,
+      712.5001831054688
+    ],
+    "text": "an advisory statement from the National surgical infection prevention proj­\nect. Clin Infect Dis. 2004;38(12):1706–15.\n"
+  },
+  {
+    "page": 9,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      33.126182556152344,
+      538.5889892578125,
+      42.75018310546875
+    ],
+    "text": "Page 9 of 9\nHamudu et al. Journal of Orthopaedic Surgery and Research          (2025) 20:252 \n"
+  },
+  {
+    "page": 9,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      82.61268615722656,
+      287.8186950683594,
+      91.50018310546875
+    ],
+    "text": "31.\t Kaneko M, Sasaki S, Ishimaru K, Terai E, Nakayama H, Watanabe T. The impact \n"
+  },
+  {
+    "page": 9,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      91.61268615722656,
+      285.91058349609375,
+      118.50018310546875
+    ],
+    "text": "of perioperative allogeneic blood transfusion on survival in elderly patients \nwith colorectal cancer. Anticancer Res. 2015;35(6):3553–8.\n32.\t Kim JL, Park J-H, Han S-B, Cho IY, Jang K-M. Allogeneic blood transfusion is a \n"
+  },
+  {
+    "page": 9,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      118.61268615722656,
+      287.4930419921875,
+      145.50018310546875
+    ],
+    "text": "significant risk factor for surgical-site infection following total hip and knee \narthroplasty: a meta-analysis. J Arthroplast. 2017;32(1):320–5.\n33.\t Mshana S, Kamugisha E, Miramb M, Chalya P, Rambau P, Mahalu W, Lyamuya \n"
+  },
+  {
+    "page": 9,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      145.61268615722656,
+      290.5657958984375,
+      181.50018310546875
+    ],
+    "text": "E. Prevalence of clindamycin inducible resistance among methicillin-resistant \nStaphylococcus aureus at Bugando medical centre, Mwanza, Tanzania. \nTanzan J Health Res 2009, 11(2).\n34.\t Afenigus A, Shbabawu A, Melese T. Surgical site infection and associated fac­\n"
+  },
+  {
+    "page": 9,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      71.69290161132812,
+      181.61268615722656,
+      290.3006896972656,
+      199.50018310546875
+    ],
+    "text": "tors among adult patients admitted in West and East Gojjam zone hospitals, \nAmhara region, Ethiopia. Ethiopia Nurse Care Open Acces J. 2019;6(3):107–12.\n"
+  },
+  {
+    "page": 9,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      82.61268615722656,
+      531.5338745117188,
+      91.50018310546875
+    ],
+    "text": "35.\t Wayne P. Methods for dilution antimicrobial susceptibility tests for bacteria \n"
+  },
+  {
+    "page": 9,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      91.61268615722656,
+      538.3665161132812,
+      118.50018310546875
+    ],
+    "text": "that grow aerobically. Approved standard M7-A7 Clinical and Laboratory Stan­\ndards Institute 2006.\n36.\t Mshana SE, Kamugisha E, Mirambo M, Chakraborty T, Lyamuya EF. Prevalence \n"
+  },
+  {
+    "page": 9,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      319.7243957519531,
+      118.61268615722656,
+      532.6898803710938,
+      136.50018310546875
+    ],
+    "text": "of multiresistant gram-negative organisms in a tertiary hospital in Mwanza, \nTanzania. BMC Res Notes. 2009;2(1):1–6.\n"
+  },
+  {
+    "page": 9,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      157.8134765625,
+      513.3359985351562,
+      187.87518310546875
+    ],
+    "text": "Publisher’s note\nSpringer Nature remains neutral with regard to jurisdictional claims in \npublished maps and institutional affiliations.\n"
+  }
+]

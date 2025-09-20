@@ -1,0 +1,1634 @@
+[
+  {
+    "page": 1,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      52.157501220703125,
+      107.46197509765625,
+      497.34613037109375,
+      143.30210876464844
+    ],
+    "text": "Patterns of infections, aetiological agents and antimicrobial\nresistance at a tertiary care hospital in northern Tanzania\n"
+  },
+  {
+    "page": 1,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      52.155914306640625,
+      154.33425903320312,
+      487.14520263671875,
+      176.81124877929688
+    ],
+    "text": "Happiness Houka Kumburu1,2,3, Tolbert Sonda1,2,3, Blandina Theophil Mmbaga1,2,3, Michael Alifrangis4,\nOle Lund5, Gibson Kibiki3,6 and Frank M. Aarestrup7\n"
+  },
+  {
+    "page": 1,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      52.157501220703125,
+      186.327880859375,
+      518.1598510742188,
+      254.05235290527344
+    ],
+    "text": "1 Kilimanjaro Clinical Research Institute, Moshi, Tanzania\n2 Kilimanjaro Christian Medical Centre, Moshi, Tanzania\n3 Kilimanjaro Christian Medical University College, Moshi, Tanzania\n4 Centre for Medical Parasitology, Department of Immunology and Microbiology, University of Copenhagen, Copenhagen, Denmark\n5 Centre for Biological Sequence Analysis, Department of Bioinformatics, Technical University of Denmark, Copenhagen, Denmark\n6 East African Health Research Commission, Bujumbura, Burundi\n7 DTU-Food, Technical University of Denmark, Copenhagen, Denmark\n"
+  },
+  {
+    "page": 1,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      52.157501220703125,
+      279.2037048339844,
+      524.07275390625,
+      565.1806640625
+    ],
+    "text": "Abstract\nobjective To determine the causative agents of infections and their antimicrobial susceptibility at a\ntertiary care hospital in Moshi, Tanzania, to guide optimal treatment.\nmethods A total of 590 specimens (stool (56), sputum (122), blood (126) and wound swabs (286))\nwere collected from 575 patients admitted in the medical and surgical departments. The bacterial\nspecies were determined by conventional methods, and disc diffusion was used to determine the\nantimicrobial susceptibility pattern of the bacterial isolates.\nresults A total of 249 (42.2%) specimens were culture-positive yielding a total of 377 isolates. A\nwide range of bacteria was isolated, the most predominant being Gram-negative bacteria: Proteus\nspp. (n = 48, 12.7%), Escherichia coli (n = 44, 11.7%), Pseudomonas spp. (n = 40, 10.6%) and\nKlebsiella spp (n = 38, 10.1%). Wound infections were characterised by multiple isolates (n = 293,\n77.7%), with the most frequent being Proteus spp. (n = 44, 15%), Pseudomonas (n = 37, 12.6%),\nStaphylococcus (n = 29, 9.9%) and Klebsiella spp. (n = 28, 9.6%). All Staphylococcus aureus tested\nwere resistant to penicillin (n = 22, 100%) and susceptible to vancomycin. Signiﬁcant resistance to\ncephalosporins such as cefazolin (n = 62, 72.9%), ceftriaxone (n = 44, 51.8%) and ceftazidime\n(n = 40, 37.4%) was observed in Gram-negative bacteria, as well as resistance to cefoxitin (n = 6,\n27.3%) in S. aureus.\nconclusion The study has revealed a wide range of causative agents, with an alarming rate of\nresistance to the commonly used antimicrobial agents. Furthermore, the bacterial spectrum differs\nfrom those often observed in high-income countries. This highlights the imperative of regular\ngeneration of data on aetiological agents and their antimicrobial susceptibility patterns especially in\ninfectious disease endemic settings. The key steps would be to ensure the diagnostic capacity at a\nsufﬁcient number of sites and implement structures to routinely exchange, compare, analyse and\nreport data. Sentinel sites (hospitals) across the country (and region) should report on a representative\nsubset of bacterial species and their susceptibility to drugs at least annually. A central organising\nbody should collate the data and report to relevant national and international stakeholders.\n"
+  },
+  {
+    "page": 1,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      123.8743896484375,
+      579.0049438476562,
+      475.1508483886719,
+      588.1713256835938
+    ],
+    "text": "keywords bacterial infections, antimicrobial resistance, Africa, Western Europe, America\n"
+  },
+  {
+    "page": 1,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      52.157432556152344,
+      608.4019775390625,
+      104.87928009033203,
+      617.3682861328125
+    ],
+    "text": "Introduction\n"
+  },
+  {
+    "page": 1,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      52.157432556152344,
+      625.3230590820312,
+      276.33648681640625,
+      691.6055297851562
+    ],
+    "text": "Regular review of patterns of infections and their\nantibacteriogram is key for empirical treatment, which is\ncommon in resource-poor settings. Over the past\n20 years, the pattern of infections and their susceptibility\nto antimicrobial agents [1, 2] has changed, likely due to\nfactors such as increased use of antimicrobial agents [3]\n"
+  },
+  {
+    "page": 1,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      297.3552551269531,
+      602.4186401367188,
+      524.1570434570312,
+      691.6036987304688
+    ],
+    "text": "and rising prevalence of diabetes mellitus [4] which due\nto socio-demographic changes [1] is becoming a common\ncomorbid condition for patients admitted due to infection\n[5]. Human immunodeﬁciency virus (HIV) has also chan-\nged the pattern of infections [2]; antiretroviral (ARV)\ntherapies, which boost the immune status of the patients\ninfected with HIV [6], may play a role in the susceptibil-\nity to both common and opportunistic infections [7], as\n"
+  },
+  {
+    "page": 1,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      52.157440185546875,
+      714.0682373046875,
+      524.3862915039062,
+      740.9600830078125
+    ],
+    "text": "454\n© 2017 The Authors. Tropical Medicine & International Health Published by John Wiley & Sons Ltd.\nThis is an open access article under the terms of the Creative Commons Attribution License,\nwhich permits use, distribution and reproduction in any medium, provided the original work is properly cited.\n"
+  },
+  {
+    "page": 1,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      52.157501220703125,
+      47.033382415771484,
+      524.5056762695312,
+      55.00358581542969
+    ],
+    "text": "Tropical Medicine and International Health\ndoi:10.1111/tmi.12836\n"
+  },
+  {
+    "page": 1,
+    "block_no": 10,
+    "block_type": 0,
+    "bbox": [
+      52.157501220703125,
+      63.46266174316406,
+      197.88229370117188,
+      73.02690124511719
+    ],
+    "text": "volume 22 no 4 pp 454–464 april 2017\n"
+  },
+  {
+    "page": 2,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      70.86609649658203,
+      100.23712921142578,
+      297.9117431640625,
+      475.8311767578125
+    ],
+    "text": "well as other chronic conditions such as cancer and kid-\nney disease.\nIn Africa, infectious diseases constitute a much higher\nburden in people of all age groups [8–13] than in Europe\nand North America. Active surveillance systems on infec-\ntious disease control are inadequate in most African\ncountries [14–17], and the absence of data on disease\ncauses and the lack of control measures add to the dis-\nease burden [6]. Obtaining adequate and timely data on\ninfectious diseases in African countries is difﬁcult,\nwhereas much more data are available from developed\ncountries. As a result, empirical treatment in Africa\nregarding pathogenic bacteria might be based on data\nfrom clinical laboratories in developed countries [18].\nThe pattern of bacterial infections in Africa differs from\nthose observed in Western Europe and North America;\nhence, empirical treatment should be adjusted to ﬁt the\ndifferent need. In Africa, as elsewhere, regular local data\ncollection about patterns of infections, and their response\nto antimicrobial agents, coupled with a long-term com-\nmitment to providing adequate health information sys-\ntems, is key to effective planning and policy formulation.\nThe availability of data on disease patterns, etiological\nagents and their antimicrobial resistance is a prerequisite\nfor the establishment of empirical treatment regimens and\nfor avoiding escalation of the global trend of bacterial\nresistance to the current antimicrobial regimens [19–21].\nThis study was conducted to determine the most fre-\nquent bacterial species isolated from samples submitted\nfor microbiological examinations at a tertiary care hospi-\ntal in Moshi, Tanzania. We also determined antimicrobial\nsusceptibility patterns of the isolates and associated\ncomorbid conditions.\n"
+  },
+  {
+    "page": 2,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      70.86613464355469,
+      501.1942443847656,
+      167.57130432128906,
+      510.1605529785156
+    ],
+    "text": "Materials and methods\n"
+  },
+  {
+    "page": 2,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      70.86613464355469,
+      518.229248046875,
+      244.62948608398438,
+      527.195556640625
+    ],
+    "text": "Study design, location and sample collection\n"
+  },
+  {
+    "page": 2,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      70.86613464355469,
+      535.350341796875,
+      297.9010009765625,
+      693.2468872070312
+    ],
+    "text": "This study is a descriptive analysis of culture, bacterial\nidentiﬁcation and antimicrobial susceptibility testing con-\nducted at Kilimanjaro Christian Medical Centre (KCMC),\nwhich hosts a tertiary healthcare facility for the northern\nzone of Tanzania. The study was conducted from August\n2013 to August 2015. Clinical samples were collected\nfrom inpatients admitted to the medical or surgical wards\nof the hospital. Informed consent was obtained from all\nparticipants. Specimens including stool (56), sputum\n(122), blood (56) and wound/pus swabs (286) were col-\nlected from 575 patients. Twenty specimens were not\nincluded due to insufﬁcient quantity. Blood, stool or spu-\ntum samples were collected if the patient was diagnosed\nto have septicemia, diarrhoea or upper respiratory\n"
+  },
+  {
+    "page": 2,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      316.06396484375,
+      100.22834014892578,
+      542.2559814453125,
+      246.67340087890625
+    ],
+    "text": "infection, respectively. Blood samples were also collected\nfrom patients with fever of unknown cause. Wound or\npus swabs were collected from wounds due to burns, sur-\ngical procedures, diabetes mellitus, animal bites, motor\ntrafﬁc accidents and other injuries.\nPatient hospital ﬁles were used to obtain socio-demo-\ngraphics and clinical characteristics of the study partici-\npants admitted at KCMC wards. Data were recorded on\ndesignated case report forms (CRFs). All samples were\ntransported immediately after collection to the Kiliman-\njaro Clinical Research Institute (KCRI), to be processed\nby the microbiology unit of the biotechnology laboratory\ndepartment.\n"
+  },
+  {
+    "page": 2,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      316.06396484375,
+      266.2799987792969,
+      416.5036315917969,
+      275.2463073730469
+    ],
+    "text": "Culture and identiﬁcation\n"
+  },
+  {
+    "page": 2,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      316.0617980957031,
+      283.4011535644531,
+      543.132568359375,
+      590.2989501953125
+    ],
+    "text": "Wound/pus swabs and sputum specimens were cultured\nonto trypticase soy agar with 5% sheep blood (BD\nBBL\nTM), chocolate agar and McConkey agar plate media\n(BD BBL\nTM) and incubated at 37 °C with 5% CO2 for\n18–24 h. Stool samples were cultured onto McConkey\nagar and incubated at 37 °C overnight. Blood samples\nwere collected in 40 ml BD BACTEC standard 10 Aero-\nbic/F, followed by incubation in BD BACTEC for a maxi-\nmum of 5 days. Gram stain was used to differentiate\nGram-positive and Gram-negative bacteria from culture.\nPositive blood cultures were inoculated on blood agar,\nchocolate agar and McConkey agar and incubated for\n18–24 h at 37 °C with 5% CO2. Bacteria were isolated\nfrom culture by picking single colonies and subculturing\nonto purity plate (Blood agar) overnight. From the purity\nplate, morphology determination and gram stain was\nmade followed by microscopic examination.\nBased on Gram staining results, Gram-negative bacteria\nwere identiﬁed using API 20E and/or API NE 20\n(bioM\u0001erieux) for Enterobacteriacae and other non-fasti-\ndious Gram-negatives. Catalase and coagulase tests were\nused to identify Gram-positive cocci. Optochin suscepti-\nbility testing (BD BBL Taxo\nTM Benex Limited, Shannon\nCounty Clare, Ireland) was used to conﬁrm Streptococcus\npneumoniae, and BD BBL Streptocard \u0001 Enzyme Latex\ntest was used to identify streptococcal group A, B, C, D,\nF and G.\n"
+  },
+  {
+    "page": 2,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      316.0626220703125,
+      609.905517578125,
+      451.5452575683594,
+      618.871826171875
+    ],
+    "text": "Antimicrobial susceptibility testing\n"
+  },
+  {
+    "page": 2,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      316.0626220703125,
+      627.0266723632812,
+      538.777587890625,
+      693.3091430664062
+    ],
+    "text": "Antimicrobial susceptibility testing (AST) was performed\nusing disc diffusion on M€uller–Hinton II Agar (MHA)\naccording to Clinical Laboratory Standards Institute\n(CLSI, 2013) guidelines. Gram-negative bacterial isolates\nwere tested for ampicillin 10 lg, amoxicillin-clavulanic\nacid 30 lg, cefazolin 30 lg, ceftazidime 30 lg,\n"
+  },
+  {
+    "page": 2,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      70.86609649658203,
+      714.1873779296875,
+      543.1312866210938,
+      723.1536865234375
+    ],
+    "text": "© 2017 The Authors. Tropical Medicine & International Health Published by John Wiley & Sons Ltd.\n455\n"
+  },
+  {
+    "page": 2,
+    "block_no": 10,
+    "block_type": 0,
+    "bbox": [
+      70.86609649658203,
+      45.20771789550781,
+      543.1433715820312,
+      55.00358581542969
+    ],
+    "text": "Tropical Medicine and International Health\nvolume 22 no 4 pp 454–464 april 2017\n"
+  },
+  {
+    "page": 2,
+    "block_no": 11,
+    "block_type": 0,
+    "bbox": [
+      70.86611938476562,
+      65.288330078125,
+      340.841552734375,
+      73.43634796142578
+    ],
+    "text": "H. H. Kumburu et al.\nInfection patterns, bacterial agents and resistance\n"
+  },
+  {
+    "page": 2,
+    "block_no": 12,
+    "block_type": 0,
+    "bbox": [
+      578.698486328125,
+      15.6519775390625,
+      585.5419311523438,
+      766.4173583984375
+    ],
+    "text": " 13653156, 2017, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/tmi.12836 by EBMG ACCESS - KENYA, Wiley Online Library on [13/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License\n"
+  },
+  {
+    "page": 3,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      52.157470703125,
+      99.97655487060547,
+      278.7978210449219,
+      246.68218994140625
+    ],
+    "text": "ceftriaxone 30 lg, chloramphenicol 30 lg, ciproﬂoxacin\n5 lg, gentamicin 10 lg, nalidixic acid 30 lg and\ntrimethoprim–sulfamethoxazole 23.75 lg/1.25 lg.\nAntimicrobials tested for Gram-positive bacterial isolates\nwere chloramphenicol, trimethoprim-sulfamethoxazole\n(23.75 lg/1.25 lg), erythromycin 15 lg, vancomycin\n30 lg, penicillin 10 lg and cefoxitin 30 lg. Interpreta-\ntion as susceptible, intermediate resistant and resistant\nwas performed according to CLSI 2013. Isolates with\nintermediate or resistant results were merged into a single\ngroup as resistant during data analysis. Considering inter-\nmediate group as resistance can be one of the ways of\nsidestepping uncertain therapeutic effects [22].\n"
+  },
+  {
+    "page": 3,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      52.15748596191406,
+      266.2887878417969,
+      104.43997192382812,
+      275.2550964355469
+    ],
+    "text": "Data analysis\n"
+  },
+  {
+    "page": 3,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      52.15748596191406,
+      283.4099426269531,
+      275.3072509765625,
+      349.6924133300781
+    ],
+    "text": "Data were double-entered in OpenClinica (OpenClinica\nLLC, Waltham, MA, USA). Data extracts were exported\nto STATA 13 (StataCorp LP, Texas 77845, USA). This\ntool was used for all analyses. Proportions of comorbidi-\nties and bacterial isolates were calculated and presented\nas column or row percentages.\n"
+  },
+  {
+    "page": 3,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      52.15748596191406,
+      375.05548095703125,
+      82.12287139892578,
+      384.02178955078125
+    ],
+    "text": "Results\n"
+  },
+  {
+    "page": 3,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      52.15748596191406,
+      392.1469421386719,
+      207.82327270507812,
+      401.1132507324219
+    ],
+    "text": "Characteristics of the study participants\n"
+  },
+  {
+    "page": 3,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      52.156646728515625,
+      409.2680969238281,
+      279.19866943359375,
+      612.9765625
+    ],
+    "text": "Table 1 summarises characteristics of 575 patients with\ndifferent medical conditions enrolled in the study from\nAugust 2013 to August 2015. Five patients were excluded\nduring analysis due to incomplete patient information.\nThe median age (IQR) was 43 (30–57) years; 61%\n(n = 348) were males, 39% females (n = 227).\nHalf of the participants were peasants (n = 271,\n47.3%), and the predominant education level was primary\neducation (n = 339, 59%); few participants (n = 34,\n5.9%) had tertiary education; 71.9% participants\n(n = 412) had a history of receiving antibiotic treatment\nprior to admission, and 45.9% of patients were admitted\ndue to wound infection (n = 263), 14.4% due to pneumo-\nnia (n = 81), 10.5% due to tuberculosis (n = 60), 8.03%\ndue to septicemia (n = 46), 3.5% due to diarrhoea\n(n = 20) and 0.7% due to meningitis (n = 4). Coexisting\nhealth conditions were diabetes mellitus (n = 122, 21.3%),\nHIV (n = 81, 14.1%) and cancer (n = 52, 9.1%).\n"
+  },
+  {
+    "page": 3,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      52.15739440917969,
+      632.6405029296875,
+      109.29154968261719,
+      641.6068115234375
+    ],
+    "text": "Culture results\n"
+  },
+  {
+    "page": 3,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      52.15739440917969,
+      649.7616577148438,
+      262.0782775878906,
+      693.083251953125
+    ],
+    "text": "A total of 590 specimens were cultured: 286 wound\nswabs, 126 blood, 122 sputum and 56 stool samples;\n42.2% of the cultured specimens had positive growth\nafter overnight incubation: 72.3% of wound swabs\n"
+  },
+  {
+    "page": 3,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      297.3542785644531,
+      558.2807006835938,
+      524.4179077148438,
+      693.5333251953125
+    ],
+    "text": "(n = 180), 14.1% of sputum samples (n = 35), 7.6% of\nstools (n = 19) and 6% of blood samples (n = 15).\nWe obtained 377 bacterial isolates; 43.8% of speci-\nmens (n = 109) had more than one isolate, and 77.7% of\nisolates (n = 293) were obtained from wound swabs,\n11% (n = 4), from sputum, 6.1% (n = 23) from stools\nand 4.2% (n = 16) from blood cultures (Table 2).\nThere was a wide range of bacterial isolates, the major-\nity being Gram-negative isolates, with Proteus spp\n(n = 48, 12.7%), E. coli (n = 44, 11.7%), Pseudomonas\nspp (n = 40, 10.6%) and Klebsiella spp (n = 38, 10.1%)\nbeing predominant, together accounting for 170 (45.1%)\n"
+  },
+  {
+    "page": 3,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      297.35430908203125,
+      100.32476806640625,
+      514.7318725585938,
+      118.21629333496094
+    ],
+    "text": "Table 1 Socio-demographics and clinical characteristics of the\nstudy participants admitted at KCMC (N = 575)\n"
+  },
+  {
+    "page": 3,
+    "block_no": 10,
+    "block_type": 0,
+    "bbox": [
+      297.35430908203125,
+      128.7847900390625,
+      500.2708740234375,
+      136.75498962402344
+    ],
+    "text": "Characteristic\nn (%)\n"
+  },
+  {
+    "page": 3,
+    "block_no": 11,
+    "block_type": 0,
+    "bbox": [
+      297.3543395996094,
+      146.3546142578125,
+      524.4970703125,
+      493.2958068847656
+    ],
+    "text": "Median age in years (IQR)\n43 (30–57)\nMale gender\n348 (61%)\nFemale gender\n227 (39%)\nDepartment\nSurgical ward\n232 (40.5)\nMedical ward\n277 (48.3)\nICU\n49 (8.6)\nPaediatric\n15 (2.6)\nOccupation\nFarming\n271 (47.3)\nEmployed\n56 (9.8)\nBusiness\n121 (20.7)\nOther\n132 (21.8)\nEducation\nNone\n130 (22.7)\nPrimary\n339 (59.2)\nSecondary\n70 (12.2)\nTertiary\n34 (5.9)\nMarital\nSingle\n179 (31.2)\nMarried\n325 (56.7)\n*Widowed\n69 (12)\nDisease conditions\n*Wound\n263 (45.9)\nPneumonia\n87 (14.4)\nTuberculosis\n64 (10.6)\nSepticemia\n52 (8.6)\nDiarrhoea\n21 (3.5)\nMeningitis\n4 (0.7)\nComorbidities\nDiabetes\n122 (21.3)\nHIV\n81 (14.1)\nCancer\n52 (9.1%)\nTreatment prior to admission\nYes\n412 (71.9%)\n"
+  },
+  {
+    "page": 3,
+    "block_no": 12,
+    "block_type": 0,
+    "bbox": [
+      297.3543395996094,
+      503.6945495605469,
+      524.485107421875,
+      541.5418701171875
+    ],
+    "text": "IQR (Interquartile range) ICU, intensive care unit TB, tuberculosis\nHIV, human immunodeﬁciency virus. *Widowed: widowed and\ndivorced, gender n = 574, age n = 559, the rest n = 573, two\npatients had no information, *wound (includes abscess).\n"
+  },
+  {
+    "page": 3,
+    "block_no": 13,
+    "block_type": 0,
+    "bbox": [
+      52.157501220703125,
+      715.5480346679688,
+      524.3699951171875,
+      724.5143432617188
+    ],
+    "text": "456\n© 2017 The Authors. Tropical Medicine & International Health Published by John Wiley & Sons Ltd.\n"
+  },
+  {
+    "page": 3,
+    "block_no": 14,
+    "block_type": 0,
+    "bbox": [
+      52.157501220703125,
+      45.20771789550781,
+      524.434814453125,
+      55.00358581542969
+    ],
+    "text": "Tropical Medicine and International Health\nvolume 22 no 4 pp 454–464 april 2017\n"
+  },
+  {
+    "page": 3,
+    "block_no": 15,
+    "block_type": 0,
+    "bbox": [
+      52.15753173828125,
+      65.288330078125,
+      322.1329650878906,
+      73.43634796142578
+    ],
+    "text": "H. H. Kumburu et al.\nInfection patterns, bacterial agents and resistance\n"
+  },
+  {
+    "page": 3,
+    "block_no": 16,
+    "block_type": 0,
+    "bbox": [
+      578.698486328125,
+      15.6519775390625,
+      585.5419311523438,
+      766.4173583984375
+    ],
+    "text": " 13653156, 2017, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/tmi.12836 by EBMG ACCESS - KENYA, Wiley Online Library on [13/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License\n"
+  },
+  {
+    "page": 4,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      70.86609649658203,
+      421.1756286621094,
+      296.967529296875,
+      556.1685791015625
+    ],
+    "text": "of all isolates. The Gram-positive bacteria were Staphylo-\ncoccus aureus (n = 35, 9.3%), coagulase negative Staphy-\nlococcus spp (n = 25, 6.6%) and Streptococcus spp\n(n = 17, 4.5%). Wound infections were characterised by\nmultiple isolates (n = 293, 77.7%), with the most fre-\nquent being Proteus spp (n = 44, 15%), Pseudomonas\n(n = 37, 12.6%), Staphylococcus (n = 29, 9.9%) and\nKlebsiella spp (n = 28, 9.6%). Streptococcus spp were\nthe most common ﬁnding (n = 9, 20%) in sputum sam-\nples, followed by Klebsiella spp (n = 7, 15.6%). E. coli\n(n = 11, 47.8%) was the predominant isolate in stool\nsamples (Table 2).\n"
+  },
+  {
+    "page": 4,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      70.86709594726562,
+      575.776123046875,
+      242.1208038330078,
+      584.742431640625
+    ],
+    "text": "Pattern of infections and aetiological agents\n"
+  },
+  {
+    "page": 4,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      70.8653564453125,
+      592.897216796875,
+      297.89654541015625,
+      693.5340576171875
+    ],
+    "text": "Table 3 outlines disease conditions found; wound infection\n(n = 277, 45.8%), pneumonia (n = 87, 14.4%), tuberculo-\nsis (n = 64, 10.6%), septicemia (n = 52, 8.6%), diarrhoea\n(n = 21, 3.5%) and %) and meningitis (n = 4, 0.7%).\nS. aureus, Klebsiella spp, Proteus spp, E. coli and Pseu-\ndomonas spp were the most common bacterial pathogens\nisolated from patients with the above disease presentations.\nThe distribution of these pathogens was diversiﬁed in\nwound infections. Septic wounds were dominated by\n"
+  },
+  {
+    "page": 4,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      316.0626220703125,
+      420.9114074707031,
+      543.1063842773438,
+      636.3308715820312
+    ],
+    "text": "Pseudomonas spp (n = 31, 77.5%), Proteus spp (n = 37,\n75.5%), E. coli (n = 24, 54.5%), S. aureus (n = 20,\n57.1%) and Klebsiella spp (n = 21, 51.2%). Burn and dia-\nbetic wounds had more Proteus spp (n = 10 (20.4%) and\nn = 15 (30.6%), respectively). Motor trafﬁc and post-\nsurgical wounds had few bacterial isolates.\nTable 4a and b summarise the association between\nco-existing health conditions such as diabetes, cancer and\nHIV and the burden of commonly isolated bacteria. The\nprevalence of Proteus spp, Escherichia coli and Pseu-\ndomonas spp infections was higher among people with\ndiabetes and cancer, although the associations were not\nstatistically signiﬁcant (P > 0.05). A statistically signiﬁ-\ncant independent association was observed between the\nprevalence of Pseudomonas spp among HIV-negative\npatients (11%) and HIV-positive patients (3%)\n(P = 0.03). The prevalence of both Proteus spp (16%)\nand Pseudomonas spp (13%) among patients with wound\ninfection was higher than in patients without (P = 0.03).\n"
+  },
+  {
+    "page": 4,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      316.066162109375,
+      655.994873046875,
+      488.227294921875,
+      664.961181640625
+    ],
+    "text": "Pattern of resistance to antimicrobial agents\n"
+  },
+  {
+    "page": 4,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      316.066162109375,
+      672.8554077148438,
+      540.5457153320312,
+      693.5340576171875
+    ],
+    "text": "About three-quarters of the patients (n = 412, 71.9%)\nhad a history of antibiotic/antimicrobial treatment before\n"
+  },
+  {
+    "page": 4,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      70.86609649658203,
+      100.32476806640625,
+      303.2867431640625,
+      108.47278594970703
+    ],
+    "text": "Table 2 Bacteria isolates obtained from culture-positive specimens\n"
+  },
+  {
+    "page": 4,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      70.86610412597656,
+      118.806884765625,
+      128.3655242919922,
+      126.77708435058594
+    ],
+    "text": "Specimen N (%)\n"
+  },
+  {
+    "page": 4,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      70.86689758300781,
+      136.83544921875,
+      531.3068237304688,
+      144.80564880371094
+    ],
+    "text": "Isolates\nTotal (N)\nWound swab\nSputum\nStool\nBlood\n"
+  },
+  {
+    "page": 4,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      70.86691284179688,
+      154.580322265625,
+      543.1736450195312,
+      371.8035583496094
+    ],
+    "text": "Gram-neg rods\n61\n52 (85.2)\n6 (9.8)\n2 (3.3)\n1 (1.6)\nProteus spp\n48\n44 (91.7)\n0 (0)\n2 (4.2)\n2 (4.2)\nEscherichia spp\n44\n24 (54.5)\n5 (11.4)\n11 (25)\n4 (9.1)\nPseudomonas spp\n40\n37 (92.5)\n3 (7.5)\n0 (0)\n0 (0)\nKlebsiella spp\n38\n28 (73)\n7 (18.4)\n3 (7.9)\n0 (0)\nStaphylococcus aureus\n35\n29 (82.9)\n2 (5.7)\n0 (0)\n4 (11.4)\nCoN Staphylococcus\n25\n18 (72)\n2 (8)\n2 (8)\n3 (12)\nUnknown\n22\n17 (77.3)\n4 (18.2)\n1 (4.5)\n0 (0)\nStreptococcus spp\n17\n7 (41.2)\n9 (52.9)\n0 (0)\n1 (5.9)\nEnterobacter spp\n15\n12 (80)\n2 (13.3)\n1 (6.7)\n0 (0)\nBacillus spp\n8\n7 (87.5)\n0 (0)\n0 (0)\n1 (0)\nAcinetobacter spp\n5\n3 (60)\n2 (40)\n0 (0)\n0 (0)\nSerratia spp\n4\n2 (50)\n1 (25)\n1 (25)\n0 (0)\nProvidentia spp\n4\n4 (100)\n0 (0)\n0 (0)\n0 (0)\nEnterococcus spp\n3\n3 (100)\n0 (0)\n0 (0)\n0 (0)\nGram-positive cocci\n2\n1 (50)\n1 (50)\n0 (0)\n0 (0)\nDiphtheroids spp\n2\n1 (50)\n1 (50)\n0 (0)\n0 (0)\nStenotrophomonas spp\n1\n1 (100)\n0 (0)\n0 (0)\n0 (0)\nMorganella spp\n1\n1 (100)\n0 (0)\n0 (0)\n0 (0)\nCitrobacter spp\n1\n1 (100)\n0 (0)\n0 (0)\n0 (0)\nAeromonas spp\n1\n1 (100)\n0 (0)\n0 (0)\n0 (0)\nTotal\n377\n293 (77.7)\n45 (11.9)\n23 (6.1)\n16 (4.2)\n"
+  },
+  {
+    "page": 4,
+    "block_no": 10,
+    "block_type": 0,
+    "bbox": [
+      70.86692810058594,
+      382.2023010253906,
+      541.7869262695312,
+      400.150390625
+    ],
+    "text": "Table 1 summarises bacterial pathogens identiﬁed in this study. Where more than one subtypes identiﬁed, collectively they were named\nas species (spp) of that genus to accommodate all groups of bacteria in a single table.\n"
+  },
+  {
+    "page": 4,
+    "block_no": 11,
+    "block_type": 0,
+    "bbox": [
+      70.86609649658203,
+      714.1873779296875,
+      543.1312866210938,
+      723.1536865234375
+    ],
+    "text": "© 2017 The Authors. Tropical Medicine & International Health Published by John Wiley & Sons Ltd.\n457\n"
+  },
+  {
+    "page": 4,
+    "block_no": 12,
+    "block_type": 0,
+    "bbox": [
+      70.86609649658203,
+      45.20771789550781,
+      543.1433715820312,
+      55.00358581542969
+    ],
+    "text": "Tropical Medicine and International Health\nvolume 22 no 4 pp 454–464 april 2017\n"
+  },
+  {
+    "page": 4,
+    "block_no": 13,
+    "block_type": 0,
+    "bbox": [
+      70.86611938476562,
+      65.288330078125,
+      340.841552734375,
+      73.43634796142578
+    ],
+    "text": "H. H. Kumburu et al.\nInfection patterns, bacterial agents and resistance\n"
+  },
+  {
+    "page": 4,
+    "block_no": 14,
+    "block_type": 0,
+    "bbox": [
+      578.698486328125,
+      15.6519775390625,
+      585.5419311523438,
+      766.4173583984375
+    ],
+    "text": " 13653156, 2017, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/tmi.12836 by EBMG ACCESS - KENYA, Wiley Online Library on [13/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License\n"
+  },
+  {
+    "page": 5,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      52.154022216796875,
+      352.2937316894531,
+      279.1717529296875,
+      693.53564453125
+    ],
+    "text": "arriving to the hospital (Table 1). Drugs that were com-\nmonly used were ceftriaxone (n = 173, 46.2%), metron-\nidazole (n = 147, 39.4%), cloxacillin (n = 64, 17.1%),\nciproﬂoxacin (n = 25, 6.6%) and co-trimoxazole (n = 21,\n5.5%).\nGenerally, there was high antimicrobial resistance in\nbacterial isolates in this study; Proteus spp, Klebsiella spp\nand E. coli exhibited relatively high resistance to all drugs\ntested among Gram-negative isolates. Ampicillin resistance\nwas frequent among Klebsiella spp (n = 24, 92.3%), Pro-\nteus spp (n = 21, 75%) and E. coli (n = 13, 68.4%). Other\nbacterial spp such as Enterobacter cloacae, Acinetobacter\nbaumannii, Serratia spp, Morganella morganii and Provi-\ndentia spp were resistant by 100% to ampicillin. Resis-\ntance of Proteus spp, Klebsiella spp and E. coli to\ncefazolin was (n = 23, 82.1%), (n = 16, 61.5%) and\n(n = 11, 57.9%), respectively, with all other spp at 100%\nresistance. Resistance to third-generation cephalosporins\n(ceftriaxone and ceftazidime) was as well observed for\nKlebsiella spp (n = 14, 53.8% and n = 12, 46.2%) and\nE. coli (n = 8, 42.1% and n = 7, 36.8%), Table 5a.\nAmong the Gram-positive isolates, S. aureus was the only\nspecies, which demonstrated detectable resistance to peni-\ncillin (n = 22, 100%), erythromycin (n = 11, 50%),\ntrimethoprim–sulfamethoxazole (n = 10, 45.5%), as well\nas cefoxitin (n = 6, 27.3%). All S. aureus in this study\nwere sensitive to vancomycin (refer to Table 5b). Table 5c\nsummarises the susceptibility pattern of the six cefoxitin-\nresistant S. aureus and 16 cefoxitin-susceptible S. aureus.\nResistance of cefoxitin-resistant S. aureus to other drugs\n"
+  },
+  {
+    "page": 5,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      297.3551025390625,
+      352.29083251953125,
+      521.359375,
+      430.0250549316406
+    ],
+    "text": "such as erythromycin, penicillin and trimethoprim–sulfa-\nmethoxazole was 100%, while none were resistant to van-\ncomycin and chloramphenicol. All cefoxitin-susceptible\nS. aureus isolates were resistant to penicillin (100%), six\n(37.5%) to erythromycin, ﬁve (31.3%) to trimethoprim–\nsulfamethoxazole and one (6.3%) to chloramphenicol.\nNone were resistant to vancomycin.\n"
+  },
+  {
+    "page": 5,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      297.3551025390625,
+      455.38812255859375,
+      341.12860107421875,
+      464.35443115234375
+    ],
+    "text": "Discussion\n"
+  },
+  {
+    "page": 5,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      297.3551025390625,
+      472.4795837402344,
+      354.4892883300781,
+      481.4458923339844
+    ],
+    "text": "Culture results\n"
+  },
+  {
+    "page": 5,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      297.3551025390625,
+      489.6007385253906,
+      524.2706909179688,
+      693.3033447265625
+    ],
+    "text": "KCMC is a referral hospital serving approximately 11\nmillion people in the northern zone of Tanzania. We\nconducted a 2-year study from August 2013 to August\n2015 to determine the pattern of bacterial pathogens\nassociated with different health conditions among\npatients who were admitted at medical and surgical\ndepartments in this hospital.\nThe culture results revealed a higher positive growth\nrate on wound swab specimens (n = 180, 72.3%), com-\npared to others. Both Gram-negative and positive species\nwere observed. Our ﬁndings are in agreement with other\nstudies in Africa where wound infections tend to manifest\nwith a variety of bacterial pathogens [23, 24]. This is\nexplained by the complexity of wound specimens that\nwill tend to have a variety of bacterial pathogens,\ndepending on the way wounds were acquired. Wounds\nacquired from a community environment will have more\ndiverse organisms than hospital-acquired wounds [25,\n"
+  },
+  {
+    "page": 5,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      52.157501220703125,
+      100.32476806640625,
+      287.6562194824219,
+      108.47278594970703
+    ],
+    "text": "Table 3 Health conditions and commonly isolated bacterial species\n"
+  },
+  {
+    "page": 5,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      52.15749740600586,
+      118.80682373046875,
+      524.411865234375,
+      136.7549285888672
+    ],
+    "text": "Health condition\nStaphylococcus\naureus, n (%)\nKlebsiella\nspp, n (%)\nProteus spp,\nn (%)\nEscherichia\ncoli, n (%)\nPseudomonas\nspp, n (%)\n"
+  },
+  {
+    "page": 5,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      52.15673828125,
+      146.586181640625,
+      509.497802734375,
+      284.04278564453125
+    ],
+    "text": "Burn wound\n6 (17.1)\n6 (14.6)\n10 (20.4)\n2 (4.5)\n8 (20)\nMotor trafﬁc wound\n3 (8.6)\n1 (2.4)\n6 (12.2)\n1 (2.3)\n1 (2.5)\nPost-surgical wound\n2 (5.7)\n6 (14.6)\n2 (4.1)\n3 (6.8)\n2 (5)\nDiabetic wound\n5 (14.3)\n7 (17.1)\n15 (30.6)\n8 (18.2)\n8 (20)\nSeptic wound\n20 (57.1)\n21 (51.2)\n37 (75.5)\n24 (54.5)\n31 (77.5)\n*Other wound\n11 (31.4)\n6 (14.6)\n13 (26.5)\n9 (20.5)\n17 (42.5)\nDiarrhoea\n1 (2.9)\n1 (2.4)\n1 (2)\n5 (11.4)\n0 (0)\nPneumonia\n1 (2.9)\n3 (7.3)\n0 (0)\n4 (9.1)\n0 (0)\nSepticemia\n0 (0)\n2 (4.9)\n3 (6.1)\n1 (2.3)\n2 (5)\nMalaria\n1 (2.9)\n0 (0)\n1 (2)\n0 (0)\n1 (2.5)\nCancer\n4 (11.4)\n4 (9.8)\n2 (4.1)\n4 (9.1)\n5 (12.5)\nDiabetes\n9 (25.7)\n10 (24.4)\n18 (36.7)\n13 (29.5)\n8 (20)\nHIV\n3 (8.6)\n4 (9.8)\n3 (6.1)\n6 (13.6)\n1 (2.5)\nTB\n1 (2.9)\n1 (2.4)\n0 (0)\n3 (6.8)\n1 (2.5)\n"
+  },
+  {
+    "page": 5,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      52.15673828125,
+      294.49810791015625,
+      508.0003662109375,
+      322.36749267578125
+    ],
+    "text": "TB tuberculosis. HIV-Human immunodeﬁciency virus. NB: Percentages were obtained by cross tabulation of each comorbidity and\nisolate. S. aureus N = 35, Klebsiella spp N = 41, Proteus spp N = 49, E. coli N = 44, Pseudomonas spp N = 40.\n*Wound due to animal bite, gunshot.\n"
+  },
+  {
+    "page": 5,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      52.157501220703125,
+      715.5480346679688,
+      524.3699951171875,
+      724.5143432617188
+    ],
+    "text": "458\n© 2017 The Authors. Tropical Medicine & International Health Published by John Wiley & Sons Ltd.\n"
+  },
+  {
+    "page": 5,
+    "block_no": 10,
+    "block_type": 0,
+    "bbox": [
+      52.157501220703125,
+      45.20771789550781,
+      524.434814453125,
+      55.00358581542969
+    ],
+    "text": "Tropical Medicine and International Health\nvolume 22 no 4 pp 454–464 april 2017\n"
+  },
+  {
+    "page": 5,
+    "block_no": 11,
+    "block_type": 0,
+    "bbox": [
+      52.15753173828125,
+      65.288330078125,
+      322.1329650878906,
+      73.43634796142578
+    ],
+    "text": "H. H. Kumburu et al.\nInfection patterns, bacterial agents and resistance\n"
+  },
+  {
+    "page": 5,
+    "block_no": 12,
+    "block_type": 0,
+    "bbox": [
+      578.698486328125,
+      15.6519775390625,
+      585.5419311523438,
+      766.4173583984375
+    ],
+    "text": " 13653156, 2017, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/tmi.12836 by EBMG ACCESS - KENYA, Wiley Online Library on [13/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License\n"
+  },
+  {
+    "page": 6,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      179.01446533203125,
+      230.18165588378906,
+      187.1624755859375,
+      691.369873046875
+    ],
+    "text": "Table 4 A. Commonly isolated bacteria and disease comorbidity status. B. Commonly isolated bacteria and wound infections status\n"
+  },
+  {
+    "page": 6,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      215.52516174316406,
+      633.441650390625,
+      223.495361328125,
+      691.369873046875
+    ],
+    "text": "Bacterial isolates\n"
+  },
+  {
+    "page": 6,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      197.55316162109375,
+      588.7112426757812,
+      205.5233612060547,
+      618.3493041992188
+    ],
+    "text": "Diabetes\n"
+  },
+  {
+    "page": 6,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      215.52516174316406,
+      453.4665832519531,
+      223.495361328125,
+      479.1680908203125
+    ],
+    "text": "P-value\n"
+  },
+  {
+    "page": 6,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      197.55316162109375,
+      427.0700988769531,
+      205.5233612060547,
+      442.0341491699219
+    ],
+    "text": "HIV\n"
+  },
+  {
+    "page": 6,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      215.52516174316406,
+      277.2143859863281,
+      223.495361328125,
+      302.9095153808594
+    ],
+    "text": "P-value\n"
+  },
+  {
+    "page": 6,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      197.55316162109375,
+      241.4744415283203,
+      205.5233612060547,
+      265.77557373046875
+    ],
+    "text": "Cancer\n"
+  },
+  {
+    "page": 6,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      215.52516174316406,
+      100.89288330078125,
+      223.495361328125,
+      618.3509521484375
+    ],
+    "text": "P-value\nNo\nYes\nNo\nYes\nNo\nYes\n"
+  },
+  {
+    "page": 6,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      233.32659912109375,
+      111.15776062011719,
+      291.0730895996094,
+      691.375244140625
+    ],
+    "text": "(A)\nProteus spp\n0.11 (0.85–0.92)\n0.19 (0.12–0.28)\n0.07\n0.13 (0.10–0.17)\n0.10 (0.03–0.26)\n0.53\n0.14 (0.10–0.18)\n0.06 (0.02–0.22)\n0.10\nEscherichia coli\n0.11 (0.08–0.15)\n0.14 (0.08–0.22)\n0.50\n0.11 (0.08–0.15)\n0.19 (0.09–0.37)\n0.26\n0.12 (0.09–0.15)\n0.12 (0.05–0.29)\n0.93\nKlebsiella spp\n0.11 (0.07–0.15)\n0.11 (0.06–0.18)\n0.89\n0.11 (0.08–0.14)\n0.13 (0.05–0.30)\n0.73\n0.11 (0.08–0.15)\n0.12 (0.05–0.29)\n0.82\nS. aureus\n0.09 (0.06–0.13)\n0.09 (0.05–0.17)\n0.94\n0.09 (0.07–0.13)\n0.10 (0.03–0.27)\n0.94\n0.09 (0.06–0.13)\n0.12 (0.05–0.29)\n0.60\nPseudomonas spp\n0.11 (0.08–0.16)\n0.08 (0.04–0.16)\n0.39\n0.11 (0.08–0.15)\n0.03 (0.00–0.20)\n0.03\n0.10 (0.07–0.14)\n0.15 (0.06–0.32)\n0.45\n"
+  },
+  {
+    "page": 6,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      322.7315368652344,
+      633.44775390625,
+      330.70172119140625,
+      691.3759765625
+    ],
+    "text": "Bacterial isolates\n"
+  },
+  {
+    "page": 6,
+    "block_no": 10,
+    "block_type": 0,
+    "bbox": [
+      304.70294189453125,
+      530.4696044921875,
+      312.6731262207031,
+      588.7046508789062
+    ],
+    "text": "Wound infection\n"
+  },
+  {
+    "page": 6,
+    "block_no": 11,
+    "block_type": 0,
+    "bbox": [
+      322.7315368652344,
+      364.6057434082031,
+      330.70172119140625,
+      588.7046508789062
+    ],
+    "text": "P-value\nNo\nYes\n"
+  },
+  {
+    "page": 6,
+    "block_no": 12,
+    "block_type": 0,
+    "bbox": [
+      340.47637939453125,
+      374.84185791015625,
+      398.279052734375,
+      691.3767700195312
+    ],
+    "text": "(B)\nProteus spp\n0.09 (0.05–0.14)\n0.16 (0.12–0.21)\n0.03\nE. coli\n0.14 (0.08–0.15)\n0.10 (0.07–0.15)\n0.26\nKlebsiella spp\n0.14 (0.09–0.21)\n0.09 (0.06–0.13)\n0.13\nS. aureus\n0.11 (0.06–0.17)\n0.08 (0.06–0.13)\n0.50\nPseudomonas spp\n0.06 (0.03–0.12)\n0.13 (0.09–0.18)\n0.03\n"
+  },
+  {
+    "page": 6,
+    "block_no": 13,
+    "block_type": 0,
+    "bbox": [
+      407.9405517578125,
+      101.8553237915039,
+      435.8099365234375,
+      691.3719482421875
+    ],
+    "text": "Table 4a summarises the association between commonly isolated groups of bacteria and absence or presence of three health conditions diabetes, HIV and cancer as com-\nmon comorbidities identiﬁed in patients participated in this study. While Table 4b summarises association between common bacterial isolates and presence or absence of\nwound infection since most of the patients were diagnosed to have wound infections. NB: Numbers described as; Proportion (95% conﬁdence interval).\n"
+  },
+  {
+    "page": 6,
+    "block_no": 14,
+    "block_type": 0,
+    "bbox": [
+      70.86609649658203,
+      714.1873779296875,
+      543.1312866210938,
+      723.1536865234375
+    ],
+    "text": "© 2017 The Authors. Tropical Medicine & International Health Published by John Wiley & Sons Ltd.\n459\n"
+  },
+  {
+    "page": 6,
+    "block_no": 15,
+    "block_type": 0,
+    "bbox": [
+      70.86609649658203,
+      45.20771789550781,
+      543.1433715820312,
+      55.00358581542969
+    ],
+    "text": "Tropical Medicine and International Health\nvolume 22 no 4 pp 454–464 april 2017\n"
+  },
+  {
+    "page": 6,
+    "block_no": 16,
+    "block_type": 0,
+    "bbox": [
+      70.86611938476562,
+      65.288330078125,
+      340.841552734375,
+      73.43634796142578
+    ],
+    "text": "H. H. Kumburu et al.\nInfection patterns, bacterial agents and resistance\n"
+  },
+  {
+    "page": 6,
+    "block_no": 17,
+    "block_type": 0,
+    "bbox": [
+      578.698486328125,
+      15.6519775390625,
+      585.5419311523438,
+      766.4173583984375
+    ],
+    "text": " 13653156, 2017, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/tmi.12836 by EBMG ACCESS - KENYA, Wiley Online Library on [13/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License\n"
+  },
+  {
+    "page": 7,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      114.03954315185547,
+      241.92892456054688,
+      122.419189453125,
+      691.4832763671875
+    ],
+    "text": "Table 5 Antimicrobial resistance* pattern of bacterial isolated from patients admitted at KCMC tertiary care hospital (N = 130)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      132.8098602294922,
+      111.5053482055664,
+      150.75794982910156,
+      691.4840087890625
+    ],
+    "text": "Organisms\nN\nAM\nCZ\nSXT\nNA\nC\nCRO\nCAZ\nAMC\nCIP\nGM\nR (%)\nR (%)\nR (%)\nR (%)\nR (%)\nR (%)\nR (%)\nR (%)\nR (%)\nR (%)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      160.3009796142578,
+      101.0303726196289,
+      268.1685485839844,
+      691.4840087890625
+    ],
+    "text": "A: Gram-negative bacterial isolates (n = 106)\nProteus spp\n28\n21 (75)\n23 (82.1)\n18 (64.)\n22 (78.6)\n19 (67.9)\n15 (53.6)\n12 (42.9)\n4 (14.3)\n11 (39.3)\n8 (28.6)\nKlebsiella spp\n26\n24 (92.3)\n16 (61.5)\n18 (69.2)\n12 (46.2)\n6 (23.1)\n14 (53.8)\n12 (46.2)\n15 (57.7)\n11 (43.2)\n10 (38.5)\nPseudomonas spp\n22\nND\nDN\nND\nND\n14 (66.7)\nND\n4 (18.2)\nND\n2 (9.1)\n3 (13.6)\nEscherichia coli\n19\n13 (68.4)\n11 (57.9)\n12 (63.2)\n10 (52.6)\n3 (15.8)\n8 (42.1)\n7 (36.8)\n8 (42.1)\n9 (47.4)\n7 (36.8)\nEnterobacter cloacae\n5\n5 (100)\n5 (100)\n2 (40)\n2 (40)\n2 (40)\n4 (80)\n3 (60)\n5 (100)\n2 (40)\n3 (60)\nAcinetobacter baumannii\n3\n3 (100)\n3 (100)\n1 (33.3)\n2 (66.7)\n2 (66.7)\n3 (100)\n2 (66.7)\n3 (100)\n1 (33.3)\n1 (33.3)\nSerratia spp\n2\n2 (100)\n2 (100)\n0\n0\n0\n0\n0\n2 (100)\n0\n0\nMorganella morganii\n1\n1 (100)\n1 (100)\n0\n0\n0\n0\n0\n1 (100)\n0\n0\nProvidentia spp\n1\n1 (100)\n1 (100)\n0\n0\n1 (100)\n0\n0\n1 (100)\n0\n0\nTotal\n106\n70 (82.4)\n62 (72.9)\n51 (60)\n48 (56.5)\n47 (44.3)\n44 (51.8)\n40 (37.4)\n39 (45.9)\n36 (33.6)\n32 (29.9)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      281.79840087890625,
+      221.48757934570312,
+      299.7464904785156,
+      691.4840087890625
+    ],
+    "text": "Organisms\nN\nP\nE\nSXT\nCTX\nC\nVA\nR (%)\nR (%)\nR (%)\nR (%)\nR (%)\nR (%)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      309.2895202636719,
+      217.91336059570312,
+      347.3684387207031,
+      691.4848022460938
+    ],
+    "text": "B. Gram-positive bacteria (n = 24)\nS. aureus\n22\n22 (100)\n11 (50)\n10 (45.5)\n6 (27.3)\n1 (4.5)\n0 (0)\nS. pneumoniae\n2\n1 (50)\n1 (50)\n1 (50)\n0 (0)\n0 (0)\nND\nTotal\n24\n23/24 (95.8)\n12/24 (50)\n11/24 (45.8)\n6/24 (25)\n1/24 (4.2)\n0 (0)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      360.26104736328125,
+      227.04525756835938,
+      378.2091369628906,
+      691.4848022460938
+    ],
+    "text": "Organism\nN\nCTX\nC\nE\nP\nSXT\nVA\nR (%)\nR (%)\nR (%)\nR (%)\nR (%)\nR (%)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      387.7521667480469,
+      231.91848754882812,
+      415.9097900390625,
+      691.4848022460938
+    ],
+    "text": "C: Susceptibility pattern of CXT-resistant and CXT-sensitive S. aureus to other drugs (N = 22)\nCXT-resistant S. aureus\n6\n6 (100)\n0 (0)\n6 (100)\n6 (100)\n6 (100)\n0 (0)\nCXT susceptible S. aureus\n16\n0 (0)\n1 (6.3)\n6 (37.5)\n16 (100)\n5 (31.3)\n0 (0)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      425.2830810546875,
+      105.92768859863281,
+      463.36199951171875,
+      691.4871826171875
+    ],
+    "text": "AMC, Amoxicillin–clavulanic acid; AM, ampicillin; CZ, cefazolin; CAZ, ceftazidime; CRO, ceftriaxone; C, chloramphenicol; CIP, ciproﬂoxacin; GM, gentamycin; NA,\nnalidixic acid; SXT, trimeth/sulpha. ND = not determined; CXT, cefoxitin; E, erythromycin; P, penicillin G; VA, vancomycin; *Resistance represent intermediate and\nresistance ND = not determined N = Total number tested, 0 = No resistance. NB: Part C of the table shows susceptibility pattern of the six cefoxitin-resistant S. aureus\n(probably MRSA) and sixteen cefoxitin-susceptible S. aureus.\n"
+  },
+  {
+    "page": 7,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      52.157501220703125,
+      715.5480346679688,
+      524.3699951171875,
+      724.5143432617188
+    ],
+    "text": "460\n© 2017 The Authors. Tropical Medicine & International Health Published by John Wiley & Sons Ltd.\n"
+  },
+  {
+    "page": 7,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      52.157501220703125,
+      45.20771789550781,
+      524.434814453125,
+      55.00358581542969
+    ],
+    "text": "Tropical Medicine and International Health\nvolume 22 no 4 pp 454–464 april 2017\n"
+  },
+  {
+    "page": 7,
+    "block_no": 10,
+    "block_type": 0,
+    "bbox": [
+      52.15753173828125,
+      65.288330078125,
+      322.1329650878906,
+      73.43634796142578
+    ],
+    "text": "H. H. Kumburu et al.\nInfection patterns, bacterial agents and resistance\n"
+  },
+  {
+    "page": 7,
+    "block_no": 11,
+    "block_type": 0,
+    "bbox": [
+      578.698486328125,
+      15.6519775390625,
+      585.5419311523438,
+      766.4173583984375
+    ],
+    "text": " 13653156, 2017, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/tmi.12836 by EBMG ACCESS - KENYA, Wiley Online Library on [13/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License\n"
+  },
+  {
+    "page": 8,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      70.86519622802734,
+      100.23712921142578,
+      297.92425537109375,
+      315.39276123046875
+    ],
+    "text": "26]. In our study, there were few positive blood speci-\nmens (n = 15, 6%) on culture, a ﬁnding which is in\nagreement with other studies that showed a low positive\ngrowth of blood cultures [27]. Possibly this is because\nmost septicemia cases we tested were not due to bacterial\ninfections, a ﬁnding that has been reported from other\nstudies in Tanzania [28]. The use of antibiotic prior to\ncoming to the hospital, which hinders the detection of\nsusceptible organisms [29], may be another reason. This\nis a practice which is very common in Tanzania and\nother developing countries [30–32]. KCMC being a ter-\ntiary care hospital receives patients referred from health\nfacilities in Kilimanjaro region and other parts of Tanza-\nnia. The majority of these patients have been treated with\nantibiotics in the referring hospital. However, the patients\ncould also have self-medicated as antibiotics are easily\navailable and policies to control improper use of antibi-\notics are non-existent in Tanzania, as in other developing\ncountries [30, 32–35].\n"
+  },
+  {
+    "page": 8,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      70.86520385742188,
+      335.0567321777344,
+      143.61328125,
+      344.0230407714844
+    ],
+    "text": "Bacterial spectrum\n"
+  },
+  {
+    "page": 8,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      70.86518859863281,
+      352.1778869628906,
+      298.01300048828125,
+      544.4296264648438
+    ],
+    "text": "The bacterial spectrum observed from this study showed a\nhigh diversity of Gram-negative bacilli such as Proteus spp\n(12.7%), E. coli (11.7%), Pseudomonas spp (10.6%) and\nKlebsiella spp (10.1%), with Staphylococcus aureus (9.3%)\nbeing the predominant Gram-positive isolate. The majority\nof these Gram-negative bacilli were from wound infections\nrather than from other disease conditions. This predomi-\nnantly Gram-negative infection pattern, as also observed in\nother studies [24, 36, 37], is different from that most com-\nmonly reported from Western Europe and North America\n[38, 39]. The reasons for this are not entirely known, but\nrecent studies have also shown that higher temperatures are\ncorrelated with increased numbers of infections caused by\nGram-negative bacterial species [40]. Our results do how-\never emphasise that we cannot use knowledge obtained in\nWestern Europe and North America directly for clinical care\nand empirical treatment in sub-Saharan Africa.\n"
+  },
+  {
+    "page": 8,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      70.86518859863281,
+      564.0936279296875,
+      136.03944396972656,
+      573.0599365234375
+    ],
+    "text": "Infection pattern\n"
+  },
+  {
+    "page": 8,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      70.86518859863281,
+      581.2147827148438,
+      294.63995361328125,
+      693.3042602539062
+    ],
+    "text": "Like any other resource-constrained countries, Tanzania\nis still experiencing the burden of infectious diseases. In\nthe current study, we observed presence of wound infec-\ntions (n = 263, 45.9%), septicemia (n = 46, 8.03%),\ndiarrhoea (n = 20, 3.5%), HIV (n = 81, 14.1%), and\ntuberculosis (n = 60, 10.5%) and many other respiratory\ninfections. As also indicated in other studies [13, 41],\nthese diseases are still health challenges in low-income\ncountries. We also recognised the presence of non-\ncommunicable diseases such as cancer (n = 52, 9.1%)\n"
+  },
+  {
+    "page": 8,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      316.0630187988281,
+      99.96782684326172,
+      543.0997314453125,
+      338.28753662109375
+    ],
+    "text": "and diabetes (n = 122, 21.3%). This suggests co-existence\nof communicable and non-communicable diseases in low-\nincome countries as has been indicated in other studies\n[42, 43]. The increase of diabetes in Tanzania may be the\neffect of little knowledge about the risk factors associated\nwith the disease [4], which may be related to the majority\n(n = 339, 59.2%) of the participants having only primary\nlevel education. There was no relationship between the\nmost frequently isolated bacteria and conditions like dia-\nbetes and cancer. However, a non-statistically signiﬁcant\nassociation between diabetes and Proteus spp (19%) and\nE. coli (14%) (P = 0.07) was observed. The ﬁnding was\nmore or less the same with HIV status. It was noted that\nprevalence of Proteus spp (16%) and Pseudomonas spp\n(13%) was higher in wound infections than in those with\nno wound infection (9% and 6%, respectively), and the\ndifference was statistically signiﬁcant (P = 00.3). This is\nin agreement with other studies [25] despite the fact that\nthe design of the studies was different. Again we can gen-\nerally attest that aetiology of a wound infection is broad,\ndepending on environment and nature of the wound.\n"
+  },
+  {
+    "page": 8,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      316.0647888183594,
+      357.9515075683594,
+      451.54742431640625,
+      366.9178161621094
+    ],
+    "text": "Antimicrobial susceptibility testing\n"
+  },
+  {
+    "page": 8,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      316.06475830078125,
+      375.0726623535156,
+      542.9139404296875,
+      693.4066772460938
+    ],
+    "text": "Proper identiﬁcation and determination of antimicrobial\nresistance of the bacterial pathogens is crucial to help\nphysicians to provide proper treatment promptly. The\nadvancement in pharmaceutical industries has lead to dis-\ncoveries of many antibiotics, which has facilitated physi-\ncians’ efforts into providing quality effective medical\ncare. Despite of this increase, prudent use is essential in\ncontrolling antimicrobial resistance, which has now\nbecome one of the major challenges for medical progress.\nThe current study demonstrated that a majority (n = 412,\n71.9%) of patients had sought treatment prior to coming\nto the hospital. It is likely these patients received antibi-\notics during their previous treatment. The most fre-\nquently used drugs were ceftriaxone (46.2%),\nmetronidazole (39.4%), cloxacillin (17.1%), ciproﬂoxa-\ncin (6.6%) and co-trimoxazole (5.5%). Along with this,\nthe observed resistance patterns of Gram-negative bacte-\nrial isolates tested on drugs such as amoxicillin-clavulanic\nacid ampicillin, gentamicin, trimethoprim-sulfamethoxa-\nzole and chloramphenicol were relatively high in ampi-\ncillin (82.4%) and trimethoprim-sulfamethoxazole\n(60%), and below 50% in the rest. This is probably due\nto the fact that these drugs are used in Tanzania as ﬁrst-\nline antibiotics in treatment of gastrointestinal diseases,\nrespiratory diseases, obstetrical/gynaecological, cardiovas-\ncular and nervous system diseases [44]. Their easy avail-\nability from hospitals causes these drugs to be commonly\nused for treatment by medical practitioners as well as for\n"
+  },
+  {
+    "page": 8,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      70.86609649658203,
+      714.1873779296875,
+      543.1312866210938,
+      723.1536865234375
+    ],
+    "text": "© 2017 The Authors. Tropical Medicine & International Health Published by John Wiley & Sons Ltd.\n461\n"
+  },
+  {
+    "page": 8,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      70.86609649658203,
+      45.20771789550781,
+      543.1433715820312,
+      55.00358581542969
+    ],
+    "text": "Tropical Medicine and International Health\nvolume 22 no 4 pp 454–464 april 2017\n"
+  },
+  {
+    "page": 8,
+    "block_no": 10,
+    "block_type": 0,
+    "bbox": [
+      70.86611938476562,
+      65.288330078125,
+      340.841552734375,
+      73.43634796142578
+    ],
+    "text": "H. H. Kumburu et al.\nInfection patterns, bacterial agents and resistance\n"
+  },
+  {
+    "page": 8,
+    "block_no": 11,
+    "block_type": 0,
+    "bbox": [
+      578.698486328125,
+      15.6519775390625,
+      585.5419311523438,
+      766.4173583984375
+    ],
+    "text": " 13653156, 2017, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/tmi.12836 by EBMG ACCESS - KENYA, Wiley Online Library on [13/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License\n"
+  },
+  {
+    "page": 9,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      52.156593322753906,
+      100.23712921142578,
+      279.24163818359375,
+      429.9676818847656
+    ],
+    "text": "self-medication, factors which play a great role in drug\nresistance [33, 34, 45]. The ﬁnding is in agreement with\nother two studies in Tanzania which indicated resistance\nof E. coli and Klebsiella to trimethoprim-sulfamethoxa-\nzole, ampicillin, amoxicillin–clavulanic acid and gentam-\nicin (100%, 96%, 88%, 60%) and (85%, 95%, 70%,\n70%), respectively [46, 47]. Resistance ranging from\n9.1% to 78% also has been noted to ciproﬂoxacin and\nnalidixic acid. These are categorised as second-line drugs\nin Tanzania, yet they show a high frequency of resis-\ntance. As ceftriaxone is a third-generation cephalosporin,\nwe expected its use to be controlled, yet it was the most\nused. Moreover, convincing percentages of resistant\nstrains of E. coli and Klebsiella to ﬁrst and third-genera-\ntions of cephalosporins have been broadly noted, ranging\nfrom 36.8% to 61.5%. This ﬁnding suggests existence of\nextended spectrum beta lactamase (ESBL) bacteria, as has\nbeen addressed in other studies in Tanzania [23] where\n64.3% of E. coli and 80% of Klebsiella pneumoniae\nwere ESBL producers. The presence of ESBL producers\nreduces treatment options, resulting in higher morbidity\nand mortality due to severe infections and sepsis.\nStaphylococcus aureus was the predominant spp among\nGram-positive isolates. It accounted for 6 (27.3%) of the\nobserved resistances to cefoxitin and other antibiotics\nsuch as erythromycin, trimethoprim–sulfamethoxazole\nand penicillin G, a characteristic that we would postulate\nto indicate methicillin-resistant Staphylococcus (MRSA)\nclones, as has been suggested in other studies [48].\n"
+  },
+  {
+    "page": 9,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      52.15660095214844,
+      449.8316955566406,
+      98.53031158447266,
+      458.7980041503906
+    ],
+    "text": "Conclusion\n"
+  },
+  {
+    "page": 9,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      52.15660095214844,
+      466.7528076171875,
+      278.6310729980469,
+      636.10009765625
+    ],
+    "text": "The study has revealed a wide range of causative agents,\nwith an alarming rate of resistance to the commonly used\nantimicrobial agents. Furthermore, the bacterial spectrum\ndiffers from those observed in high-income countries. This\nhighlights the imperative of regular generation of data on\naetiological agents and their antimicrobial susceptibility\npatterns especially in infectious disease endemic settings.\nThe key steps would be to ensure the diagnostic capacity at\na sufﬁcient number of sites and routine exchange, compar-\nison, analysis and reporting of data. As the minimum, sen-\ntinel sites (hospitals) across the country and region should\nreport on a representative subset of bacterial species and\ntheir susceptibility to drugs at least once a year. A central\norganising body should collate the data and report to all\nrelevant national and international stakeholders [49].\n"
+  },
+  {
+    "page": 9,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      52.15660095214844,
+      655.9641723632812,
+      134.7720947265625,
+      664.9304809570312
+    ],
+    "text": "Acknowledgements\n"
+  },
+  {
+    "page": 9,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      52.15660095214844,
+      672.88525390625,
+      273.9255676269531,
+      693.3033447265625
+    ],
+    "text": "We thank the study participants for volunteering to take\npart in the study, KCMC management for allowing the\n"
+  },
+  {
+    "page": 9,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      297.35443115234375,
+      100.22748565673828,
+      517.9801635742188,
+      143.54913330078125
+    ],
+    "text": "study to take place at the hospital, KCRI and DTU for\ngranting access to their research facilities, and DANIDA\nfor funding the study. We would also like to thank the\nKCRI microbiology team for their time and effort.\n"
+  },
+  {
+    "page": 9,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      297.35443115234375,
+      165.0566864013672,
+      343.47711181640625,
+      174.02297973632812
+    ],
+    "text": "References\n"
+  },
+  {
+    "page": 9,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      297.3489685058594,
+      182.019287109375,
+      524.4620971679688,
+      692.11669921875
+    ],
+    "text": "1. Cohen ML. Changing patterns of infectious disease. Nature\n2000: 406: 762–767.\n2. Lobber B. Changing patterns of infectious disease. Am J\nMed 1988: 84: 569–578.\n3. Blomberg B. Antimicrobial resistance in developing coun-\ntries. Tidsskr den Nor lægeforening Tidsskr Prakt Med ny\nrække 2008: 128: 2462–2466.\n4. Ruhembe CC, Mosha TCE, Nyaruhucha CNM. Prevalence\nand awareness of type 2 diabetes mellitus among adult pop-\nulation in Mwanza city, Tanzania, 2014. p. 1–11.\n5. Kibirige D, Ssekitoleko R, Mutebi E, Worodria W. Overt dia-\nbetes mellitus among newly diagnosed Ugandan tuberculosis\npatients: a cross sectional study. BMC Infect Dis 2013: 13: 1.\n6. Cohen C, Moyes J, Tempia S et al. Severe inﬂuenza-asso-\nciated respiratory infection in high HIV prevalence setting.\nEmerg Infect Dis 2013: 19: 2009–2011.\n7. Masur H, Read SW. Opportunistic infections and mortal-\nity: still room for improvement. J Infect Dis 2015: 212:\n1348–1350.\n8. Mhada TV, Fredrick F, Matee MI, Massawe A. Neonatal\nsepsis at Muhimbili National Hospital, Dar es Salaam, Tan-\nzania; aetiology, antimicrobial sensitivity pattern and clinical\noutcome. BMC Public Health 2012: 12: 1.\n9. Moyo SJ, Steinbakk M, Aboud S et al. Penicillin resistance\nand serotype distribution of Streptococcus pneumoniae in\nnasopharyngeal carrier children under 5 years of age in Dar\nes Salaam, Tanzania. J Med Microbiol 2012: 61: 952–959.\n10. Blomberg B, Jureen R, Manji KP et al. High rate of fatal\ncases of pediatric septicemia caused by gram-negative bacte-\nria with extended-spectrum beta-lactamases in Dar es Sal-\naam, Tanzania high rate of fatal cases of pediatric\nsepticemia caused by gram-negative bacteria with extended-\nspectrum B. J Clin Microbiol 2005: 43: 745–749.\n11. Ad M, Kigonya E. Bacteriuria among adult non-pregnant\nwomen attending Mulago hospital assessment centre in\nUganda. Afr Health Sci 2011: 11: 182–189.\n12. Feikin DR, Olack B, Bigogo GM et al. The burden of com-\nmon infectious disease syndromes at the clinic and house-\nhold level from population-based surveillance in rural and\nurban Kenya. PLoS One 2011: 6: e16085.\n13. Mattioli MC, Pickering AJ, Gilsdorf RJ, Davis J, Boehm AB.\nHands and water as vectors of diarrheal pathogens in Bag-\namoyo, Tanzania. Am Chem Soc 2013: 47: 355–363.\n14. Tambo E, Ai L, Zhou X et al. Surveillance-response systems:\nthe key to elimination of tropical diseases. Infect Dis Pov-\nerty 2014 Jan: 3: 17.\n15. de Kadt E. Making health policy management intersectoral:\nissues of information analysis and use in less developed\ncountries. Soc Sci Med 1989: 29: 503–514.\n"
+  },
+  {
+    "page": 9,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      52.157501220703125,
+      715.5480346679688,
+      524.3699951171875,
+      724.5143432617188
+    ],
+    "text": "462\n© 2017 The Authors. Tropical Medicine & International Health Published by John Wiley & Sons Ltd.\n"
+  },
+  {
+    "page": 9,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      52.157501220703125,
+      45.20771789550781,
+      524.434814453125,
+      55.00358581542969
+    ],
+    "text": "Tropical Medicine and International Health\nvolume 22 no 4 pp 454–464 april 2017\n"
+  },
+  {
+    "page": 9,
+    "block_no": 10,
+    "block_type": 0,
+    "bbox": [
+      52.15753173828125,
+      65.288330078125,
+      322.1329650878906,
+      73.43634796142578
+    ],
+    "text": "H. H. Kumburu et al.\nInfection patterns, bacterial agents and resistance\n"
+  },
+  {
+    "page": 9,
+    "block_no": 11,
+    "block_type": 0,
+    "bbox": [
+      578.698486328125,
+      15.6519775390625,
+      585.5419311523438,
+      766.4173583984375
+    ],
+    "text": " 13653156, 2017, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/tmi.12836 by EBMG ACCESS - KENYA, Wiley Online Library on [13/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License\n"
+  },
+  {
+    "page": 10,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      70.86209869384766,
+      100.32476806640625,
+      297.9699401855469,
+      683.6126708984375
+    ],
+    "text": "16. Harries AD, Jensen PM, Zachariah R, Rusen ID, Enarson\nDA. How health systems in sub-Saharan Africa can beneﬁt\nfrom tuberculosis and other infectious disease programmes.\nInt J Tuberc Lung Dis 2009: 13: 1194–1199.\n17. Tambo E, Ugwu EC, Ngogang JY. Need of surveillance\nresponse systems to combat Ebola outbreaks and other\nemerging infectious diseases in African countries. Infect Dis\nPoverty 2014: 3: 29.\n18. Baron EJ, Miller JM, Weinstein MP et al. A guide to utiliza-\ntion of the microbiology laboratory for diagnosis of infec-\ntious diseases: 2013 recommendations by the Infectious\nDiseases Society of America (IDSA) and the American Soci-\nety for Microbiology (ASM)(a). Clin Infect Dis 2013 Aug:\n57: e22–e121.\n19. Zumla A, Abubakar I, Raviglione M et al. Drug-resistant\ntuberculosis–current dilemmas, unanswered questions, chal-\nlenges, and priority needs. J Infect Dis 2012: 205(suppl_2):\nS228–S240.\n20. Falagas ME, Karageorgopoulos DE, Leptidis J, Korbila IP.\nMRSA in Africa: ﬁlling the global map of antimicrobial\nresistance. PLoS One 2013: 8: e68024.\n21. Ndihokubwayo JB, Yahaya AA, Desta AT, Ki-zerbo G.\nAntimicrobial resistance in the African Region : issues, chal-\nlenges and actions proposed. African Heal Monit 2013: 16:\n27–30.\n22. Turnidge J, Paterson DL. Setting and revising antibacterial\nsusceptibility breakpoints. Clin Microbiol Rev 2007: 20:\n391–408.\n23. Mawalla B, Mshana SE, Chalya PL, Imirzalioglu C, Mahalu\nW. Predictors of surgical site infections among patients\nundergoing major surgery at Bugando Medical Centre in\nNorthwestern Tanzania. BMC Surg. BioMed Central Ltd\n2011: 11: 21.\n24. Pondei K, Fente BG, Oladapo O. Current microbial isolates\nfrom wound swabs, their culture and sensitivity pattern at\nthe Niger delta university teaching hospital, Okolobiri,\nNigeria. Trop Med Health 2013: 41: 49–53.\n25. K€allman O, Lundberg C, Wretlind B, Ortqvist A. Gram-\nnegative bacteria from patients seeking medical advice in\nStockholm after the tsunami catastrophe. Scand J Infect Dis\n2006: 38: 448–450.\n26. Ran Y-C, Ao X-X, Liu L, Fu Y-L, Tuo H, Xu F. Microbio-\nlogical study of pathogenic bacteria isolated from paediatric\nwound infections following the 2008 Wenchuan earthquake.\nScand J Infect Dis 2010: 42: 347–350.\n27. Dong B, Liang D, Lin M et al. Bacterial etiologies of ﬁve\ncore syndromes: laboratory-based syndromic surveillance con-\nducted in Guangxi, China. PLoS One 2014: 9: e110876.\n28. Mahende C, Ngasala B, Lusingu J et al. Bloodstream bacte-\nrial infection among outpatient children with acute febrile\nillness in north-eastern Tanzania. BMC Res Notes. BioMed\nCentral; 2015: 8: 289.\n29. Blomberg B, Manji KP, Urassa WK et al. Antimicrobial\nresistance predicts death in Tanzanian children with blood-\nstream infections: a prospective cohort study. BMC Infect\nDis 2007: 7: 43.\n"
+  },
+  {
+    "page": 10,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      316.0599365234375,
+      100.32073974609375,
+      543.16015625,
+      683.6106567382812
+    ],
+    "text": "30. Chipwaza B, Mugasa JP, Mayumana I, Amuri M, Makungu\nC, Gwakisa PS. Self-medication with anti-malarials is a com-\nmon practice in rural communities of Kilosa district in Tan-\nzania despite the reported decline of malaria. Malar J 2014:\n13: 252.\n31. Ocan M, Obuku EA, Bwanga F et al. Household antimicro-\nbial self-medication: a systematic review and meta-analysis\nof the burden, risk factors and outcomes in developing coun-\ntries. BMC Public Health 2015: 15: 742.\n32. Biswas M, Roy MN, Manik MIN et al. Self medicated antibi-\notics in Bangladesh: a cross-sectional health survey conducted\nin the Rajshahi City. BMC Public Health 2014: 14: 847.\n33. Ocan M, Bwanga F, Bbosa GS et al. Patterns and predictors\nof self-medication in northern Uganda. PLoS One 2014: 9:\ne92323.\n34. Abasiubong F, Bassey EA, Udobang JA, Akinbami OS, Udoh\nSB, Idung AU. Self-medication: potential risks and hazards\namong pregnant women in Uyo, Nigeria. Pan Afr Med J\n2012: 13: 15.\n35. Shehnaz SI, Khan N, Sreedharan J, Issa KJ, Arifulla M. Self-\nmedication and related health complaints among expatriate\nhigh school students in the United Arab Emirates. Pharm\nPract (Granada) 2013: 11: 211–218.\n36. Abraham Y, Wamisho BL. Microbial susceptibility of bacte-\nria isolated from open fracture wounds presenting to the err\nof black-lion. African J Microbiol Res 2009: 3: 939–951.\n37. Mshana SE, Kamugisha E, Mirambo M, Chakraborty T,\nLyamuya EF. Prevalenpce of multiresistant gram-negative\norganisms in a tertiary hospital in Mwanza, Tanzania. BMC\nRes Notes 2009: 6: 1–6.\n38. Giacometti A, Cirioni O, Schimizzi AM et al. Epidemiology\nand microbiology of surgical wound infections epidemiology\nand microbiology of surgical wound infections. J Clin\nMicrobiol 2000: 38: 918–922.\n39. Reilly GD, Reilly CA, Smith EG. Vibrio alginolyticus -asso-\nciated wound infection acquired in British waters, Guernsey,\nJuly 2011. Eurosurveillance 2011: 16: 3–4.\n40. Schwab F, Gastmeier P, Meyer E. The warmer the weather,\nthe more gram-negative bacteria – impact of temperature on\nclinical isolates in intensive care units. PLoS One 2014: 9:\ne91105.\n41. Crump JA, Ramadhani HO, Morrissey AB et al. Invasive\nbacterial and fungal infections among hospitalized HIV-\ninfected and HIV-uninfected adults and adolescents in north-\nern Tanzania. Trop Med Int Health 2011: 52: 341–348.\n42. Mayige M, Kagaruki G, Ramaiya K, Swai A. Non commu-\nnicable diseases in Tanzania: a call for urgent action. Tanza-\nnian J Heal Res 2012: 14: 1–12.\n43. Young F, Critchley JA, Johnstone LK, Unwin NC. A review\nof co-morbidity between infectious and chronic disease in\nSub Saharan Africa: TB and diabetes mellitus, HIV and\nmetabolic syndrome, and the impact of globalization. Global\nHealth 2009: 5: 9.\n44. Ministry of Health and Social Welfare (MoHSW). Standard\ntreatment guidelines and the national essential medicines list\nfor mainland Tanzania, 2007.\n"
+  },
+  {
+    "page": 10,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      70.86609649658203,
+      714.1873779296875,
+      543.1312866210938,
+      723.1536865234375
+    ],
+    "text": "© 2017 The Authors. Tropical Medicine & International Health Published by John Wiley & Sons Ltd.\n463\n"
+  },
+  {
+    "page": 10,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      70.86609649658203,
+      45.20771789550781,
+      543.1433715820312,
+      55.00358581542969
+    ],
+    "text": "Tropical Medicine and International Health\nvolume 22 no 4 pp 454–464 april 2017\n"
+  },
+  {
+    "page": 10,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      70.86611938476562,
+      65.288330078125,
+      340.841552734375,
+      73.43634796142578
+    ],
+    "text": "H. H. Kumburu et al.\nInfection patterns, bacterial agents and resistance\n"
+  },
+  {
+    "page": 10,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      578.698486328125,
+      15.6519775390625,
+      585.5419311523438,
+      766.4173583984375
+    ],
+    "text": " 13653156, 2017, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/tmi.12836 by EBMG ACCESS - KENYA, Wiley Online Library on [13/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License\n"
+  },
+  {
+    "page": 11,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      52.15748596191406,
+      100.32476806640625,
+      276.8072814941406,
+      202.4038543701172
+    ],
+    "text": "45. Eticha T, Mesﬁn K. Self-medication practices in Mekelle,\nEthiopia. PLoS One 2014: 9: e97464.\n46. Fredrick F, Francis JM, Fataki M, Maselle SY. Aetiology,\nantimicrobial susceptibility and predictors of urinary tract\ninfection among febrile under-ﬁves at Muhimbili National\nHospital, Dar es Salaam-Tanzania. Acad J 2013: 7: 1029–\n1034.\n47. Mshana SE, Matee M, Rweyemamu M. Antimicrobial resis-\ntance in human and animal pathogens in Zambia, Demo-\ncratic Republic of Congo, Mozambique and Tanzania: an\n"
+  },
+  {
+    "page": 11,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      297.35430908203125,
+      100.3231201171875,
+      524.119140625,
+      202.40220642089844
+    ],
+    "text": "urgent need of a sustainable surveillance system. Ann Clin\nMicrobiol Antimicrob 2013: 12: 28.\n48. Leli\u0003evre H, Lina G, Jones ME et al. Emergence and\nspread in French hospitals of methicillin-resistant Staphylo-\ncoccus aureus with increasing susceptibility to gentamicin\nand other antibiotics. J Clin Microbiol 1999: 37:\n3452–3457.\n49. Frank A, Marion K. Sharing data for global infectious dis-\nease surveillance and outbreak detection. Trends Microbiol\n2016: 24: 241–245.\n"
+  },
+  {
+    "page": 11,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      58.392608642578125,
+      220.45391845703125,
+      494.3744812011719,
+      238.91209411621094
+    ],
+    "text": "Corresponding Author Happiness Houka Kumburu, Kilimanjaro Clinical Research Institute, Kilimanjaro Christian Medical\nCentre, PO Box 2236 Moshi, Tanzania. E-mail: h.kumburu@kcri.ac.tz\n"
+  },
+  {
+    "page": 11,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      52.157501220703125,
+      715.5480346679688,
+      524.3699951171875,
+      724.5143432617188
+    ],
+    "text": "464\n© 2017 The Authors. Tropical Medicine & International Health Published by John Wiley & Sons Ltd.\n"
+  },
+  {
+    "page": 11,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      52.157501220703125,
+      45.20771789550781,
+      524.434814453125,
+      55.00358581542969
+    ],
+    "text": "Tropical Medicine and International Health\nvolume 22 no 4 pp 454–464 april 2017\n"
+  },
+  {
+    "page": 11,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      52.15753173828125,
+      65.288330078125,
+      322.1329650878906,
+      73.43634796142578
+    ],
+    "text": "H. H. Kumburu et al.\nInfection patterns, bacterial agents and resistance\n"
+  },
+  {
+    "page": 11,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      578.698486328125,
+      15.6519775390625,
+      585.5419311523438,
+      766.4173583984375
+    ],
+    "text": " 13653156, 2017, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/tmi.12836 by EBMG ACCESS - KENYA, Wiley Online Library on [13/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License\n"
+  }
+]

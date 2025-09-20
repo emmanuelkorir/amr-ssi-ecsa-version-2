@@ -1,0 +1,4118 @@
+[
+  {
+    "page": 1,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      439.2179870605469,
+      33.99351501464844,
+      512.0949096679688,
+      40.96736526489258
+    ],
+    "text": "TYPE Original Research\n"
+  },
+  {
+    "page": 1,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      439.2179870605469,
+      42.95750427246094,
+      533.7249145507812,
+      49.93135452270508
+    ],
+    "text": "PUBLISHED 11 November 2024\n"
+  },
+  {
+    "page": 1,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      439.2179870605469,
+      51.93052673339844,
+      545.9918823242188,
+      58.90437698364258
+    ],
+    "text": "DOI 10.3389/fmicb.2024.1417425\n"
+  },
+  {
+    "page": 1,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      49.698001861572266,
+      160.4451446533203,
+      96.79754638671875,
+      167.4189910888672
+    ],
+    "text": "OPEN ACCESS\n"
+  },
+  {
+    "page": 1,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      49.698001861572266,
+      175.550537109375,
+      168.6532745361328,
+      199.29542541503906
+    ],
+    "text": "EDITED BY\nJoão Pedro Rueda Furlan,\nFederal University of São Paulo, Brazil\n"
+  },
+  {
+    "page": 1,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      49.698001861572266,
+      207.43756103515625,
+      168.0306854248047,
+      249.11012268066406
+    ],
+    "text": "REVIEWED BY\nGamal Mohamed El-Said El-Sherbiny,\nAl-Azhar University, Egypt\nHelia Magaly Bello-Toledo,\nUniversity of Concepcion, Chile\n"
+  },
+  {
+    "page": 1,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      49.698001861572266,
+      257.2525634765625,
+      104.4548110961914,
+      272.0243835449219
+    ],
+    "text": "*CORRESPONDENCE\nAbera Kumalo\n"
+  },
+  {
+    "page": 1,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      58.17620086669922,
+      274.0145263671875,
+      134.4486541748047,
+      280.9883728027344
+    ],
+    "text": "aberak2000@gmail.com\n"
+  },
+  {
+    "page": 1,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      49.698001861572266,
+      287.96453857421875,
+      119.4283676147461,
+      294.9383850097656
+    ],
+    "text": "RECEIVED 14 April 2024\n"
+  },
+  {
+    "page": 1,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      49.698001861572266,
+      296.92852783203125,
+      133.98048400878906,
+      303.9023742675781
+    ],
+    "text": "ACCEPTED 14 October 2024\n"
+  },
+  {
+    "page": 1,
+    "block_no": 10,
+    "block_type": 0,
+    "bbox": [
+      49.698001861572266,
+      305.89251708984375,
+      142.6030731201172,
+      312.8663635253906
+    ],
+    "text": "PUBLISHED 11 November 2024\n"
+  },
+  {
+    "page": 1,
+    "block_no": 11,
+    "block_type": 0,
+    "bbox": [
+      49.698001861572266,
+      320.00958251953125,
+      182.21363830566406,
+      406.5203857421875
+    ],
+    "text": "CITATION\nOdoko D, Kumalo A, Alemu G, Demisse T,\nMulugeta T and Temesgen M (2024)\nExtended-spectrum β-lactamase and\ncarbapenemase producing\nEnterobacteriaceae among patients\nsuspected with surgical site infection at\nHospitals in Southern Ethiopia.\nFront. Microbiol. 15:1417425.\ndoi: 10.3389/fmicb.2024.1417425\n"
+  },
+  {
+    "page": 1,
+    "block_no": 12,
+    "block_type": 0,
+    "bbox": [
+      49.697998046875,
+      414.6625671386719,
+      196.34735107421875,
+      537.0286865234375
+    ],
+    "text": "COPYRIGHT\n© 2024 Odoko, Kumalo, Alemu, Demisse,\nMulugeta and Temesgen. This is an\nopen-access article distributed under the\nterms of the Creative Commons Attribution\nLicense (CC BY). The use, distribution or\nreproduction in other forums is permitted,\nprovided the original author(s) and the\ncopyright owner(s) are credited and that the\noriginal publication in this journal is cited, in\naccordance with accepted academic practice.\nNo use, distribution or reproduction is\npermitted which does not comply with these\nterms.\n"
+  },
+  {
+    "page": 1,
+    "block_no": 13,
+    "block_type": 0,
+    "bbox": [
+      221.06700134277344,
+      124.35309600830078,
+      537.724853515625,
+      269.8077697753906
+    ],
+    "text": "Extended-spectrum β-lactamase\nand carbapenemase producing\nEnterobacteriaceae among\npatients suspected with surgical\nsite infection at Hospitals in\nSouthern Ethiopia\n"
+  },
+  {
+    "page": 1,
+    "block_no": 14,
+    "block_type": 0,
+    "bbox": [
+      221.06700134277344,
+      289.2454833984375,
+      530.9097900390625,
+      315.6391296386719
+    ],
+    "text": "Desta Odoko1, Abera Kumalo2*, Getachew Alemu2,\nTigistu Demisse2, Teshale Mulugeta1 and Muluneh Temesgen3\n"
+  },
+  {
+    "page": 1,
+    "block_no": 15,
+    "block_type": 0,
+    "bbox": [
+      221.0662078857422,
+      324.4586486816406,
+      545.5701293945312,
+      358.5951843261719
+    ],
+    "text": "1Medical Laboratory Science Department, Sodo Christian General Hospital, Sodo, Ethiopia, 2School of\nMedical Laboratory Sciences, College of Health Sciences and Medicine, Wolaita Sodo University, Sodo,\nEthiopia, 3Department of Medical Laboratory Science, Hosanna Health Science College, Hosanna,\nEthiopia\n"
+  },
+  {
+    "page": 1,
+    "block_no": 16,
+    "block_type": 0,
+    "bbox": [
+      221.0663604736328,
+      382.52252197265625,
+      545.5974731445312,
+      475.1799011230469
+    ],
+    "text": "Background: Extended-spectrum β-lactamase and carbapenemase-producing\nEnterobacteriaceae are an increasing problem for patients today. Data on\nclinical samples for ESBL and carbapenemase-producing Enterobacteriaceae\nfor surgical site infection patients in developing countries are limited, including\nEthiopia, mainly due to resource constraints. Hence, this study aimed\nto determine the prevalence of extended-spectrum beta-lactamase- and\ncarbapenemase-producing Enterobacteriaceae among patients suspected to\nhave surgical site infection at Hospital in Southern Ethiopia.\n"
+  },
+  {
+    "page": 1,
+    "block_no": 17,
+    "block_type": 0,
+    "bbox": [
+      221.06622314453125,
+      481.1533203125,
+      545.5957641601562,
+      645.5408935546875
+    ],
+    "text": "Materials and methods: A hospital-based cross-sectional study was conducted\non 422 suspected surgical site infections from June 1, 2022 to August 30,\n2022 at Hospitals in Southern Ethiopia. Sociodemographic and clinical data\nwere obtained by using a structured questionnaire. Clinical samples (pus, pus\naspirates, and wound swabs) were collected aseptically and processed within\n30 min by placing the swabs in sterile test tubes containing sterile normal\nsaline (0.5 mL). Samples were cultured on blood and MacConkey agar plates.\nAll positive cultures were characterized by colony morphology, Gram staining,\nand standard biochemical tests. Antimicrobial sensitivity tests were performed\nusing Kirby Baur disk diﬀusion on Mueller–Hinton agar. ESBL production was\nconﬁrmed using a double-disc synergy test (DDST) method. Carbapenemase\nproduction was assessed using the modiﬁed Hodge test. Logistic regression\nanalysis was used to determine associated factors. A P-value < 0.05 were\nconsidered statistically signiﬁcant.\n"
+  },
+  {
+    "page": 1,
+    "block_no": 18,
+    "block_type": 0,
+    "bbox": [
+      221.06546020507812,
+      651.5142822265625,
+      545.595703125,
+      768.0758056640625
+    ],
+    "text": "Result:\nBacteria belonging to the order Enterobacterales were cultured in\n23.7% out of 422 patients with suspected surgical wound infection. Of all\nthe isolates, Enterobacteriaceae (69 isolates) were the most frequent, with\nE. coli (29/69) followed by K. pneumoniae (14/69). Of 69 Enterobacteriaceae\nisolates, 66.6 % (46/69) were positive for ESBL production, and 21.7 (15/69) were\npositive for carbapenemase-producing Enterobacteriaceae. The majority of\nEnterobacteriaceae isolates showed sensitivity to meropenem (72.1%); however\nrevealed 63.9% and 70.5% were resistant to gentamicin and ciproﬂoxacin,\nrespectively. Similarly, a higher resistance rate to cefepime (91.8%), amoxicillin-\nclavulanic acid (98.4%), ceftriaxone (95.1%), and ceftazidime (91.8%). MDR rate\n"
+  },
+  {
+    "page": 1,
+    "block_no": 19,
+    "block_type": 0,
+    "bbox": [
+      49.698001861572266,
+      801.1773071289062,
+      545.5845947265625,
+      808.151123046875
+    ],
+    "text": "Frontiers in Microbiology\n01\nfrontiersin.org\n"
+  },
+  {
+    "page": 2,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      49.698001861572266,
+      35.151302337646484,
+      545.7677001953125,
+      42.125152587890625
+    ],
+    "text": "Odoko et al.\n10.3389/fmicb.2024.1417425\n"
+  },
+  {
+    "page": 2,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      221.06686401367188,
+      82.39949798583984,
+      545.58740234375,
+      139.1911163330078
+    ],
+    "text": "of Enterobacteriaceae isolates was 25/61 (41%) among patients suspected\nfor surgical site infection. The Multivariable analysis revealed that length\nof hospital stay in hospital [AOR = 3.81 (95% CI 2.08–6.95)] remained\nstatistically signiﬁcant factor associated with surgical site infection due to ESBL\nproducing Enterobacteriaceae.\n"
+  },
+  {
+    "page": 2,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      221.06686401367188,
+      145.16549682617188,
+      545.58642578125,
+      213.90127563476562
+    ],
+    "text": "Conclusion:\nStudy\nresults\nshowed\nthe\nseverity\nof\nESBL-producing\nEnterobacteriaceae is critical and CPE is alarming. Meropenem is the most\neﬀective antibiotic against the ESBL-producing Enterobacteriaceae. MDR rate of\nEnterobacteriaceae isolates was 61 (61%) among patients suspected for surgical\nsite infection. Therefore, antibiotic selection should be based on the results of\nthe culture and sensitivity tests.\n"
+  },
+  {
+    "page": 2,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      221.06700134277344,
+      232.58355712890625,
+      251.55259704589844,
+      238.06300354003906
+    ],
+    "text": "KEYWORDS\n"
+  },
+  {
+    "page": 2,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      221.06700134277344,
+      242.95635986328125,
+      465.1192321777344,
+      252.55397033691406
+    ],
+    "text": "ESBL, carbapenemase, Enterobacteriaceae, SSI, southern Ethiopia\n"
+  },
+  {
+    "page": 2,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      49.698001861572266,
+      298.4000549316406,
+      128.08901977539062,
+      311.8496398925781
+    ],
+    "text": "Introduction\n"
+  },
+  {
+    "page": 2,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      49.69781494140625,
+      326.2225646972656,
+      290.6285400390625,
+      767.2227783203125
+    ],
+    "text": "A surgical site infection (SSI) is an infection that develops in the\npart of the body where the surgery is performed (Jolivet et al., 2018).\nSurgical site infections are among the most frequent hospital-\nacquired infections among surgical patients, increasing morbidity,\nmortality, and expense. Infections from the surgical site may be\nsuperﬁcial infections conﬁned to the skin. More serious infections\nthat arise from the surgical site can aﬀect tissues beneath the skin,\norgans, or implanted materials (CDC et al., 2022).\nMembers of the Enterobacteriaceae family of gram-negative\nbacteria produce a class of enzymes known as Extended-spectrum\nβ-lactamases, they are complex, varied and are located on\nplasmids that facilitated their dissemination (Jolivet et al., 2018;\nCDC et al., 2022). Conversely, all Enterobacteriaceae that are\nresistant to carbapenem antibiotics (apart from those with\nintermediate resistance) are referred to as carbapenemase-\nproducing Enterobacteriaceae (CPE). These bacteria can acquire\nresistance genes to tetracycline, aminoglycosides, trimethoprim,\nsulfonamides,\nand\nchloramphenicol\nthrough\nplasmids\nand\ntransposons, which are essential for the development of multidrug\nresistance (MDR) in these bacteria (Tilahun, 2022; Ghafourian\net al., 2014; Cantón et al., 2008).\nAccording to the Health Care-Associated Infection (HAI)\nprevalence survey conducted by the Centers for Disease Control\n(CDC), there were an estimated 110,800 surgical site infections\n(SSIs) in 2015 that were linked to inpatient surgeries. In 2020, all\nNational Healthcare Safety Network (NHSN) categories for surgical\nprocedures reported a 5% decrease in the surgical site infection\nstandardized infection ratio (SIR) compared to the year before,\naccording to the results of the 2020 HAI data presented in the\nNational Healthcare Safety Networks progress report (Batchelor\net al., 2008).\nWhile there have been advancements in infection prevention\nand control practices, such as better ventilation of surgical sites,\nsurgical techniques, barriers, and the availability of antimicrobials\nor antibiotics used for prophylaxis, surgical site infections (SSIs)\nstill account for a major cause of prolonged hospital stays,\nmorbidity, and mortality; a study report indicates that 20% of all\n"
+  },
+  {
+    "page": 2,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      304.64068603515625,
+      301.5718078613281,
+      545.5722045898438,
+      766.565673828125
+    ],
+    "text": "HAIs are caused by SSI and are associated with a 2- to 11-fold\nincreased risk of mortality, with 75% of SSI-associated deaths being\ndirectly related to SSI (Van Duin and Doi, 2017).\nOn the other hand, Enterobacteriaceae that produce ESBL\nhave been recognized as major bacteria that led to multidrug\nresistant can causing serious community-acquired and hospital-\nacquired infections worldwide (Ban et al., 2017). Advanced drug\nresistance studies recently have publicized that the emergence\nof ESBL-producing Enterobacteriaceae has increased over time.\nAs β-lactamase-producing Enterobacteriaceae are not always\ndetected in routine antimicrobial susceptibility testing, they\ntypically demonstrate multidrug resistance. Members of the\nEnterobacteriaceae family, such as Escherichia coli, Klebsiella\npneumoniae and other lactose non-fermenting gram-negative rods,\nsuch as Pseudomonas species and Acinetobacter spp. are important\npathogens that can cause surgical site infections (Van Duin, 2017).\nGlobal studies indicate that between 2009 and 2010, K.\npneumoniae and E. coli that produce ESBL in Europe was 38.9\nand 17.6%, respectively (Moges et al., 2019). In North America, the\nsimilar frequency has been estimated at 8.8 and 8.5%, respectively\n(Sangare et al., 2015), whereas, the prevalence in China ranged\nfrom 61 to 67% respectively. The prevalence of ESBLs in Africa,\nvaries widely: Sudan, 30.2% (Hoban et al., 2012), Tanzania 77.1%\n(Saravanan et al., 2018), Algeria 47.6% (Nelson et al., 2014), Nigeria\n10.3–27.5% (Nedjai et al., 2013), and from South Africa 8.8–13.1%\n(Hello et al., 2010), and 37.4% of isolates were ESBL positive\nin various samples collected from hospitals and communities in\nKenya (Storberg, 2014).\nSeveral studies in Ethiopia, have documented the range\nof ESBL patterns of bacteria causing site infection, there are\nsubstantial changes in the resistance proﬁles and etiology of\nbacterial pathogens across geographical areas and time (Kumalo\net al., 2023). A recent report from Addis Ababa, Ethiopia: (84.1%;\nBeyene et al., 2019), Gondar, northwestern Ethiopia: (83.9%;\nDessie et al., 2016), and Jimma southwest Ethiopia: (87.3%; Mama\net al., 2014) conﬁrmed that there is a high prevalence of ESBL\nproducing Enterobacteriaceae.\nHowever, the extensive use of antibiotics, together with the\nlength of time over which the drugs are available in the market, has\n"
+  },
+  {
+    "page": 2,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      49.698001861572266,
+      802.1760864257812,
+      545.5845947265625,
+      809.14990234375
+    ],
+    "text": "Frontiers in Microbiology\n02\nfrontiersin.org\n"
+  },
+  {
+    "page": 3,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      49.698001861572266,
+      35.151302337646484,
+      545.7677001953125,
+      42.125152587890625
+    ],
+    "text": "Odoko et al.\n10.3389/fmicb.2024.1417425\n"
+  },
+  {
+    "page": 3,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      49.697998046875,
+      82.0975570678711,
+      290.6283264160156,
+      235.0985870361328
+    ],
+    "text": "led to major problems with the emergence of resistant organisms\n(Mohammed et al., 2017; Temesgen et al., 2023). The issue of ESBL\nin developing countries has been made severe by the overuse of\nantibiotics, overdosing, self-medication, prescribing medications\nwithout conducting the proper susceptibility testing, and extended\nhospital stays. Yet, research on ESBL and CPE for SSI is lacking\nin developing nations like Ethiopia, and no study has previously\nexamined the prevalence of ESBL and CPE with SSI in the\nsouthern Ethiopian region of Wolaita. Therefore, this study was\naimed to determine the prevalence of extended-spectrum beta-\nlactamase-\nand\nCarbapenemase-producing\nEnterobacteriaceae\namong patients suspected to have surgical site infection at Hospital\nin Southern Ethiopia.\n"
+  },
+  {
+    "page": 3,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      49.698001861572266,
+      256.2440490722656,
+      191.15679931640625,
+      269.6936340332031
+    ],
+    "text": "Methods and materials\n"
+  },
+  {
+    "page": 3,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      49.698001861572266,
+      278.33453369140625,
+      216.05712890625,
+      290.2896423339844
+    ],
+    "text": "Study design, period, and area\n"
+  },
+  {
+    "page": 3,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      49.698001861572266,
+      305.0007629394531,
+      290.6285705566406,
+      553.992919921875
+    ],
+    "text": "A hospital-based cross-sectional study was conducted from\nJune 1, 2022 to August 30, 2022. The study was conducted at\nWolaita Sodo Comprehensive Specialized Hospital (WSUCSH)\nand Sodo Christian General Hospital (SCGH) of the Sodo Town,\nSouthern Ethiopia. Sodo Town is found in Wolaita zone and it is the\nregional cities of the Southern Ethiopia Region. The town is 329 km\nfrom Addis Ababa, the capital city of Ethiopia, and 154 km from\nHawassa which is the former capital city of the region South Nation\nNationalities and People Region. The WSCSH is the one of the\nlargest hospitals in the area, which was established in 1928. It grew\nfrom District Hospital to Zonal Hospital in Wolaita Zone, town\nof Sodo, formerly named Wolaita Sodo Zone Hospital, until June\n30, 2004, and then incorporated Wolaita Sodo University, currently\nserving more than 5 million people per year around the area, and\nalso it is taught under graduating and post-graduating students.\nAlso Sodo Christian General Hospital was established in 1997 as\na primary hospital and it serves more than 4.2 million people per\nyear including the surrounding zones and regions. Generally both\nhospitals have its own main mission, including quality service and\nproviding teaching, preventive, curative care and other services in\nin diﬀerent outpatient and inpatient departments.\n"
+  },
+  {
+    "page": 3,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      49.698001861572266,
+      578.7978515625,
+      144.30624389648438,
+      590.7529907226562
+    ],
+    "text": "Study population\n"
+  },
+  {
+    "page": 3,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      49.698001861572266,
+      605.463623046875,
+      290.6280822753906,
+      626.4699096679688
+    ],
+    "text": "Patients who were clinically suspected of having surgical\nsite infection.\n"
+  },
+  {
+    "page": 3,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      49.698001861572266,
+      651.2747802734375,
+      273.2818298339844,
+      677.179931640625
+    ],
+    "text": "Sample size determination and sampling\ntechnique\n"
+  },
+  {
+    "page": 3,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      49.698001861572266,
+      690.2941284179688,
+      290.6282653808594,
+      784.941650390625
+    ],
+    "text": "Sample size determination\nThe sample size was calculated by using single population\nproportion formula so, considering 95% conﬁdence interval (CI),\n5% margin of error, and 50% proportion, and observed for\nevidence of infection on a daily basis. The clinical criteria for\nsurgical site infection development (deep incisional surgical site\ninfection, organ/space any surgical site infection, and superﬁcial\nincisional surgical site infection) from any surgical site infection\n"
+  },
+  {
+    "page": 3,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      304.6409912109375,
+      82.09566497802734,
+      545.5707397460938,
+      103.09486389160156
+    ],
+    "text": "categorization system from the CDC guidelines were used (Khan\nand Khalil, 2011).\n"
+  },
+  {
+    "page": 3,
+    "block_no": 10,
+    "block_type": 0,
+    "bbox": [
+      381.8608093261719,
+      111.22862243652344,
+      459.1885681152344,
+      130.5175323486328
+    ],
+    "text": "n = Zα2 ∗P(1 −P)\n"
+  },
+  {
+    "page": 3,
+    "block_no": 11,
+    "block_type": 0,
+    "bbox": [
+      425.33099365234375,
+      126.89410400390625,
+      433.3661193847656,
+      136.9075469970703
+    ],
+    "text": "d2\n"
+  },
+  {
+    "page": 3,
+    "block_no": 12,
+    "block_type": 0,
+    "bbox": [
+      304.64093017578125,
+      146.5645294189453,
+      545.5706787109375,
+      167.57044982910156
+    ],
+    "text": "By Using a 95% conﬁdence level, the Z value was 1.96, 5%\nmargin of error (d).\n"
+  },
+  {
+    "page": 3,
+    "block_no": 13,
+    "block_type": 0,
+    "bbox": [
+      369.50384521484375,
+      177.2184600830078,
+      447.76800537109375,
+      189.4856719970703
+    ],
+    "text": "(1.96)2 (0.5 [1 −0.5])\n"
+  },
+  {
+    "page": 3,
+    "block_no": 14,
+    "block_type": 0,
+    "bbox": [
+      396.1260070800781,
+      186.0819549560547,
+      473.9399108886719,
+      202.18458557128906
+    ],
+    "text": "(0.05)2\n= 384\n"
+  },
+  {
+    "page": 3,
+    "block_no": 15,
+    "block_type": 0,
+    "bbox": [
+      304.640869140625,
+      213.23646545410156,
+      545.5708618164062,
+      234.24484252929688
+    ],
+    "text": "Therefore, by considering a 10% contingency the ﬁnal sample\nsize was: n = 422.\n"
+  },
+  {
+    "page": 3,
+    "block_no": 16,
+    "block_type": 0,
+    "bbox": [
+      304.64093017578125,
+      258.1341247558594,
+      545.571044921875,
+      364.7789611816406
+    ],
+    "text": "Sampling technique\nThe study participants were enrolled using a systematic\nsampling technique until a sample size of 422 was achieved. The\nﬁrst participant was selected using the lottery method and the\nformula K = N/n. Thus, the Kth value for the total sample size\nof 422 was 1,398/422= 3. The ﬁnal 422 study participants were\nallocated proportionally to the size of each health facility based\non patient ﬂow, as shown below. The patient ﬂow rates for both\nhospitals during the previous year, 2021, were presented below.\n"
+  },
+  {
+    "page": 3,
+    "block_no": 17,
+    "block_type": 0,
+    "bbox": [
+      312.6147766113281,
+      377.35223388671875,
+      545.5712280273438,
+      496.7370300292969
+    ],
+    "text": "• nWSCSH = number of sample required from Wolaita Sodo\nComprehensive Specialized Hospital.\n• NWSCSH = is number of SSI Patient who came to WSUCH\nfrom June 1, 2021 to August 30, 2021 GC were 728.\n◦nSCGH = number of sample required from Sodo Christian\nGeneral hospital.\n◦NSCGH = is number of SSI Patient who came to Sodo Christian\nGeneral hospital from June1, 2021 to August 30, 2021GC\nwere 670.\n\u0005\nn = is the total sample size of the study was 422.\n"
+  },
+  {
+    "page": 3,
+    "block_no": 18,
+    "block_type": 0,
+    "bbox": [
+      304.64105224609375,
+      509.30126953125,
+      545.5703125,
+      544.68896484375
+    ],
+    "text": "NTotal = the sum of SSI patients who came for service from both\nhospitals from June 1, 2021, to August 30, 2021, which was 1,398.\nTherefore,\n"
+  },
+  {
+    "page": 3,
+    "block_no": 19,
+    "block_type": 0,
+    "bbox": [
+      312.6148986816406,
+      557.4143676757812,
+      545.57080078125,
+      604.6472778320312
+    ],
+    "text": "• nWSCSH (from Wolaita Sodo Comprehensive Specialized\nHospital) = (n/NTotal) ∗N WSCSH.\n◦nWSCSH = (422/1,398)∗728 = 220, sample size were\nallocated to WSUCH.\n"
+  },
+  {
+    "page": 3,
+    "block_no": 20,
+    "block_type": 0,
+    "bbox": [
+      318.5909729003906,
+      619.5960693359375,
+      350.41497802734375,
+      628.5960693359375
+    ],
+    "text": "Whereas\n"
+  },
+  {
+    "page": 3,
+    "block_no": 21,
+    "block_type": 0,
+    "bbox": [
+      312.61480712890625,
+      641.3214111328125,
+      544.5830688476562,
+      677.444580078125
+    ],
+    "text": "• nSCGH (from Sodo Christian General Hospital) = (n/NTotal) ∗\nN SCGH.\n◦nSCGH= (422/1,398) × 670 = 202 was allocated to SCGH.\n"
+  },
+  {
+    "page": 3,
+    "block_no": 22,
+    "block_type": 0,
+    "bbox": [
+      304.6409912109375,
+      701.2811279296875,
+      507.8610534667969,
+      713.2362670898438
+    ],
+    "text": "Methods and tools of data collection\n"
+  },
+  {
+    "page": 3,
+    "block_no": 23,
+    "block_type": 0,
+    "bbox": [
+      304.6409912109375,
+      727.9382934570312,
+      545.5709838867188,
+      784.9447021484375
+    ],
+    "text": "The participants provided with written consent, and their socio\ndemographic and clinical data were collected using a pre-tested\nstructured questionnaire. To ensure consistency, the questionnaire\nwas ﬁrst created in English, translated into Amharic, and then back\ninto English. The patients’ socio demographic information (age,\n"
+  },
+  {
+    "page": 3,
+    "block_no": 24,
+    "block_type": 0,
+    "bbox": [
+      49.698001861572266,
+      801.1773071289062,
+      545.5845947265625,
+      808.151123046875
+    ],
+    "text": "Frontiers in Microbiology\n03\nfrontiersin.org\n"
+  },
+  {
+    "page": 4,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      49.698001861572266,
+      35.151302337646484,
+      545.7677001953125,
+      42.125152587890625
+    ],
+    "text": "Odoko et al.\n10.3389/fmicb.2024.1417425\n"
+  },
+  {
+    "page": 4,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      49.697998046875,
+      82.0975570678711,
+      290.6280822753906,
+      187.09156799316406
+    ],
+    "text": "sex, marital status, educational attainment, and employment status)\nand clinical information (such as antibiotic use, history of chronic\nillnesses, and duration of hospital stay, steroid treatment, and\nsurgical history) were gathered via a questionnaire. Additionally,\nwound swabs and aspirates were obtained for laboratory analysis.\nNurses and laboratory technologists from WSCSH and SCGH\ntrained the data collectors. An extensive review of the literature was\ncarried out (Beyene et al., 2019; Dessie et al., 2016; Mama et al.,\n2014).\n"
+  },
+  {
+    "page": 4,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      49.69776153564453,
+      210.48800659179688,
+      290.62872314453125,
+      401.0845642089844
+    ],
+    "text": "Specimen collection procedure and\ntransportation\nSwabs and aspirates were collected from study participants\nsuspected of having SSI by nurses (for swabs) and clinicians (for\naspirates if suspected to be related to SSI). Sterile cotton swabs\nwere rotated on a 1 cm2 area of clean granulation tissue for\na period of 5 s using gentle pressure to release tissue exudate\n(Miller et al., 2018; National and Pillars, 2010). The ﬂuid aspirates\nwere collected using a 5 ml syringe. The collected specimens were\ntransported to the Sodo Christian General Hospital Microbiology\nLaboratory for processing in sterile test tubes within 30 min. During\nthe delay, Ameis transport medium was used. For carbapenemase-\nproducing organisms, the stored organisms were transported to the\nEthiopia Public Health Institute using a triple packaging system for\nconﬁrmation after preserving the organisms for long-term storage\n(Farzana et al., 2013).\n"
+  },
+  {
+    "page": 4,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      49.69792938232422,
+      424.4720153808594,
+      290.62860107421875,
+      591.1106567382812
+    ],
+    "text": "Identiﬁcation of bacterial isolates\nAll collected specimens were inoculated onto primary isolation\nculture media like blood agar (Oxoid Ltd, UK) and MacConkey\nagar (Oxoid Ltd, UK) found in Figure 1. Both blood agar (Oxoid\nLtd, UK) and MacConkey agar (Oxoid Ltd, UK) were incubated\nat 37◦C for 24–48 h. Positive cultures were inspected for growth\ncharacteristics and Gram staining was performed. Biochemical\ntests, such as the oxidase test, lysine and ornithine decarboxylase\ntest, hydrogen sulﬁde, indole production, Vogues Proskauer\n(VP), urease, phenylalanine deaminase, citrate utilization, sugar\nfermentation from glucose and gas production, adonitol, lactose,\narabinose, sorbitol, and dulcitol fermentation, were performed\non colonies from primary cultures for the ﬁnal identiﬁcation of\nthe isolates.\n"
+  },
+  {
+    "page": 4,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      49.69792938232422,
+      615.3307495117188,
+      280.9824523925781,
+      641.2359008789062
+    ],
+    "text": "Antimicrobial susceptibility of the isolated\nbacteria\n"
+  },
+  {
+    "page": 4,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      49.69792938232422,
+      655.93798828125,
+      290.62847900390625,
+      784.9431762695312
+    ],
+    "text": "Antimicrobial susceptibility testing was performed on Muller-\nHinton agar (Oxoid Ltd, UK) using Modiﬁed Kirby-Bauer\ndisc diﬀusion. Pure bacterial colonies were resuspended in 3–\n4 ml of saline solution until reaching a turbidity equivalent\nto 0.5 McFarland. This bacterial suspension was inoculated\nonto Mueller-Hinton agar plates using cotton swabs (Weinstein,\n2021). The following antibacterial agents were selected based\non local prescription habits and CLSI recommendations. The\nstandard antibiotic disks (Thermo Fisher Scientiﬁc, USA) and\ntheir concentrations were as follows: Gentamicin GEN 10\nµg, Chloramphenicol CHO 30 µg, Ciproﬂoxacin CIP 5 µg,\n"
+  },
+  {
+    "page": 4,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      316.844970703125,
+      379.1575622558594,
+      527.261474609375,
+      411.8664855957031
+    ],
+    "text": "FIGURE 1\nFlow chart for identiﬁcation, AST, ESBL detection, and\ncarbapenemase formation test for isolated bacterial at Hospitals in\nSouthern Ethiopia, from Jun 1, 2022 to August 30, 2022.\n"
+  },
+  {
+    "page": 4,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      304.64080810546875,
+      433.7978210449219,
+      545.57177734375,
+      515.5105590820312
+    ],
+    "text": "Amoxicillin-clavulanic acid AUG (25+30) µg), Meropenem MER\n10 µg, Cefepime CEF 30 µg, Ceftazidime CAZ 30 µg, ceftriaxone\nCRO 30 µg, and Ceﬁxime CFM 5 µg. The diameter of the\ninhibition zone around the disc was measured with a ruler in\nmillimeters and interpreted as sensitive, intermediate and resistant\naccording to Clinical Laboratory Standards Institute (Weinstein,\n2021; Carvalhaes et al., 2009).\n"
+  },
+  {
+    "page": 4,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      304.6409912109375,
+      539.5869140625,
+      466.3044738769531,
+      563.060302734375
+    ],
+    "text": "Detection of ESBL-producing\nEnterobacteriaceae\n"
+  },
+  {
+    "page": 4,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      304.6409912109375,
+      578.6062622070312,
+      545.571044921875,
+      673.254150390625
+    ],
+    "text": "Double-disc synergy test method\nDisks containing ceftazidime were applied next to those\ncontaining clavulanic acid and amoxicillin. Positive results\nwere obtained when the inhibition zones around any of the\ncephalosporin disks was enlarged in the direction of the disc\ncontaining the clavulanic acid. The distance between the disks is\ncritical and a 20 mm center-to-center has been found to be optimal\nfor cephalosporin 30 µg disks (Weinstein, 2021).\n"
+  },
+  {
+    "page": 4,
+    "block_no": 10,
+    "block_type": 0,
+    "bbox": [
+      304.6409912109375,
+      697.3295288085938,
+      461.5220642089844,
+      734.7438354492188
+    ],
+    "text": "Methods for conﬁrmation of\ncarbapenemase-producing\nEnterobacteriaceae\n"
+  },
+  {
+    "page": 4,
+    "block_no": 11,
+    "block_type": 0,
+    "bbox": [
+      304.6409912109375,
+      750.298828125,
+      545.5712280273438,
+      784.9434814453125
+    ],
+    "text": "Modiﬁed Hodge test\nThe Modiﬁed Hodge Test (MHT) is a simple phenotypic\ntest and has been suggested as a method used for screening\n"
+  },
+  {
+    "page": 4,
+    "block_no": 12,
+    "block_type": 0,
+    "bbox": [
+      49.698001861572266,
+      801.1773071289062,
+      545.5845947265625,
+      808.151123046875
+    ],
+    "text": "Frontiers in Microbiology\n04\nfrontiersin.org\n"
+  },
+  {
+    "page": 5,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      49.698001861572266,
+      35.151302337646484,
+      545.7677001953125,
+      42.125152587890625
+    ],
+    "text": "Odoko et al.\n10.3389/fmicb.2024.1417425\n"
+  },
+  {
+    "page": 5,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      49.697998046875,
+      82.0975570678711,
+      290.62872314453125,
+      259.09173583984375
+    ],
+    "text": "carbapenemases in bacteria. It is based on the inactivation of\ncarbapenem by carbapenemase-producing strains, that is, test\nisolates that enable a carbapenem-susceptible indicator strain E. coli\nATCC 25922 to extend growth toward a carbapenem-containing\ndisc along with the streak of the inoculum of the test strain. A\npositive test result indicated a clover leaf-like indentation (Cury\net al., 2012; Date, 2018; Pierce et al., 2017; Reumert et al., 2003;\nGiske and Cantón, 2013).\nEnterobacteriaceae suspected to be producers of carbapenemase\nwere conﬁrmed 10 µg meropenem disc (MRP) and by evaluating\nthe synergistic eﬀects when combined with the following inhibitors:\nphenylboronic acid, DPA/EDTA and Cloxacilline (Giske et al.,\n2011; Tsakris et al., 2010). The inhibition zone around the\nmeropenem disc combined with the inhibitor was compared with\nthe zone around the disc (Alebel et al., 2021).\n"
+  },
+  {
+    "page": 5,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      49.69801330566406,
+      283.75262451171875,
+      208.79258728027344,
+      295.7077331542969
+    ],
+    "text": "Laboratory quality assurance\n"
+  },
+  {
+    "page": 5,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      49.69801330566406,
+      310.4094543457031,
+      290.6280822753906,
+      511.4175109863281
+    ],
+    "text": "The sample quality was examined and handled in accordance\nwith each hospital’s quality control protocols. Using sterile cotton,\nskilled staﬀnurses aseptically removed pus swabs representative\nof the infected tissue from the aﬀected area. The pus swabs were\nthen cleaned with an antiseptic solution. As soon as possible,\nthe gathered specimens were moved to the Sodo Christian\nGeneral Hospital Microbiology Laboratory, and the specimens\nthat were delayed were put in the Amies transport medium.\nStandard operating procedures were followed when performing\nlaboratory analyses (SOPs). In order to conﬁrm the sterility of\nthe culture media, 5% of the prepared media were incubated\novernight before being inoculated with the standard reference\nstrains of E. coli (ATCC 700682) used to check of ESBLs (ATCC\n25922), used as negative control of ESBLs, K. pneumoniae (ATCC\n13883 and Klebsiella quasipneumoniae formerly known as K.\npneumoniae (ATCC 700603) were used for the positive and\nnegative control, respectively.\n"
+  },
+  {
+    "page": 5,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      49.69810485839844,
+      536.0697021484375,
+      214.4632568359375,
+      561.974853515625
+    ],
+    "text": "Data processing, analysis, and\ninterpretation\n"
+  },
+  {
+    "page": 5,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      49.69810485839844,
+      576.685546875,
+      290.6282043457031,
+      657.6886596679688
+    ],
+    "text": "Data were entered, checked, cleaned, coded for completeness\nin Epi 4.6.0.2, and imported into the Statistical Package for\nSocial Sciences (SPSS) software version 25 for analysis. Descriptive\nstatistics were computed, summarized, and presented using graphs\nand tables. Binary logistic regression was used to examine\nthe relationship between dependent and independent variables.\nStatistical signiﬁcance was set at P < 0.05.\n"
+  },
+  {
+    "page": 5,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      49.698001861572266,
+      677.3359985351562,
+      94.25253295898438,
+      690.78564453125
+    ],
+    "text": "Results\n"
+  },
+  {
+    "page": 5,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      49.698001861572266,
+      699.4175415039062,
+      287.0322265625,
+      725.3226928710938
+    ],
+    "text": "The study participants’ socio-demographic\ncharacteristics\n"
+  },
+  {
+    "page": 5,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      49.698001861572266,
+      740.0333251953125,
+      290.6273193359375,
+      761.0306396484375
+    ],
+    "text": "With a 100% response rate, 422 patients across all age groups\nwho had a suspicion of SSI were included in this study found in\n"
+  },
+  {
+    "page": 5,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      304.6409912109375,
+      79.31013488769531,
+      545.1709594726562,
+      104.22069549560547
+    ],
+    "text": "TABLE 1 Socio-demographic characteristics of patients with suspicion of\nSSI at Hospitals in Southern Ethiopia, from Jun 1, 2022 to August 30, 2022\n(n = 422).\n"
+  },
+  {
+    "page": 5,
+    "block_no": 10,
+    "block_type": 0,
+    "bbox": [
+      351.74700927734375,
+      116.92837524414062,
+      534.343505859375,
+      134.85879516601562
+    ],
+    "text": "Variables\nFrequency\nPercent\n(%)\n"
+  },
+  {
+    "page": 5,
+    "block_no": 11,
+    "block_type": 0,
+    "bbox": [
+      311.0669860839844,
+      143.40089416503906,
+      524.0335083007812,
+      150.374755859375
+    ],
+    "text": "Sex\nMale\n187\n44.3\n"
+  },
+  {
+    "page": 5,
+    "block_no": 12,
+    "block_type": 0,
+    "bbox": [
+      373.0320129394531,
+      158.64686584472656,
+      524.0335083007812,
+      165.6207275390625
+    ],
+    "text": "Female\n235\n55.7\n"
+  },
+  {
+    "page": 5,
+    "block_no": 13,
+    "block_type": 0,
+    "bbox": [
+      311.0669860839844,
+      172.60580444335938,
+      522.3594970703125,
+      181.26275634765625
+    ],
+    "text": "Age group\n<18\n7\n1.7\n"
+  },
+  {
+    "page": 5,
+    "block_no": 14,
+    "block_type": 0,
+    "bbox": [
+      373.0320129394531,
+      189.52589416503906,
+      524.0335083007812,
+      196.499755859375
+    ],
+    "text": "18–30\n55\n13.0\n"
+  },
+  {
+    "page": 5,
+    "block_no": 15,
+    "block_type": 0,
+    "bbox": [
+      373.0320129394531,
+      204.77186584472656,
+      524.0335083007812,
+      211.7457275390625
+    ],
+    "text": "31–44\n224\n53.1\n"
+  },
+  {
+    "page": 5,
+    "block_no": 16,
+    "block_type": 0,
+    "bbox": [
+      373.0320129394531,
+      220.0178985595703,
+      524.0335083007812,
+      226.99176025390625
+    ],
+    "text": "45–59\n96\n22.7\n"
+  },
+  {
+    "page": 5,
+    "block_no": 17,
+    "block_type": 0,
+    "bbox": [
+      373.0320129394531,
+      235.25489807128906,
+      522.3594970703125,
+      242.228759765625
+    ],
+    "text": "60–75\n29\n6.9\n"
+  },
+  {
+    "page": 5,
+    "block_no": 18,
+    "block_type": 0,
+    "bbox": [
+      373.0320129394531,
+      248.81777954101562,
+      522.3594970703125,
+      257.4747314453125
+    ],
+    "text": ">75\n11\n2.6\n"
+  },
+  {
+    "page": 5,
+    "block_no": 19,
+    "block_type": 0,
+    "bbox": [
+      311.0669860839844,
+      266.1429138183594,
+      524.0335083007812,
+      273.11676025390625
+    ],
+    "text": "Residence\nRural\n119\n28.2\n"
+  },
+  {
+    "page": 5,
+    "block_no": 20,
+    "block_type": 0,
+    "bbox": [
+      373.0320129394531,
+      281.3799133300781,
+      524.0335083007812,
+      288.353759765625
+    ],
+    "text": "Urban\n303\n71.8\n"
+  },
+  {
+    "page": 5,
+    "block_no": 21,
+    "block_type": 0,
+    "bbox": [
+      311.0669860839844,
+      297.0218811035156,
+      524.0335083007812,
+      303.9957275390625
+    ],
+    "text": "Marital status\nSingle\n133\n31.5\n"
+  },
+  {
+    "page": 5,
+    "block_no": 22,
+    "block_type": 0,
+    "bbox": [
+      373.0320129394531,
+      312.2679138183594,
+      524.0335083007812,
+      319.24176025390625
+    ],
+    "text": "Married\n289\n68.5\n"
+  },
+  {
+    "page": 5,
+    "block_no": 23,
+    "block_type": 0,
+    "bbox": [
+      311.0669860839844,
+      327.909912109375,
+      344.62847900390625,
+      343.8478088378906
+    ],
+    "text": "Educational\nstatus\n"
+  },
+  {
+    "page": 5,
+    "block_no": 24,
+    "block_type": 0,
+    "bbox": [
+      373.0320129394531,
+      327.909912109375,
+      524.0335083007812,
+      334.8837585449219
+    ],
+    "text": "Illiterate\n59\n14.0\n"
+  },
+  {
+    "page": 5,
+    "block_no": 25,
+    "block_type": 0,
+    "bbox": [
+      373.0320129394531,
+      352.1199035644531,
+      524.0335083007812,
+      359.09375
+    ],
+    "text": "Read and write\n82\n19.4\n"
+  },
+  {
+    "page": 5,
+    "block_no": 26,
+    "block_type": 0,
+    "bbox": [
+      373.0320129394531,
+      367.3569030761719,
+      524.0335083007812,
+      374.33074951171875
+    ],
+    "text": "Primary education\n66\n15.6\n"
+  },
+  {
+    "page": 5,
+    "block_no": 27,
+    "block_type": 0,
+    "bbox": [
+      373.0320129394531,
+      382.6029052734375,
+      524.0335083007812,
+      389.5767517089844
+    ],
+    "text": "High school\n131\n31.1\n"
+  },
+  {
+    "page": 5,
+    "block_no": 28,
+    "block_type": 0,
+    "bbox": [
+      373.0320129394531,
+      397.8489074707031,
+      524.0335083007812,
+      404.82275390625
+    ],
+    "text": "Diploma and above\n84\n19.9\n"
+  },
+  {
+    "page": 5,
+    "block_no": 29,
+    "block_type": 0,
+    "bbox": [
+      311.0669860839844,
+      413.49090576171875,
+      522.3594970703125,
+      420.4647521972656
+    ],
+    "text": "Occupational\nFarmer\n39\n9.2\n"
+  },
+  {
+    "page": 5,
+    "block_no": 30,
+    "block_type": 0,
+    "bbox": [
+      373.0320129394531,
+      428.7279052734375,
+      413.649658203125,
+      444.6748046875
+    ],
+    "text": "Governmental\nemployee\n"
+  },
+  {
+    "page": 5,
+    "block_no": 31,
+    "block_type": 0,
+    "bbox": [
+      459.989990234375,
+      428.7279052734375,
+      524.0335083007812,
+      435.7017517089844
+    ],
+    "text": "69\n16.4\n"
+  },
+  {
+    "page": 5,
+    "block_no": 32,
+    "block_type": 0,
+    "bbox": [
+      373.0320129394531,
+      452.9378967285156,
+      524.0335083007812,
+      459.9117431640625
+    ],
+    "text": "Student\n123\n52.1\n"
+  },
+  {
+    "page": 5,
+    "block_no": 33,
+    "block_type": 0,
+    "bbox": [
+      373.0320129394531,
+      468.18389892578125,
+      524.0335083007812,
+      475.1577453613281
+    ],
+    "text": "Daily labor\n56\n13.2\n"
+  },
+  {
+    "page": 5,
+    "block_no": 34,
+    "block_type": 0,
+    "bbox": [
+      373.0320129394531,
+      483.4208984375,
+      524.0335083007812,
+      490.3947448730469
+    ],
+    "text": "House wife\n104\n91.0\n"
+  },
+  {
+    "page": 5,
+    "block_no": 35,
+    "block_type": 0,
+    "bbox": [
+      373.0320129394531,
+      498.6669006347656,
+      524.0335083007812,
+      505.6407470703125
+    ],
+    "text": "Merchant\n31\n98.3\n"
+  },
+  {
+    "page": 5,
+    "block_no": 36,
+    "block_type": 0,
+    "bbox": [
+      304.6409912109375,
+      540.5665283203125,
+      545.571533203125,
+      633.5635986328125
+    ],
+    "text": "Table 1. Two-hundred and thirty-ﬁve (55.7%) of the study groups’\nmembers were female. With an age range of 5–96 years, the\nparticipants with the highest number, 224 (53.1%), were between\nthe ages of 31 and 44. The majority of participants, or 303\n(71.8%), were from urban areas; 123 (52.1%) were students, 69\n(16.4%) were government workers, 31 (98.3%) were merchants,\n84 (19.9%) were college graduates or above, and 277 (67.1%)\nwere married.\n"
+  },
+  {
+    "page": 5,
+    "block_no": 37,
+    "block_type": 0,
+    "bbox": [
+      304.6410217285156,
+      663.417724609375,
+      520.8333740234375,
+      689.3228759765625
+    ],
+    "text": "Clinical and medical status of the study\nparticipants\n"
+  },
+  {
+    "page": 5,
+    "block_no": 38,
+    "block_type": 0,
+    "bbox": [
+      304.6410217285156,
+      704.0335083007812,
+      545.5708618164062,
+      761.0309448242188
+    ],
+    "text": "A total of 422 participants were admitted to the study. Of\nthese, 221 (52.4%) were from the orthopedics ward, 112 (26.5%)\nfrom the surgery ward, and 89 (21.1%) from the Obstetrics and\nGynecology Unit. A signiﬁcant percentage of the participants\n(44.3%) had clean wounds. The largest number of days spent in the\n"
+  },
+  {
+    "page": 5,
+    "block_no": 39,
+    "block_type": 0,
+    "bbox": [
+      49.698001861572266,
+      801.1773071289062,
+      545.5845947265625,
+      808.151123046875
+    ],
+    "text": "Frontiers in Microbiology\n05\nfrontiersin.org\n"
+  },
+  {
+    "page": 6,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      49.698001861572266,
+      35.151302337646484,
+      545.7677001953125,
+      42.125152587890625
+    ],
+    "text": "Odoko et al.\n10.3389/fmicb.2024.1417425\n"
+  },
+  {
+    "page": 6,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      49.697998046875,
+      79.31044006347656,
+      289.3619689941406,
+      104.22100067138672
+    ],
+    "text": "TABLE 2 Clinical and medical status among patients with suspicion of SSI\nat Hospitals in Southern Ethiopia, from Jun 1, 2022 to August 30, 2022 (n\n= 422).\n"
+  },
+  {
+    "page": 6,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      100.3499984741211,
+      116.92837524414062,
+      283.08251953125,
+      134.85879516601562
+    ],
+    "text": "Variables\nFrequency\nPercent\n(%)\n"
+  },
+  {
+    "page": 6,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      56.12379837036133,
+      142.40187072753906,
+      276.1991882324219,
+      149.375732421875
+    ],
+    "text": "Surgical site wards\nOrthopedic\n221\n52.4%\n"
+  },
+  {
+    "page": 6,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      126.75599670410156,
+      156.6488800048828,
+      276.1991882324219,
+      163.62274169921875
+    ],
+    "text": "Surgical\n112\n26.5%\n"
+  },
+  {
+    "page": 6,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      125.1719970703125,
+      170.89588928222656,
+      164.14549255371094,
+      186.8427734375
+    ],
+    "text": "Gynecology\nand obstetrics\n"
+  },
+  {
+    "page": 6,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      212.1300048828125,
+      170.89588928222656,
+      276.1991882324219,
+      177.8697509765625
+    ],
+    "text": "89\n21.1%\n"
+  },
+  {
+    "page": 6,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      56.12379837036133,
+      194.51185607910156,
+      276.1991882324219,
+      201.4857177734375
+    ],
+    "text": "Wound types\nNon-contaminated\n187\n44.3%\n"
+  },
+  {
+    "page": 6,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      125.1720199584961,
+      208.7588653564453,
+      163.95440673828125,
+      224.6964111328125
+    ],
+    "text": "Clean-\ncontaminated\n"
+  },
+  {
+    "page": 6,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      210.45599365234375,
+      208.7588653564453,
+      276.1991882324219,
+      215.73272705078125
+    ],
+    "text": "123\n29.1%\n"
+  },
+  {
+    "page": 6,
+    "block_no": 10,
+    "block_type": 0,
+    "bbox": [
+      126.75599670410156,
+      231.96986389160156,
+      276.1991882324219,
+      238.9437255859375
+    ],
+    "text": "Contaminated\n54\n12.8%\n"
+  },
+  {
+    "page": 6,
+    "block_no": 11,
+    "block_type": 0,
+    "bbox": [
+      125.1719970703125,
+      246.2168731689453,
+      276.1991882324219,
+      253.19073486328125
+    ],
+    "text": "Infected\n58\n13.7%\n"
+  },
+  {
+    "page": 6,
+    "block_no": 12,
+    "block_type": 0,
+    "bbox": [
+      56.12379837036133,
+      260.8598937988281,
+      93.29844665527344,
+      276.79779052734375
+    ],
+    "text": "Chronic liver\ndisease\n"
+  },
+  {
+    "page": 6,
+    "block_no": 13,
+    "block_type": 0,
+    "bbox": [
+      125.1719970703125,
+      260.8598937988281,
+      274.5251770019531,
+      267.833740234375
+    ],
+    "text": "Yes\n2\n0.5%\n"
+  },
+  {
+    "page": 6,
+    "block_no": 14,
+    "block_type": 0,
+    "bbox": [
+      126.75599670410156,
+      278.0948791503906,
+      276.1991882324219,
+      285.0687255859375
+    ],
+    "text": "No\n420\n99.5%\n"
+  },
+  {
+    "page": 6,
+    "block_no": 15,
+    "block_type": 0,
+    "bbox": [
+      56.12379837036133,
+      292.7378845214844,
+      274.5251770019531,
+      299.71173095703125
+    ],
+    "text": "Heart failure\nYes\n5\n1.2%\n"
+  },
+  {
+    "page": 6,
+    "block_no": 16,
+    "block_type": 0,
+    "bbox": [
+      126.75599670410156,
+      306.9848937988281,
+      276.1991882324219,
+      313.958740234375
+    ],
+    "text": "No\n417\n98.8%\n"
+  },
+  {
+    "page": 6,
+    "block_no": 17,
+    "block_type": 0,
+    "bbox": [
+      56.12379837036133,
+      321.6368713378906,
+      274.5251770019531,
+      328.6107177734375
+    ],
+    "text": "Diabetes\nYes\n27\n6.4%\n"
+  },
+  {
+    "page": 6,
+    "block_no": 18,
+    "block_type": 0,
+    "bbox": [
+      126.75599670410156,
+      335.8749084472656,
+      276.1991882324219,
+      342.8487548828125
+    ],
+    "text": "No\n395\n93.6%\n"
+  },
+  {
+    "page": 6,
+    "block_no": 19,
+    "block_type": 0,
+    "bbox": [
+      56.12379837036133,
+      350.5268859863281,
+      274.5251770019531,
+      357.500732421875
+    ],
+    "text": "HIV/AIDS\nYes\n11\n2.6%\n"
+  },
+  {
+    "page": 6,
+    "block_no": 20,
+    "block_type": 0,
+    "bbox": [
+      126.75599670410156,
+      364.7738952636719,
+      276.1991882324219,
+      371.74774169921875
+    ],
+    "text": "No\n411\n97.4%\n"
+  },
+  {
+    "page": 6,
+    "block_no": 21,
+    "block_type": 0,
+    "bbox": [
+      56.12379837036133,
+      379.4169006347656,
+      113.23204803466797,
+      395.35479736328125
+    ],
+    "text": "Immunosuppressive\n(long term steroid)\n"
+  },
+  {
+    "page": 6,
+    "block_no": 22,
+    "block_type": 0,
+    "bbox": [
+      126.75599670410156,
+      379.4169006347656,
+      274.5251770019531,
+      386.3907470703125
+    ],
+    "text": "Yes\n28\n6.6%\n"
+  },
+  {
+    "page": 6,
+    "block_no": 23,
+    "block_type": 0,
+    "bbox": [
+      126.75599670410156,
+      396.6518859863281,
+      276.1991882324219,
+      403.625732421875
+    ],
+    "text": "No\n394\n93.4%\n"
+  },
+  {
+    "page": 6,
+    "block_no": 24,
+    "block_type": 0,
+    "bbox": [
+      56.12379837036133,
+      411.2948913574219,
+      102.37671661376953,
+      427.2327880859375
+    ],
+    "text": "Travel history to\nabroad\n"
+  },
+  {
+    "page": 6,
+    "block_no": 25,
+    "block_type": 0,
+    "bbox": [
+      126.75599670410156,
+      411.2948913574219,
+      274.5251770019531,
+      418.26873779296875
+    ],
+    "text": "Yes\n14\n3.3%\n"
+  },
+  {
+    "page": 6,
+    "block_no": 26,
+    "block_type": 0,
+    "bbox": [
+      126.75599670410156,
+      434.5058898925781,
+      276.1991882324219,
+      441.479736328125
+    ],
+    "text": "No\n408\n96.7%\n"
+  },
+  {
+    "page": 6,
+    "block_no": 27,
+    "block_type": 0,
+    "bbox": [
+      56.12379837036133,
+      449.15789794921875,
+      106.61419677734375,
+      465.0957946777344
+    ],
+    "text": "Length of medical\nstay in hospital\n"
+  },
+  {
+    "page": 6,
+    "block_no": 28,
+    "block_type": 0,
+    "bbox": [
+      125.1719970703125,
+      449.15789794921875,
+      272.77142333984375,
+      456.1317443847656
+    ],
+    "text": "1–7 days\n137\n32.5\n"
+  },
+  {
+    "page": 6,
+    "block_no": 29,
+    "block_type": 0,
+    "bbox": [
+      125.1719970703125,
+      466.3929138183594,
+      272.77142333984375,
+      473.36676025390625
+    ],
+    "text": "8–14 days\n147\n34.8\n"
+  },
+  {
+    "page": 6,
+    "block_no": 30,
+    "block_type": 0,
+    "bbox": [
+      125.1719970703125,
+      478.956787109375,
+      272.77142333984375,
+      487.6137390136719
+    ],
+    "text": ">15 days\n138\n32.7\n"
+  },
+  {
+    "page": 6,
+    "block_no": 31,
+    "block_type": 0,
+    "bbox": [
+      49.698001861572266,
+      527.2195434570312,
+      290.627685546875,
+      548.216552734375
+    ],
+    "text": "hospital was 8–14 days (34.8%), and there were 27 (6.4%) diabetics\noverall (Table 2).\n"
+  },
+  {
+    "page": 6,
+    "block_no": 32,
+    "block_type": 0,
+    "bbox": [
+      49.69820022583008,
+      586.9966430664062,
+      282.8447570800781,
+      629.2745971679688
+    ],
+    "text": "Distribution of Enterobacterales isolates\namong patients suspected for surgical site\ninfection\n"
+  },
+  {
+    "page": 6,
+    "block_no": 33,
+    "block_type": 0,
+    "bbox": [
+      49.69743347167969,
+      643.9852294921875,
+      290.6289978027344,
+      772.9853515625
+    ],
+    "text": "Four hundred and twenty-two wound swabs in total were\nused to cultivate Enterobacterales (family Enterobacteriaceae and\nMorganellaceae). One hundred out of the suspects exhibited\nboth Enterobacteriaceae and Morganellaceae growth. Signiﬁcant\nEnterobacterales infections were present in 23.7% (100/422) of\npatients suspected of having surgical site infections. From the total\nisolates, 69 (69%) strains belong to the family Enterobacteriaceae\nincludes E. coli 29 (29%), followed by K. pneumoniae 14 (14%), was\nthe most common isolate. And also, 31(31%) strains considered to\nbe the family Morganellaceae (M. morganii, Providence spp., and P.\nmirabilis) were isolated (Table 3).\n"
+  },
+  {
+    "page": 6,
+    "block_no": 34,
+    "block_type": 0,
+    "bbox": [
+      304.6409912109375,
+      77.88607788085938,
+      538.1857299804688,
+      104.22069549560547
+    ],
+    "text": "TABLE 3 Identiﬁed Enterobacterales isolates among patients suspected\nfor surgical site infection at Hospitals in Southern Ethiopia, from Jun 1,\n2022 to August 30, 2022 (n = 100).\n"
+  },
+  {
+    "page": 6,
+    "block_no": 35,
+    "block_type": 0,
+    "bbox": [
+      311.0669860839844,
+      116.92837524414062,
+      502.72930908203125,
+      125.8947525024414
+    ],
+    "text": "Bacterial isolates\nPercent (%)\n"
+  },
+  {
+    "page": 6,
+    "block_no": 36,
+    "block_type": 0,
+    "bbox": [
+      311.0669860839844,
+      134.43690490722656,
+      482.6784362792969,
+      141.4126739501953
+    ],
+    "text": "E. coli\n29\n"
+  },
+  {
+    "page": 6,
+    "block_no": 37,
+    "block_type": 0,
+    "bbox": [
+      311.0669860839844,
+      150.07887268066406,
+      482.6784362792969,
+      157.0546417236328
+    ],
+    "text": "K. pneumonia\n14\n"
+  },
+  {
+    "page": 6,
+    "block_no": 38,
+    "block_type": 0,
+    "bbox": [
+      311.0669860839844,
+      165.7209014892578,
+      481.00445556640625,
+      172.69667053222656
+    ],
+    "text": "K. oxytoca\n8\n"
+  },
+  {
+    "page": 6,
+    "block_no": 39,
+    "block_type": 0,
+    "bbox": [
+      311.0669860839844,
+      181.3628692626953,
+      481.00445556640625,
+      188.33863830566406
+    ],
+    "text": "E. clocae\n6\n"
+  },
+  {
+    "page": 6,
+    "block_no": 40,
+    "block_type": 0,
+    "bbox": [
+      311.0669860839844,
+      196.99586486816406,
+      481.00445556640625,
+      203.9716339111328
+    ],
+    "text": "C. freundii\n4\n"
+  },
+  {
+    "page": 6,
+    "block_no": 41,
+    "block_type": 0,
+    "bbox": [
+      311.0669860839844,
+      212.6378936767578,
+      482.6784362792969,
+      219.61366271972656
+    ],
+    "text": "M. morganii\n10\n"
+  },
+  {
+    "page": 6,
+    "block_no": 42,
+    "block_type": 0,
+    "bbox": [
+      311.0669860839844,
+      228.2798614501953,
+      482.679443359375,
+      235.25563049316406
+    ],
+    "text": "P. mirabilis\n10\n"
+  },
+  {
+    "page": 6,
+    "block_no": 43,
+    "block_type": 0,
+    "bbox": [
+      311.0669860839844,
+      243.92189025878906,
+      482.6784362792969,
+      250.895751953125
+    ],
+    "text": "Providencia spp.\n11\n"
+  },
+  {
+    "page": 6,
+    "block_no": 44,
+    "block_type": 0,
+    "bbox": [
+      311.0669860839844,
+      259.5638732910156,
+      481.00445556640625,
+      266.53961181640625
+    ],
+    "text": "E. aerogenes\n8\n"
+  },
+  {
+    "page": 6,
+    "block_no": 45,
+    "block_type": 0,
+    "bbox": [
+      311.0669860839844,
+      275.2059020996094,
+      484.3524169921875,
+      282.17974853515625
+    ],
+    "text": "Total\n100\n"
+  },
+  {
+    "page": 6,
+    "block_no": 46,
+    "block_type": 0,
+    "bbox": [
+      304.6408386230469,
+      314.28955078125,
+      511.73321533203125,
+      365.65386962890625
+    ],
+    "text": "Antimicrobial susceptibility pattern of\nextended-spectrum β-lactamase and\ncarbapenemase producing\nEnterobacterales\n"
+  },
+  {
+    "page": 6,
+    "block_no": 47,
+    "block_type": 0,
+    "bbox": [
+      304.6409912109375,
+      382.79656982421875,
+      545.5714111328125,
+      655.7939453125
+    ],
+    "text": "In present study (Table 4), the higher resistance rate to\ncefepime\nreported\nby\nthe\nmajority\nof\nEnterobacteriaceae\nisolates (91.8%), ceftriaxone (95.1%), ceftazidime (91.8%), and\namoxicillin-clavulanic acid (98.4%). However, Enterobacteriaceae\nisolates showed relatively high sensitivity to Meropenem 44\n(72.1%). On the other hand, high percentages of resistance\nwere obtained, gentamicin: 39 (63.9%) and ciproﬂoxacin: 43\n(70.5%), respectively. The isolates of K. pneumoniae is resistant\nto cefepime, Ceftriaxone, Ceftazidime, Amoxicillin-clavulanic\nacid, Gentamicin, ciproﬂoxacin and meropenem; 14 (100%), 14\n(100%), 14 (100%), 14 (100%), 12 (85.7%), 11 (78.6%), and 9\n(64.3%), respectively. And also, isolates of C. freundii resistant\nto cefepime, ceftriaxone, ceftazidime, amoxicillin-clavulanic acid\nwas 4 (100%) by each, and gentamicin and chloramphenicol\nwas 3 (75%) by each, similarly, the resistance of E.coli species to\ncefepime, Ceftriaxone, Ceftazidime, Amoxicillin-clavulanic acid\nand ciproﬂoxacin, 26 (90%), 27 (93.2%), 26 (90%), 28 (96.6%),\nand 22 (75.9%), respectively. On the other hand, sensitivity\nrates for chloramphenicol 7(87.5%) and meropenem 6(75%)\nwere highest for K.oxytoca. The susceptibility patterns of K.\npneumoniae to gentamicin was 2(14.4%), ciproﬂoxacin 3 (21.4%),\nchloramphenicol 6 (42.8%), and meropenem 5 (35.7%) that\nwas <50%.\n"
+  },
+  {
+    "page": 6,
+    "block_no": 48,
+    "block_type": 0,
+    "bbox": [
+      304.6410217285156,
+      685.4230346679688,
+      493.08294677734375,
+      725.2781372070312
+    ],
+    "text": "Prevalence of extended-spectrum\nβ-lactamase and carbapenemase\nproducing Enterobacterales\n"
+  },
+  {
+    "page": 6,
+    "block_no": 49,
+    "block_type": 0,
+    "bbox": [
+      304.64111328125,
+      739.9888305664062,
+      545.5712280273438,
+      772.9855346679688
+    ],
+    "text": "From wound swabs, 100 and 61 diﬀerent Enterobacterales and\nEnterobacteriaceae were identiﬁed, respectively. Forty-six (66.6%),\nout of the 69 Enterobacteriaceae isolates had their ESBL production\n"
+  },
+  {
+    "page": 6,
+    "block_no": 50,
+    "block_type": 0,
+    "bbox": [
+      49.698001861572266,
+      801.1773071289062,
+      545.5845947265625,
+      808.151123046875
+    ],
+    "text": "Frontiers in Microbiology\n06\nfrontiersin.org\n"
+  },
+  {
+    "page": 7,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      49.698001861572266,
+      35.151302337646484,
+      545.7677001953125,
+      42.125152587890625
+    ],
+    "text": "Odoko et al.\n10.3389/fmicb.2024.1417425\n"
+  },
+  {
+    "page": 7,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      49.6976318359375,
+      77.94119262695312,
+      529.8955688476562,
+      95.41905975341797
+    ],
+    "text": "TABLE 4 Antimicrobial susceptibility pattern of extended-spectrum β-lactamase and carbapenemase producing Enterobacterales isolates (n = 100)\namong surgical site infection at Hospitals in Southern Ethiopia, from Jun 1, 2022 to August 30, 2022 (n = 100).\n"
+  },
+  {
+    "page": 7,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      56.12379837036133,
+      106.7974853515625,
+      126.08456420898438,
+      126.55179595947266
+    ],
+    "text": "Enterobacterales\nisolated\n"
+  },
+  {
+    "page": 7,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      253.21499633789062,
+      106.7974853515625,
+      471.14459228515625,
+      117.5877456665039
+    ],
+    "text": "Antimicrobials tested for Enterobacteriaceae isolates\n"
+  },
+  {
+    "page": 7,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      191.35800170898438,
+      132.83139038085938,
+      533.3919067382812,
+      141.79776000976562
+    ],
+    "text": "CEP\nCRO\nCAZ\nAMC\nCIP\nGEN\nCHL\nMEM\n"
+  },
+  {
+    "page": 7,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      56.12379837036133,
+      149.78758239746094,
+      536.3921508789062,
+      157.3156280517578
+    ],
+    "text": "K. pneumoniae (n = 14)\nS\n0 (0%)\n0 (0%)\n0 (0%)\n0 (0%)\n3 (21.4%)\n2 (14.3%)\n6 (42.8%)\n5 (35.7%)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      152.77499389648438,
+      165.5858917236328,
+      536.3921508789062,
+      172.55975341796875
+    ],
+    "text": "R\n14 (100%)\n14 (100%)\n14 (100%)\n14 (100%)\n11 (78.6%)\n12 (85.7%)\n8 (57.2%)\n9 (64.3%)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      56.12379837036133,
+      180.6755828857422,
+      538.067138671875,
+      188.20362854003906
+    ],
+    "text": "E. coli (n = 29)\nS\n3 (10%)\n2 (6.8%)\n3 (10.3%)\n1 (3.4%)\n7 (24.1%)\n16 (55.2%)\n21 (72.4%)\n25 (86.2%)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      152.77499389648438,
+      196.46485900878906,
+      536.3921508789062,
+      203.438720703125
+    ],
+    "text": "R\n26 (90%)\n27 (93.2%)\n26 (89.7%)\n28 (96.6%)\n22 (75.9%)\n13 (44.8%)\n8 (27.6%)\n4 (13.8%)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      56.12379837036133,
+      211.5546112060547,
+      533.9180908203125,
+      219.08265686035156
+    ],
+    "text": "K. oxytoca (n = 8)\nS\n1 (12.5%)\n1 (12.5%)\n1 (12.5%)\n0 (0%)\n3 (37.5%)\n1 (12.5%)\n7 (87.5%)\n6 (75%)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 10,
+    "block_type": 0,
+    "bbox": [
+      152.77499389648438,
+      227.3528594970703,
+      533.9170532226562,
+      234.32672119140625
+    ],
+    "text": "R\n7 (87.5%)\n7 (87.5%)\n7 (87.5%)\n8 (100%)\n5 (62.5%)\n7 (87.5%)\n1 (12.5%)\n2 (25%)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 11,
+    "block_type": 0,
+    "bbox": [
+      56.12379837036133,
+      242.44261169433594,
+      535.5921020507812,
+      249.9706573486328
+    ],
+    "text": "E. clocae (n = 6)\nS\n1 (16.7%)\n0 (0%)\n1 (16.7%)\n0 (0%)\n3 (50%)\n2 (33.3%)\n3 (50%)\n6 (100%)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 12,
+    "block_type": 0,
+    "bbox": [
+      152.77499389648438,
+      258.2319030761719,
+      532.2430419921875,
+      265.20574951171875
+    ],
+    "text": "R\n5 (83.3%)\n6 (100%)\n5 (83.3%)\n6 (100%)\n3 (50%)\n4 (66.7%)\n3 (50%)\n0 (0%)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 13,
+    "block_type": 0,
+    "bbox": [
+      56.12379837036133,
+      273.3215637207031,
+      533.9170532226562,
+      280.849609375
+    ],
+    "text": "C. freundii (n = 4)\nS\n0 (0%)\n0 (0%)\n0 (0%)\n0 (0%)\n2 (50%)\n1 (25%)\n1 (25%)\n2 (50%)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 14,
+    "block_type": 0,
+    "bbox": [
+      152.77499389648438,
+      289.1199035644531,
+      533.9170532226562,
+      296.09375
+    ],
+    "text": "R\n4 (100%)\n4 (100%)\n4 (100%)\n4 (100%)\n2 (50%)\n3 (75%)\n3 (75%)\n2 (50%)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 15,
+    "block_type": 0,
+    "bbox": [
+      56.12379837036133,
+      304.2095642089844,
+      524.8029174804688,
+      311.73760986328125
+    ],
+    "text": "M. morganii (n=10)\nS\n_\n_\n_\n_\n_\n_\n_\n_\n"
+  },
+  {
+    "page": 7,
+    "block_no": 16,
+    "block_type": 0,
+    "bbox": [
+      152.77499389648438,
+      319.9988708496094,
+      524.8029174804688,
+      326.97271728515625
+    ],
+    "text": "R\n_\n_\n_\n_\n_\n_\n_\n_\n"
+  },
+  {
+    "page": 7,
+    "block_no": 17,
+    "block_type": 0,
+    "bbox": [
+      56.12379837036133,
+      335.0885925292969,
+      524.8029174804688,
+      342.61663818359375
+    ],
+    "text": "P. mirabilis (n = 10)\nS\n_\n_\n_\n_\n_\n_\n_\n_\n"
+  },
+  {
+    "page": 7,
+    "block_no": 18,
+    "block_type": 0,
+    "bbox": [
+      152.77499389648438,
+      350.88690185546875,
+      524.8029174804688,
+      357.8607482910156
+    ],
+    "text": "R\n_\n_\n_\n_\n_\n_\n_\n_\n"
+  },
+  {
+    "page": 7,
+    "block_no": 19,
+    "block_type": 0,
+    "bbox": [
+      56.12377166748047,
+      365.9765930175781,
+      116.72467803955078,
+      382.466796875
+    ],
+    "text": "Providencia spp. (n =\n11)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 20,
+    "block_type": 0,
+    "bbox": [
+      153.28799438476562,
+      366.5289001464844,
+      524.8029174804688,
+      373.50274658203125
+    ],
+    "text": "S\n_\n_\n_\n_\n_\n_\n_\n_\n"
+  },
+  {
+    "page": 7,
+    "block_no": 21,
+    "block_type": 0,
+    "bbox": [
+      152.77499389648438,
+      390.7388916015625,
+      524.8029174804688,
+      397.7127380371094
+    ],
+    "text": "R\n_\n_\n_\n_\n_\n_\n_\n_\n"
+  },
+  {
+    "page": 7,
+    "block_no": 22,
+    "block_type": 0,
+    "bbox": [
+      56.12379837036133,
+      405.8285827636719,
+      524.8029174804688,
+      413.35662841796875
+    ],
+    "text": "E. aerogenes (n = 8)\nS\n_\n_\n_\n_\n_\n_\n_\n_\n"
+  },
+  {
+    "page": 7,
+    "block_no": 23,
+    "block_type": 0,
+    "bbox": [
+      152.77499389648438,
+      421.6178894042969,
+      524.8029174804688,
+      428.59173583984375
+    ],
+    "text": "R\n_\n_\n_\n_\n_\n_\n_\n_\n"
+  },
+  {
+    "page": 7,
+    "block_no": 24,
+    "block_type": 0,
+    "bbox": [
+      56.12379837036133,
+      437.2598876953125,
+      538.0661010742188,
+      444.2337341308594
+    ],
+    "text": "Total (100)\nS\n5 (8.2%)\n3 (4.9%)\n5 (8.2%)\n1 (1.6%)\n18 (29.5%)\n22 (36.1%)\n38 (62.3%)\n44 (72.1%)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 25,
+    "block_type": 0,
+    "bbox": [
+      152.77499389648438,
+      452.5058898925781,
+      538.0661010742188,
+      459.479736328125
+    ],
+    "text": "R\n56 (91.8%)\n58 (95.1%)\n56 (91.8%)\n60 (98.4%)\n43 (70.5%)\n39 (63.9%)\n23 (37.7%)\n17 (27.9%)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 26,
+    "block_type": 0,
+    "bbox": [
+      49.698001861572266,
+      466.498046875,
+      545.5725708007812,
+      481.9468078613281
+    ],
+    "text": "R, Resistant; S, Sensitive, CEP, Cefepime, CRO, Ceftriaxone, CAZ, Ceftazidime, AMC, Amoxicillin-clavulanic acid; CIP, Ciproﬂoxacin; GEN, Gentamicin; MEM, Meropenem; CHL,\nChloramphenicol; (_), not tested.\n"
+  },
+  {
+    "page": 7,
+    "block_no": 27,
+    "block_type": 0,
+    "bbox": [
+      49.69769287109375,
+      504.01763916015625,
+      290.6287841796875,
+      681.02099609375
+    ],
+    "text": "conﬁrmed phenotypically. From all isolates of Enterobacteriaceae\nthat were suspected producing ESBLs, three Enterobacteriaceae\nisolates were ESBLs tested positive: E. coli (54.35%, n = 25/46),\nK. pneumoniae (15.2%, n = 7/46), K. oxytoca (13.04%, n = 6/46),\nC. freundii (4.35%, n = 2/46), E.clocae (13.04%, n = 6/46), and E.\naerogenes (0%, n = 0/46). The proportion of ESBL Enterobacterales\nisolates overall was 46% (46/100; Figure 2).\nCarbapenemase\nproduction\nwas\ntested\nagainst\nall\nEnterobacterales, regardless of the ESBL results, and 21.7 %\n(15/69) isolates had carbapenemase production conﬁrmed. Among\ntested isolates resistant to carbapenem, K. pneumoniae; 7/15\n(46.7%), E. coli; 4/15 (26.7%), K. oxytoca; 2/15 (13.3%), and C.\nfreundii; 2/15 (13.3%) were the most common Enterobacteriaceae.\nThe overall proportion of Enterobacterales isolates that producing\ncarbapenemase were 15% (15/100) (Figure 3).\n"
+  },
+  {
+    "page": 7,
+    "block_no": 28,
+    "block_type": 0,
+    "bbox": [
+      49.69749450683594,
+      714.3888549804688,
+      290.62762451171875,
+      772.9852905273438
+    ],
+    "text": "Class carbapenemase producing\nEnterobacterales\nOut of ﬁfteen distinct Enterobacterales isolates that were\nthoroughly examined and were thought to be non-repeats, seven\n(K. pneumoniae), four (E. coli), two (C. freundii), and two (K.\n"
+  },
+  {
+    "page": 7,
+    "block_no": 29,
+    "block_type": 0,
+    "bbox": [
+      304.6404724121094,
+      504.0177917480469,
+      545.5707397460938,
+      573.0218505859375
+    ],
+    "text": "oxytoca) tested positive for carbapenemase production. Speciﬁcally,\ncarbapenemases were not detected in 80% of the carbapenem-\nresistant strains. In this group, AmpC plus porin loss was detected.\nOnly in 3 strains were these enzymes detected (2 NDM and 1 KPC).\nAmpC plus porin loss 12 (80%), KPC plus MBL 1 (6.7%), and MBL\n2 (13.3%) were the results of the isolates.\n"
+  },
+  {
+    "page": 7,
+    "block_no": 30,
+    "block_type": 0,
+    "bbox": [
+      304.64031982421875,
+      599.48291015625,
+      509.1590270996094,
+      650.8472290039062
+    ],
+    "text": "Multidrug-resistant pattern of\nextended-spectrum β-lactamase and\ncarbapenemase producing\nEnterobacterales\n"
+  },
+  {
+    "page": 7,
+    "block_no": 31,
+    "block_type": 0,
+    "bbox": [
+      304.6402587890625,
+      667.98974609375,
+      545.5713500976562,
+      772.9827270507812
+    ],
+    "text": "The total Enterobacterales isolated from patients suspected\nfor surgical site infections, MDR rate were 25/61 (41%) found\nin Table 5. Approximately 41.0% of Enterobacterales isolates\nwere MDR, 47.5% XDR, and 4.9% PDR isolates. Among the\nEnterobacterales isolates, E. coli (48.3% MDR, 37.9% XDR, and\n3.4% PDR), K. pneumoniae (21.4% MDR, 71.4% XDR, and 7.1%\nof PDR), K.oxytoca (37.5% MDR, 50% XDR, and 12.5% PDR), E.\nclocae (66.7% MDR, 16.7% XDR), and C. freundii (25% MDR, 75%\nXDR) were developed multidrug resistant.\n"
+  },
+  {
+    "page": 7,
+    "block_no": 32,
+    "block_type": 0,
+    "bbox": [
+      49.698001861572266,
+      801.1773071289062,
+      545.5845947265625,
+      808.151123046875
+    ],
+    "text": "Frontiers in Microbiology\n07\nfrontiersin.org\n"
+  },
+  {
+    "page": 8,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      49.698001861572266,
+      35.151302337646484,
+      545.7677001953125,
+      42.125152587890625
+    ],
+    "text": "Odoko et al.\n10.3389/fmicb.2024.1417425\n"
+  },
+  {
+    "page": 8,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      61.90179443359375,
+      321.16156005859375,
+      531.112060546875,
+      344.9036560058594
+    ],
+    "text": "FIGURE 2\nEnterobacteriaceae bacterial isolates producing extended-spectrum β-lactamase among patients suspected for surgical site infection at Hospitals in\nSouthern Ethiopia, from Jun 1, 2022 to August 30, 2022 (N = 422).\n"
+  },
+  {
+    "page": 8,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      61.901702880859375,
+      617.3875732421875,
+      508.44854736328125,
+      641.1387329101562
+    ],
+    "text": "FIGURE 3\nEnterobacteriaceae bacterial isolates producing carbapenemase among patients suspected for surgical site infection at Hospitals in Southern\nEthiopia, from Jun 1, 2022 to August 30, 2022 (N = 422).\n"
+  },
+  {
+    "page": 8,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      49.69752502441406,
+      684.4459228515625,
+      290.63531494140625,
+      766.9527587890625
+    ],
+    "text": "Factors association with extended-spectrum\nβ-lactamase and carbapenemase producing\nEnterobacteriaceae among patients suspected for\nsurgical site infection\nFour variables with p-values < 0.25 in univariate analysis\nsuggested using the multivariate model. Age ranges of 31–44 and\n45–96 years, respectively, had AORs of 1.51 and 2.88 and 0.92\n"
+  },
+  {
+    "page": 8,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      304.6405029296875,
+      685.9886474609375,
+      545.5711669921875,
+      766.9884643554688
+    ],
+    "text": "and 0.45–1.85, 95% conﬁdence intervals. Individuals admitted\nto the orthopedic and surgical wards had AORs of 1.15 and\n0.64–2.05 and 1.94 and 95% CI: 1.04–3.65, respectively, and\ntheir length of hospital stay were 8.14 days for the former\nand >15 days for the latter (AOR = 3.81 and 95% CI: 2.08–\n6.95). Candidates for multivariate logistic regression analysis were\npatients with diabetes and those without (AOR = 1.91 and 95%\n"
+  },
+  {
+    "page": 8,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      49.698001861572266,
+      801.1773071289062,
+      545.5845947265625,
+      808.151123046875
+    ],
+    "text": "Frontiers in Microbiology\n08\nfrontiersin.org\n"
+  },
+  {
+    "page": 9,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      49.698001861572266,
+      35.151302337646484,
+      545.7677001953125,
+      42.125152587890625
+    ],
+    "text": "Odoko et al.\n10.3389/fmicb.2024.1417425\n"
+  },
+  {
+    "page": 9,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      49.697998046875,
+      77.88638305664062,
+      545.5740966796875,
+      95.25731658935547
+    ],
+    "text": "TABLE 5 Multidrug-resistant pattern of extended-spectrum β-lactamase and carbapenemase producing Enterobacteriaceae isolates among surgical site\ninfection at Hospitals in Southern Ethiopia, from Jun 1, 2022 to August 30, 2022 (n = 61).\n"
+  },
+  {
+    "page": 9,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      56.12379837036133,
+      106.635498046875,
+      523.6614379882812,
+      117.4257583618164
+    ],
+    "text": "Enterobacterales isolates\nMultiS\nMoDR\nMDR\nXDR\nPDR\n"
+  },
+  {
+    "page": 9,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      56.12379837036133,
+      125.4156265258789,
+      526.4120483398438,
+      132.9436798095703
+    ],
+    "text": "K. pneumoniae (n = 14)\n0 (0.0%)\n0 (0.0%)\n3 (21.4%)\n10 (71.4%)\n1 (7.1%)\n"
+  },
+  {
+    "page": 9,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      56.12379837036133,
+      141.05760192871094,
+      526.4110717773438,
+      148.5856475830078
+    ],
+    "text": "E. coli (n = 29)\n0 (0.0%)\n0 (0.0%)\n14 (48.3%)\n11 (37.9%)\n1 (3.4%)\n"
+  },
+  {
+    "page": 9,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      56.12379837036133,
+      156.6996307373047,
+      528.0860595703125,
+      164.22767639160156
+    ],
+    "text": "K. oxytoca (n = 6)\n0 (0.0%)\n0 (0.0%)\n3 (37.5%)\n4 (50.0%)\n1 (12.5%)\n"
+  },
+  {
+    "page": 9,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      56.12379837036133,
+      172.3415985107422,
+      526.4110717773438,
+      179.86964416503906
+    ],
+    "text": "E. clocae (n = 6)\n0 (0.0%)\n0 (0.0%)\n4 (66.7%)\n1 (16.7%)\n0 (0.0%)\n"
+  },
+  {
+    "page": 9,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      56.12379837036133,
+      187.98362731933594,
+      526.4110717773438,
+      195.5116729736328
+    ],
+    "text": "C. freundii (n = 4)\n0 (0.0%)\n0 (0.0%)\n1 (25.0%)\n3 (75.0%)\n0 (0.0%)\n"
+  },
+  {
+    "page": 9,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      56.12379837036133,
+      204.1688995361328,
+      526.4110717773438,
+      211.14276123046875
+    ],
+    "text": "Total (61)\n0 (0.0%)\n0 (0.0%)\n25 (41.0%)\n29 (47.5%)\n3 (4.9%)\n"
+  },
+  {
+    "page": 9,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      49.697967529296875,
+      218.17005920410156,
+      545.5751342773438,
+      233.60983276367188
+    ],
+    "text": "MultiS, susceptible to all antibiotic classes; MoDR, resistant to a single antibiotic class; MDR, resistant to at least one agent in three or more antimicrobial categories; XDR, resistant to at least\none agent in all but two or fewer antimicrobial categories (i.e., bacterial isolates remain susceptible to only one or two categories); PDR, resistant to all antibiotic classes.\n"
+  },
+  {
+    "page": 9,
+    "block_no": 10,
+    "block_type": 0,
+    "bbox": [
+      49.69752502441406,
+      255.81532287597656,
+      290.6286926269531,
+      420.8126220703125
+    ],
+    "text": "CI: 0.77–4.76), respectively. A similar independent association\nbetween the candidate variables and surgical site infection caused\nby Enterobacteriaceae that produce ESBLs and CPEs was further\nevaluated at a cutoﬀpoint of P-value < 0.05 in multivariable logistic\nregression analysis. Out of all of them, the multivariate logistic\nregression analysis revealed a signiﬁcant association with only the\nlength of hospital stay being independently associated. Length of\nmedical stay in hospital AOR = 3.81 (95% CI 2.08–6.95) was\nfound to be a statistically signiﬁcant factor in surgical site infection\ncaused by Enterobacteriaceae that produce CPE and ESBL in the\nmultivariable analysis. Due to Enterobacteriaceae that produce CPE\nand ESBL, patients hospitalized for 8–14 days had a 6-fold higher\nrisk of surgical site infection than patients who stayed for >15 days;\nthe other variables were not signiﬁcantly associated with this risk.\n"
+  },
+  {
+    "page": 9,
+    "block_no": 11,
+    "block_type": 0,
+    "bbox": [
+      49.698001861572266,
+      445.1270446777344,
+      116.31710052490234,
+      458.5766296386719
+    ],
+    "text": "Discussion\n"
+  },
+  {
+    "page": 9,
+    "block_no": 12,
+    "block_type": 0,
+    "bbox": [
+      49.69798278808594,
+      472.9495849609375,
+      290.6292724609375,
+      781.9557495117188
+    ],
+    "text": "The main aim of this study was to address three key\nobjectives.\nAll\nthese\nobjectives\ndetermined\nthe\nprevalence,\nantibiotic susceptibility patterns, and factors associated with\nExtended-spectrum β-lactamase and carbapenemase-producing\nEnterobacteriaceae\namong\npatients\nsuspected\nwith\nsurgical\nsite infection.\nIn the present study, the total prevalence of Enterobacteriaceae\ngrowth among surgical site infections was 23.7%. This ﬁnding\nis consistent with the previous reports in Addis Ababa, Ethiopia\n(25.13%) (Beyene et al., 2019), Bahir Dar, Ethiopia (24.8%) (Alebel\net al., 2021), France (25%) (Baron et al., 2013), Nepal (28.2%)\n(Kayastha et al., 2020), Qatar (26%) (Sid Ahmed et al., 2016), and\nIndia (21.4%) (Gupta et al., 2016). However, this was lower than the\nresearch conducted in Debra Markos, Ethiopia (72.6%) (Shimekaw\net al., 2022), Gondar (83.9%) (Mohammed et al., 2017), Jimma\n(87.3%) (Mama et al., 2014), Addis Ababa (84.1%) (Beyene et al.,\n2019), Nigeria (64.8%) (Egbe et al., 2011), India (68 %) (Vasundhara\net al., 2017), and Nepal (65%) (Rijal et al., 2017) and higher than the\nstudy done in Mexico (19%) (Uc-Cachón et al., 2019), India (19.5%)\n(Singh et al., 2016), and Nepal (12.6%) (Kayastha et al., 2020). These\nvariations among diﬀerent studies could be due to variations in the\nstudy population, bad or good antibiotic stewardship policies, level\nof wound care, and specimen type.\nIn the present study, the prevalence of ESBL-producing\nEnterobacterales\nwas\n46%,\nwhich\nis\nin\nline\nwith\nthe\ninstitution-based\nbased\ncross-sectional\nstudy\nconducted\nin\n"
+  },
+  {
+    "page": 9,
+    "block_no": 13,
+    "block_type": 0,
+    "bbox": [
+      304.640625,
+      255.81556701660156,
+      545.5714721679688,
+      780.8126220703125
+    ],
+    "text": "Algeria (47.6%) (Nedjai et al., 2013), and Philippines (43%) (Bell\net al., 2003). However, it was higher than that reported in Bahir\nDar Ethiopia 24.8% (Alebel et al., 2021), India 35.2%(Oberoi\net al., 2013), France (25%) (Baron et al., 2013), Nepal (28.2%)\n(Kayastha et al., 2020), Qatar (26%) (Sid Ahmed et al., 2016), and\nIndia (21.4%) (Gupta et al., 2016). In some of this study since\ncompared to the aforementioned studies or for ESBL-producing\nEnterobacteriaceae, colistin was an alternative treatment only in\nthe study area, however carbapenemase are not used as treatment\n(Katip et al., 2021).\nIn this study among Enterobacteriaceae, E. coli 29/100 (29.0%)\nwas the predominant isolate associated with surgical site infection,\nfollowed by K. pneumoniae 14/100 (14%), K. oxytoca 8/100(8%),\nE. clocae 6/100 (6%) and C. freundii 4/100 (4%). This is supported\nby various ﬁndings in Africa, Uganda, Algeria, Brazil (Iabadene\net al., 2008; Andrew et al., 2017; Ibrahim et al., 2013; Pollack\nand Srinivasan, 2014) and Mexico (Uc-Cachón et al., 2019). These\nﬁndings revealed that Enterobacteriaceae isolates were the most\ncommon hospital-acquired infections.\nIn our study, the prevalence of carbapenemase producing\nEnterobacteriaceae isolates was 15%, which agreed with the\nresearch conducted in Taiwan, (15.4%) (Chang et al., 2015)\nIndonesia (13.7%) (Saharman and Lestari, 2013). This ﬁnding is\nhigher than that study conducted in Bahir Dar, Ethiopia (5.2%)\n(Alebel et al., 2021), Addis Ababa Ethiopia (2%) (Beyene et al.,\n2019), and CDC reports from (2001) (1.2%) and 2011 (4.2%)\n(Ramana et al., 2013); however, our ﬁndings were lower than those\nreported in Nigeria (36%) (Pollack and Srinivasan, 2014), India\n(34.5%) (Oberoi et al., 2013), and 44.1% (Makharita et al., 2020).\nThis may be attributed to the rapid expansion of CPE-producing\norganisms or misuse of antibiotics.\nThe\nmost\ncommon\ncarbapenemase\nproducing\nEnterobacteriaceae isolates in our study were K. pneumoniae\n(46.7 %), followed by E. coli (26.7%) and K. oxytoca (13.3%).\nA similar ﬁnding in Nigeria E. coli 15.4% and K. pneumoniae\n40.9% (Pollack and Srinivasan, 2014), and Tanzania E. coli\n(14%), followed by K. pneumoniae (10.57%) are carbapenemase-\nproducing Enterobacteriaceae (Mushi et al., 2014). In this study,\nthe most common carbapenemases were MBL 2 (13.3%), KPC\nplus MBL 1 (6.7%) and on the other side, AmpC plus porin loss\n12 (80%). These ﬁndings are in line those study conducted on\nUSA isolates produced KPC 36 (28%), MBL 31 (24.2%), KPC\nplus MBL 4 (3.1%), ESBL 19 (14.8), AmpC 10 (7.8%) (van Dijk\net al., 2014). A similar study in India showed MBL producers\n"
+  },
+  {
+    "page": 9,
+    "block_no": 14,
+    "block_type": 0,
+    "bbox": [
+      49.698001861572266,
+      801.1773071289062,
+      545.5845947265625,
+      808.151123046875
+    ],
+    "text": "Frontiers in Microbiology\n09\nfrontiersin.org\n"
+  },
+  {
+    "page": 10,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      49.698001861572266,
+      35.151302337646484,
+      545.7677001953125,
+      42.125152587890625
+    ],
+    "text": "Odoko et al.\n10.3389/fmicb.2024.1417425\n"
+  },
+  {
+    "page": 10,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      49.697052001953125,
+      82.0975570678711,
+      290.62896728515625,
+      775.09765625
+    ],
+    "text": "were 10.98% similar to this study (Kumar et al., 2012), while\nAmpC production was observed in 5.4% (Oberoi et al., 2013),\nwhich is much less than our ﬁndings. This shows that in our\nstudy, plasmid and transposon-mediated gene transfer was more\ncommon in our isolates than in the Indian study. This is may\nbe due to variation of geographical location and use of sample\nsize amount. The coexistence of diﬀerent classes of β-lactamases\nin a single bacterial isolate may pose diagnostic and treatment\nchallenges, although high-level expression of AmpC β-lactamases\nmay mask the recognition of ESBLs, which may result in more\ndiﬃcult antimicrobial therapy (Oberoi et al., 2013).\nThe current study showed that Enterobacteriaceae had higher\nantibiotic resistance rates of for cefepime (91.8%), ceftriaxone\n(95.1%), ceftazidime (91.8%), and amoxicillin-clavulanic acid\n(98.4%). However, Enterobacteriaceae isolates showed relatively\nhigh sensitivity to Meropenem 44 (72.1%). On the other hand,\nhigh percentages of resistance were obtained, gentamicin: 39\n(63.9%) and ciproﬂoxacin: 43 (70.5%), respectively. This ﬁnding is\nconsistent with that study conducted in Nepal on cefepime (86.2%),\nceftriaxone (100%), and ceftazidime (100%) were resistance\n(Beyene et al., 2019). Similarly to studies conducted in Ethiopia,\namoxicillin/clavulanic acid 75% and cefotaxime (73.7%) were\nfound to be resistant to Enterobacteriaceae isolates (Dessie et al.,\n2016).\nIn the current study, MDR rate of Enterobacteriaceae isolates\nwas 41% (showing resistance to at least one agent in ≥3\nantimicrobial categories) among patients suspected of surgical site\ninfection, 47.5% (showing resistance at least to one agent in all but\ntwo or fewer antimicrobial categories) XDR, and 4.9% (showing\nresistance to all agents in all antimicrobial categories) PDR were\nresistant, respectively. Among the Enterobacteriaceae isolates, E.\ncoli, 48.3% MDR, 37.9% XDR, 3.4% PDR, K. pneumoniae 21.4%\nMDR, 71.4% XDR, 7.1% of PDR, K. oxytoca 37.5% MDR, 50%\nXDR, 12.5% PDR, E. clocae 66.7% MDR, 16.7% XDR, C. freundii\n25% MDR, 75% XDR were developed resistance, while the study\nin Jimma, Ethiopia showed MDR 30.16%, XDR 41.27%, and\nPDR 19.0% were found (Mama et al., 2014; Gashaw et al.,\n2018), there are few previous reports from Ethiopia on XDR and\nPDR Enterobacteriaceae to compare with this ﬁnding, which has\nbeen associated with lack of AMR surveillance and stewardship\nprograms at WSUCSH and SCGH and also in southern Ethiopia.\nFactors associated with surgical site infection with ESBL\nand CPE-producing Enterobacteriaceae included indicators of\ncontact with the health care system (length of hospital stay,\nimmunosuppressive drug (long-term steroid; Livermore et al.,\n2011), patient admitted wards, educational level, and the presence\nof comorbidities). Four variables of associated factors were\nindependently predictive of ESBL positivity as showed P-value\nof < 0.25 by univariate analysis: age in group 31–45 years,\nimmunosuppressive drug use (long-term steroid), length of\nhospital stay, and diabetes. Among them, only the length of hospital\nstay was independently associated with the multivariate logistic\nregression analysis, which showed a signiﬁcant association. This\nstudy was supported by a previous study conducted in Israel\n(Mendelson et al., 2005). The increased odds of our ﬁnding was\nthat the presence of predisposing conditions such as surgical\nintervention was signiﬁcantly associated with ESBL producers (P <\n0.05) compared with a short length of hospital stay, which is similar\n"
+  },
+  {
+    "page": 10,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      304.6408996582031,
+      82.0975570678711,
+      545.5713500976562,
+      127.09982299804688
+    ],
+    "text": "to a study conducted in Debra Markos, Ethiopia (Alebel et al.,\n2021). In this study, the remaining variables were not signiﬁcantly\nassociated with surgical site infections caused by ESBL-producing\nEnterobacteriaceae (P >0.05; Table 6).\n"
+  },
+  {
+    "page": 10,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      304.6409912109375,
+      152.6227569580078,
+      500.5116882324219,
+      164.57785034179688
+    ],
+    "text": "Strength and limitation of the study\n"
+  },
+  {
+    "page": 10,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      304.6405029296875,
+      179.27955627441406,
+      545.5720825195312,
+      464.28314208984375
+    ],
+    "text": "This\nstudy\nhas\nseveral\nadvantages.\nIt\nprovides\nuseful\ninformation about the prevalence and antimicrobial susceptibility\ntrends of potentially pathogenic Enterobacteriaceae in hospital\nsettings, especially in SSI cases. This study also found the\npresence of multidrug-resistant bacteria, including ESBLs and\ncarbapenemase-producing strains, which are extremely dangerous\nin healthcare settings. Drug susceptibility testing for nine\nantibiotics including extended-spectrum cephalosporins; 3rd and\n4th generation cephalosporins, carbapenemase plus combination\ndisks like Meropenem 10 µg, Meropenem+Phenolboroic acid,\nMeropenem+Dipicolonic acid, Meropenem +Cloxacillin, and\nTemocillin 30 µg was tested. This study had a drawback, although\nit was conducted in a two hospital, which might not be an\naccurate representation of other hospitals in the country level.\nAnaerobic and slow-growing bacteria were not considered\nin this study. Ultimately, the results of the study were a low\nnumber of Enterobacteriaceae isolates, which resulted in a low\nnumber of ESBL and CPE that might have aﬀected the ﬁndings\nof the risk factors. Additionally, the study was limited by the\navailable resources and time frame for research that makes\nidentiﬁcation of ESBL- and carbapenemase-producing strains\nby phenotypically only even if it is recommended to perform\ndetection by molecular biology techniques for identiﬁcation of\nESBL- and carbapenemase-producing strains.\n"
+  },
+  {
+    "page": 10,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      304.6409912109375,
+      486.1490478515625,
+      514.0994873046875,
+      499.5986328125
+    ],
+    "text": "Conclusion and recommendation\n"
+  },
+  {
+    "page": 10,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      304.64068603515625,
+      513.9805908203125,
+      545.5718994140625,
+      774.9837036132812
+    ],
+    "text": "Enterobacteriaceae were present in all SSIs at a rate of 23.7%\n(100/422). E. coli predominated, followed by K. pneumoniae,\nwith a total prevalence of 46% for ESBL and 15% for CPE. It\nwas concerning to see the high rates of MDR and XDR ESBL\nand carbapenem resistance. According to the study’s ﬁndings,\na hospital stay’s duration signiﬁcantly aﬀects the risk of site\ninfection. When making decisions about the high prevalence of\nMDR Enterobacteriaceae in relation to antibiotics like cefepime,\nceftriaxone, ceftazidime, and amoxicillin-clavulanic acid, empirical\ntreatment should be taken into account. On the other hand,\nthorough instruction, referral, and standard hospital procedures\nhelp avoid or manage surgical site infections. When choosing\nthe optimal antimicrobial agents for patients with infections\ncaused by ESBL Enterobacteriaceae and CRE in southern Ethiopia,\nphysicians can make informed decisions about public health thanks\nto the documented data presented in this study. Therefore, in\norder to address this public health issue, stakeholders involved\nin Ethiopia’s health system must work cooperatively. And also,\nappropriate antibiotic prescribing practices and avoidance of\nbroad spectrum antibiotics can prevent long-term emergence of\nresistance. Additionally, more investigation is required to fully\nunderstand the implications of Enterobacteriaceae that produce\n"
+  },
+  {
+    "page": 10,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      49.698001861572266,
+      801.1773071289062,
+      545.5845947265625,
+      808.151123046875
+    ],
+    "text": "Frontiers in Microbiology\n10\nfrontiersin.org\n"
+  },
+  {
+    "page": 11,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      49.698001861572266,
+      35.151302337646484,
+      545.7677001953125,
+      42.125152587890625
+    ],
+    "text": "Odoko et al.\n10.3389/fmicb.2024.1417425\n"
+  },
+  {
+    "page": 11,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      49.697998046875,
+      79.31044006347656,
+      535.619873046875,
+      95.25731658935547
+    ],
+    "text": "TABLE 6 Bivariate and multivariate logistic regression analysis on socio demographic and clinical condition of the patients suspected for surgical site\ninfection at Hospitals in Southern Ethiopia, from Jun 1, 2022 to August 30, 2022 (n = 422).\n"
+  },
+  {
+    "page": 11,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      56.12379837036133,
+      108.45938110351562,
+      319.3919982910156,
+      135.35385131835938
+    ],
+    "text": "Variables\nCategories\nConﬁrmed surgical site\ninfection due to ESB\nproducing Enterobacteriaceae\n"
+  },
+  {
+    "page": 11,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      363.59100341796875,
+      108.45938110351562,
+      525.41162109375,
+      126.38980865478516
+    ],
+    "text": "Bivariate\nMultivariate logistic\nregression\n"
+  },
+  {
+    "page": 11,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      202.48199462890625,
+      139.80950927734375,
+      370.9340515136719,
+      159.56344604492188
+    ],
+    "text": "Yes N (%)\nNo N (%)\nCOR\n(95% CI)\n"
+  },
+  {
+    "page": 11,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      392.9939880371094,
+      139.80950927734375,
+      480.6796875,
+      159.56344604492188
+    ],
+    "text": "P-value\nAOR\n(95% CI)\n"
+  },
+  {
+    "page": 11,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      502.739990234375,
+      139.80950927734375,
+      534.4557495117188,
+      150.59976196289062
+    ],
+    "text": "P-value\n"
+  },
+  {
+    "page": 11,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      56.12379837036133,
+      168.1059112548828,
+      524.4115600585938,
+      175.07977294921875
+    ],
+    "text": "Age in years\n5–30\n16 (25.8)\n46 (74.2)\n1.00\n1.00\n1.00\n1.00\n"
+  },
+  {
+    "page": 11,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      145.00799560546875,
+      183.3518829345703,
+      368.8299865722656,
+      199.289794921875
+    ],
+    "text": "31–44\n72 (32.1)\n152 (67.9)\n1.36\n(0.72,2.57)\n"
+  },
+  {
+    "page": 11,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      401.3550109863281,
+      183.3518829345703,
+      478.57598876953125,
+      199.289794921875
+    ],
+    "text": "0.120\n1.51\n(0.79,2.88)\n"
+  },
+  {
+    "page": 11,
+    "block_no": 10,
+    "block_type": 0,
+    "bbox": [
+      512.7750244140625,
+      183.3518829345703,
+      524.4115600585938,
+      190.32574462890625
+    ],
+    "text": "0.34\n"
+  },
+  {
+    "page": 11,
+    "block_no": 11,
+    "block_type": 0,
+    "bbox": [
+      145.00799560546875,
+      207.56190490722656,
+      368.8299865722656,
+      223.49981689453125
+    ],
+    "text": "45–96\n31 (22.8)\n105 (77.2)\n0.85\n(0.42,1.70)\n"
+  },
+  {
+    "page": 11,
+    "block_no": 12,
+    "block_type": 0,
+    "bbox": [
+      401.3550109863281,
+      207.56190490722656,
+      478.57598876953125,
+      223.49981689453125
+    ],
+    "text": "0.061\n0.92\n(0.45,1.85)\n"
+  },
+  {
+    "page": 11,
+    "block_no": 13,
+    "block_type": 0,
+    "bbox": [
+      511.10101318359375,
+      207.56190490722656,
+      526.0855712890625,
+      214.5357666015625
+    ],
+    "text": "0.050\n"
+  },
+  {
+    "page": 11,
+    "block_no": 14,
+    "block_type": 0,
+    "bbox": [
+      56.12379837036133,
+      232.16786193847656,
+      368.8299865722656,
+      248.10540771484375
+    ],
+    "text": "Wards\nOrthopedic\n56 (25.3)\n165 (74.7)\n1.03\n(0.59,1.82)\n"
+  },
+  {
+    "page": 11,
+    "block_no": 15,
+    "block_type": 0,
+    "bbox": [
+      401.3550109863281,
+      232.16786193847656,
+      478.57598876953125,
+      248.10540771484375
+    ],
+    "text": "0.048\n1.15\n(0.64,2.05)\n"
+  },
+  {
+    "page": 11,
+    "block_no": 16,
+    "block_type": 0,
+    "bbox": [
+      511.10101318359375,
+      232.16786193847656,
+      526.0855712890625,
+      239.1417236328125
+    ],
+    "text": "0.070\n"
+  },
+  {
+    "page": 11,
+    "block_no": 17,
+    "block_type": 0,
+    "bbox": [
+      142.281005859375,
+      256.3778991699219,
+      368.8299865722656,
+      272.3157958984375
+    ],
+    "text": "Surgical\n41 (36.6)\n71 (63.4)\n1.76\n(0.95,3.26)\n"
+  },
+  {
+    "page": 11,
+    "block_no": 18,
+    "block_type": 0,
+    "bbox": [
+      401.3550109863281,
+      256.3778991699219,
+      478.57598876953125,
+      272.3157958984375
+    ],
+    "text": "0.095\n1.94\n(1.04,3.65)\n"
+  },
+  {
+    "page": 11,
+    "block_no": 19,
+    "block_type": 0,
+    "bbox": [
+      511.10101318359375,
+      256.3778991699219,
+      526.0855712890625,
+      263.35174560546875
+    ],
+    "text": "0.105\n"
+  },
+  {
+    "page": 11,
+    "block_no": 20,
+    "block_type": 0,
+    "bbox": [
+      139.77000427246094,
+      280.5879211425781,
+      524.4115600585938,
+      287.561767578125
+    ],
+    "text": "Obis/Gyn\n22 (24.7)\n67 (75.3)\n1.00\n1.00\n1.00\n1.00\n"
+  },
+  {
+    "page": 11,
+    "block_no": 21,
+    "block_type": 0,
+    "bbox": [
+      56.12379837036133,
+      296.2298889160156,
+      106.61419677734375,
+      312.16778564453125
+    ],
+    "text": "Length of medical\nstay in hospital\n"
+  },
+  {
+    "page": 11,
+    "block_no": 22,
+    "block_type": 0,
+    "bbox": [
+      141.3090057373047,
+      296.2298889160156,
+      524.4115600585938,
+      303.2037353515625
+    ],
+    "text": "1–7 days\n24 (17.5)\n113 (82.5)\n1.00\n1.00\n1.00\n1.00\n"
+  },
+  {
+    "page": 11,
+    "block_no": 23,
+    "block_type": 0,
+    "bbox": [
+      140.91299438476562,
+      320.4399108886719,
+      368.8299865722656,
+      336.3778076171875
+    ],
+    "text": "8–14 day\n57 (38.8)\n90 (61.2)\n1.67\n(1.01,2.75)\n"
+  },
+  {
+    "page": 11,
+    "block_no": 24,
+    "block_type": 0,
+    "bbox": [
+      401.3550109863281,
+      320.4399108886719,
+      479.6222839355469,
+      336.3778076171875
+    ],
+    "text": "0.001\n3.81\n(2.08,6.95)∗\n"
+  },
+  {
+    "page": 11,
+    "block_no": 25,
+    "block_type": 0,
+    "bbox": [
+      510.73199462890625,
+      319.946044921875,
+      526.4410400390625,
+      326.9198913574219
+    ],
+    "text": "0.010\n"
+  },
+  {
+    "page": 11,
+    "block_no": 26,
+    "block_type": 0,
+    "bbox": [
+      140.39999389648438,
+      342.966796875,
+      368.82958984375,
+      360.5874328613281
+    ],
+    "text": ">15 days\n38 (27.5)\n100 (72.5)\n1.79\n(1.01,3.19)\n"
+  },
+  {
+    "page": 11,
+    "block_no": 27,
+    "block_type": 0,
+    "bbox": [
+      401.3550109863281,
+      344.64990234375,
+      478.57598876953125,
+      360.5874328613281
+    ],
+    "text": "0.045\n1.83\n(1.01,3.34)\n"
+  },
+  {
+    "page": 11,
+    "block_no": 28,
+    "block_type": 0,
+    "bbox": [
+      510.73199462890625,
+      344.1560363769531,
+      526.4410400390625,
+      351.1298828125
+    ],
+    "text": "0.047\n"
+  },
+  {
+    "page": 11,
+    "block_no": 29,
+    "block_type": 0,
+    "bbox": [
+      56.12379837036133,
+      369.2558898925781,
+      368.82958984375,
+      385.19378662109375
+    ],
+    "text": "Diabetics\nYes\n13 (48.1)\n14 (51.9)\n2.53\n(1.15,5.56)\n"
+  },
+  {
+    "page": 11,
+    "block_no": 30,
+    "block_type": 0,
+    "bbox": [
+      401.3550109863281,
+      369.2558898925781,
+      478.57598876953125,
+      385.19378662109375
+    ],
+    "text": "0.020\n1.91\n(0.77,4.76)\n"
+  },
+  {
+    "page": 11,
+    "block_no": 31,
+    "block_type": 0,
+    "bbox": [
+      511.10101318359375,
+      369.2558898925781,
+      526.0855712890625,
+      376.229736328125
+    ],
+    "text": "0.163\n"
+  },
+  {
+    "page": 11,
+    "block_no": 32,
+    "block_type": 0,
+    "bbox": [
+      149.1479949951172,
+      393.4659118652344,
+      524.4115600585938,
+      400.43975830078125
+    ],
+    "text": "No\n106 (26.8)\n289 (73.2)\n1.00\n1.00\n1.00\n1.00\n"
+  },
+  {
+    "page": 11,
+    "block_no": 33,
+    "block_type": 0,
+    "bbox": [
+      49.697998046875,
+      407.4580383300781,
+      385.56048583984375,
+      422.8977966308594
+    ],
+    "text": "1.00, Reference, COR, crude odds ratio; AOR, adjusted odds ratio; CI, Conﬁdence Interval; Oby/Gyn, Obstetrics and Gynecology.\n∗Statistical signiﬁcance was set at P-value < 0.05.\n"
+  },
+  {
+    "page": 11,
+    "block_no": 34,
+    "block_type": 0,
+    "bbox": [
+      49.69813537597656,
+      433.1518249511719,
+      290.6275939941406,
+      454.148681640625
+    ],
+    "text": "CPE and ESBL and their eﬀects on patients who may be at risk for\nsurgical site infections in diﬀerent hospital with diﬀerent level.\n"
+  },
+  {
+    "page": 11,
+    "block_no": 35,
+    "block_type": 0,
+    "bbox": [
+      49.698001861572266,
+      475.5830383300781,
+      213.37454223632812,
+      489.0326232910156
+    ],
+    "text": "Data availability statement\n"
+  },
+  {
+    "page": 11,
+    "block_no": 36,
+    "block_type": 0,
+    "bbox": [
+      49.697998046875,
+      503.4145812988281,
+      290.627685546875,
+      548.4146118164062
+    ],
+    "text": "The datasets presented in this study can be found in\nonline repositories. The names of the repository/repositories\nand\naccession\nnumber(s)\ncan\nbe\nfound\nin\nthe\narticle/supplementary material.\n"
+  },
+  {
+    "page": 11,
+    "block_no": 37,
+    "block_type": 0,
+    "bbox": [
+      49.698001861572266,
+      569.8489990234375,
+      153.32431030273438,
+      583.2986450195312
+    ],
+    "text": "Ethics statement\n"
+  },
+  {
+    "page": 11,
+    "block_no": 38,
+    "block_type": 0,
+    "bbox": [
+      49.697998046875,
+      597.6805419921875,
+      290.62786865234375,
+      666.6744384765625
+    ],
+    "text": "The studies involving humans were approved by Ethical\nReview Committee (ERC) of the College of Health Science\nand Medicine, Wolaita Sodo University. The studies were\nconducted in accordance with the local legislation and institutional\nrequirements. Written informed consent for participation in this\nstudy was provided by the participants’ legal guardians/next of kin.\n"
+  },
+  {
+    "page": 11,
+    "block_no": 39,
+    "block_type": 0,
+    "bbox": [
+      49.698001861572266,
+      688.1090087890625,
+      179.8783721923828,
+      701.5586547851562
+    ],
+    "text": "Author contributions\n"
+  },
+  {
+    "page": 11,
+    "block_no": 40,
+    "block_type": 0,
+    "bbox": [
+      49.697998046875,
+      715.9405517578125,
+      290.62811279296875,
+      784.9434814453125
+    ],
+    "text": "DO:\nConceptualization,\nData\ncuration,\nFormal\nanalysis,\nFunding\nacquisition,\nInvestigation,\nMethodology,\nProject\nadministration, Resources, Software, Supervision, Validation,\nVisualization, Writing – original draft, Writing – review & editing.\nAK: Conceptualization, Data curation, Formal analysis, Funding\nacquisition, Investigation, Methodology, Project administration,\n"
+  },
+  {
+    "page": 11,
+    "block_no": 41,
+    "block_type": 0,
+    "bbox": [
+      304.6409912109375,
+      433.1514892578125,
+      545.571044921875,
+      622.1531982421875
+    ],
+    "text": "Resources,\nSoftware,\nSupervision,\nValidation,\nVisualization,\nWriting – original draft, Writing – review & editing. GA:\nConceptualization, Data curation, Formal analysis, Funding\nacquisition, Investigation, Methodology, Project administration,\nResources,\nSoftware,\nSupervision,\nValidation,\nVisualization,\nWriting – review & editing. TD: Conceptualization, Data\ncuration, Formal analysis, Funding acquisition, Investigation,\nMethodology,\nProject\nadministration,\nResources,\nSoftware,\nSupervision, Validation, Visualization, Writing – review & editing.\nTM: Conceptualization, Data curation, Formal analysis, Funding\nacquisition, Investigation, Methodology, Project administration,\nResources,\nSoftware,\nSupervision,\nValidation,\nVisualization,\nWriting – review & editing. MT: Conceptualization, Data curation,\nFormal analysis, Funding acquisition, Investigation, Methodology,\nProject\nadministration,\nResources,\nSoftware,\nSupervision,\nValidation, Visualization, Writing – review & editing.\n"
+  },
+  {
+    "page": 11,
+    "block_no": 42,
+    "block_type": 0,
+    "bbox": [
+      304.6409912109375,
+      642.7130126953125,
+      355.2586364746094,
+      656.1626586914062
+    ],
+    "text": "Funding\n"
+  },
+  {
+    "page": 11,
+    "block_no": 43,
+    "block_type": 0,
+    "bbox": [
+      304.6409912109375,
+      670.5445556640625,
+      545.5701904296875,
+      691.5414428710938
+    ],
+    "text": "The author(s) declare that no ﬁnancial support was received for\nthe research, authorship, and/or publication of this article.\n"
+  },
+  {
+    "page": 11,
+    "block_no": 44,
+    "block_type": 0,
+    "bbox": [
+      304.6409912109375,
+      712.1119995117188,
+      420.74609375,
+      725.5616455078125
+    ],
+    "text": "Acknowledgments\n"
+  },
+  {
+    "page": 11,
+    "block_no": 45,
+    "block_type": 0,
+    "bbox": [
+      304.6409912109375,
+      739.9435424804688,
+      545.5714111328125,
+      784.9436645507812
+    ],
+    "text": "We thank Wolaita Sodo University Specialized Hospital and\nSodo Christian General Hospital for providing permission to\nconduct the study. We would also like to thanks Ethiopian\nPublic Health Institutes for providing control organisms, culture\n"
+  },
+  {
+    "page": 11,
+    "block_no": 46,
+    "block_type": 0,
+    "bbox": [
+      49.698001861572266,
+      801.1773071289062,
+      545.5845947265625,
+      808.151123046875
+    ],
+    "text": "Frontiers in Microbiology\n11\nfrontiersin.org\n"
+  },
+  {
+    "page": 12,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      49.698001861572266,
+      35.151302337646484,
+      545.7677001953125,
+      42.125152587890625
+    ],
+    "text": "Odoko et al.\n10.3389/fmicb.2024.1417425\n"
+  },
+  {
+    "page": 12,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      49.697998046875,
+      82.0975570678711,
+      290.6278991699219,
+      151.0921173095703
+    ],
+    "text": "media, reagents, and antimicrobial disks. The authors especially\nthank to Tilahun (2022), doi: 10.20944/preprints202305.2212.v1\nand Temesgen et al. (2023) due to we followed their methods\nin order to receiving some necessary information for our study.\nFinally, all study participants, data collectors, and supervisors\nwere acknowledged.\n"
+  },
+  {
+    "page": 12,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      49.698001861572266,
+      174.74903869628906,
+      166.2921142578125,
+      188.19863891601562
+    ],
+    "text": "Conﬂict of interest\n"
+  },
+  {
+    "page": 12,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      49.697998046875,
+      202.58058166503906,
+      290.62811279296875,
+      223.5774688720703
+    ],
+    "text": "The\nauthors\ndeclare\nthat\nthe\nresearch\nwas\nconducted\nin the absence of any commercial or ﬁnancial relationships\n"
+  },
+  {
+    "page": 12,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      304.6409912109375,
+      83.08748626708984,
+      545.57080078125,
+      104.09339904785156
+    ],
+    "text": "that\ncould\nbe\nconstrued\nas\na\npotential\nconﬂict\nof interest.\n"
+  },
+  {
+    "page": 12,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      304.6409912109375,
+      125.08705139160156,
+      403.6895751953125,
+      138.53665161132812
+    ],
+    "text": "Publisher’s note\n"
+  },
+  {
+    "page": 12,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      304.6409912109375,
+      152.91859436035156,
+      545.5713500976562,
+      221.9218292236328
+    ],
+    "text": "All claims expressed in this article are solely those of the\nauthors and do not necessarily represent those of their aﬃliated\norganizations, or those of the publisher, the editors and the\nreviewers. Any product that may be evaluated in this article, or\nclaim that may be made by its manufacturer, is not guaranteed or\nendorsed by the publisher.\n"
+  },
+  {
+    "page": 12,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      49.698001861572266,
+      262.5080261230469,
+      119.1734619140625,
+      275.9576110839844
+    ],
+    "text": "References\n"
+  },
+  {
+    "page": 12,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      49.697265625,
+      291.1942138671875,
+      290.63525390625,
+      322.3759765625
+    ],
+    "text": "Alebel, M., Mekonnen, F., and Mulu, W. (2021). Extended-spectrum β-lactamase\nand carbapenemase producing gram-negative bacilli infections among patients in\nintensive care units of felegehiwot referral hospital: a prospective cross-sectional study.\nInfect. Drug Resist. 14, 391–405. doi: 10.2147/IDR.S292246\n"
+  },
+  {
+    "page": 12,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      49.697357177734375,
+      327.35223388671875,
+      290.62432861328125,
+      350.2666320800781
+    ],
+    "text": "Andrew, B., Kagirita, A., and Bazira, J. (2017). Prevalence of extended-\nspectrum beta-lactamases-producing microorganisms in patients admitted at KRRH,\nSouthwestern Uganda. Int. J. Microbiol. 2017:3183076. doi: 10.1155/2017/3183076\n"
+  },
+  {
+    "page": 12,
+    "block_no": 10,
+    "block_type": 0,
+    "bbox": [
+      49.69744873046875,
+      355.252197265625,
+      290.6344299316406,
+      386.12994384765625
+    ],
+    "text": "Ban, K. A., Minei, J. P., Laronga, C., Harbrecht, B. G., Jensen, E. H., Fry,\nD. E., et al. (2017). American college of surgeons and surgical infection society:\nsurgical site infection guidelines, 2016 update. J. Am. Coll. Surg. 224, 59–74.\ndoi: 10.1016/j.jamcollsurg.2016.10.029\n"
+  },
+  {
+    "page": 12,
+    "block_no": 11,
+    "block_type": 0,
+    "bbox": [
+      49.697509765625,
+      391.11700439453125,
+      290.6325378417969,
+      429.9689636230469
+    ],
+    "text": "Baron, E. J., Miller, J. M., Weinstein, M. P., Richter, S. S., Gilligan, P. H., Thomson,\nR. B., et al. (2013). A guide to utilization of the microbiology laboratory for diagnosis\nof infectious diseases: 2013 recommendations by the infectious diseases society of\nAmerica (IDSA) and the American Society for Microbiology (ASM). Clin. Infect. Dis.\n57:cit441. doi: 10.1093/cid/cit441\n"
+  },
+  {
+    "page": 12,
+    "block_no": 12,
+    "block_type": 0,
+    "bbox": [
+      49.69755554199219,
+      434.9471130371094,
+      290.6385498046875,
+      465.8357238769531
+    ],
+    "text": "Batchelor, M., Hopkins, K. L., Liebana, E., Slickers, P., Ehricht, R., Mafura, M.,\net al. (2008). Development of a miniaturised microarray-based assay for the rapid\nidentiﬁcation of antimicrobial resistance genes in Gram-negative bacteria. Int. J.\nAntimicrob. Agents 31, 440–451. doi: 10.1016/j.ijantimicag.2007.11.017\n"
+  },
+  {
+    "page": 12,
+    "block_no": 13,
+    "block_type": 0,
+    "bbox": [
+      49.6978759765625,
+      470.8208923339844,
+      290.6284484863281,
+      501.7005310058594
+    ],
+    "text": "Bell, J. M., Turnidge, J. D., and Jones, R. N. (2003). Prevalence of extended-spectrum\nβ-lactamase-producing enterobacter cloacae in the Asia-Paciﬁc Region: results from\nthe SENTRY Antimicrobial Surveillance Program, 1998 to 2001. Antimicrob. Agents\nChemother. 47, 3989–3993. doi: 10.1128/AAC.47.12.3989-3993.2003\n"
+  },
+  {
+    "page": 12,
+    "block_no": 14,
+    "block_type": 0,
+    "bbox": [
+      49.69793701171875,
+      506.68609619140625,
+      290.62933349609375,
+      545.53955078125
+    ],
+    "text": "Beyene, D., Bitew, A., Fantew, S., Mihret, A., and Evans, M. (2019). Multidrug-\nresistant proﬁle and prevalence of extended spectrum β-lactamase and carbapenemase\nproduction in fermentative Gram-negative bacilli recovered from patients and\nspecimens referred to National Reference Laboratory, Addis Ababa, Ethiopia. PLoS\nONE 14:e0222911. doi: 10.1371/journal.pone.0222911\n"
+  },
+  {
+    "page": 12,
+    "block_no": 15,
+    "block_type": 0,
+    "bbox": [
+      49.69792175292969,
+      550.5158081054688,
+      290.635986328125,
+      581.4028930664062
+    ],
+    "text": "Cantón, R., Novais, A., Valverde, A., Machado, E., Peixe, L., Baquero,\nF., et al. (2008). Prevalence and spread of extended-spectrum β-lactamase-\nproducing Enterobacteriaceae in Europe. Clin. Microbiol. Infect. 14(Suppl.1), 144–153.\ndoi: 10.1111/j.1469-0691.2007.01850.x\n"
+  },
+  {
+    "page": 12,
+    "block_no": 16,
+    "block_type": 0,
+    "bbox": [
+      49.69798278808594,
+      586.3810424804688,
+      290.6340026855469,
+      617.267822265625
+    ],
+    "text": "Carvalhaes, C. G., Picão, R. C., Nicoletti, A. G., Xavier, D. E., and Gales, A. C.\n(2009). Cloverleaf test (modiﬁed Hodge test) for detecting carbapenemase production\nin Klebsiella pneumoniae: be aware of false positive results. J Antimicrob Chemother. 65,\n249–251. doi: 10.1093/jac/dkp431\n"
+  },
+  {
+    "page": 12,
+    "block_no": 17,
+    "block_type": 0,
+    "bbox": [
+      49.69810485839844,
+      622.2459106445312,
+      290.63818359375,
+      645.1588745117188
+    ],
+    "text": "CDC, T., Report, H. A. I. P., Care, S., and Project, I. (2022). Surgical Site Infection\nEvent (SSI) Introduction: Settings: Requirements. National center for emergency and\nzoonotic infectious diseases. 1–39.\n"
+  },
+  {
+    "page": 12,
+    "block_no": 18,
+    "block_type": 0,
+    "bbox": [
+      49.697540283203125,
+      650.1458740234375,
+      290.6431884765625,
+      688.9978637695312
+    ],
+    "text": "Chang, Y. Y., Chuang, Y. C., Siu, L. K., Wu, T. L., Lin, J. C., Lu, P. L.,\net al. (2015). Clinical features of patients with carbapenem nonsusceptible Klebsiella\npneumoniae and Escherichia coli in intensive care units: a nationwide multicenter\nstudy in Taiwan. J. Microbiol. Immunol. Infect. 48, 219–225. doi: 10.1016/j.jmii.2014.\n05.010\n"
+  },
+  {
+    "page": 12,
+    "block_no": 19,
+    "block_type": 0,
+    "bbox": [
+      49.697601318359375,
+      693.9760131835938,
+      290.63470458984375,
+      716.8998413085938
+    ],
+    "text": "Cury, A. P., Andreazzi, D., Maﬀucci, M., Caiaﬀa-Junior, H. H., and Rossi, F.\n(2012). The modiﬁed Hodge test is a useful tool for ruling out Klebsiella pneumoniae\ncarbapenemase. Clinics 67, 1427–1431. doi: 10.6061/clinics/2012(12)13\n"
+  },
+  {
+    "page": 12,
+    "block_no": 20,
+    "block_type": 0,
+    "bbox": [
+      49.69759750366211,
+      721.8760375976562,
+      290.6352233886719,
+      736.816650390625
+    ],
+    "text": "Date, A. (2018). Modiﬁed Hodge Test for Suspected Carbapenemase Production in\nEnterobacterales. Clinical and Laboratory Standards Institute Archived Methods, 2–4.\n"
+  },
+  {
+    "page": 12,
+    "block_no": 21,
+    "block_type": 0,
+    "bbox": [
+      49.697601318359375,
+      741.8021850585938,
+      290.6437683105469,
+      772.68896484375
+    ],
+    "text": "Dessie, W., Mulugeta, G., Fentaw, S., Mihret, A., Hassen, M., Abebe, E., et al.\n(2016). Pattern of bacterial pathogens and their susceptibility isolated from surgical\nsite infections at selected referral hospitals-Ethiopia. Int. J. Microbiol. 2016:2418902.\ndoi: 10.1155/2016/2418902\n"
+  },
+  {
+    "page": 12,
+    "block_no": 22,
+    "block_type": 0,
+    "bbox": [
+      304.64056396484375,
+      291.4871520996094,
+      545.5743408203125,
+      314.4019775390625
+    ],
+    "text": "Egbe, C. A., Omoregie, R., Igbarumah, I. O., and Onemu, S. (2011). Microbiology of\nwound infections and its associated risk factors among patients of a Tertiary hospital\nin Benin City, Nigeria. JRHS 11, 109–113.\n"
+  },
+  {
+    "page": 12,
+    "block_no": 23,
+    "block_type": 0,
+    "bbox": [
+      304.64056396484375,
+      319.3871154785156,
+      545.5820922851562,
+      350.2667541503906
+    ],
+    "text": "Farzana, R., Shamsuzzaman, S. M., Mamun, K. Z., and Shears, P. (2013).\nAntimicrobial susceptibility pattern of extended spectrum β-lactamase producing\ngram-negative bacteria isolated from wound and urine in a tertiary care hospital, Dhaka\nCity, Bangladesh. Southeast Asian J. Trop. Med. Publ. Health 44, 96–103.\n"
+  },
+  {
+    "page": 12,
+    "block_no": 24,
+    "block_type": 0,
+    "bbox": [
+      304.6403503417969,
+      355.2523193359375,
+      545.5792846679688,
+      394.1038818359375
+    ],
+    "text": "Gashaw, M., Berhane, M., Bekele, S., Kibru, G., Teshager, L., Yilma, Y., et al.\n(2018). Emergence of high drug resistant bacterial isolates from patients with\nhealth care associated infections at Jimma University medical center: a cross\nsectional study. Antimicrob. Resist. Infect. Control 18, 1–8. doi: 10.1186/s13756-018\n-0431-0\n"
+  },
+  {
+    "page": 12,
+    "block_no": 25,
+    "block_type": 0,
+    "bbox": [
+      304.6404113769531,
+      399.08203125,
+      545.571533203125,
+      422.00579833984375
+    ],
+    "text": "Ghafourian, S., Sadeghifard, N., Soheili, S., and Sekawi, Z. (2014). Extended\nspectrum beta-lactamases: deﬁnition, classiﬁcation and epidemiology. Curr. Iss. Mol.\nBiol. 17, 11–22.\n"
+  },
+  {
+    "page": 12,
+    "block_no": 26,
+    "block_type": 0,
+    "bbox": [
+      304.6404724121094,
+      426.9820556640625,
+      545.5963134765625,
+      449.8968505859375
+    ],
+    "text": "Giske, C. G., and Cantón, R. (2013). European Committee on Antimicrobial\nSusceptibility Testing Guidelines for Detection of Resistance Mechanisms and Speciﬁc\nResistances of Clinical and/or Epidemiological Importance, Version 1. 1–40.\n"
+  },
+  {
+    "page": 12,
+    "block_no": 27,
+    "block_type": 0,
+    "bbox": [
+      304.6402587890625,
+      454.87310791015625,
+      545.57763671875,
+      493.7359313964844
+    ],
+    "text": "Giske, C. G., Gezelius, L., Samuelsen, A., Warner, M., Sundsfjord, A., and\nWoodford, N. (2011). A sensitive and speciﬁc phenotypic assay for detection of\nmetallo-β-lactamases and KPC in Klebsiella pneumoniae with the use of meropenem\ndisks supplemented with aminophenylboronic acid, dipicolinic acid and cloxacillin.\nClin. Microbiol. Infect. 17, 552–556. doi: 10.1111/j.1469-0691.2010.03294.x\n"
+  },
+  {
+    "page": 12,
+    "block_no": 28,
+    "block_type": 0,
+    "bbox": [
+      304.64019775390625,
+      498.7121887207031,
+      545.5762329101562,
+      537.5641479492188
+    ],
+    "text": "Gupta, R., Malik, A., Rizvi, M., and Ahmed, M. (2016). Presence of metallo-\nbeta-lactamases (MBL), extended-spectrum beta-lactamase (ESBL) & AmpC positive\nnon-fermenting gram-negative bacilli among intensive care unit patients with special\nreference to molecular detection of blaCTX-M & blaAmpC genes. Indian J. Med. Res.\n144, 271–275. doi: 10.4103/0971-5916.195043\n"
+  },
+  {
+    "page": 12,
+    "block_no": 29,
+    "block_type": 0,
+    "bbox": [
+      304.64013671875,
+      542.5512084960938,
+      545.57666015625,
+      573.428955078125
+    ],
+    "text": "Hello, M., Caroﬀ, N., Jacqueline, C., Caillon, J., Potel, G., Batard, E., et al.\n(2010). Inﬂuence of the AtlE autolysin on the activity of cell wall-active\nagents against Staphylococcus epidermidis. Int. J. Antimicrob. Agents 35, 204–206.\ndoi: 10.1016/j.ijantimicag.2009.09.026\n"
+  },
+  {
+    "page": 12,
+    "block_no": 30,
+    "block_type": 0,
+    "bbox": [
+      304.6394348144531,
+      578.4159545898438,
+      545.5770263671875,
+      625.2421875
+    ],
+    "text": "Hoban, D. J., Lascols, C., Nicolle, L. E., Badal, R., Bouchillon, S., Hackel,\nM., et al. (2012). Antimicrobial susceptibility of Enterobacteriaceae, including\nmolecular characterization of extended-spectrum beta-lactamase-producing species,\nin urinary tract isolates from hospitalized patients in North America and\nEurope: results from the SMART study. Diagn. Microbiol. Infect. Dis. 74:627.\ndoi: 10.1016/j.diagmicrobio.2012.05.024\n"
+  },
+  {
+    "page": 12,
+    "block_no": 31,
+    "block_type": 0,
+    "bbox": [
+      304.63946533203125,
+      630.2202758789062,
+      545.5759887695312,
+      653.1351318359375
+    ],
+    "text": "Iabadene, H., Messai, Y., Ammari, H., Ramdani-Bouguessa, N., Lounes, S., Bakour,\nR., et al. (2008). Dissemination of ESBL and Qnr determinants in Enterobacter cloacae\nin Algeria. J. Antimicrob. Chemother. 62, 133–136. doi: 10.1093/jac/dkn145\n"
+  },
+  {
+    "page": 12,
+    "block_no": 32,
+    "block_type": 0,
+    "bbox": [
+      304.6396789550781,
+      658.1113891601562,
+      545.578369140625,
+      681.03515625
+    ],
+    "text": "Ibrahim, M. E., Bilal, N. E., Magzoub, M. A., and Hamid, M. E. (2013). Prevalence\nof extended-spectrum β-lactamases-producing Escherichia coli from hospitals in\nKhartoum State, Sudan. Oman. Med. J. 28, 116–120. doi: 10.5001/omj.2013.30\n"
+  },
+  {
+    "page": 12,
+    "block_no": 33,
+    "block_type": 0,
+    "bbox": [
+      304.6398010253906,
+      686.0114135742188,
+      545.5894775390625,
+      716.9000854492188
+    ],
+    "text": "Jolivet, S., Lescure, F. X., Armand-Lefevre, L., Raﬀoul, R., Dilly, M. P., Ghodbane,\nW., et al. (2018). Surgical site infection with extended-spectrum β-lactamase-producing\nEnterobacteriaceae after cardiac surgery: incidence and risk factors. Clin. Microbiol.\nInfect. 24, 283–288. doi: 10.1016/j.cmi.2017.07.004\n"
+  },
+  {
+    "page": 12,
+    "block_no": 34,
+    "block_type": 0,
+    "bbox": [
+      304.64019775390625,
+      721.8762817382812,
+      545.5765991210938,
+      744.7911376953125
+    ],
+    "text": "Katip, W., Yoodee, J., Uitrakul, S., and Oberdorfer, P. (2021). Eﬃcacy of loading\ndose colistin versus carbapenems for treatment of extended spectrum beta lactamase\nproducing Enterobacteriaceae. Sci. Rep. 11, 1–8. doi: 10.1038/s41598-020-78098-4\n"
+  },
+  {
+    "page": 12,
+    "block_no": 35,
+    "block_type": 0,
+    "bbox": [
+      304.64031982421875,
+      749.7673950195312,
+      545.573974609375,
+      772.691162109375
+    ],
+    "text": "Kayastha, K., Dhungel, B., Karki, S., Adhikari, B., Banjara, M. R., Rijal,\nK. R., et al. (2020). Extended-spectrum β-lactamase-producing Escherichia coli\nand Klebsiella species in pediatric patients visiting International Friendship\n"
+  },
+  {
+    "page": 12,
+    "block_no": 36,
+    "block_type": 0,
+    "bbox": [
+      49.698001861572266,
+      802.1760864257812,
+      545.5845947265625,
+      809.14990234375
+    ],
+    "text": "Frontiers in Microbiology\n12\nfrontiersin.org\n"
+  },
+  {
+    "page": 13,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      49.698001861572266,
+      35.151302337646484,
+      545.7677001953125,
+      42.125152587890625
+    ],
+    "text": "Odoko et al.\n10.3389/fmicb.2024.1417425\n"
+  },
+  {
+    "page": 13,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      49.697601318359375,
+      83.58687591552734,
+      290.64263916015625,
+      98.52593231201172
+    ],
+    "text": "Children’s Hospital, Kathmandu, Nepal. Infect. Dis. Res. Treat. 13:117863372090979.\ndoi: 10.1177/1178633720909798\n"
+  },
+  {
+    "page": 13,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      49.6976318359375,
+      103.5129623413086,
+      290.6349792480469,
+      126.42780303955078
+    ],
+    "text": "Khan, M., and Khalil, J. (2011). Rooh-ul-Muqim, Zarin M, Touseef Ul Hassan,\nAhmed N, et al. Rate and risk factors for surgical site infection at a tertiary care facility\nin Peshawar, Pakistan. J. Ayub. Med. Coll. Abbottabad. 23, 15–18.\n"
+  },
+  {
+    "page": 13,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      49.69673156738281,
+      131.40406799316406,
+      290.6417541503906,
+      170.2559814453125
+    ],
+    "text": "Kumalo, A., Gebre, B., Shiferaw, S., Wolde, W., and Shonde, T. (2023).\nGroup\nB\nStreptococci\nrecto-vaginal\ncolonization,\nantimicrobial\nsusceptibility\npattern,\nand\nassociated\nfactors\namong\npregnant\nwomen\nat\nselected\nhealth\nfacilities of Wolaita Sodo Town, Southern Ethiopia. Front. Microbiol. 14:1277928.\ndoi: 10.3389/fmicb.2023.1277928\n"
+  },
+  {
+    "page": 13,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      49.696441650390625,
+      175.2429962158203,
+      290.6326599121094,
+      206.1207275390625
+    ],
+    "text": "Kumar, S. H., De, A. S., Baveja, S. M., and Gore, M. A. (2012). Prevalence and risk\nfactors of metallo β-lactamase producing Pseudomonas aeruginosa and Acinetobacter\nspecies in burns and surgical wards in a Tertiary Care Hospital. J. Lab. Physicians 4,\n039–42. doi: 10.4103/0974-2727.98670\n"
+  },
+  {
+    "page": 13,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      49.69648742675781,
+      211.1077423095703,
+      290.6602783203125,
+      249.95977783203125
+    ],
+    "text": "Livermore, D. M., Warner, M., Mushtaq, S., Doumith, M., Zhang, J., Woodford,\nN., et al. (2011). What remains against carbapenem-resistant Enterobacteriaceae?\nevaluation of chloramphenicol, ciproﬂoxacin, colistin, fosfomycin, minocycline,\nnitrofurantoin, temocillin and tigecycline. Int. J. Antimicrob. Agents 37, 415–419.\ndoi: 10.1016/j.ijantimicag.2011.01.012\n"
+  },
+  {
+    "page": 13,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      49.696441650390625,
+      254.9379425048828,
+      290.6383056640625,
+      285.8265380859375
+    ],
+    "text": "Makharita, R. R., El-Kholy, I., Hetta, H. F., Abdelaziz, M. H., Hagagy, F. I., Ahmed,\nA. A., et al. (2020). Antibiogram and genetic characterization of carbapenem-resistant\ngram-negative pathogens incriminated in healthcare-associated infections. Infect. Drug\nResist. 13, 3991–4002. doi: 10.2147/IDR.S276975\n"
+  },
+  {
+    "page": 13,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      49.696502685546875,
+      290.8028259277344,
+      290.6362609863281,
+      321.69183349609375
+    ],
+    "text": "Mama, M., Abdissa, A., and Sewunet, T. (2014). Antimicrobial susceptibility pattern\nof bacterial isolates from wound infection and their sensitivity to alternative topical\nagents at Jimma University Specialized Hospital, South-West Ethiopia. Ann. Clin.\nMicrobiol. Antimicrob. 13, 1–10. doi: 10.1186/1476-0711-13-14\n"
+  },
+  {
+    "page": 13,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      49.697296142578125,
+      326.6680908203125,
+      290.6374206542969,
+      357.55670166015625
+    ],
+    "text": "Mendelson, G., Hait, V., Ben-Israel, J., Gronich, D., Granot, E., Raz, R., et al.\n(2005). Prevalence and risk factors of extended-spectrum beta-lactamase-producing\nEscherichia coli and Klebsiella pneumoniae in an Israeli long-term care facility. Eur.\nJ. Clin. Microbiol. Infect. Dis. 24, 17–22. doi: 10.1007/s10096-004-1264-8\n"
+  },
+  {
+    "page": 13,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      49.69749450683594,
+      362.5418701171875,
+      290.64471435546875,
+      393.4215087890625
+    ],
+    "text": "Miller, J. M., Binnicker, M. J., Campbell, S., Carroll, K. C., Chapin, K. C., Gilligan, P.\nH., et al. (2018). A guide to utilization of the microbiology laboratory for diagnosis of\ninfectious diseases: 2018 update by the Infectious Diseases Society of America and the\nAmerican Society for Microbiology. Clin. Infect. Dis. 67, e1–94. doi: 10.1093/cid/ciy584\n"
+  },
+  {
+    "page": 13,
+    "block_no": 10,
+    "block_type": 0,
+    "bbox": [
+      49.69769287109375,
+      398.40667724609375,
+      290.6398010253906,
+      437.2586364746094
+    ],
+    "text": "Moges, F., Eshetie, S., Abebe, W., Mekonnen, F., Dagnew, M., Endale,\nA.,\net\nal.\n(2019).\nHigh\nprevalence\nof\nextended-spectrum\nbeta-lactamase-\nproducing\nGram-negative\npathogens\nfrom\npatients\nattending\nFelege\nHiwot\nComprehensive Specialized Hospital, Bahir Dar, Amhara region. PLoS ONE 14,\n1–13. doi: 10.1371/journal.pone.0215177\n"
+  },
+  {
+    "page": 13,
+    "block_no": 11,
+    "block_type": 0,
+    "bbox": [
+      49.697723388671875,
+      442.2367858886719,
+      290.6426696777344,
+      481.0887451171875
+    ],
+    "text": "Mohammed, A., Seid, M. E., Gebrecherkos, T., Tiruneh, M., and Moges,\nF. (2017). Bacterial isolates and their antimicrobial susceptibility patterns of\nwound infections among inpatients and outpatients attending the University of\nGondar Referral Hospital, Northwest Ethiopia. Int. J. Microbiol. 2017:8953829.\ndoi: 10.1155/2017/8953829\n"
+  },
+  {
+    "page": 13,
+    "block_no": 12,
+    "block_type": 0,
+    "bbox": [
+      49.69775390625,
+      486.0758056640625,
+      290.63311767578125,
+      516.9625244140625
+    ],
+    "text": "Mushi, M. F., Mshana, S. E., Imirzalioglu, C., and Bwanga, F. (2014).\nCarbapenemase genes among multidrug resistant gram negative clinical isolates\nfrom a tertiary hospital in Mwanza, Tanzania. Biomed. Res. Int. 2014, 3–8.\ndoi: 10.1155/2014/303104\n"
+  },
+  {
+    "page": 13,
+    "block_no": 13,
+    "block_type": 0,
+    "bbox": [
+      49.69829559326172,
+      521.9406127929688,
+      290.6500549316406,
+      544.8535766601562
+    ],
+    "text": "National, G., and Pillars, H. (2010). Cheesbrough Monica: District Laboratory\nPractice in Tropical Countries Volume II: Microbiology. Cambridge: Cambridge\nUniversity Press, 51, 82–25, 38–39.\n"
+  },
+  {
+    "page": 13,
+    "block_no": 14,
+    "block_type": 0,
+    "bbox": [
+      49.69786071777344,
+      549.8317260742188,
+      290.6357727050781,
+      580.7188110351562
+    ],
+    "text": "Nedjai, S., Barguigua, A., Djahmi, N., Jamali, L., Zerouali, K., Dekhil, M.,\net al. (2013). Prevalence and characterization of extended spectrum beta-lactamase-\nproducing Enterobacter cloacae strains in Algeria. J. Infect. Dev. Ctries 7, 804–811.\ndoi: 10.3855/jidc.3127\n"
+  },
+  {
+    "page": 13,
+    "block_no": 15,
+    "block_type": 0,
+    "bbox": [
+      49.69792175292969,
+      585.6969604492188,
+      290.63427734375,
+      616.5856323242188
+    ],
+    "text": "Nelson, E., Kayega, J., Seni, J., Mushi, M. F., Kidenya, B. R., Hokororo, A., et al.\n(2014). Evaluation of existence and transmission of extended spectrum beta lactamase\nproducing bacteria from post-delivery women to neonates at Bugando Medical Center,\nMwanza-Tanzania. BMC Res. Not. 7, 1–6. doi: 10.1186/1756-0500-7-279\n"
+  },
+  {
+    "page": 13,
+    "block_no": 16,
+    "block_type": 0,
+    "bbox": [
+      49.697998046875,
+      621.2691650390625,
+      290.63885498046875,
+      644.4856567382812
+    ],
+    "text": "Oberoi, L., Singh, N., Sharma, P., and Aggarwal, A. (2013). ESBL, MBL and Ampc β\nlactamases producing superbugs—Havoc in the intensive care units of Punjab India. J.\nClin. Diagnost. Res. 7, 70–73. doi: 10.7860/JCDR/2012/5016.2673\n"
+  },
+  {
+    "page": 13,
+    "block_no": 17,
+    "block_type": 0,
+    "bbox": [
+      49.69810485839844,
+      649.4618530273438,
+      290.643798828125,
+      680.3486328125
+    ],
+    "text": "Pierce, V. M., Simner, P. J., Lonsway, D. R., Roe-Carpenter, D. E., Johnson, J. K.,\nBrasso, W. B., et al. (2017). Modiﬁed carbapenem inactivation method for phenotypic\ndetection of carbapenemase production among Enterobacteriaceae. J. Clin. Microbiol.\n55, 2321–2333. doi: 10.1128/JCM.00193-17\n"
+  },
+  {
+    "page": 13,
+    "block_no": 18,
+    "block_type": 0,
+    "bbox": [
+      49.69883728027344,
+      685.3270874023438,
+      290.639404296875,
+      708.2415161132812
+    ],
+    "text": "Pollack, L. A., and Srinivasan, A. (2014). Core elements of hospital antibiotic\nstewardship programs from the Centers for Disease Control and Prevention. Clin.\nInfect. Dis. 59, S97–S100. doi: 10.1093/cid/ciu542\n"
+  },
+  {
+    "page": 13,
+    "block_no": 19,
+    "block_type": 0,
+    "bbox": [
+      304.6424255371094,
+      83.58675384521484,
+      545.583251953125,
+      114.46674346923828
+    ],
+    "text": "Ramana, K. V., Rao, R., Sharada, C. V., Kareem, M. A., Rajashekar Reddy, L., Ratna\nMani, M. S., et al. (2013). Modiﬁed Hodge test: a useful and the low-cost phenotypic\nmethod for detection of carbapenemase producers in Enterobacteriaceae members. J.\nNat. Sci. Biol. Med. 4, 346–348. doi: 10.4103/0976-9668.117009\n"
+  },
+  {
+    "page": 13,
+    "block_no": 20,
+    "block_type": 0,
+    "bbox": [
+      304.64239501953125,
+      119.45186614990234,
+      545.5752563476562,
+      134.39247131347656
+    ],
+    "text": "Reumert, P., Nielsen, S., Diagnostica, M. R., Diatabs, G., Diatabs, I., Diatabs, K., et\nal. (2003). Rosco Diagnostica Rosco Diagnostica. Stensmosevej, 1–9.\n"
+  },
+  {
+    "page": 13,
+    "block_no": 21,
+    "block_type": 0,
+    "bbox": [
+      304.64251708984375,
+      139.37757873535156,
+      545.5821533203125,
+      162.29237365722656
+    ],
+    "text": "Rijal, B. P., Satyal, D., and Parajuli, N. P. (2017). High burden of antimicrobial\nresistance among bacteria causing pyogenic wound infections at a Tertiary Care\nHospital in Kathmandu, Nepal. J. Pathog. 2017, 1–7. doi: 10.1155/2017/9458218\n"
+  },
+  {
+    "page": 13,
+    "block_no": 22,
+    "block_type": 0,
+    "bbox": [
+      304.6424560546875,
+      167.2686309814453,
+      545.5805053710938,
+      190.18348693847656
+    ],
+    "text": "Saharman, Y. R., and Lestari, D. C. (2013). Phenotype characterization of beta-\nlactamase producing Enterobacteriaceae in the intensive care unit (ICU) of Cipto\nMangunkusumo Hospital in 2011. Acta Med. Indones 45, 11–16.\n"
+  },
+  {
+    "page": 13,
+    "block_no": 23,
+    "block_type": 0,
+    "bbox": [
+      304.642333984375,
+      195.16859436035156,
+      545.5787963867188,
+      226.04632568359375
+    ],
+    "text": "Sangare, S. A., Maiga, A. I., Guindo, I., Maiga, A., Camara, N., Savadogo,\nS.,\net\nal.\n(2015).\nPrevalence\nof\nextended-spectrum\nbeta-lactamase-producing\nEnterobacteriaceae isolated from blood cultures in Africa. Med. Mal. Infect. 45,\n374–382. doi: 10.1016/j.medmal.2015.08.003\n"
+  },
+  {
+    "page": 13,
+    "block_no": 24,
+    "block_type": 0,
+    "bbox": [
+      304.6427001953125,
+      231.0337677001953,
+      545.5880126953125,
+      261.9114990234375
+    ],
+    "text": "Saravanan,\nM.,\nRamachandran,\nB.,\nand\nBarabadi,\nH.\n(2018).\nThe\nprevalence\nand\ndrug\nresistance\npattern\nof\nextended\nspectrum\nβ-lactamases\n(ESBLs)\nproducing\nEnterobacteriaceae\nin\nAfrica.\nMicrob.\nPathog.\n114:18092.\ndoi: 10.1016/j.micpath.2017.11.061\n"
+  },
+  {
+    "page": 13,
+    "block_no": 25,
+    "block_type": 0,
+    "bbox": [
+      304.64288330078125,
+      266.8985290527344,
+      545.5833129882812,
+      297.77630615234375
+    ],
+    "text": "Shimekaw, M., Tigabu, A., and Tessema, B. (2022). Bacterial proﬁle, antimicrobial\nsusceptibility pattern, and associated risk factors among patients with wound infections\nat Debre Markos Referral Hospital, Northwest, Ethiopia. Int. J. Low Extrem. Wounds\n21, 182–192. doi: 10.1177/1534734620933731\n"
+  },
+  {
+    "page": 13,
+    "block_no": 26,
+    "block_type": 0,
+    "bbox": [
+      304.64227294921875,
+      302.7633361816406,
+      545.5782470703125,
+      341.6152648925781
+    ],
+    "text": "Sid Ahmed, M. A., Bansal, D., Acharya, A., Elmi, A. A., Hamid, J. M., Sid Ahmed,\nA. M., et al. (2016). Antimicrobial susceptibility and molecular epidemiology of\nextended-spectrum beta-lactamase-producing Enterobacteriaceae from intensive care\nunits at Hamad medical corporation, Qatar. Antimicrob. Resist. Infect. Control 5, 1–6.\ndoi: 10.1186/s13756-016-0103-x\n"
+  },
+  {
+    "page": 13,
+    "block_no": 27,
+    "block_type": 0,
+    "bbox": [
+      304.64215087890625,
+      346.5934143066406,
+      545.58251953125,
+      369.5171813964844
+    ],
+    "text": "Singh, N., Pattnaik, D., Neogi, D. K., Jena, J., and Mallick, B. (2016). Prevalence of\nESBL in Escherichia coli isolates among ICU patients in a tertiary care hospital. J. Clin.\nDiagnost. Res. 10, DC19–DC22. doi: 10.7860/JCDR/2016/21260.8544\n"
+  },
+  {
+    "page": 13,
+    "block_no": 28,
+    "block_type": 0,
+    "bbox": [
+      304.6427307128906,
+      374.4934387207031,
+      545.5889282226562,
+      397.4063415527344
+    ],
+    "text": "Storberg, V. (2014). ESBL-producing Enterobacteriaceae in Africa - a non-\nsystematic literature review of research published 2008-2012. Infect. Ecol. Epidemiol.\n4:20342. doi: 10.3402/iee.v4.20342\n"
+  },
+  {
+    "page": 13,
+    "block_no": 29,
+    "block_type": 0,
+    "bbox": [
+      304.6429443359375,
+      402.3844909667969,
+      545.5841064453125,
+      441.247314453125
+    ],
+    "text": "Temesgen, M., Kumalo, A., Teklu, T., Alemu, G., and Odoko, D. (2023). Bacterial\nproﬁle and their antimicrobial susceptibility pattern of isolates recovered from\nintensive care unit environments at Wachemo University Nigist Ellen Mohammed\nMemorial Comprehensive Specialized Hospital, Southern Ethiopia. Can. J. Infect. Dis.\nMed. Microbiol. 2023:1216553. doi: 10.1155/2023/1216553\n"
+  },
+  {
+    "page": 13,
+    "block_no": 30,
+    "block_type": 0,
+    "bbox": [
+      304.64300537109375,
+      446.22357177734375,
+      545.5752563476562,
+      477.1121826171875
+    ],
+    "text": "Tilahun, M. (2022). Multi-drug resistance proﬁle, prevalence of extended-spectrum\nbeta-lactamase and carbapenemase-producing gram negative bacilli among admitted\npatients after surgery with suspected of surgical site nosocomial infection North East\nEthiopia. Infect. Drug Resist. 2022, 3949–3965. doi: 10.2147/IDR.S376622\n"
+  },
+  {
+    "page": 13,
+    "block_no": 31,
+    "block_type": 0,
+    "bbox": [
+      304.6424560546875,
+      483.087646484375,
+      545.5985717773438,
+      521.939208984375
+    ],
+    "text": "Tsakris, A., Poulou, A., Pournaras, S., Voulgari, E., Vrioni, G., Themeli-\nDigalaki, K., et al. (2010). A simple phenotypic method for the diﬀerentiation\nof metallo-β-lactamases and class A KPC carbapenemases in Enterobacteriaceae\nclinical isolates. J.\nAntimicrob. Chemother. 65, 1664–1671. doi: 10.1093/jac/\ndkq210\n"
+  },
+  {
+    "page": 13,
+    "block_no": 32,
+    "block_type": 0,
+    "bbox": [
+      304.64251708984375,
+      527.9165649414062,
+      545.5806884765625,
+      558.80517578125
+    ],
+    "text": "Uc-Cachón, A. H., Gracida-Osorno, C., Luna-Chi, I. G., Jiménez-Guillermo, J. G.,\nand Molina-Salinas, G. M. (2019). High prevalence of antimicrobial resistance among\ngram-negative isolated bacilli in intensive care units at a tertiary-care hospital in\nYucatán Mexico. Med. 55:588. doi: 10.3390/medicina55090588\n"
+  },
+  {
+    "page": 13,
+    "block_no": 33,
+    "block_type": 0,
+    "bbox": [
+      304.6424560546875,
+      564.7805786132812,
+      545.5828247070312,
+      595.6692504882812
+    ],
+    "text": "van Dijk, K., Scharringa, J., Voets, G., Voskuil, S., Fluit, A., Rottier, W., et al. (2014).\nA disc diﬀusion assay for detection of class A, B and OXA-48 carbapenemases in\nEnterobacteriaceae using phenyl boronic acid, dipicolinic acid and temocillin. Clin.\nMicrobiol. Infect. 20, 345–349. doi: 10.1111/1469-0691.12322\n"
+  },
+  {
+    "page": 13,
+    "block_no": 34,
+    "block_type": 0,
+    "bbox": [
+      304.6419677734375,
+      601.6447143554688,
+      545.574462890625,
+      616.5853271484375
+    ],
+    "text": "Van Duin, D. (2017). Carbapenem-resistant Enterobacteriaceae: what we know and\nwhat we need to know. Virulence 8, 379–382. doi: 10.1080/21505594.2017.1306621\n"
+  },
+  {
+    "page": 13,
+    "block_no": 35,
+    "block_type": 0,
+    "bbox": [
+      304.6419372558594,
+      622.5607299804688,
+      545.5782470703125,
+      645.4733276367188
+    ],
+    "text": "Van\nDuin,\nD.,\nand\nDoi,\nY.\n(2017).\nThe\nglobal\nepidemiology\nof\ncarbapenemase-producing\nEnterobacteriaceae.\nVirulence\n8,\n460–469.\ndoi: 10.1080/21505594.2016.1222343\n"
+  },
+  {
+    "page": 13,
+    "block_no": 36,
+    "block_type": 0,
+    "bbox": [
+      304.64141845703125,
+      650.4607543945312,
+      545.5775756835938,
+      681.3385009765625
+    ],
+    "text": "Vasundhara,\nP.,\nSreenivasuslu,\nP.,\nand\nShabnaum,\nM.\n(2017).\nMicrobial\nproﬁle and antibiotic susceptibility pattern of orthopedic infections in a tertiary\ncare hospital: a study from South India. Int. J. Med. Sci. Publ. Heal. 6:1.\ndoi: 10.5455/ijmsph.2017.1165105122016\n"
+  },
+  {
+    "page": 13,
+    "block_no": 37,
+    "block_type": 0,
+    "bbox": [
+      304.641357421875,
+      686.3255004882812,
+      545.5917358398438,
+      709.2384643554688
+    ],
+    "text": "Weinstein, M. P. (2021). Performance Standards for Antimicrobial Susceptibility\nTesting: 31st Edition CLSI Supplement M100. Wayne, PA: Clinical and Laboratory\nStandards Institute.\n"
+  },
+  {
+    "page": 13,
+    "block_no": 38,
+    "block_type": 0,
+    "bbox": [
+      49.698001861572266,
+      801.1773071289062,
+      545.5845947265625,
+      808.151123046875
+    ],
+    "text": "Frontiers in Microbiology\n13\nfrontiersin.org\n"
+  }
+]

@@ -1,0 +1,2054 @@
+[
+  {
+    "page": 1,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      60.82279968261719,
+      89.60076141357422,
+      535.5147094726562,
+      106.00018310546875
+    ],
+    "text": "RESEARCH\nOpen Access\n"
+  },
+  {
+    "page": 1,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      180.70860290527344,
+      671.65087890625,
+      540.0459594726562,
+      736.2048950195312
+    ],
+    "text": "© The Author(s) 2024. Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, \nsharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and \nthe source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this \narticle are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included \nin the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will \nneed to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/. The \nCreative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available \nin this article, unless otherwise stated in a credit line to the data.\n"
+  },
+  {
+    "page": 1,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      31.54475212097168,
+      538.5848388671875,
+      53.00018310546875
+    ],
+    "text": "Worku et al. BMC Infectious Diseases          (2024) 24:459 \nhttps://doi.org/10.1186/s12879-024-09362-5\nBMC Infectious Diseases\n"
+  },
+  {
+    "page": 1,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      57.0,
+      612.4053955078125,
+      127.7175064086914,
+      639.2929077148438
+    ],
+    "text": "*Correspondence:\nSeble Worku\nworkuseble@ymail.com\n"
+  },
+  {
+    "page": 1,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      57.0,
+      644.4053955078125,
+      248.42178344726562,
+      653.2929077148438
+    ],
+    "text": "Full list of author information is available at the end of the article\n"
+  },
+  {
+    "page": 1,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      63.192901611328125,
+      298.2782897949219,
+      534.0056762695312,
+      574.9649658203125
+    ],
+    "text": "Abstract\nBackground  Acinetobacter baumannii is an opportunistic pathogen that can cause a variety of nosocomial infections \nin humans. This study aimed to molecularly characterize extended-spectrum beta-lactamase (ESBL) producing and \ncarbapenem-resistant Acinetobacter species isolated from surgical site infections (SSI).\nMethods  A multicentre cross-sectional study was performed among SSI patients at four hospitals located in \nNorthern, Southern, Southwest, and Central parts of Ethiopia. The isolates were identified by microbiological methods \nand matrix-assisted laser desorption/ionization time-of-flight mass spectrometry (MALDI-TOF MS). Antibiotic \nsusceptibility was determined using disk diffusion. The presence of phenotypic ESBL and carbapenemase production \nwas detected by employing standard microbiological tests, including combined disk diffusion (CDT). ESBL and \ncarbapenem resistance determinants genes were studied by polymerase chain reaction (PCR) and sequencing.\nResults  A total of 8.7% Acinetobacter species were identified from 493 culture-positive isolates out of 752 SSI wounds. \nThe species identified by MALDI-TOF MS were 88.4% A. baumannii, 4.7% Acinetobacter pittii, 4.7% Acinetobacter soli, \nand 2.3% Acinetobacter lactucae. Of all isolates 93% were positive for ESBL enzymes according to the CDT. Using whole \ngenome sequencing 62.8% of the A. baumannii harbored one or more beta-lactamase genes, and 46.5% harbored \none or more carbapenemase producing genes. The distribution of beta-lactamases among Acinetobacter species \nby hospitals was 53.8%, 64.3%, 75%, and 75% at JUSH, TASH, DTCSH, and HUCSH respectively. Among ESBL genes, \nblaCTX−M alleles were detected in 21.4% of isolates; of these 83.3% were blaCTX−M−15. The predominant carbapenemase \ngene of blaOXA type was detected in 24 carbapenem-resistant A. baumannii followed by blaNDM alleles carried in 12 A. \nbaumannii with blaNDM−1 as the most common.\nConclusions  The frequency of Acinetobacter species that produce metallobetalactamases (MBLs) and ESBLs that were \nfound in this study is extremely scary and calls for strict infection prevention and control procedures in health facilities \nhelps to set effective antibiotics stewardship.\n"
+  },
+  {
+    "page": 1,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      120.6418685913086,
+      494.36163330078125,
+      227.4898681640625
+    ],
+    "text": "Molecular characterization of carbapenemase \nand extended spectrum beta-lactamase \nproducing Acinetobacter baumannii isolates \ncausing surgical site infections in Ethiopia\n"
+  },
+  {
+    "page": 1,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      243.89041137695312,
+      521.3259887695312,
+      272.2398681640625
+    ],
+    "text": "Seble Worku1,2,3*\n, Tamrat Abebe1, Berhanu Seyoum3, Bikila Alemu4, Gebrie Denkayehu5, Tamrayehu Seyoum3, \nDawit Hailu Alemayehu3, Alemseged Abdissa3, Getachew Tesfaye Beyene3, Adane Mihret1,3 and Göte Swedberg6\n"
+  },
+  {
+    "page": 2,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      56.69300079345703,
+      33.126182556152344,
+      538.589111328125,
+      42.75018310546875
+    ],
+    "text": "Page 2 of 12\nWorku et al. BMC Infectious Diseases          (2024) 24:459 \n"
+  },
+  {
+    "page": 2,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      121.81348419189453,
+      292.8758239746094,
+      305.22357177734375
+    ],
+    "text": "Introduction\nAcinetobacter are aerobic, gram-negative coccobacilli \nbacteria belonging to the Moraxellaceae family and is \nconsidered a ubiquitous organism. Acinetobacter bau­\nmannii, A. pittii, A. soli, and A. lactucae are some of \nmany species [1]. Among them, A. baumannii has \nbecome one of the most common invasive and multidrug \nresistant (MDR) organisms causing infections in hospital \nsettings [2] and are often associated with poorer clinical \noutcomes in patients with prolonged hospital stays [3]. \nRecently A. pittii, A. soli and A. lactucae are also consid­\nered clinically important [4, 5] and are increasingly rec­\nognized as significant causes of infections in hospitals \nespecially with in patients with compromised immune \nsystems [1, 6, 7].\n"
+  },
+  {
+    "page": 2,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      56.69300079345703,
+      302.690185546875,
+      292.86224365234375,
+      425.22357177734375
+    ],
+    "text": "Acinetobacter species are associated with a wide range \nof clinical complications, such as pneumonia, septicae­\nmia, urinary tract infection, and surgical wound infec­\ntion, and are associated with high mortality, particularly \nin immune-compromised patients [8], and among long \nstaying patients in hospital settings. Additional risk fac­\ntors include recent surgery, central vascular catheter­\nization, tracheostomy, mechanical ventilation, enteral \nfeeding, and treatment with third-generation cephalo­\nsporin, fluoroquinolone, or carbapenem antibiotics [9].\n"
+  },
+  {
+    "page": 2,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      56.69300079345703,
+      422.690185546875,
+      292.89263916015625,
+      737.2234497070312
+    ],
+    "text": "A. baumannii infections pose a global threat to human \nhealth and a therapeutic challenge due to emerging and \nconstantly increasing resistance, and carbapenem resis­\ntant A. baumannii (CRAB) was ranked as the number \none priority for antibiotic research and development by \nWHO 2018 [10]. The development of third-generation \ncephalosporins was a major development in the fight \nagainst multidrug resistant microorganisms. However, \ndue to extensive antibiotic misuse and poor steward­\nship, resistance to third generation cephalosporins \nhas spread rapidly. The main resistance determinants, \nextended-spectrum β-lactamases (ESBLs), can make a \ndiverse range of β-lactam antibiotics ineffective, includ­\ning penicillins, cephalosporins, and monobactams [11]. \nEnterobacteriaceae, Pseudomonas aeruginosa, and A. \nbaumannii acquire and disseminate ESBL-encoding \ngenes horizontally, mainly through plasmids [12]. Gen­\nerally, all beta-lactamase variants are classified into four \nclasses, A (serine penicillinases), B (metallo-beta-lac­\ntamases), C (cephalosporinases (acinetobacter-derived \ncephalosporinase or ADC) and D (oxacillinases), which \ngive resistance to penicillins, most β-lactams, cephalo­\nsporins and cloxacillin, respectively [13]. The most preva­\nlent ESBL types in the past were TEM, or Temoniera (a \nGreek name), and SHV, or sulfhydryl variable. However, \nthe most prevalent ESBL type now is CTX-M, which is \n"
+  },
+  {
+    "page": 2,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      304.7244873046875,
+      122.690185546875,
+      538.5828247070312,
+      161.2235870361328
+    ],
+    "text": "named after its preferred hydrolytic activity against cefo­\ntaxime (CTX, M for Munich), where the CTX-M-15 vari­\nant is dominant globally [14].\n"
+  },
+  {
+    "page": 2,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      158.690185546875,
+      540.9014282226562,
+      281.22357177734375
+    ],
+    "text": "In addition to third-generation cephalosporin anti­\nbiotics, carbapenems are important therapies for seri­\nous hospital-acquired infections and the care of patients \naffected by multidrug-resistant organisms. However, the \nglobal emergence of carbapenem-resistant A. baumannii \nhas led to limited therapeutic options [15]. Several mech­\nanisms are responsible for the resistance of A. bauman­\nnii to carbapenems, including reduced outer membrane \npermeability, penicillin-binding protein alterations, and \nmostly the production of carbapenemases [11].\n"
+  },
+  {
+    "page": 2,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      278.690185546875,
+      540.9009399414062,
+      473.22357177734375
+    ],
+    "text": "A. baumannii has been reported in many regions of the \nworld [9, 16]. However, there is a scarcity of data related \nto the genetic epidemiology of ESBL and carbapen­\nemase producing A. baumannii strains in East African \ncountries, including Ethiopia. It is crucial to determine \nthe genetic epidemiology of ESBL and carbapenemase-\nproducing A. baumannii strains to guide future antimi­\ncrobial resistance control programs. Hence, this study \naims to determine the molecular epidemiology of ESBL \nand carbapenemase-producing A. baumannii strains col­\nlected among patients investigated for surgical site infec­\ntions at four Ethiopian Teaching Hospitals, which are \nplaced in the Amhara, Southern nation nationality, Oro­\nmia, and central regions of the country. These hospitals \nserve millions of people in the surrounding catchment \nareas.\n"
+  },
+  {
+    "page": 2,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      481.8134765625,
+      540.9044799804688,
+      617.2235717773438
+    ],
+    "text": "Materials and methods\nA cross-sectional multicenter study was done at four \nhospitals in Northern, Central, Southern, and South­\nwest Ethiopia between July 2020 and August 2021. The \npurposively selected Hospitals Debre Tabor Compre­\nhensive Specialized Hospital (DTCSH), Hawassa Uni­\nversity Comprehensive Specialized Hospital (HUCSH), \nJimma University Specialized Hospital (JUSH), and Tikur \nAnbessa Specialized Hospital (TASH) (Fig. 1) were briefly \ndescribed in our previous published work by Worku S et \nal. [17].\n"
+  },
+  {
+    "page": 2,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      614.690185546875,
+      540.911376953125,
+      737.2235717773438
+    ],
+    "text": "The attending physician’s decision was used to identify \nthe eligible SSI patients. After operation, patients were \nfollowed by a surgeon to assess the progress of wound \nhealing as part of the routine activity. From all patients \nwhose diagnosis was confirmed as SSI (the infection \ncan be characterized by pain, redness, edema, tender­\nness, gaping, abscess or purulent discharge, occurrence \nof fever > 38  °C), from the surgical site within 30 days \nof the operation for those without implant [18] their \nsocio-demographic and possible risk factor data was \n"
+  },
+  {
+    "page": 2,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      62.94300079345703,
+      88.03018188476562,
+      465.3374938964844,
+      100.25018310546875
+    ],
+    "text": "Keywords  Whole-genome sequencing, Carbapenemase producing, ESBL, A. baumannii, SSI, Ethiopia\n"
+  },
+  {
+    "page": 3,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      33.126182556152344,
+      538.589111328125,
+      42.75018310546875
+    ],
+    "text": "Page 3 of 12\nWorku et al. BMC Infectious Diseases          (2024) 24:459 \n"
+  },
+  {
+    "page": 3,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      362.690185546875,
+      292.88079833984375,
+      557.2235717773438
+    ],
+    "text": "gathered. All age groups were included, but patients who \nhad been on antibiotics within the preceding ten days \nwere excluded from the study. A total of 752 clinically \ndiagnosed cases of SSI from different wards in all hos­\npitals were enrolled in the study. Surgical wound swabs \nor aspirates were collected based on standard opera­\ntion procedures and processed from all patients. Bacte­\nrial identification was performed using a standardized \nlaboratory protocol. At each study site, A. baumannii \nwere characterized by their colony characteristics, Gram \nstaining, and conventional biochemical tests. All bacte­\nrial strains were stored at − 70 °C and transported to the \nArmauer Hansen Research Institute (AHRI). Later, all \nthe bacterial isolates were re-identified and confirmed by \nusing Matrix-Assisted Laser Desorption Ionization-Time \nof Flight Mass Spectrometry (MALDI-TOF MS) [19].\n"
+  },
+  {
+    "page": 3,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      567.0578002929688,
+      292.88177490234375,
+      737.2235717773438
+    ],
+    "text": "Antimicrobial susceptibility testing (AST)\nThe antibiotics susceptibility tests were performed on \nMuller-Hinton agar (MHA) (Oxoid, UK) by using the \nKirby-Bauer disk diffusion technique [19]. Using a ster­\nile wire loop, 3–5 pure colonies were transferred to a \ntube containing 5 mL of sterile normal saline (0.85% \nNaCl) and gently mixed. Standard inoculum density was \nadjusted to 0.5 McFarland units. The excess broth sus­\npension was removed by tapping against the tube wall. \nThe bacterial suspension was swabbed on the MHA sur­\nface using a sterile swab, and then antibiotic discs were \nplaced with sterile forceps at least 24 mm apart from one \nanother [20]. All antibiotics disks were OXOID products \n(Oxoid Ltd, UK), and susceptibility of Gram-negative \n"
+  },
+  {
+    "page": 3,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      362.690185546875,
+      540.9033203125,
+      449.22357177734375
+    ],
+    "text": "isolates was tested against: gentamicin (10 µg), amikacin \n(30  µg), ciprofloxacin (5  µg), ceftazidime (30  µg), cefo­\ntaxime (30  µg), ceftriaxone (30  µg), cefepime (30  µg), \ntrimethoprim-sulfamethoxazole (1.25/23.75 µg), ampicil­\nlin-sulbactam (10/10µg), meropenem (10 µg), imipenem \n(10 µg), ertapenem (30 µg) as describes in our previous \npublished work by Worku S et al. [17].\n"
+  },
+  {
+    "page": 3,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      459.0577697753906,
+      540.9120483398438,
+      593.2235717773438
+    ],
+    "text": "Screening of ESBL producing strains\nExtended-spectrum Beta-lactamase (ESBL) production \nwas confirmed both in the Combination Disk Test (CDT) \nand by the decreased susceptibility to one of ceftriaxone, \nceftazidime or cefotaxime according to the Clinical and \nLaboratory Standard Institute (CLSI) recommendations \n[21]. In this test, a disk containing cephalosporin alone \n(cefotaxime 30  µg or ceftazidime 30  µg) was placed in \nthe opposite direction to a disk containing cephalosporin \nplus clavulanic acid (20/10µg) with 15  mm distance on \nMuller-Hinton agar medium.\n"
+  },
+  {
+    "page": 3,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      589.5631713867188,
+      540.9209594726562,
+      677.2235717773438
+    ],
+    "text": "The inoculated media were then incubated at 37oC \nfor 18–24  h. After incubation, zones of growth inhibi­\ntion were measured to the nearest mm, and a difference \nof > 5 mm for a disk containing cephalosporin plus cla­\nvulanic acid compared to a disk containing cephalospo­\nrin alone was considered positive (see Fig. 2 laboratory \nworkflow chart).\n"
+  },
+  {
+    "page": 3,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      687.0578002929688,
+      540.9034423828125,
+      737.2235717773438
+    ],
+    "text": "Detection of ESBL and carbapenemase genes by PCR\nAll of the positive ESBL (n = 40) and carbapenemase \n(n = 40) isolates according to phenotypic assays were \nfurther confirmed by PCR and sequencing. The genes \n"
+  },
+  {
+    "page": 3,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      337.44781494140625,
+      343.9366760253906,
+      347.35980224609375
+    ],
+    "text": "Fig. 1  Map of the geographic locations of the four referral hospitals selected for this study\n"
+  },
+  {
+    "page": 3,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      79.84049987792969,
+      59.692901611328125,
+      96.0044937133789
+    ],
+    "text": " \n"
+  },
+  {
+    "page": 4,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      33.126182556152344,
+      538.589111328125,
+      42.75018310546875
+    ],
+    "text": "Page 4 of 12\nWorku et al. BMC Infectious Diseases          (2024) 24:459 \n"
+  },
+  {
+    "page": 4,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      518.690185546875,
+      292.8545837402344,
+      569.2235717773438
+    ],
+    "text": "investigated in this study were blaTEM, blaSHV, and \nblaCTX−M. Furthermore, carbapenem-resistant Acineto­\nbacter species were tested for blaKPC and blaNDM like \nenzymes.\n"
+  },
+  {
+    "page": 4,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      566.690185546875,
+      292.8680725097656,
+      725.2235717773438
+    ],
+    "text": "The bacterial DNA was extracted by the boiling lysis \nmethod as previously described by El-Badawy et al. [22]. \nIn short, three to five fresh colonies of bacteria were sus­\npended in 100 µl of DNase-free water in a sterile 1.5 ml \nEppendorf tube. The bacterial suspension was vortexed \nfor 15 s and placed in a boiling water bath at 94 °C for \n10  min to lyse the bacterial cells. The lysed bacterial \nsuspension was centrifuged at maximum speed (13,000 \n×g) for 5 min. DNase-free tips were used to transfer the \nsupernatant which contains all of the genomic DNA to a \nfresh, sterile tube. Nanodrop (Thermo Scientific, US) was \nused to measure the quality and amount of the extracted \nDNA, which was then kept at -20∘C.\n"
+  },
+  {
+    "page": 4,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      338.690185546875,
+      540.9141845703125,
+      581.2235717773438
+    ],
+    "text": "Multiplex PCR was performed to detect blaTEM, blaSHV, \nand blaCTX−M, as well as blaKPC and blaNDM carbapene­\nmase genes using specific primers [23] (Table 1). In sum­\nmary, the PCR was carried out in a QIAGEN Multiplex \nPCR Master Mix (QIAGEN, Germany) with 0.2µM of \neach primer, and about 300ng of template DNA in a final \nvolume of 15  µl. Using a thermocycler (Biometra, Ger­\nmany) for amplification, the following cycling parameters \nwere used: first denaturation at 95 °C for 15 min; subse­\nquently followed by 35 cycles of denaturation at 94  °C \nfor 30 s; annealing at 58 °C for 90 s; extension at 72 °C \nfor 90 s; and a final extension at 72 °C for 10 min. The \nPCR products were visualized by electrophoresis in 1.5% \nagarose gel after staining with ethidium bromide. Using \na UV trans-illuminator (Bio-Rad, US), the amplicon was \nvisualised and its size was determined using a 100 bp lad­\nder (Promega, US). The PCR products that tested posi­\ntive were subjected to sequencing. PCR positive samples \ncontaining resistance genes were further analysed by \nwhole genome sequencing (WGS).\n"
+  },
+  {
+    "page": 4,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      591.0578002929688,
+      540.9132690429688,
+      713.2235717773438
+    ],
+    "text": "DNA sequencing\nThe QIAamp DNA Mini Kit (QIAGEN, Hilden, Ger­\nmany) was used to manually extract DNA in accordance \nwith the manufacturer’s instructions. Briefly, DNA \nwas extracted by taking 2–6 pure colonies that grew on \ncystine lactose electrolyte deficient agar. After extrac­\ntion, the concentration of DNA was measured with \nQubitTM3.0 (Thermo Scientific, Waltham, MA, USA), \nand kept at -20oC until they were submitted for WGS at \nthe Science for Life Laboratory in Solna, Sweden.\n"
+  },
+  {
+    "page": 4,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      710.690185546875,
+      540.9063720703125,
+      737.2235717773438
+    ],
+    "text": "From each DNA sample, 20 µL was transferred into a \n96-well WGS plate. Sequencing libraries were generated \n"
+  },
+  {
+    "page": 4,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      332.5544738769531,
+      277.7571105957031,
+      376.1247863769531
+    ],
+    "text": "Table 1  Primers used for detection of blaSHV, blaTEM, blaCTX−M, \nblaKPC, and blaNDM\nTarget \ngene\n"
+  },
+  {
+    "page": 4,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      98.05480194091797,
+      356.3487854003906,
+      122.74279022216797,
+      376.1247863769531
+    ],
+    "text": "Primer \nname\n"
+  },
+  {
+    "page": 4,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      132.37710571289062,
+      356.3487854003906,
+      253.03981018066406,
+      376.1247863769531
+    ],
+    "text": "​C​G​C​C​T​G​T​G​T​A​T​T​A​T​C​T​C​C​C​T\nSize \nbp\n"
+  },
+  {
+    "page": 4,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      356.3487854003906,
+      284.884765625,
+      502.8927001953125
+    ],
+    "text": "Ref­\ner­\nences\nblaSHV\nF\n​C​G​C​C​T​G​T​G​T​A​T​T​A​T​C​T​C​C​C​T\n293\n [24]\n [25]\nR\n​C​G​A​G​T​A​G​T​C​C​A​C​C​A​G​A​T​C​C​T\nblaTEM\nF\n​T​T​T​C​G​T​G​T​C​G​C​C​C​T​T​A​T​T​C​C\n403\nR\n​A​T​C​G​T​T​G​T​C​A​G​A​A​G​T​A​A​G​T​T​G\nblaCTX−M\nF\n​C​G​C​T​G​T​T​G​T​T​A​G​G​A​A​G​T​G​T​G\n754\nR\n​G​G​C​T​G​G​G​T​G​A​A​G​T​A​A​G​T​G​A​C\nblaKPC\nF\n​C​G​T​C​T​A​G​T​T​C​T​G​C​T​G​T​C​T​T​G\n798\nR\n​C​T​T​G​T​C​A​T​C​C​T​T​G​T​T​A​G​G​C​G\nblaNDM\nF\n​G​G​T​T​T​G​G​C​G​A​T​C​T​G​G​T​T​T​T​C\n621\nR\n​C​G​T​C​T​A​G​T​T​C​T​G​C​T​G​T​C​T​T​G\n"
+  },
+  {
+    "page": 4,
+    "block_no": 10,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      300.96771240234375,
+      540.3576049804688,
+      320.87969970703125
+    ],
+    "text": "Fig. 2  Simple flow chart of extended spectrum beta-lactamase and carbapenemase enzyme detection. ESBL, extended-spectrum beta-lactamase; DNA, \ndeoxyribonucleic acid; PCR, polymerase chain reaction; WGS, whole genome sequencing\n"
+  },
+  {
+    "page": 4,
+    "block_no": 11,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      79.84049987792969,
+      59.692901611328125,
+      96.0044937133789
+    ],
+    "text": " \n"
+  },
+  {
+    "page": 5,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      33.126182556152344,
+      538.589111328125,
+      42.75018310546875
+    ],
+    "text": "Page 5 of 12\nWorku et al. BMC Infectious Diseases          (2024) 24:459 \n"
+  },
+  {
+    "page": 5,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      86.690185546875,
+      292.8699645996094,
+      149.2235870361328
+    ],
+    "text": "using Nextera XT (Illumina kits) and short-read sequenc­\ning was run on Illumina (HiSeq 2500) systems with a \n150 bp insert size paired end sequencing protocol at the \nScience for Life Laboratory. SPAdes (version 3.9) was \nused for the genome assembly.\n"
+  },
+  {
+    "page": 5,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      146.690185546875,
+      292.8827209472656,
+      221.2235870361328
+    ],
+    "text": "With the assembled genomes, the acquired antimicro­\nbial resistance genes were identified using the ResFinder \n4.1 web tool at the Center for Genomic Epidemiology \nhttp://www.genomicepidemiology.org/ \n(accessed \non \nAugust 2023) using a threshold of 90% and 60% coverage. \nEach WGS run included quality control.\n"
+  },
+  {
+    "page": 5,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      231.0577850341797,
+      292.8817443847656,
+      437.22357177734375
+    ],
+    "text": "Quality control\nThe quality control measures performed throughout the \nwhole process of the laboratory work ensured the valid­\nity of the study. Standard operating procedure (SOP) \nwas followed in the collection of all samples. To ensure \nthe accuracy of the data a double data entry method was \nused. The performance of all prepared media and the \npotency of the drugs were checked by inoculating con­\ntrol strains, E. coli (ATCC 25,922), for each new batch \nof agar plates. In addition, the sterility of culture media \nwas checked by incubating 5% of the prepared media \nat 37 °C for 24–48 h. Reagents for Gram-stain and bio­\nchemical tests were checked against control strains of \nE. coli. The 0.5 McFarland standard densitometer was \nused. Klebsiella pneumoniae ATCC® 700,603 was used \nfor screening and confirmatory tests for ESBLs (positive). \nEach MALDI-TOF MS run also included quality control \n"
+  },
+  {
+    "page": 5,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      86.690185546875,
+      540.8936767578125,
+      149.2235870361328
+    ],
+    "text": "strains using E. coli (ATCC® 25,922). During PCR analysis \nlaboratory reference blaKPC and blaNDM genes were used \nas positive controls and E. coli ATCC1 25,922 as a nega­\ntive control. Before multiplexing, each pair of primers \nwas verified using monoplex PCR.\n"
+  },
+  {
+    "page": 5,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      159.0577850341797,
+      540.90234375,
+      269.22357177734375
+    ],
+    "text": "Data analysis\nAfter the data were checked for completeness, missing \nvalues and coding of questionnaires, they were entered \ninto Research Electronic Data Capture (RED-Cap) and \nexported to STATA version 25.0. Frequencies and cross-\ntabulations were used to summarize descriptive statistics \n(median, percentages, or frequency). Statistical signifi­\ncance was considered at p-values less than or equal to \n0.05.\n"
+  },
+  {
+    "page": 5,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      277.8134765625,
+      540.9212646484375,
+      413.22357177734375
+    ],
+    "text": "Results\nSocio-demographic characteristics of study participants\nA total of 493 (65.5%) patients had a positive culture \nfrom 752 wound culture tests performed for patients \ndiagnosed with surgical site infection. Acinetobacter spe­\ncies were identified from 43 patients. The median age of \nthese patients was 30 years (5 days–70 years) and a total \nof 21 (48.8%) were females (Table 2). The majority of the \nbacteria were isolated from surgical wards (21/43) and \northopaedics wards (10/43) of the hospitals as shown in \nTable 2.\n"
+  },
+  {
+    "page": 5,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      423.0577697753906,
+      540.9111938476562,
+      497.22357177734375
+    ],
+    "text": "MALDI-TOF MS identification of Acinetobacter species\nAccording to MALDI-TOF MS, a total of 43 Acineto­\nbacter species isolates were identified from patients who \nwere admitted to the selected hospitals in Ethiopia. Of \nthe total isolates, 38 (88.4%) were A. baumannii, 2 (4.7) \nA. pittii and A. soli each, and 1 (2.3%) A. lactucae.\n"
+  },
+  {
+    "page": 5,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      494.690185546875,
+      540.90234375,
+      557.2235717773438
+    ],
+    "text": "The majority of the A. baumannii isolates were identi­\nfied from Tikur Anbessa Specialized Hospital and Jimma \nSpecialized Hospital with 14 and 13, respectively, while \ndifferent species of Acinetobacter were found in Jimma \nand Tikur Anbessa hospitals (Fig. 3).\n"
+  },
+  {
+    "page": 5,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      567.0578002929688,
+      540.892578125,
+      641.2235717773438
+    ],
+    "text": "Prevalence of ESBL and carbapenemase producing \nAcinetobacter species\nOf the total 43 Acinetobacter isolates, 95.3% (41/43) were \nresistant to ceftriaxone, and 93% (40/43), were confirmed \nfor ESBL production by combined disk-diffusion (CDT), \n(Fig. 4A).\n"
+  },
+  {
+    "page": 5,
+    "block_no": 10,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      638.690185546875,
+      540.90576171875,
+      713.2235717773438
+    ],
+    "text": "The highest frequency of ESBL and carbapenemase \nproduction was reported from Hawassa Comprehen­\nsive Specialized Hospital with a 100% score for ceftri­\naxone resistance, and CDT positivity. Second was Tikur \nAnbessa Specialized Hospital with 100%, and 92.8% \n(Fig. 4B).\n"
+  },
+  {
+    "page": 5,
+    "block_no": 11,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      443.7616882324219,
+      291.2020263671875,
+      498.3323974609375
+    ],
+    "text": "Table 2  Socio-demographic characteristics of study participants \nand magnitude of isolated Acinetobacter species from SSI Patients \nat Four Hospitals in Ethiopia, between July 2020 and August 2021\nVariables\nCharacteristics\nTotal\nBeta-lactamase \ngene\n"
+  },
+  {
+    "page": 5,
+    "block_no": 12,
+    "block_type": 0,
+    "bbox": [
+      165.65240478515625,
+      478.5559997558594,
+      284.87689208984375,
+      520.001953125
+    ],
+    "text": "P \n-value\nN (%)\nPositive \nn (%)\n"
+  },
+  {
+    "page": 5,
+    "block_no": 13,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      500.2259826660156,
+      276.66888427734375,
+      575.0848999023438
+    ],
+    "text": "Nega­\ntive n \n(%)\nSex\nMale\n22 (51.2) 19 (86.4)\n3 (13.6) 0.63\nFemale\n21 (48.8) 16 (76.2)\n5 (23.8)\nAge (in \nyears)\n"
+  },
+  {
+    "page": 5,
+    "block_no": 14,
+    "block_type": 0,
+    "bbox": [
+      96.90570068359375,
+      555.6049194335938,
+      276.66888427734375,
+      565.0848999023438
+    ],
+    "text": "<= 18\n11 (25.6) 8 (72.7)\n3 (27.3) 0.37\n"
+  },
+  {
+    "page": 5,
+    "block_no": 15,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      577.2742309570312,
+      276.66888427734375,
+      678.439208984375
+    ],
+    "text": "19–40\n19 (44.2) 15 (78.9)\n4 (21.1)\n41–60\n9 (20.9)\n8 (88.9)\n1 (11.1)\n≥ 61\n4 (9.3)\n4 (100)\n0 (0)\nWard\nPaediatrics /nicu\n6 (14)\n5 (83.3)\n1(16.7)\n0.2\nICU\n2 (4.7)\n1 (50)\n1 (50)\nSurgical\n24(48.9)\n19 (79.2)\n5 (20.8) 0.28\nOrthopaedics\n11(23.3)\n10 (90.9)\n1 (9.1)\n0.36\nOrganism \nisolated\n"
+  },
+  {
+    "page": 5,
+    "block_no": 16,
+    "block_type": 0,
+    "bbox": [
+      96.90570068359375,
+      658.959228515625,
+      257.71722412109375,
+      668.439208984375
+    ],
+    "text": "A.baumannii\n38 (88.4) 32 (84.2)\n6 (15.8)\n"
+  },
+  {
+    "page": 5,
+    "block_no": 17,
+    "block_type": 0,
+    "bbox": [
+      96.90570068359375,
+      680.6285400390625,
+      256.3252258300781,
+      713.4470825195312
+    ],
+    "text": "A. pittii\n2 (4.7)\n2 (100)\n0 (0)\nA. soli\n2 (4.7)\n0 (0)\n2 (100)\nA. lactucae\n1 (2.3)\n1 (100)\n0 (0)\n"
+  },
+  {
+    "page": 5,
+    "block_no": 18,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      715.702392578125,
+      292.0357360839844,
+      732.6163940429688
+    ],
+    "text": "n: number of Acinetobacter species; ICUs: Intensive Care Unit; NICU: neonatal \nintensive care unit\n"
+  },
+  {
+    "page": 6,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      33.126182556152344,
+      538.589111328125,
+      42.75018310546875
+    ],
+    "text": "Page 6 of 12\nWorku et al. BMC Infectious Diseases          (2024) 24:459 \n"
+  },
+  {
+    "page": 6,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      656.6384887695312,
+      540.354248046875,
+      696.5504760742188
+    ],
+    "text": "Fig. 4  A and B frequency and distribution of beta-lactamase production among Acinetobacter species from patients investigated for surgical site infection \nat four different hospitals in Ethiopia, between July 2020 and August 2021. DTCSH; Debre Tabor Comprehensive Specialized Hospital; HUCSH: Hawassa \nUniversity Comprehensive Specialized Hospital: JUTSH; Jimma University Teaching Specialized Hospital; TASH; Tikur Anbessa Specialized Hospital, n: num­\nber of bacterial isolates. Abbreviations: CRO R, Ceftriaxone resistance; CDT, combination disc diffusion test\n"
+  },
+  {
+    "page": 6,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      285.8710632324219,
+      59.692901611328125,
+      302.0350646972656
+    ],
+    "text": " \n"
+  },
+  {
+    "page": 6,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      249.1276092529297,
+      540.3355712890625,
+      279.03948974609375
+    ],
+    "text": "Fig. 3  Frequency and distribution of Acinetobacter species isolates at each hospital in Ethiopia, between July 2020 and August 2021. DTCSH; Debre Tabor \nComprehensive Specialized Hospital; HUCSH: Hawassa University Comprehensive Specialized Hospital: JUTSH; Jimma University Teaching Specialized \nHospital; TASH; Tikur Anbessa Specialized Hospital, n: number of Acinetobacter species\n"
+  },
+  {
+    "page": 6,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      79.84049987792969,
+      59.692901611328125,
+      96.0044937133789
+    ],
+    "text": " \n"
+  },
+  {
+    "page": 7,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      33.126182556152344,
+      538.589111328125,
+      42.75018310546875
+    ],
+    "text": "Page 7 of 12\nWorku et al. BMC Infectious Diseases          (2024) 24:459 \n"
+  },
+  {
+    "page": 7,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      87.05778503417969,
+      292.8846740722656,
+      209.2235870361328
+    ],
+    "text": "Detection of beta-lactamase genes by whole genome \nsequencing\nOne or more beta-lactamase genes were found in 65.1% \nof Acinetobacter species, 71.4% of these had only car­\nbapenemase genes, 14.3% had both carbapenemase genes \nand ESBL genes, and 14.3% only ESBL genes (Fig. 5A). In \nA. baumannii, 62.8% of the isolates harbored one or more \nbeta-lactamase genes, and 46.5%, 7% and 9.3% of the iso­\nlates harbored only carbapenemase genes, only ESBL \ngenes, and carbapenemase and ESBL genes respectively.\n"
+  },
+  {
+    "page": 7,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      206.690185546875,
+      292.8829650878906,
+      281.22357177734375
+    ],
+    "text": "Among the isolates at each hospital, the total detection \nof one or more beta-lactamase genes were 53.8%, 64.3%, \n75%, and 75% at JUSH, TASH, DTCSH, and HUCSH \nrespectively (Fig.  5B). In addition, the carbapenemase \ngene detection at DTCSH, HUCSH, TASH, and JUSH \nwas 75%, 66.7%, 35.7%, and 30.8% (Fig. 5B).\n"
+  },
+  {
+    "page": 7,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      291.0577697753906,
+      292.86114501953125,
+      341.22357177734375
+    ],
+    "text": "Carbapenemase and ESBL genes detected by whole \ngenome sequencing\nOf 40 Acinetobacter species showing ESBL production \nwith combination disk test (CDT), we performed WGS \n"
+  },
+  {
+    "page": 7,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      86.690185546875,
+      540.9041137695312,
+      137.2235870361328
+    ],
+    "text": "for 28 (27 A. baumannii and one A. lactucae) isolates, \n14.3% (4/28) harbored one or more ESBL genes, 71.4% \n(20/28) one or more carbapenemase genes, and 100% \n(28/28) any beta-lactamase gene respectively (Table 3).\n"
+  },
+  {
+    "page": 7,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      134.690185546875,
+      540.8903198242188,
+      282.1065673828125
+    ],
+    "text": "Among ESBL genes, one or more blaCTX−M alleles \nwere the most commonly identified genes detected \nfrom six isolates, five of these were blaCTX−M−15, and \none blaCTX−M−65 (Table  3). Two A. baumannii isolates \nconcurrently harbored blaOXA−1 with one or more ESBL \ngenes such as blaCTX−M−15, blaCTX−M−65, and blaACT−16. \nAmong the Acinetobacter species isolated at each hos­\npital, the detection of blaCTX−M at JUSH, TASH, and \nHUCSH was 2, 1 and 3 respectively while the blaCTX−M \nallele was not detected at DTCSH. Additionally, \nblaCTX−M−15 was carried by one A. lactucae concurrently \nwith blaACT−15 (Table 3).\n"
+  },
+  {
+    "page": 7,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      304.7244873046875,
+      278.690185546875,
+      540.8876953125,
+      341.22357177734375
+    ],
+    "text": "The blaTEM alleles were detected in 4 A. baumannii, \n(Table  3). From these 4 isolates three in addition car­\nried only blaCTX−M−15 and the remaining one concur­\nrently carried three other ESBL or carbapenemase genes \n(Table 3).\n"
+  },
+  {
+    "page": 7,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      705.7890014648438,
+      540.3408813476562,
+      735.7009887695312
+    ],
+    "text": "Fig. 5  A and B frequency and distribution of beta-lactamase genes from the total number of Acinetobacter species at each Hospital in Ethiopia, between \nJuly 2020 and August 2021 DTCSH; Debre Tabor Comprehensive Specialized Hospital; HUCSH: Hawassa University Comprehensive Specialized Hospital: \nJUSH; Jimma University Teaching Specialized Hospital; TASH; Tikur Anbessa Specialized Hospital\n"
+  },
+  {
+    "page": 7,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      347.261474609375,
+      59.692901611328125,
+      363.42547607421875
+    ],
+    "text": " \n"
+  },
+  {
+    "page": 8,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      33.126182556152344,
+      538.589111328125,
+      42.75018310546875
+    ],
+    "text": "Page 8 of 12\nWorku et al. BMC Infectious Diseases          (2024) 24:459 \n"
+  },
+  {
+    "page": 8,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      650.690185546875,
+      292.85687255859375,
+      738.1065673828125
+    ],
+    "text": "The predominant carbapenemase genes of blaOXA-type \nwere detected in 24 (85.7%) of carbapenem resistant A. \nbaumannii. Twenty isolates (20/24) carried only one or \nmore carbapenemase genes, four of the isolates carried \nblaOXA−69 and 16 isolates showed co-carriage of differ­\nent blaOXA-type carbapenemase genes, (Table  3). The \nsecond predominant carbapenemase genes were blaNDM \n"
+  },
+  {
+    "page": 8,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      650.690185546875,
+      540.8858032226562,
+      714.1065673828125
+    ],
+    "text": "alleles carried in twelve A. baumannii 42.9% (six isolates \nalso carried different alleles of blaOXA and four isolates \nconcurrently carried blaADC−25). Two isolates concur­\nrently harbored blaNDM with blaCARBA−5, blaCARBA−16, \nblaCARBA−49. (Table 3)\n"
+  },
+  {
+    "page": 8,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      84.68389892578125,
+      513.4361572265625,
+      128.25408935546875
+    ],
+    "text": "Table 3  Frequency and distribution of beta-lactamase genes detected among Acinetobacter species at each Ethiopian Hospital, \nbetween July 2020 and August 2021\nIsolates\nESBL gene \n(n  = 4/28) = 14.3%\n"
+  },
+  {
+    "page": 8,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      202.81170654296875,
+      108.47808837890625,
+      276.8116760253906,
+      128.25408935546875
+    ],
+    "text": "Carbapenemase gene \n(n  = 20/28) = 71.4%\n"
+  },
+  {
+    "page": 8,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      336.8902893066406,
+      108.47808837890625,
+      397.1383361816406,
+      138.25408935546875
+    ],
+    "text": "ESBL and \nCARBA genes \n(n  = 4/28) = 14.3%\n"
+  },
+  {
+    "page": 8,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      410.1166076660156,
+      108.47808837890625,
+      434.2205810546875,
+      128.25408935546875
+    ],
+    "text": "DTCSH \n(n  = 4)\n"
+  },
+  {
+    "page": 8,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      440.0452880859375,
+      108.47808837890625,
+      465.79730224609375,
+      128.25408935546875
+    ],
+    "text": "HUCSH \n(n  = 12)\n"
+  },
+  {
+    "page": 8,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      473.060302734375,
+      108.47808837890625,
+      498.81231689453125,
+      128.25408935546875
+    ],
+    "text": "JUSH \n(n  = 13)\n"
+  },
+  {
+    "page": 8,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      506.6199951171875,
+      108.47808837890625,
+      532.3719482421875,
+      128.25408935546875
+    ],
+    "text": "TASH \n(n  = 14)\n"
+  },
+  {
+    "page": 8,
+    "block_no": 10,
+    "block_type": 0,
+    "bbox": [
+      56.69300079345703,
+      140.51841735839844,
+      510.52398681640625,
+      278.0914001464844
+    ],
+    "text": "A. baumannii (n = 4)\nblaOXA−69\n3\n1\nA. lactucae (n = 1)\nblaCTX−M−15, blaACT−15\n1\nA. baumannii (n = 2)\nblaTEM−1B, blaCTX−M−15\n1\n1\nA. baumannii (n = 1)\nblaTEM−1B, blaCTX−M−15\n1\nA. baumannii (n = 1)\nblaOXA−1, blaCTX−M−65\n1\nA. baumannii (n = 2)\nblaOXA−69, blaGES− 11\n1\n1\nA. baumannii (n = 1)\nblaOXA−23, blaOXA−203\n1\nA. baumannii (n = 1)\nblaOXA−396, blaOXA−409\n1\nA. baumannii (n = 3)\nblaOXA−58, blaOXA− 180, blaNDM− 1\n2\n1\nA. baumannii (n = 3)\nblaOXA−23, blaOXA− 66, blaNDM− 1\n1\n1\n1\nA. baumannii (n = 4)\nblaOXA−23, blaOXA− 66, blaNDM− 1, \nblaADC− 25\n"
+  },
+  {
+    "page": 8,
+    "block_no": 11,
+    "block_type": 0,
+    "bbox": [
+      440.0452880859375,
+      257.2113952636719,
+      510.52398681640625,
+      266.69140625
+    ],
+    "text": "1\n1\n2\n"
+  },
+  {
+    "page": 8,
+    "block_no": 12,
+    "block_type": 0,
+    "bbox": [
+      56.69300079345703,
+      278.8805847167969,
+      372.4994812011719,
+      289.7605895996094
+    ],
+    "text": "A. baumannii (n = 1)\nblaOXA−1,bla\n"
+  },
+  {
+    "page": 8,
+    "block_no": 13,
+    "block_type": 0,
+    "bbox": [
+      336.8902893066406,
+      288.8805847167969,
+      395.1478271484375,
+      309.7605895996094
+    ],
+    "text": "TEM−1B, blaCTX−M−15, \nblaACT− 16\n"
+  },
+  {
+    "page": 8,
+    "block_no": 14,
+    "block_type": 0,
+    "bbox": [
+      473.0603942871094,
+      278.8805847167969,
+      476.9643859863281,
+      288.360595703125
+    ],
+    "text": "1\n"
+  },
+  {
+    "page": 8,
+    "block_no": 15,
+    "block_type": 0,
+    "bbox": [
+      56.69300079345703,
+      310.54986572265625,
+      302.56591796875,
+      331.42987060546875
+    ],
+    "text": "A. baumannii (n = 2)\nblaOXA−69, blaCARBA−5, blaCARBA−16, \nblaCARBA−49\n"
+  },
+  {
+    "page": 8,
+    "block_no": 16,
+    "block_type": 0,
+    "bbox": [
+      410.11669921875,
+      310.54986572265625,
+      476.9643859863281,
+      320.0298767089844
+    ],
+    "text": "1\n1\n"
+  },
+  {
+    "page": 8,
+    "block_no": 17,
+    "block_type": 0,
+    "bbox": [
+      56.69300079345703,
+      332.21917724609375,
+      309.018798828125,
+      353.09918212890625
+    ],
+    "text": "A. baumannii (n = 2)\nblaOXA−69, blaNDM− 1, blaCARBA− 5, \nblaCARBA−16, blaCARBA− 49\n"
+  },
+  {
+    "page": 8,
+    "block_no": 18,
+    "block_type": 0,
+    "bbox": [
+      410.11669921875,
+      332.21917724609375,
+      510.52398681640625,
+      341.6991882324219
+    ],
+    "text": "1\n1\n"
+  },
+  {
+    "page": 8,
+    "block_no": 19,
+    "block_type": 0,
+    "bbox": [
+      56.69300079345703,
+      353.5924987792969,
+      430.2286682128906,
+      373.3684997558594
+    ],
+    "text": "Total (n = 28)\n3 \n(75%)\n"
+  },
+  {
+    "page": 8,
+    "block_no": 20,
+    "block_type": 0,
+    "bbox": [
+      440.0452880859375,
+      353.5924987792969,
+      499.3483581542969,
+      373.3684997558594
+    ],
+    "text": "9 (75%)\n7 \n(53.8%)\n"
+  },
+  {
+    "page": 8,
+    "block_no": 21,
+    "block_type": 0,
+    "bbox": [
+      506.6199951171875,
+      353.5924987792969,
+      532.9080200195312,
+      373.3684997558594
+    ],
+    "text": "9 \n(64.3%)\n"
+  },
+  {
+    "page": 8,
+    "block_no": 22,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      601.23681640625,
+      540.3544921875,
+      631.1488037109375
+    ],
+    "text": "Fig. 6  Frequency and distribution of ESBL gene detected at each Hospital in Ethiopia between July 2020 and August 2021. DTCSH; Debre Tabor Com­\nprehensive Specialized Hospital; HUCSH: Hawassa University Comprehensive Specialized Hospital: JUSH; Jimma University Teaching Specialized Hospital; \nTASH; Tikur Anbessa Specialized Hospital\n"
+  },
+  {
+    "page": 8,
+    "block_no": 23,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      383.1095886230469,
+      59.692901611328125,
+      399.2735900878906
+    ],
+    "text": " \n"
+  },
+  {
+    "page": 9,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      33.126182556152344,
+      538.589111328125,
+      42.75018310546875
+    ],
+    "text": "Page 9 of 12\nWorku et al. BMC Infectious Diseases          (2024) 24:459 \n"
+  },
+  {
+    "page": 9,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      87.05778503417969,
+      292.8627014160156,
+      186.10658264160156
+    ],
+    "text": "Detection of blaSHV, blaTEM, blaCTX−M, blaKPC and blaNDM with \nPCR\nOf the 40 ESBL and carbapenemase-producing Acineto­\nbacter species isolates detected with combined disk-diffu­\nsion (CDT), 12 (42.5%) were confirmed for one or more \nESBL production genes by multiplex PCR. The blaTEM, \nand blaCTX−M genes were detected in 10 and 12 isolates \nrespectively, while blaSHV was not detected.\n"
+  },
+  {
+    "page": 9,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      182.690185546875,
+      292.85516357421875,
+      270.1065673828125
+    ],
+    "text": "Of the 40 MDR and ESBL-producing Acinetobacter \nspecies isolates according to our previous published work \nWorku S et al. [17]. , only 12 (30%) A. baumannii iso­\nlates were carbapenemase gene positive in the multiplex \nPCR. The blaNDM gene was detected in 12 isolates (only \none isolate carried blaCTX−M and blaTEM−1 genes) while \nthe blaKPC gene was not detected. Figure  7 shows the \n"
+  },
+  {
+    "page": 9,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      86.690185546875,
+      540.8914794921875,
+      114.10657501220703
+    ],
+    "text": "gel image of the blaCTX−M (754 bp), blaTEM (403 bp) and \nblaNDM (621 bp) genes.\n"
+  },
+  {
+    "page": 9,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      121.81348419189453,
+      540.9046020507812,
+      281.22357177734375
+    ],
+    "text": "Discussion\nThis study examined the prevalence of novel beta-lacta­\nmase-mediated resistance mechanisms in cephalospo­\nrin- or carbapenem-resistant isolates among patients \ninvestigated for surgical site infection at four referral \nhospitals located in the Amhara region, Addis Ababa, \nsouthern region and Oromia region of Ethiopia. In our \nfindings the emergence of various coexisting ESBL and \ncarbapenemase-resistance-producing genes in Acineto­\nbacter is alarming and challenging, especially for medical \nprofessionals. Those genes pose a major threat globally \nand may significantly limit the treatment options in hos­\npital settings. Similarly A. baumannii has been reported \n"
+  },
+  {
+    "page": 9,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      715.7890014648438,
+      540.31884765625,
+      735.7009887695312
+    ],
+    "text": "Fig. 7  A and B shows the gel image of the blaCTX−M (754 bp), blaTEM (403 bp) and blaNDM (621 bp) genes. Lane M: 100 bp DNA ladder, PC: Positive control, \nLanes 1–14: Acinetobacter isolates, NC: Negative control\n"
+  },
+  {
+    "page": 9,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      293.7813720703125,
+      59.692901611328125,
+      309.94537353515625
+    ],
+    "text": " \n"
+  },
+  {
+    "page": 10,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      33.126182556152344,
+      538.5892333984375,
+      42.75018310546875
+    ],
+    "text": "Page 10 of 12\nWorku et al. BMC Infectious Diseases          (2024) 24:459 \n"
+  },
+  {
+    "page": 10,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      86.690185546875,
+      292.86114501953125,
+      137.2235870361328
+    ],
+    "text": "worldwide and has become a significant health problem \n[26]. Especially carbapenem-resistant Acinetobacter spe­\ncies, a critical priority for the World Health Organization, \nurgently require new antibiotics [10].\n"
+  },
+  {
+    "page": 10,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      134.690185546875,
+      292.861083984375,
+      209.2235870361328
+    ],
+    "text": "In this study, 95.3% Acinetobacter species were resistant \nto ceftazidime. This finding was comparable with the pre­\nvious study conducted in India [27]. Additionally, in this \nstudy, the phenotypic ESBL production by combined disk \ndiffusion test was 93%. This result is higher than studies \nconducted by Kaur 27.5% [27] and Chaudhry 46.0% [28].\n"
+  },
+  {
+    "page": 10,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      206.690185546875,
+      292.8709716796875,
+      305.22357177734375
+    ],
+    "text": "In the present study, the most common ESBL genes \ndetected were blaCTX−M from 6 isolates 21.4%. This data \nis comparable with the previous study reported from \nSaudi Arabia which was 20% [29] and lower than study \nreported in Nigeria (25%) [30]. On the other hand in our \nstudy, the blaTEM gene was detected in 14.3% of the iso­\nlates which is lower than the study conducted in Saudi \nArabia 70% [29].\n"
+  },
+  {
+    "page": 10,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      302.690185546875,
+      292.8758544921875,
+      377.22357177734375
+    ],
+    "text": "The present findings revealed that the blaSHV was not \ndetected in any of the isolates. The result is similar to \nstudies conducted in Iran [31] and Algeria [32]. However, \nthe blaSHV gene was common in A. baumannii isolated in \nIraq 25% [33]. These variations could be due to different \nantibiotic use, and difference in study settings [34].\n"
+  },
+  {
+    "page": 10,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      374.690185546875,
+      292.88055419921875,
+      581.2235717773438
+    ],
+    "text": "In this finding 43 (85.7%) isolates were carbapenem-\nresistant, which is similar with a study conducted in \nPakistan (89.1%) [35]. In A. baumannii, carbapenem \nresistance is frequently linked to the existence of metallo-\nβ-lactamases (MBL) such as blaNDM−1 elsewhere in the \nworld [36, 37]. Similarly in our study, the blaNDM−1 gene \nwas detected in 25.6% (11/43) A. baumannii isolates. \nIn addition, our study is similar to the previous studies \nconducted in Libya [38], and Algeria [39]. On the other \nhand, two of the blaNDM−1 genes were detected in A. bau­\nmannii from Jimma Hospital. This result was comparable \nwith the first blaNDM reported from Jimma Hospital [40]. \nThe predominant carbapenemase gene was blaOXA type \nat 58.1%, (mainly blaOXA−23, and blaOXA−69) followed by \nmetallo-β-lactamase blaNDM (27.5%), genes. This was \ncomparable with the previous study conducted in Ethio­\npia [41].\n"
+  },
+  {
+    "page": 10,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      578.690185546875,
+      292.8786926269531,
+      701.2235717773438
+    ],
+    "text": "More than one ESBL resistance gene in a single isolate \nincrease the difficulty of treating with beta-lactam anti­\nbiotic drugs [14]. In this study, the co-existence of two \ndifferent ESBL genes was frequently detected in a single \nisolate, similar to a study conducted in Saudi Arabia [29]. \nThe present study revealed that the co-existence of two \nor more carbapenemase encoding genes in a single iso­\nlate was 80% (20/25). This finding is higher than the study \nconducted in Jimma, Ethiopia [41] and comparable with \nthe study conducted in Tunisia 82% [42].\n"
+  },
+  {
+    "page": 10,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      698.690185546875,
+      292.8542175292969,
+      737.2235717773438
+    ],
+    "text": "Many isolates also carried one or more other carbapen­\nemase genes together with ESBL genes showing dis­\nsemination of multidrug-resistant (MDR) A. baumannii \n"
+  },
+  {
+    "page": 10,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      86.690185546875,
+      540.904541015625,
+      197.2235870361328
+    ],
+    "text": "in Teaching and referral Hospitals in Ethiopia. The find­\ning gives an alarming sign towards A. baumannii carry­\ning both metallo-beta-lactamases and ESBL production \ngenes conferring resistance to carbapenems and cepha­\nlosporins respectively. This combination of resistance \ngenes can limit therapeutic options [26]. Early detection, \nstrict adherence to infection control procedures and anti­\nmicrobial policy are the best lines of defence against A. \nbaumannii.\n"
+  },
+  {
+    "page": 10,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      194.690185546875,
+      540.88916015625,
+      305.22357177734375
+    ],
+    "text": "Moreover, the widespread distribution of NDM-1 \nmetallo-β-lactamase necessitates special consideration \nbecause the enzyme confers resistance to a wide spec­\ntrum of beta-lactam antibiotics on the bacteria, and their \ngenetic makeup exhibits remarkable adaptability and \nmobility. Serious public health problems could arise from \nthe spread of such plasmids across many clinically signifi­\ncant bacterial species, especially GNB A. baumannii, in \nhospital settings [43].\n"
+  },
+  {
+    "page": 10,
+    "block_no": 10,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      302.690185546875,
+      540.924072265625,
+      401.22357177734375
+    ],
+    "text": "Likewise, the blaOXA−23 gene is one of the common \ncauses of resistance conferring high level of resistance \nand was detected in 8 isolates (18.6%). This figure is \nhigher than the study conducted in China which was \n4.5% but lower than studies conducted in Libya with 29 \nstrains (80.6%) [38] and Pakistan (97.8%) [35]. The prev­\nalence of this gene may vary in the geographic area and \nthe type of Acinetobacter species.\n"
+  },
+  {
+    "page": 10,
+    "block_no": 11,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      409.8134765625,
+      540.9004516601562,
+      485.22357177734375
+    ],
+    "text": "Conclusions\nOur results suggest the existence of different species of \nAcinetobacter including A. baumannii, A. pittii, A. soli \nand A. lactucae in the hospital settings. In the present \nstudy carbapenemase-producing genes were detected in \n85.7% of A. baumannii.\n"
+  },
+  {
+    "page": 10,
+    "block_no": 12,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      482.690185546875,
+      540.8818969726562,
+      557.2235717773438
+    ],
+    "text": "The present finding showed ESBL-producing genes \namong the isolates, with blaCTX−M variants being the \nmost prevalent type and blaCTX−M−15 gene the predomi­\nnant variant. In addition, the co-existence of two dif­\nferent ESBL genes was frequently detected in a single \nbacterial pathogen.\n"
+  },
+  {
+    "page": 10,
+    "block_no": 13,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      554.690185546875,
+      540.8936767578125,
+      630.1065673828125
+    ],
+    "text": "In addition, co-existence of two or more different car­\nbapenemase genes was frequently detected in a single \nbacterial pathogen with blaOXA variants being the most \nprevalent type and with blaOXA−23, and blaOXA−69 as the \npredominant variants followed by blaOXA−66. The second \npredominant carbapenemase gene was blaNDM−1.\n"
+  },
+  {
+    "page": 10,
+    "block_no": 14,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      626.690185546875,
+      540.9111938476562,
+      701.2235717773438
+    ],
+    "text": "The emergence of various ESBL and carbapenemase-\nresistance-producing coexisting genes in Acinetobacter \nis alarming and challenging, especially for medical pro­\nfessionals. Those genes pose a major threat globally and \nmay significantly limit the treatment options in hospital \nsettings.\n"
+  },
+  {
+    "page": 10,
+    "block_no": 15,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      698.690185546875,
+      540.8720703125,
+      725.2235717773438
+    ],
+    "text": "The prevalence of ESBLs and MBLs-producing A. bau­\nmannii strains detected in this study is a major concern \n"
+  },
+  {
+    "page": 11,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      33.126182556152344,
+      538.58935546875,
+      42.75018310546875
+    ],
+    "text": "Page 11 of 12\nWorku et al. BMC Infectious Diseases          (2024) 24:459 \n"
+  },
+  {
+    "page": 11,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      86.690185546875,
+      290.5513000488281,
+      113.22358703613281
+    ],
+    "text": "and highlights the need for infection prevention and con­\ntrol measures.\n"
+  },
+  {
+    "page": 11,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      121.81348419189453,
+      292.85809326171875,
+      173.2235870361328
+    ],
+    "text": "Limitation of the study\nThe number of Acinetobacter isolates was small and may \nnot be representative for the presence of Acinetobacter \nin the community.\n"
+  },
+  {
+    "page": 11,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      178.71018981933594,
+      289.7245788574219,
+      268.87518310546875
+    ],
+    "text": "Acknowledgements\nThe authors would like to extend our gratitude to The Centre for Innovative \nDrug Development and Therapeutic Trials for Africa (CDT-Africa) for \nsupporting this study (covering Sweden travel costs and subsistence for SW). \nWe would like to thank the Debre Tabor Compressive Specialized Hospital, \nTikur Anbessa Specialized Hospital, Hawassa University Teaching Hospital, \nand Jimma University Teaching Specialized Hospital for allowing us to \nconduct this study. We appreciate all of the research sites’ doctors, nurses, and \nmicrobiologists who assisted us in conducting this investigation. Lastly, we \nwould like to thank everyone who took part in this study.\n"
+  },
+  {
+    "page": 11,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      277.7101745605469,
+      292.1973571777344,
+      367.87518310546875
+    ],
+    "text": "Author contributions\nS.W. was the primary researcher who conceived this study and was involved \nin data collection, laboratory investigation, data analysis, interpretation \nof the findings, manuscript drafting, and write-up. B.A., T.S., D.H., and G.D., \nsubstantially participated in laboratory investigation, interpretation of the \nfindingsand data collection. B.S., T.A., A.M., A.A., G.T.B., and G.S. substantially \nparticipated in the design of this study, reviewed the manuscript, and \nprovided critical intellectual content. G.S. participated in the analysis and \ninterpretation of the results. All authors have read and agreed to the published \nversion of the manuscript.\n"
+  },
+  {
+    "page": 11,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      376.7101745605469,
+      285.7345886230469,
+      421.87518310546875
+    ],
+    "text": "Funding\nThis study was sponsored by Addis Ababa University, Armauer Hansen \nResearch Institute, Uppsala University, SIDA/SAREC bilateral research \ncooperation with Ethiopia and The Centre for Innovative Drug Development \nand Therapeutic Trials for Africa.\n"
+  },
+  {
+    "page": 11,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      430.7101745605469,
+      287.1446228027344,
+      457.87518310546875
+    ],
+    "text": "Data availability\nThe data sets generated during and/or analysed during the current study are \navailable from the corresponding authors on reasonable request.\n"
+  },
+  {
+    "page": 11,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      471.0577697753906,
+      106.57530212402344,
+      482.3001708984375
+    ],
+    "text": "Declarations\n"
+  },
+  {
+    "page": 11,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      490.7101745605469,
+      289.7830810546875,
+      661.8751831054688
+    ],
+    "text": "Ethics approval and consent to participate\nEthical clearance and approval were obtained from Addis Ababa University’s \nCollege of Health Sciences and AAREC, AAUMF03-008/2020. The Department \nof Medical Microbiology, Immunology, and Parasitology (DMIP) and the AHRI/\nALERT Research Ethics Committee (AAREC) reviewed and approved the study, \nand institutional review board (IRB) approval was obtained from Addis Ababa \nUniversity’s College of Health Sciences and AAREC, AAUMF03-008/2020. \nThe study was also approved by AHRI/ALERT Ethics Review Committee \n(protocol number: P0/2919) of the Armauer Hansen Research Institute and \nNational Ethical Review committee (Ref No. MoE//17 /246/767/23). A written \npermission letter was obtained from each study site before starting the \ndata collection. The purpose and procedures of the study were explained \nto the study participants, participants’ parents, or guardians before the \ncommencement of the actual specimen collection. Those study participants \nwho gave written informed consent and those children whose parents \nor guardians gave informed consent were selected and enrolled in this \nstudy. Results obtained from all patients were communicated to attending \nphysicians and all patients’ information was kept confidential by using an \nidentifier/code to protect patient information from unauthorized person.\n"
+  },
+  {
+    "page": 11,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      670.710205078125,
+      132.79539489746094,
+      688.8751831054688
+    ],
+    "text": "Consent for publication\nNot applicable.\n"
+  },
+  {
+    "page": 11,
+    "block_no": 10,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      697.710205078125,
+      188.21966552734375,
+      715.8751831054688
+    ],
+    "text": "Competing interests\nThe authors declare no competing interests.\n"
+  },
+  {
+    "page": 11,
+    "block_no": 11,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      82.3351821899414,
+      520.7721557617188,
+      208.50018310546875
+    ],
+    "text": "Author details\n1Department of Microbiology, Immunology and Parasitology, College \nof Health Sciences, School of Medicine, Addis Ababa University, Addis \nAbaba, Ethiopia\n2Department of Medical Laboratory Science, College of Health Sciences, \nDebre Tabor University, Debre Tabor, Ethiopia\n3Bacterial and Viral Diseases Research Directorate, Armauer Hansen \nResearch Institute, Addis Ababa, Ethiopia\n4School of Medical Laboratory Sciences, Jimma University, Jimma, \nEthiopia\n5Department of Surgery, College of Medicine, Debre Tabor University, \nDebre Tabor, Ethiopia\n6Department of Medical Biochemistry and Microbiology, Uppsala \nUniversity, Uppsala, Sweden\n"
+  },
+  {
+    "page": 11,
+    "block_no": 12,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      219.8238067626953,
+      469.70111083984375,
+      228.83880615234375
+    ],
+    "text": "Received: 20 February 2024 / Accepted: 29 April 2024\n"
+  },
+  {
+    "page": 11,
+    "block_no": 13,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      265.6737976074219,
+      538.175537109375,
+      580.8388061523438
+    ],
+    "text": "References\n1.\t\nEndo S, Yano H, Kanamori H, Inomata S, Aoyagi T, Hatta M, et al. High \nfrequency of Acinetobacter soli among Acinetobacter isolates causing bacte­\nremia at a tertiary hospital in Japan. J Clin Microbiol. 2014;52(3):911–5.\n2.\t\nMunoz-Price LS, Zembower T, Penugonda S, Schreckenberger P, Lavin MA, \nWelbel S, et al. Clinical outcomes of carbapenem-resistant Acinetobacter \nbaumannii bloodstream infections: study of a 2-state monoclonal outbreak. \nInfect Control Hosp Epidemiol. 2010;31(10):1057–62.\n3.\t\nNasr P. Genetics, epidemiology, and clinical manifestations of multidrug-\nresistant Acinetobacter baumannii. J Hosp Infect. 2020;104(1):4–11.\n4.\t\nChusri S, Chongsuvivatwong V, Rivera JI, Silpapojakul K, Singkhamanan K, \nMcNeil E, et al. Clinical outcomes of hospital-acquired infection with Acineto­\nbacter nosocomialis and Acinetobacter pittii. Antimicrob Agents Chemother. \n2014;58(7):4172–9.\n5.\t\nCosgaya C, Marí-Almirall M, Van Assche A, Fernández-Orth D, Mosqueda N, \nTelli M, et al. Acinetobacter dijkshoorniae sp. nov., a member of the Acineto­\nbacter calcoaceticus-Acinetobacter baumannii complex mainly recov­\nered from clinical samples in different countries. Int J Syst Evol Microbiol. \n2016;66(10):4105–11.\n6.\t\nNemec A, Krizova L, Maixnerova M, van der Reijden TJ, Deschaght P, Passet \nV, et al. Genotypic and phenotypic characterization of the Acinetobacter \ncalcoaceticus-Acinetobacter baumannii complex with the proposal of \nAcinetobacter pittii sp. nov. (formerly Acinetobacter genomic species 3) and \nAcinetobacter nosocomialis sp. nov. (formerly Acinetobacter genomic spe­\ncies 13TU). Res Microbiol. 2011;162(4):393–404.\n7.\t\nVillalón P, Ortega M, Sáez-Nieto JA, Carrasco G, Medina-Pascual MJ, Garrido \nN, et al. Dynamics of a sporadic nosocomial Acinetobacter calcoaceticus - \nAcinetobacter baumannii Complex Population. Front Microbiol. 2019;10:593.\n8.\t\nAyoub Moubareck C, Hammoudi Halat D. Insights into Acinetobacter \nbaumannii: a review of Microbiological, Virulence, and Resistance traits in a \nthreatening Nosocomial Pathogen. Antibiot [Internet]. 2020; 9(3).\n9.\t\nZhou H, Yao Y, Zhu B, Ren D, Yang Q, Fu Y, et al. Risk factors for acquisition and \nmortality of multidrug-resistant Acinetobacter baumannii bacteremia: a ret­\nrospective study from a Chinese hospital. Med (Baltim). 2019;98(13):e14937.\n10.\t Tacconelli E, Carrara E, Savoldi A, Harbarth S, Mendelson M, Monnet DL, \n"
+  },
+  {
+    "page": 11,
+    "block_no": 14,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      580.9512939453125,
+      536.5218505859375,
+      616.8388061523438
+    ],
+    "text": "et al. Discovery, research, and development of new antibiotics: the WHO \npriority list of antibiotic-resistant bacteria and tuberculosis. Lancet Infect Dis. \n2018;18(3):318–27.\n11.\t Kyriakidis I, Vasileiou E, Pana ZD, Tragiannidis A. Acinetobacter baumannii \n"
+  },
+  {
+    "page": 11,
+    "block_no": 15,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      616.9512939453125,
+      513.5999755859375,
+      634.8388061523438
+    ],
+    "text": "Antibiotic Resist Mech Pathogens [Internet]. 2021; 10(3).\n12.\t Ejaz H, Younas S, Abosalif KOA, Junaid K, Alzahrani B, Alsrhani A, et al. \n"
+  },
+  {
+    "page": 11,
+    "block_no": 16,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      634.9512939453125,
+      535.3618774414062,
+      670.8388061523438
+    ],
+    "text": "Molecular analysis of blaSHV, blaTEM, and blaCTX-M in extended-spectrum \nβ-lactamase producing Enterobacteriaceae recovered from fecal specimens \nof animals. PLoS ONE. 2021;16(1):e0245126.\n13.\t Hussain HI, Aqib AI, Seleem MN, Shabbir MA, Hao H, Iqbal Z, et al. Genetic \n"
+  },
+  {
+    "page": 11,
+    "block_no": 17,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      670.9512939453125,
+      538.0635986328125,
+      697.8388061523438
+    ],
+    "text": "basis of molecular mechanisms in β-lactam resistant gram-negative bacteria. \nMicrob Pathog. 2021;158:105040.\n14.\t Castanheira M, Simner PJ, Bradford PA. Extended-spectrum β-lactamases: an \n"
+  },
+  {
+    "page": 11,
+    "block_no": 18,
+    "block_type": 0,
+    "bbox": [
+      319.7243957519531,
+      697.9512939453125,
+      538.167724609375,
+      715.8388061523438
+    ],
+    "text": "update on their characteristics, epidemiology and detection. JAC Antimicrob \nResist. 2021;3(3):dlab092.\n"
+  },
+  {
+    "page": 12,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      33.126182556152344,
+      538.5892333984375,
+      42.75018310546875
+    ],
+    "text": "Page 12 of 12\nWorku et al. BMC Infectious Diseases          (2024) 24:459 \n"
+  },
+  {
+    "page": 12,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      82.61268615722656,
+      280.89532470703125,
+      91.50018310546875
+    ],
+    "text": "15.\t Nguyen M, Joshi SG. Carbapenem resistance in Acinetobacter baumannii, \n"
+  },
+  {
+    "page": 12,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      91.61268615722656,
+      278.9163818359375,
+      118.50018310546875
+    ],
+    "text": "and their importance in hospital-acquired infections: a scientific review. J \nAppl Microbiol. 2021;131(6):2715–38.\n16.\t Mathlouthi N, El Salabi AA, Ben Jomàa-Jemili M, Bakour S, Al-Bayssari C, \n"
+  },
+  {
+    "page": 12,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      118.61268615722656,
+      291.9907531738281,
+      154.50018310546875
+    ],
+    "text": "Zorgani AA, et al. Early detection of metallo-β-lactamase NDM-1- and OXA-23 \ncarbapenemase-producing Acinetobacter baumannii in Libyan hospitals. Int \nJ Antimicrob Agents. 2016;48(1):46–50.\n17.\t Worku S, Abebe T, Alemu A, Seyoum B, Swedberg G, Abdissa A, et al. Bacte­\n"
+  },
+  {
+    "page": 12,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      154.61268615722656,
+      290.8902587890625,
+      190.50018310546875
+    ],
+    "text": "rial profile of surgical site infection and antimicrobial resistance patterns in \nEthiopia: a multicentre prospective cross-sectional study. Ann Clin Microbiol \nAntimicrob. 2023;22(1):96.\n18.\t Pradhan GB, Agrawal J. Comparative study of post operative wound infection \n"
+  },
+  {
+    "page": 12,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      190.61268615722656,
+      291.9473876953125,
+      217.50018310546875
+    ],
+    "text": "following emergency lower segment caesarean section with and without the \ntopical use of fusidic acid. Nepal Med Coll Journal: NMCJ. 2009;11(3):189–91.\n19.\t Cheesbrough M. District laboratory practice in tropical countries, part 2. \n"
+  },
+  {
+    "page": 12,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      217.61268615722656,
+      286.72906494140625,
+      235.50018310546875
+    ],
+    "text": "Cambridge University Press; 2005.\n20.\t Clinical Laboratory Standared Institiute. Performans standards for Antimicro­\n"
+  },
+  {
+    "page": 12,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      235.61268615722656,
+      285.2105712890625,
+      262.50018310546875
+    ],
+    "text": "bial Susceptablity Testing, CLSI supplement M 100. 30th ed.; Clinical Labora­\ntory Standared Institiute 2021: Wayne,PA, USA 2021.\n21.\t Humphries R, Bobenchik AM, Hindler JA, Schuetz AN. Overview of changes \n"
+  },
+  {
+    "page": 12,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      262.6126708984375,
+      283.7187194824219,
+      298.50018310546875
+    ],
+    "text": "to the Clinical and Laboratory Standards Institute Performance Standards \nfor Antimicrobial Susceptibility Testing, M100, 31st Edition. J Clin Microbiol. \n2021;59(12):e0021321.\n22.\t El-Badawy MF, Tawakol WM, El-Far SW, Maghrabi IA, Al-Ghamdi SA, Mansy \n"
+  },
+  {
+    "page": 12,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      298.6126708984375,
+      286.95574951171875,
+      343.50018310546875
+    ],
+    "text": "MS, et al. Molecular Identification of Aminoglycoside-modifying enzymes \nand plasmid-mediated Quinolone Resistance genes among Klebsiella pneu­\nmoniae clinical isolates recovered from Egyptian patients. Int J Microbiol. \n2017;2017:8050432.\n23.\t Dallenne C, Da Costa A, Decré D, Favier C, Arlet G. Development of a \n"
+  },
+  {
+    "page": 12,
+    "block_no": 10,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      343.6126708984375,
+      277.90777587890625,
+      379.50018310546875
+    ],
+    "text": "set of multiplex PCR assays for the detection of genes encoding impor­\ntant β-lactamases in Enterobacteriaceae. J Antimicrob Chemother. \n2010;65(3):490–5.\n24.\t Mohammed Y, Gadzama GB, Zailani SB, Aboderin AO. Characterization of \n"
+  },
+  {
+    "page": 12,
+    "block_no": 11,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      379.6126708984375,
+      287.75335693359375,
+      406.50018310546875
+    ],
+    "text": "extended-spectrum beta-lactamase from Escherichia coli and Klebsiella spe­\ncies from North Eastern Nigeria. J Clin Diagn Res. 2016;10(2):Dc07–10.\n25.\t Poirel L, Walsh TR, Cuvillier V, Nordmann P. Multiplex PCR for detec­\n"
+  },
+  {
+    "page": 12,
+    "block_no": 12,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      406.6126708984375,
+      280.9650573730469,
+      433.50018310546875
+    ],
+    "text": "tion of acquired carbapenemase genes. Diagn Microbiol Infect Dis. \n2011;70(1):119–23.\n26.\t Tickler IA, Kawa D, Obradovich AE, Fang FC, Tenover FC, Healthcare Associ­\n"
+  },
+  {
+    "page": 12,
+    "block_no": 13,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      433.6126708984375,
+      283.7393493652344,
+      469.50018310546875
+    ],
+    "text": "ated Infections C. Characterization of carbapenemase-and ESBL-Producing \ngram-negative Bacilli isolated from patients with urinary tract and blood­\nstream infections. Antibiotics. 2023;12(9):1386.\n27.\t Kaur A, Singh S. Prevalence of Extended Spectrum Betalactamase (ESBL) \n"
+  },
+  {
+    "page": 12,
+    "block_no": 14,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      469.6126708984375,
+      288.4103698730469,
+      505.50018310546875
+    ],
+    "text": "and metallobetalactamase (MBL) producing < i > Pseudomonas aeruginosa \nand < i > Acinetobacter baumannii isolated from various clinical samples. J \nPathogens. 2018;2018:6845985.\n28.\t Chaudhary M, Payasi A. Molecular characterization and antimicrobial suscep­\n"
+  },
+  {
+    "page": 12,
+    "block_no": 15,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      505.6126708984375,
+      292.1228332519531,
+      532.5001831054688
+    ],
+    "text": "tibility study of Acinetobacter baumannii clinical isolates from Middle East, \nAfrican and Indian patients. J Proteom Bioinform. 2012;5(11):265–9.\n29.\t Ibrahim ME, Algak TB, Abbas M, Elamin BK. Emergence of bla TEM, bla CTX–M, \n"
+  },
+  {
+    "page": 12,
+    "block_no": 16,
+    "block_type": 0,
+    "bbox": [
+      56.692901611328125,
+      532.6126708984375,
+      285.98187255859375,
+      568.5001831054688
+    ],
+    "text": "Bla SHV and Bla OXA genes in multidrug–resistant Enterobacteriaceae and \nAcinetobacter baumannii in Saudi Arabia. Experimental Therapeutic Med. \n2021;22(6):1–11.\n30.\t Uyanga FZ, Ekundayo EO, Nwankwo EO. Bla TEM, Bla SHV and Bla CTX-M-15 \n"
+  },
+  {
+    "page": 12,
+    "block_no": 17,
+    "block_type": 0,
+    "bbox": [
+      71.69290161132812,
+      568.6126708984375,
+      283.4536437988281,
+      577.5001831054688
+    ],
+    "text": "extended spectrum beta-lactamase produced by Acinetobacter Baumanii, \n"
+  },
+  {
+    "page": 12,
+    "block_no": 18,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      82.61268615722656,
+      535.3945922851562,
+      109.50018310546875
+    ],
+    "text": "Enterobacter clocae and Proteus mirabilis from pregnant women in three \nsecondary Health Care facilities in South-South.\n31.\t Abdar MH, Taheri-Kalani M, Taheri K, Emadi B, Hasanzadeh A, Sedighi A, et al. \n"
+  },
+  {
+    "page": 12,
+    "block_no": 19,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      109.61268615722656,
+      531.4722900390625,
+      145.50018310546875
+    ],
+    "text": "Prevalence of extended-spectrum beta-lactamase genes in Acinetobacter \nbaumannii strains isolated from nosocomial infections in Tehran, Iran. GMS \nHyg Infect Control. 2019;14:Doc02.\n32.\t Ramoul A, Hammami S, Dekhil M, Aimiri S, Slim A, Boutiba-Ben Boubaker I. \n"
+  },
+  {
+    "page": 12,
+    "block_no": 20,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      145.61268615722656,
+      533.2600708007812,
+      181.50018310546875
+    ],
+    "text": "Phenotypic and genotypic characterization of clinical multidrug resistant \nAcinetobacter baumannii from Algerian intensive care units. Afr J Microbiol \nRes. 2013;7(10):868–74.\n33.\t Al-Thahab AA. Molecular detection of extended-spectrum beta-lactamases \n"
+  },
+  {
+    "page": 12,
+    "block_no": 21,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      181.61268615722656,
+      527.0529174804688,
+      208.50018310546875
+    ],
+    "text": "in clinical isolates of Acinetobacter baumannii. J Biol Agric Healthc. \n2013;3(7):32–9.\n34.\t Onduru OG, Mkakosya RS, Aboud S, Rumisha SF. Genetic determinants of \n"
+  },
+  {
+    "page": 12,
+    "block_no": 22,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      208.61268615722656,
+      528.2866821289062,
+      253.50018310546875
+    ],
+    "text": "resistance among ESBL-Producing < i > Enterobacteriaceae in Community \nand Hospital settings in East, Central, and Southern Africa: a systematic \nreview and Meta-analysis of prevalence. Can J Infect Dis Med Microbiol. \n2021;2021:5153237.\n35.\t Khurshid M, Rasool MH, Ashfaq UA, Aslam B, Waseem M, Xu Q, et al. Dis­\n"
+  },
+  {
+    "page": 12,
+    "block_no": 23,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      253.61268615722656,
+      535.50439453125,
+      280.50018310546875
+    ],
+    "text": "semination of bla(OXA-23)-harbouring carbapenem-resistant Acinetobacter \nbaumannii clones in Pakistan. J Glob Antimicrob Resist. 2020;21:357–62.\n36.\t Krizova L, Bonnin RA, Nordmann P, Nemec A, Poirel L. Characterization of a \n"
+  },
+  {
+    "page": 12,
+    "block_no": 24,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      280.6126708984375,
+      540.1433715820312,
+      316.50018310546875
+    ],
+    "text": "multidrug-resistant Acinetobacter baumannii strain carrying the blaNDM-1 \nand blaOXA-23 carbapenemase genes from the Czech Republic. J Antimicrob \nChemother. 2012;67(6):1550–2.\n37.\t Kaur A, Singh S. Prevalence of Extended Spectrum Betalactamase (ESBL) \n"
+  },
+  {
+    "page": 12,
+    "block_no": 25,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      316.6126708984375,
+      535.1959228515625,
+      352.50018310546875
+    ],
+    "text": "and metallobetalactamase (MBL) producing Pseudomonas aeruginosa and \nAcinetobacter baumannii isolated from various clinical samples. J Pathog. \n2018;2018:6845985.\n38.\t Mathlouthi N, El Salabi AA, Jomàa-Jemili MB, Bakour S, Al-Bayssari C, Zorgani \n"
+  },
+  {
+    "page": 12,
+    "block_no": 26,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      352.6126708984375,
+      537.2350463867188,
+      388.50018310546875
+    ],
+    "text": "AA, et al. Early detection of metallo-β-lactamase NDM-1-and OXA-23 \ncarbapenemase-producing Acinetobacter baumannii in Libyan hospitals. Int \nJ Antimicrob Agents. 2016;48(1):46–50.\n39.\t Bakour S, Touati A, Bachiri T, Sahli F, Tiouit D, Naim M, et al. First report of 16S \n"
+  },
+  {
+    "page": 12,
+    "block_no": 27,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      388.6126708984375,
+      539.5805053710938,
+      424.50018310546875
+    ],
+    "text": "rRNA methylase ArmA-producing Acinetobacter baumannii and rapid spread \nof metallo-β-lactamase NDM-1 in Algerian hospitals. J Infect Chemother. \n2014;20(11):696–701.\n40.\t Pritsch M, Zeynudin A, Messerer M, Baumer S, Liegl G, Schubert S, et al. First \n"
+  },
+  {
+    "page": 12,
+    "block_no": 28,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      424.6126708984375,
+      538.0523071289062,
+      451.50018310546875
+    ],
+    "text": "report on bla (NDM-1)-producing Acinetobacter baumannii in three clinical \nisolates from Ethiopia. BMC Infect Dis. 2017;17(1):180.\n41.\t Adbaru MG, Gudina EK, Kroidl A, Wieser A. 2158. An outbreak of carbapenem-\n"
+  },
+  {
+    "page": 12,
+    "block_no": 29,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      451.6126708984375,
+      527.2328491210938,
+      478.50018310546875
+    ],
+    "text": "resistant Acinetobacter baumannii at a tertiary hospital in Ethiopia. Open \nForum Infectious Diseases. 2023;10(Supplement_2):ofad500.1781.\n42.\t Hammami S, Ghozzi R, Saidani M, Ben Redjeb S. Carbapenem-resistant \n"
+  },
+  {
+    "page": 12,
+    "block_no": 30,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      478.6126708984375,
+      535.2550659179688,
+      505.50018310546875
+    ],
+    "text": "Acinetobacter baumannii producing the carbapenemase OXA-23 in Tunisia. \nTunis Med. 2011;89(7):638–43.\n43.\t Karthikeyan K, Thirunarayan MA, Krishnan P. Coexistence of Bla OXA-23 with \n"
+  },
+  {
+    "page": 12,
+    "block_no": 31,
+    "block_type": 0,
+    "bbox": [
+      319.7243957519531,
+      505.6126708984375,
+      527.8513793945312,
+      523.5001831054688
+    ],
+    "text": "bla NDM-1 and armA in clinical isolates of Acinetobacter baumannii from \nIndia. J Antimicrob Chemother. 2010;65(10):2253–4.\n"
+  },
+  {
+    "page": 12,
+    "block_no": 32,
+    "block_type": 0,
+    "bbox": [
+      304.7243957519531,
+      541.8134765625,
+      513.3359985351562,
+      571.8751831054688
+    ],
+    "text": "Publisher’s Note\nSpringer Nature remains neutral with regard to jurisdictional claims in \npublished maps and institutional affiliations. \n"
+  }
+]

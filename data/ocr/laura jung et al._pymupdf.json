@@ -1,0 +1,2918 @@
+[
+  {
+    "page": 1,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      200.011962890625,
+      94.96708679199219,
+      564.3157958984375,
+      194.9380340576172
+    ],
+    "text": "RESEARCH ARTICLE\nA case for routine microbial diagnostics:\nResults from antimicrobial susceptibility\ntesting in post-traumatic wound infections at\na Ugandan tertiary care hospital\n"
+  },
+  {
+    "page": 1,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      200.01199340820312,
+      207.28125,
+      564.6389770507812,
+      240.8569793701172
+    ],
+    "text": "Laura JungID1☯*, James Kiwanuka2☯, Leah Mbabazi3, Vivian Nakate3, Joseph Musaazi3,\nHawah Nabajja3, Henry Kajumbula4, Christoph Lu¨bbertID1, Erisa MwakaID2,\nSara NsibirwaID3, Amrei von Braun1\n"
+  },
+  {
+    "page": 1,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      200.011962890625,
+      249.96507263183594,
+      575.3208618164062,
+      287.9549865722656
+    ],
+    "text": "1 Department of Medicine I, Division of Infectious Diseases and Tropical Medicine, Leipzig University Medical\nCenter, Leipzig, Germany, 2 Department of Orthopedics/Trauma, Mulago National Referral Hospital,\nKampala, Uganda, 3 Infectious Diseases Institute, College of Health Sciences, Makerere University,\nKampala, Uganda, 4 Department of Medical Microbiology, Makerere University, Kampala, Uganda\n"
+  },
+  {
+    "page": 1,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      200.011962890625,
+      299.9676208496094,
+      367.74188232421875,
+      318.0169982910156
+    ],
+    "text": "☯These authors contributed equally to this work.\n* Laura.Jung@medizin.uni-leipzig.de\n"
+  },
+  {
+    "page": 1,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      200.01199340820312,
+      344.9419860839844,
+      254.76979064941406,
+      359.4419860839844
+    ],
+    "text": "Abstract\n"
+  },
+  {
+    "page": 1,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      200.01199340820312,
+      370.9389953613281,
+      575.9689331054688,
+      660.44384765625
+    ],
+    "text": "The global spread of antimicrobial resistance (AMR) poses an increasing challenge for clini-\ncians in Uganda, where microbiological diagnostics are not routinely available or accessible.\nThe aim of this study was to determine pathogen prevalence and antibiotic resistance pat-\nterns in patients with wound infections following trauma at a national referral hospital in\nKampala, Uganda. In addition, the suitability of currently used empirical treatment options in\nthis setting was evaluated. This prospective, observational study analysed antimicrobial pre-\nscriptions, culture results and antimicrobial sensitivity testing (AST) of wound swabs and\nblood samples from patients with clinical signs of wound infections on the trauma ward. A\ntotal of 124 patients (n = 99, 79.8% male) with a median age of 30 years (IQR 23–39) were\nenrolled between October 2021 and January 2022. Wound infections were classified as\nnosocomial in 69% of the cases. Pathogens were isolated from 122 wound swabs, yielding\n238 bacterial isolates. The most prevalent pathogens were gram-negative bacteria including\nEscherichia coli (n = 48, 20.2%) and Acinetobacter spp. (n = 43, 18.1%). Empiric treatment\nconsisted of ceftriaxone and gentamicin which was administered to 67.2% (n = 78) and\n62.1% (n = 72) of patients, respectively. High rates of antimicrobial resistance could be dem-\nonstrated across gram-negative and gram-positive species towards the most common\nempiric antibiotics. Following the AST results, over 95% (n = 111) of patients required a\nchange of treatment. Our findings demonstrate that current empiric treatment for wound\ninfections is missing its target in hospitalized patients in Kampala. To address the growing\nproblem of AMR in Uganda, there is a pressing need to enhance diagnostic capacity and\nimplement structured antimicrobial stewardship programs.\n"
+  },
+  {
+    "page": 1,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      34.69609832763672,
+      31.139314651489258,
+      312.9521179199219,
+      51.203041076660156
+    ],
+    "text": "PLOS GLOBAL PUBLIC HEALTH\n"
+  },
+  {
+    "page": 1,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      36.0,
+      749.60009765625,
+      576.0013427734375,
+      757.5999755859375
+    ],
+    "text": "PLOS Global Public Health | https://doi.org/10.1371/journal.pgph.0001880\nAugust 15, 2023\n1 / 15\n"
+  },
+  {
+    "page": 1,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      36.0,
+      241.676025390625,
+      87.87000274658203,
+      297.65301513671875
+    ],
+    "text": "a1111111111\na1111111111\na1111111111\na1111111111\na1111111111\n"
+  },
+  {
+    "page": 1,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      47.62200164794922,
+      347.3851318359375,
+      104.58129119873047,
+      355.385009765625
+    ],
+    "text": "OPEN ACCESS\n"
+  },
+  {
+    "page": 1,
+    "block_no": 10,
+    "block_type": 0,
+    "bbox": [
+      36.00054168701172,
+      363.5778503417969,
+      186.66827392578125,
+      448.6231994628906
+    ],
+    "text": "Citation: Jung L, Kiwanuka J, Mbabazi L, Nakate V,\nMusaazi J, Nabajja H, et al. (2023) A case for\nroutine microbial diagnostics: Results from\nantimicrobial susceptibility testing in post-\ntraumatic wound infections at a Ugandan tertiary\ncare hospital. PLOS Glob Public Health 3(8):\ne0001880. https://doi.org/10.1371/journal.\npgph.0001880\n"
+  },
+  {
+    "page": 1,
+    "block_no": 11,
+    "block_type": 0,
+    "bbox": [
+      36.00055694580078,
+      457.57427978515625,
+      174.1500244140625,
+      487.5706787109375
+    ],
+    "text": "Editor: Patrick Musicha, Malawi-Liverpool-\nWellcome Trust Clinical Research Programme,\nMALAWI\n"
+  },
+  {
+    "page": 1,
+    "block_no": 12,
+    "block_type": 0,
+    "bbox": [
+      36.00055694580078,
+      496.5785827636719,
+      118.92031860351562,
+      504.5784912109375
+    ],
+    "text": "Received: February 3, 2023\n"
+  },
+  {
+    "page": 1,
+    "block_no": 13,
+    "block_type": 0,
+    "bbox": [
+      36.00056076049805,
+      513.58642578125,
+      108.31885528564453,
+      521.5863037109375
+    ],
+    "text": "Accepted: July 25, 2023\n"
+  },
+  {
+    "page": 1,
+    "block_no": 14,
+    "block_type": 0,
+    "bbox": [
+      36.00056076049805,
+      530.5941772460938,
+      119.65711212158203,
+      538.5940551757812
+    ],
+    "text": "Published: August 15, 2023\n"
+  },
+  {
+    "page": 1,
+    "block_no": 15,
+    "block_type": 0,
+    "bbox": [
+      36.00054931640625,
+      547.6019287109375,
+      183.92909240722656,
+      610.5939331054688
+    ],
+    "text": "Copyright: © 2023 Jung et al. This is an open\naccess article distributed under the terms of the\nCreative Commons Attribution License, which\npermits unrestricted use, distribution, and\nreproduction in any medium, provided the original\nauthor and source are credited.\n"
+  },
+  {
+    "page": 1,
+    "block_no": 16,
+    "block_type": 0,
+    "bbox": [
+      36.00054931640625,
+      619.601806640625,
+      175.59481811523438,
+      660.5965576171875
+    ],
+    "text": "Data Availability Statement: The dataset\nunderlying the results presented in this study is\navailable at https://doi.org/10.5281/zenodo.\n7603256.\n"
+  },
+  {
+    "page": 1,
+    "block_no": 17,
+    "block_type": 0,
+    "bbox": [
+      36.00054168701172,
+      669.6044921875,
+      185.0874786376953,
+      710.5999755859375
+    ],
+    "text": "Funding: This work was supported by the Hospital\nPartnerships Program (https://\nhospitalpartnerships.org/) co-funded by the\nDeutsche Gesellschaft fu¨r Internationale\n"
+  },
+  {
+    "page": 2,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      200.01199340820312,
+      76.34709930419922,
+      282.2929382324219,
+      88.34700012207031
+    ],
+    "text": "1. Introduction\n"
+  },
+  {
+    "page": 2,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      200.01199340820312,
+      94.89801025390625,
+      575.9600219726562,
+      221.9110107421875
+    ],
+    "text": "Sometimes called a ‘silent pandemic,’ antimicrobial resistance (AMR) grows unattended in\nmany regions of the world and increasingly threatens our ability to prevent and treat infections\n[1]. While Sub-Saharan Africa carries the highest mortality and disease burden [2], even basic\nmicrobiological diagnostics are still inaccessible in many health care facilities [3,4]. A review of\nAMR in the Eastern African Region showed elevated resistance rates especially towards the\nmost commonly used antibiotics, ampicillin, cotrimoxazole and ceftriaxone [5]. Due to limited\ncapacity for microbiologic diagnostics and thus a lack of local surveillance data in resource-\nlimited settings, the choice of antibiotics is mostly empirical, and rarely based on bacterial sus-\nceptibility [5,6]. In the absence of diagnostic services a general use of non-targeted, broad-\nspectrum antimicrobials is encouraged [7], driving resistance in itself.\n"
+  },
+  {
+    "page": 2,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      200.01199340820312,
+      236.3341064453125,
+      394.93475341796875,
+      248.33399963378906
+    ],
+    "text": "1.1 Antimicrobial resistance in Uganda\n"
+  },
+  {
+    "page": 2,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      200.01199340820312,
+      254.9420166015625,
+      575.9779663085938,
+      602.9430541992188
+    ],
+    "text": "Despite being the first African country to implement a structured national AMR surveillance\nprogram in alignment with the WHO Global Antimicrobial Resistance Surveillance System\n(GLASS) in 2015 [8], the magnitude of AMR in Uganda remains largely unknown due to a\nlack of access to microbiological diagnostics. A National Action Plan (NAP) on AMR was pub-\nlished in 2018 [9] and set strategic objectives on surveillance, diagnostics and access to antimi-\ncrobials [10]. However, so far no national lab-based surveillance system for routine care has\nbeen established [3]. Data collection is incomplete, and comprehensive antimicrobial steward-\nship (AMS) is not routinely performed at Ugandan hospitals [11]. Expertise and capacity in\nthe existing laboratories is often skewed towards HIV, malaria, tuberculosis, and most recently\nCOVID-19, leaving other areas of microbiology less developed [12].\nEven though Uganda offers free basic health care, patients are mostly required to pay out-\nof-pocket for microbiological diagnostics, which many cannot afford. The retrospective data\navailable from sentinel surveillance sites show a high rate of resistance to commonly used anti-\nbiotics for gram-positive and gram-negative pathogens alike [8,13]. In a recent study focusing\non surgical patients in Mulago National Referral Hospital (MNRH) an increasing trend in\nAMR was reported over a five year period [14].\nOne explanation for the increase of resistance could be the overuse of ceftriaxone, especially\nas peri-operative prophylaxis and through prolonged post-operative administration [15,16]. A\nrecent study from Kampala also showed that up to one out of every two patients admitted to\nmedical wards received a prescription of ceftriaxone [15]. Further gaps can be found in the lack\nof locally adapted empirical prescribing guidelines for antimicrobials and the low compliance of\nclinicians with the national clinical guidelines [16,17]. Documentation on drug administration\nis often not sufficient, leading to frequent missed doses of antimicrobial treatment even in hos-\npital settings [18]. In addition, self-medication poses a problem, as many patients purchase anti-\nmicrobials directly over-the-counter (OTC) in community pharmacies or drug shops [19,20].\nThe lack of regulation on OTC antimicrobial purchases leads to a surveillance gap, increases the\nrisk of mis- and overuse of antimicrobials, and subsequently the spread of AMR.\n"
+  },
+  {
+    "page": 2,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      200.01199340820312,
+      617.424072265625,
+      426.5905456542969,
+      629.4239501953125
+    ],
+    "text": "1.2 Wound infections after traumatic injuries\n"
+  },
+  {
+    "page": 2,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      200.01199340820312,
+      635.9749755859375,
+      575.6489868164062,
+      711.0009765625
+    ],
+    "text": "Road traffic accidents (RTA) are a major contributor to mortality and morbidity in Uganda\naccounting for over 12,000 deaths annually [21]. Motorcycle-users (so-called ‘boda-boda’ driv-\ners) and pedestrians have the highest risk of severe or fatal injury [22]. High-energy trauma as\nexperienced during RTAs, results in skin breaks, soft tissue damage and/or open fractures,\nwhich increases the risk of introduction of environmental contaminants and subsequent infec-\ntions [23]. A recent study at a regional hospital in Uganda reported wound infections as the\n"
+  },
+  {
+    "page": 2,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      34.97949981689453,
+      35.84598922729492,
+      576.0646362304688,
+      48.385990142822266
+    ],
+    "text": "PLOS GLOBAL PUBLIC HEALTH\nRoutine microbial diagnostics for wound infections\n"
+  },
+  {
+    "page": 2,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      36.0,
+      749.60009765625,
+      576.0013427734375,
+      757.5999755859375
+    ],
+    "text": "PLOS Global Public Health | https://doi.org/10.1371/journal.pgph.0001880\nAugust 15, 2023\n2 / 15\n"
+  },
+  {
+    "page": 2,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      36.00006103515625,
+      76.88529968261719,
+      187.03024291992188,
+      194.8695068359375
+    ],
+    "text": "Zusammenarbeit (GIZ) GmbH and the Else-Kro¨ner-\nFresenius-Stiftung (EKFS) (grant number\n81249888). Open access publication was\nsupported by the Open Access Publishing Fund of\nLeipzig University, which is supported by the\nGerman Research Foundation within the program\nOpen Access Publication Funding. The funders had\nno role in the design of the study; in the collection,\nanalyses, or interpretation of data; in the writing of\nthe manuscript, or in the decision to publish the\nresults.\n"
+  },
+  {
+    "page": 2,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      36.00006103515625,
+      203.87742614746094,
+      179.5718994140625,
+      222.8756103515625
+    ],
+    "text": "Competing interests: The authors have declared\nthat no competing interests exist.\n"
+  },
+  {
+    "page": 3,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      200.01199340820312,
+      76.58599853515625,
+      575.0859985351562,
+      242.6029815673828
+    ],
+    "text": "most common adverse event after motorcycle-related limb injuries [24]. Late presentation to\nthe hospital after RTAs, scarcity of resources and delays of surgical treatment further contrib-\nute to high infection rates [25]. However, high quality microbial data on the issue is scarce and\nno data from Uganda is available. The pathogen prevalence data from open fractures in other\ntertiary hospitals in low resource settings suggest high rates of wound infection, with predomi-\nnantly gram-negative bacteria (mainly E. coli, P. aeruginosa, Klebsiella pneumoniae) and a high\npotential for multi-drug resistance [26–28].\nTo address the growing concern of AMR in wound infections and the suitability of the cur-\nrent empiric treatment, this study aimed to determine pathogens and their resistance patterns\namong a population of hospitalized patients with wound infections following trauma. No pre-\nvious assessment of pathogens and resistance profiles from trauma wards was available. We\nhypothesized that there is a high rate of resistance to first choice empirical treatment, and that\na switch of antibiotic treatment would be necessary in these cases.\n"
+  },
+  {
+    "page": 3,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      200.01199340820312,
+      258.33111572265625,
+      340.2799987792969,
+      270.3310241699219
+    ],
+    "text": "2. Materials and methods\n"
+  },
+  {
+    "page": 3,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      200.01199340820312,
+      276.35858154296875,
+      300.47998046875,
+      288.3584899902344
+    ],
+    "text": "2.1 Ethics statement\n"
+  },
+  {
+    "page": 3,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      200.011962890625,
+      294.9670104980469,
+      575.6708984375,
+      395.9580078125
+    ],
+    "text": "This study was reviewed and approved by the Mulago Hospital Research and Ethics Commit-\ntee (MHREC 1835), and the Uganda National Council for Science and Technology (date of\napproval: June 18, 2020). Written informed consent was obtained from all participants prior to\nenrolment. For participants under 18 years of age, written informed consent was obtained\nfrom a parent or guardian. The funding agency had no role in study design, data collection,\ndata analysis, data interpretation, or writing of this manuscript.Patients were compensated for\ntheir participation. Costs of diagnostics were covered by the study. Costs for reserve antibiotics\nwere covered by the study in case patients were unable to afford them.\n"
+  },
+  {
+    "page": 3,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      200.01199340820312,
+      411.6850891113281,
+      329.1044921875,
+      423.68499755859375
+    ],
+    "text": "2.2 Study design & setting\n"
+  },
+  {
+    "page": 3,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      200.01199340820312,
+      430.2929992675781,
+      574.4349975585938,
+      531.2839965820312
+    ],
+    "text": "This cross-sectional, observational study was performed in the Department of Orthopedics/\nTrauma of Mulago National Referral Hospital (MNRH) in Kampala, Uganda. The MNRH is\nthe largest government hospital in Uganda and acts as a teaching hospital for Makerere Uni-\nversity´s College of Health Sciences. The trauma ward consists of 75 in-patient beds. Up to\nthree quarters of the patients are admitted with open musculoskeletal injuries due to road traf-\nfic accidents, or more rarely, open injuries due to falls and criminal violence. Due to high\npatient numbers and limited hospital resources microbiological identification of pathogens\nincluding susceptibility testing are not routinely available to patients on the ward.\n"
+  },
+  {
+    "page": 3,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      200.01199340820312,
+      547.0680541992188,
+      374.77972412109375,
+      559.0679321289062
+    ],
+    "text": "2.3 Inclusion and exclusion criteria\n"
+  },
+  {
+    "page": 3,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      200.011962890625,
+      565.676025390625,
+      570.2459716796875,
+      640.64501953125
+    ],
+    "text": "Patients of all age groups on the MNRH orthopedic/trauma unit who developed clinical signs\nof wound infection (e.g. erythema /pus discharge) and/or fever were eligible for study partici-\npation. Potential participants were screened on the ward during daily ward rounds and/or\ndressing changes by a trained study nurse. Patients without clinical signs of wound infection\nbut fever due to malaria or acute, untreated tuberculosis and patients participating in another\nstudy were excluded from the study.\n"
+  },
+  {
+    "page": 3,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      200.01199340820312,
+      656.4281005859375,
+      352.6975402832031,
+      668.427978515625
+    ],
+    "text": "2.4 Data and sample collection\n"
+  },
+  {
+    "page": 3,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      200.01199340820312,
+      674.97998046875,
+      573.8330078125,
+      711.0009765625
+    ],
+    "text": "Patients were screened by trained study staff (treating healthcare providers) when entering the\ntrauma ward. Upon giving written informed consent eligible patients were consecutively\nenrolled on site. For the baseline assessment, information on demographics, past and present\n"
+  },
+  {
+    "page": 3,
+    "block_no": 10,
+    "block_type": 0,
+    "bbox": [
+      34.97949981689453,
+      35.84598922729492,
+      576.0646362304688,
+      48.385990142822266
+    ],
+    "text": "PLOS GLOBAL PUBLIC HEALTH\nRoutine microbial diagnostics for wound infections\n"
+  },
+  {
+    "page": 3,
+    "block_no": 11,
+    "block_type": 0,
+    "bbox": [
+      36.0,
+      749.60009765625,
+      576.0013427734375,
+      757.5999755859375
+    ],
+    "text": "PLOS Global Public Health | https://doi.org/10.1371/journal.pgph.0001880\nAugust 15, 2023\n3 / 15\n"
+  },
+  {
+    "page": 4,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      200.011962890625,
+      76.58599853515625,
+      575.9629516601562,
+      294.5899963378906
+    ],
+    "text": "medical history including HIV status, details of reason for admission, as well as history of anti-\nbiotic treatment, was obtained. Urine pregnancy testing was done in female participants of\nchild-bearing age (15–45 years). Blood samples were collected for general laboratory tests\n(complete blood count, creatinine, and aspartate aminotransferase) and two pairs of blood cul-\ntures. A malaria test was performed. Wound swabs were taken from all sites with clinical signs\nof infection by trained staff following the Levine method [29,30]. Empirical antimicrobial\ntreatments, targeted treatments following microbiology testing and surgical treatments were\ndocumented. Wound infections were categorized as nosocomial according to WHO defini-\ntions: “A nosocomial infection is an infection occurring in a patient during the process of care\nin a hospital or other health-care facility which was not present or incubating at the time of\nadmission” [31]. In-line with the cited WHO report, nosocomial infections included wound\ninfections occurring > 48 hours after admission to the ward or at the site of surgery.\nFollow-up study visits were conducted two and four days after enrolment by the study staff\non the ward. The final study visit was done upon discharge from the unit (full overview of\nstudy procedures in Fig 1). Clinical outcome was categorized as either complete recovery\n(limb function preserved), minor disability (joint stiffness requiring physiotherapy), moderate\ndisability (soft tissue loss requiring cover, partial/complete digit amputations and minor\n"
+  },
+  {
+    "page": 4,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      200.01199340820312,
+      686.4442138671875,
+      308.3682556152344,
+      694.444091796875
+    ],
+    "text": "Fig 1. Schematic of study design.\n"
+  },
+  {
+    "page": 4,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      200.01199340820312,
+      701.9208374023438,
+      353.271728515625,
+      709.9207153320312
+    ],
+    "text": "https://doi.org/10.1371/journal.pgph.0001880.g001\n"
+  },
+  {
+    "page": 4,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      34.97949981689453,
+      35.84598922729492,
+      576.0646362304688,
+      48.385990142822266
+    ],
+    "text": "PLOS GLOBAL PUBLIC HEALTH\nRoutine microbial diagnostics for wound infections\n"
+  },
+  {
+    "page": 4,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      36.0,
+      749.60009765625,
+      576.0013427734375,
+      757.5999755859375
+    ],
+    "text": "PLOS Global Public Health | https://doi.org/10.1371/journal.pgph.0001880\nAugust 15, 2023\n4 / 15\n"
+  },
+  {
+    "page": 5,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      200.011962890625,
+      76.58599853515625,
+      559.886962890625,
+      99.625
+    ],
+    "text": "compromise in function of the appendage), major disability (partial or complete loss of the\naffected limb with severe impairment of limb function requiring orthoses) or death.\n"
+  },
+  {
+    "page": 5,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      200.01199340820312,
+      130.1480712890625,
+      333.0728454589844,
+      142.14796447753906
+    ],
+    "text": "2.5 Microbiological testing\n"
+  },
+  {
+    "page": 5,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      200.011962890625,
+      148.7559814453125,
+      575.9639282226562,
+      353.7209777832031
+    ],
+    "text": "Blood cultures were collected using BD Bactec Plus or in BD Bactec Peds aerobic bottles (Bec-\nton Dickinson, Franklin Lakes, NJ, USA). Paired wound swabs were collected on the ward\nusing cotton tipped swabs with Amies transport media. Subsequently, specimens were sent to\nthe Department of Microbiology at Makerere College of Health Sciences laboratories on the\nsame campus for immediate analysis of bacterial growth and antimicrobial sensitivity. There,\nblood cultures were performed on a BACTEC9120 or FX40 system (Becton Dickinson, USA)\nand sub cultured onto Chocolate, Blood and MacConkey agar if positive. Wound swabs were\ninoculated onto Chocolate, Blood and MacConkey agar and incubated in a 5–7% Carbon diox-\nide incubator. Bacterial identification was done manually using colony morphology, gram\nstain characteristics and conventional biochemical tests according to the laboratory’s standard\noperating procedures and the automated BD Phoenix instrument (Becton Dickinson, USA),\naccording to the manufacturer’s instructions. Antimicrobial susceptibility tests were per-\nformed using a Kirby-Bauer disc diffusion method based on the 2020 CLSI standards [32].\nExtended-spectrum beta-lactamases (ESBLs) were detected by comparing zone sizes of two\nthird generation cephalosporins alone versus two third generation cephalosporin/clavulanic\nacid combinations using disk diffusion [33].\n"
+  },
+  {
+    "page": 5,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      200.01199340820312,
+      384.24609375,
+      423.6253662109375,
+      396.2460021972656
+    ],
+    "text": "2.6 Data management and statistical analysis\n"
+  },
+  {
+    "page": 5,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      200.011962890625,
+      402.85400390625,
+      574.2869262695312,
+      542.8499755859375
+    ],
+    "text": "Data was collected and securely managed using data entry forms pre-programmed on the\nweb-based software platform REDCap (Research Electronic Data Capture, https://\nprojectredcap.org/) hosted at the Infectious Diseases Institute, College of Health Sciences,\nMakerere University. Data quality was ensured by adding validation checks in the REDCap\ndatabase system. Data in the database was continuously checked and errors were corrected\nimmediately. Data were exported into Microsoft Excel 2016 (Microsoft Corporation, Red-\nmond, WA, USA) and analyzed in STATA version 6.1 (StataCorp, TX, USA). We described\nparticipants’ characteristics using frequencies and percentages for categorical variables. Preva-\nlence of pathogens in our sample was estimated as a proportion of participants with positive\ncultures. Resistance profiles and distribution of pathogens by specific antibiotics were summa-\nrized using frequencies and proportions.\n"
+  },
+  {
+    "page": 5,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      200.01199340820312,
+      573.3731079101562,
+      255.5271453857422,
+      585.3729858398438
+    ],
+    "text": "3. Results\n"
+  },
+  {
+    "page": 5,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      200.01199340820312,
+      591.4005737304688,
+      396.3411865234375,
+      603.4004516601562
+    ],
+    "text": "3.1. Characteristics of study population\n"
+  },
+  {
+    "page": 5,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      200.01187133789062,
+      610.010009765625,
+      571.6078491210938,
+      711.0009765625
+    ],
+    "text": "Out of 125 patients screened between October 2021 and January 2022, 124 patients (79.8%\nmale) with a median age of 30 years (IQR: 23–40) consented to participation and were\nenrolled. The majority of patients was admitted with trauma due to road traffic incidents\n(n = 102, 82.3%). Population demographics and clinical characteristics are summarized in\nTable 1. The majority of participants had undergone surgery for their injuries (n = 112,\n90.3%), which on average was performed 7 days (IQR 4–9) before enrolment. Similarly, most\npatients had been prescribed antimicrobial treatment before study inclusion (n = 116, 93.5%).\nA total of 69% (86/124) of the wound infections were classified as nosocomial.\n"
+  },
+  {
+    "page": 5,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      34.97949981689453,
+      35.84598922729492,
+      576.0646362304688,
+      48.385990142822266
+    ],
+    "text": "PLOS GLOBAL PUBLIC HEALTH\nRoutine microbial diagnostics for wound infections\n"
+  },
+  {
+    "page": 5,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      36.0,
+      749.60009765625,
+      576.0013427734375,
+      757.5999755859375
+    ],
+    "text": "PLOS Global Public Health | https://doi.org/10.1371/journal.pgph.0001880\nAugust 15, 2023\n5 / 15\n"
+  },
+  {
+    "page": 6,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      200.01199340820312,
+      76.88206481933594,
+      465.1670837402344,
+      84.88196563720703
+    ],
+    "text": "Table 1. Demographic and clinical characteristics of study population (n = 124).\n"
+  },
+  {
+    "page": 6,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      200.0120086669922,
+      91.73548126220703,
+      554.4628295898438,
+      99.73538208007812
+    ],
+    "text": "Characteristics\nNumber (%)\n"
+  },
+  {
+    "page": 6,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      200.01202392578125,
+      104.20732116699219,
+      542.2020874023438,
+      112.20722198486328
+    ],
+    "text": "Sex\nMale\n99 (79.8)\n"
+  },
+  {
+    "page": 6,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      399.11590576171875,
+      116.73677062988281,
+      542.2020874023438,
+      124.7366714477539
+    ],
+    "text": "Female\n25 (20.2)\n"
+  },
+  {
+    "page": 6,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      200.01199340820312,
+      129.20860290527344,
+      534.5149536132812,
+      146.73318481445312
+    ],
+    "text": "Age\n(in years)\n<15\n7 (5.6)\n"
+  },
+  {
+    "page": 6,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      399.11590576171875,
+      141.73805236816406,
+      534.5149536132812,
+      149.73794555664062
+    ],
+    "text": "15–17\n4 (3.2)\n"
+  },
+  {
+    "page": 6,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      399.11590576171875,
+      154.21070861816406,
+      542.2020874023438,
+      162.21060180664062
+    ],
+    "text": "18–24\n28 (22.6)\n"
+  },
+  {
+    "page": 6,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      399.11590576171875,
+      166.6825408935547,
+      542.2020874023438,
+      174.68243408203125
+    ],
+    "text": "25–34\n39 (31.5)\n"
+  },
+  {
+    "page": 6,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      399.11590576171875,
+      179.2119903564453,
+      542.2020874023438,
+      187.21188354492188
+    ],
+    "text": "35–49\n31 (25.0)\n"
+  },
+  {
+    "page": 6,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      399.11590576171875,
+      191.6846466064453,
+      542.2020874023438,
+      199.68453979492188
+    ],
+    "text": "50+\n15 (12.1)\n"
+  },
+  {
+    "page": 6,
+    "block_no": 10,
+    "block_type": 0,
+    "bbox": [
+      200.01199340820312,
+      204.21327209472656,
+      546.0004272460938,
+      212.21316528320312
+    ],
+    "text": "HIV status\nNegative\n116 (93.5)\n"
+  },
+  {
+    "page": 6,
+    "block_no": 11,
+    "block_type": 0,
+    "bbox": [
+      399.11590576171875,
+      216.6859130859375,
+      534.5149536132812,
+      224.68580627441406
+    ],
+    "text": "Positive\n7 (5.7)\n"
+  },
+  {
+    "page": 6,
+    "block_no": 12,
+    "block_type": 0,
+    "bbox": [
+      399.11590576171875,
+      229.2145538330078,
+      534.5149536132812,
+      237.21444702148438
+    ],
+    "text": "Not assessed\n1 (0.8)\n"
+  },
+  {
+    "page": 6,
+    "block_no": 13,
+    "block_type": 0,
+    "bbox": [
+      200.01199340820312,
+      241.68719482421875,
+      534.5162963867188,
+      259.2117614746094
+    ],
+    "text": "Pre-existing condition\n(other than HIV and Diabetes mellitus)1\nYes\n4 (3.2)\n"
+  },
+  {
+    "page": 6,
+    "block_no": 14,
+    "block_type": 0,
+    "bbox": [
+      399.1180114746094,
+      254.2167510986328,
+      546.0017700195312,
+      262.2166442871094
+    ],
+    "text": "No\n120 (96.8)\n"
+  },
+  {
+    "page": 6,
+    "block_no": 15,
+    "block_type": 0,
+    "bbox": [
+      200.01409912109375,
+      266.6893615722656,
+      534.5162963867188,
+      274.68927001953125
+    ],
+    "text": "Diabetes mellitus\nYes\n4 (3.2)\n"
+  },
+  {
+    "page": 6,
+    "block_no": 16,
+    "block_type": 0,
+    "bbox": [
+      399.1180114746094,
+      279.218017578125,
+      546.0017700195312,
+      287.2179260253906
+    ],
+    "text": "No\n120 (96.8)\n"
+  },
+  {
+    "page": 6,
+    "block_no": 17,
+    "block_type": 0,
+    "bbox": [
+      200.01409912109375,
+      291.6906433105469,
+      546.0017700195312,
+      299.6905517578125
+    ],
+    "text": "Mechanism of injury\nRoad traffic incident\n102 (82.3)\n"
+  },
+  {
+    "page": 6,
+    "block_no": 18,
+    "block_type": 0,
+    "bbox": [
+      399.1180114746094,
+      304.21929931640625,
+      534.5162963867188,
+      312.2192077636719
+    ],
+    "text": "Violent assault incl. gunshot\n9 (7.3)\n"
+  },
+  {
+    "page": 6,
+    "block_no": 19,
+    "block_type": 0,
+    "bbox": [
+      399.1180114746094,
+      316.6919250488281,
+      542.2034301757812,
+      324.69183349609375
+    ],
+    "text": "Other\n13 (10.4)\n"
+  },
+  {
+    "page": 6,
+    "block_no": 20,
+    "block_type": 0,
+    "bbox": [
+      399.1180114746094,
+      329.22137451171875,
+      546.0017700195312,
+      337.2212829589844
+    ],
+    "text": "Fracture of lower limbs\n100 (80.6)\n"
+  },
+  {
+    "page": 6,
+    "block_no": 21,
+    "block_type": 0,
+    "bbox": [
+      399.1180114746094,
+      341.6932373046875,
+      542.2034301757812,
+      349.6931457519531
+    ],
+    "text": "Fracture of upper limbs\n15 (12.1)\n"
+  },
+  {
+    "page": 6,
+    "block_no": 22,
+    "block_type": 0,
+    "bbox": [
+      200.0141143798828,
+      354.2226867675781,
+      534.5162963867188,
+      362.22259521484375
+    ],
+    "text": "Type of trauma\nOther fracture\n2 (1.6)\n"
+  },
+  {
+    "page": 6,
+    "block_no": 23,
+    "block_type": 0,
+    "bbox": [
+      399.1180114746094,
+      366.6953125,
+      534.5162963867188,
+      374.6952209472656
+    ],
+    "text": "Trauma without fractures\n7 (5.7)\n"
+  },
+  {
+    "page": 6,
+    "block_no": 24,
+    "block_type": 0,
+    "bbox": [
+      200.0141143798828,
+      379.2239685058594,
+      517.7525634765625,
+      387.223876953125
+    ],
+    "text": "Hospital stay before study enrolment (in days)\nMedian\n7\n"
+  },
+  {
+    "page": 6,
+    "block_no": 25,
+    "block_type": 0,
+    "bbox": [
+      399.1180114746094,
+      391.69659423828125,
+      539.0723266601562,
+      399.6965026855469
+    ],
+    "text": "IQR\n5–11.25\n"
+  },
+  {
+    "page": 6,
+    "block_no": 26,
+    "block_type": 0,
+    "bbox": [
+      200.0141143798828,
+      404.2252502441406,
+      546.0017700195312,
+      421.6930236816406
+    ],
+    "text": "Surgical treatment\nbefore study inclusion\nYes\n112 (90.3)\n"
+  },
+  {
+    "page": 6,
+    "block_no": 27,
+    "block_type": 0,
+    "bbox": [
+      399.1180419921875,
+      416.6978454589844,
+      538.3715209960938,
+      424.69775390625
+    ],
+    "text": "No\n12 (9.7)\n"
+  },
+  {
+    "page": 6,
+    "block_no": 28,
+    "block_type": 0,
+    "bbox": [
+      200.01414489746094,
+      427.5319519042969,
+      517.7525634765625,
+      437.22796630859375
+    ],
+    "text": "Time since most recent surgical treatment (in days)2\nMedian\n6\n"
+  },
+  {
+    "page": 6,
+    "block_no": 29,
+    "block_type": 0,
+    "bbox": [
+      399.1180114746094,
+      441.69989013671875,
+      525.7444458007812,
+      449.6997985839844
+    ],
+    "text": "IQR\n4–9\n"
+  },
+  {
+    "page": 6,
+    "block_no": 30,
+    "block_type": 0,
+    "bbox": [
+      200.01409912109375,
+      452.532958984375,
+      542.2034301757812,
+      462.22998046875
+    ],
+    "text": "Type of surgical treatment2\nDebridement\n90 (80.4)\n"
+  },
+  {
+    "page": 6,
+    "block_no": 31,
+    "block_type": 0,
+    "bbox": [
+      399.1180114746094,
+      466.701904296875,
+      542.2034301757812,
+      474.7018127441406
+    ],
+    "text": "External fixation\n17 (15.2)\n"
+  },
+  {
+    "page": 6,
+    "block_no": 32,
+    "block_type": 0,
+    "bbox": [
+      399.1180114746094,
+      479.2313537597656,
+      542.2034301757812,
+      487.23126220703125
+    ],
+    "text": "Amputation\n16 (14.3)\n"
+  },
+  {
+    "page": 6,
+    "block_no": 33,
+    "block_type": 0,
+    "bbox": [
+      399.1180114746094,
+      490.0069580078125,
+      542.203857421875,
+      499.7039794921875
+    ],
+    "text": "Other3\n14 (12.5)\n"
+  },
+  {
+    "page": 6,
+    "block_no": 34,
+    "block_type": 0,
+    "bbox": [
+      200.01455688476562,
+      504.23272705078125,
+      546.002197265625,
+      521.7005004882812
+    ],
+    "text": "Antibiotic treatment\nbefore study inclusion\nYes\n116 (93.5)\n"
+  },
+  {
+    "page": 6,
+    "block_no": 35,
+    "block_type": 0,
+    "bbox": [
+      399.11846923828125,
+      516.7053833007812,
+      534.5167846679688,
+      524.7052612304688
+    ],
+    "text": "No\n8 (6.5)\n"
+  },
+  {
+    "page": 6,
+    "block_no": 36,
+    "block_type": 0,
+    "bbox": [
+      200.01455688476562,
+      527.5379638671875,
+      542.2034301757812,
+      537.2349853515625
+    ],
+    "text": "Antibiotic treatment in the past year4\nYes\n33 (26.6)\n"
+  },
+  {
+    "page": 6,
+    "block_no": 37,
+    "block_type": 0,
+    "bbox": [
+      399.1180114746094,
+      541.7069702148438,
+      542.2034301757812,
+      549.7068481445312
+    ],
+    "text": "No\n91 (73.4)\n"
+  },
+  {
+    "page": 6,
+    "block_no": 38,
+    "block_type": 0,
+    "bbox": [
+      200.0141143798828,
+      552.5399780273438,
+      542.2034301757812,
+      562.2362670898438
+    ],
+    "text": "Source of antibiotics in the past year5\nDrug shop/ pharmacy\n27 (81.8)\n"
+  },
+  {
+    "page": 6,
+    "block_no": 39,
+    "block_type": 0,
+    "bbox": [
+      399.1180114746094,
+      566.7079467773438,
+      538.3482666015625,
+      574.7078247070312
+    ],
+    "text": "Hospital\n4 (12.1)\n"
+  },
+  {
+    "page": 6,
+    "block_no": 40,
+    "block_type": 0,
+    "bbox": [
+      399.1180114746094,
+      579.1805419921875,
+      534.5162963867188,
+      587.180419921875
+    ],
+    "text": "Health centre\n1 (3.0)\n"
+  },
+  {
+    "page": 6,
+    "block_no": 41,
+    "block_type": 0,
+    "bbox": [
+      399.1180114746094,
+      591.709228515625,
+      534.5162963867188,
+      599.7091064453125
+    ],
+    "text": "Unknown\n1 (3.0)\n"
+  },
+  {
+    "page": 6,
+    "block_no": 42,
+    "block_type": 0,
+    "bbox": [
+      200.01409912109375,
+      602.54296875,
+      542.2034301757812,
+      612.1829833984375
+    ],
+    "text": "Antibiotic treatment in the past four weeks6\nYes\n14 (11.3)\n"
+  },
+  {
+    "page": 6,
+    "block_no": 43,
+    "block_type": 0,
+    "bbox": [
+      399.1180114746094,
+      616.7117309570312,
+      546.0017700195312,
+      624.7116088867188
+    ],
+    "text": "No\n110 (88.7)\n"
+  },
+  {
+    "page": 6,
+    "block_no": 44,
+    "block_type": 0,
+    "bbox": [
+      536.2003173828125,
+      631.2251586914062,
+      576.0213623046875,
+      639.8090209960938
+    ],
+    "text": "(Continued)\n"
+  },
+  {
+    "page": 6,
+    "block_no": 45,
+    "block_type": 0,
+    "bbox": [
+      34.97949981689453,
+      35.84598922729492,
+      576.0646362304688,
+      48.385990142822266
+    ],
+    "text": "PLOS GLOBAL PUBLIC HEALTH\nRoutine microbial diagnostics for wound infections\n"
+  },
+  {
+    "page": 6,
+    "block_no": 46,
+    "block_type": 0,
+    "bbox": [
+      36.0,
+      749.60009765625,
+      576.0013427734375,
+      757.5999755859375
+    ],
+    "text": "PLOS Global Public Health | https://doi.org/10.1371/journal.pgph.0001880\nAugust 15, 2023\n6 / 15\n"
+  },
+  {
+    "page": 7,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      200.01199340820312,
+      288.0950927734375,
+      504.5707092285156,
+      300.0950012207031
+    ],
+    "text": "3.2 Type and prevalence of pathogens and resistance patterns\n"
+  },
+  {
+    "page": 7,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      200.01199340820312,
+      306.64599609375,
+      575.9679565429688,
+      472.6629638671875
+    ],
+    "text": "Pathogens were isolated from nearly all wound swabs (122/124). The majority (n = 83, 67.5%)\nshowed mixed growth of two or more isolates, while 31.5% (n = 39) of swab cultures showed sin-\ngle-colony growth. In total, 238 pathogens were isolated from the 122 positive wound swabs. The\nmost common pathogens were gram-negatives, mainly Escherichia (E.) coli, Acinetobacter spp.,\nKlebsiella spp., Pseudomonas (P.) aeruginosa, followed by gram-positive Enterococcus spp. (Fig 2).\nWith 98% resistance towards ceftriaxone and 51% resistance towards gentamicin, a large\nproportion of all pathogens demonstrated resistance, or were intrinsically resistant, to the\nmost commonly used empiric antibiotics (Table 2). Additionally, over 60% of E. coli isolates\ndisplayed resistance towards ciprofloxacin and over 40% towards piperacillin/tazobactam.\nSensitivity was preserved for carbapenems (<5% resistance) and amikacin. However, Acineto-\nbacter spp., the second-most common pathogen identified, displayed resistance towards carba-\npenems in 40% of isolates. In P. aeruginosa isolates intrinsically resistant to ceftriaxone,\nresistance towards ciprofloxacin was found in 15% and towards carbapenems in 25% of\n"
+  },
+  {
+    "page": 7,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      200.01199340820312,
+      77.10905456542969,
+      271.46710205078125,
+      85.10895538330078
+    ],
+    "text": "Table 1. (Continued)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      200.01199340820312,
+      94.62643432617188,
+      554.4627685546875,
+      102.62633514404297
+    ],
+    "text": "Characteristics\nNumber (%)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      200.01199340820312,
+      105.40292358398438,
+      542.2034301757812,
+      115.09900665283203
+    ],
+    "text": "Source of antibiotics in the past four weeks7\nDrug shop/ pharmacy\n10 (71.4)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      399.1180114746094,
+      119.62774658203125,
+      538.3482666015625,
+      127.62764739990234
+    ],
+    "text": "Hospital\n2 (14.3)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      399.1180114746094,
+      132.1003875732422,
+      534.5162963867188,
+      140.10028076171875
+    ],
+    "text": "Health centre\n1 (7.1)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      399.1180114746094,
+      144.57223510742188,
+      534.5162963867188,
+      152.57212829589844
+    ],
+    "text": "Unknown\n1 (7.1)\n"
+  },
+  {
+    "page": 7,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      200.01199340820312,
+      159.76707458496094,
+      568.1614379882812,
+      255.35797119140625
+    ],
+    "text": "1 Including COPD/asthma, cerebrovascular disease and hypertension.\n2 n = 112 (patients with surgical treatment), multiple surgical treatments possible.\n3 Other surgical treatments: Fasciotomy (1), Wire osteosynthesis (2), Screw / plate osteosynthesis (4) Intramedually\nnailing (3), Achilles tendon repair (2), Incision and drainage (1), Plaster of Paris back slab (1), Skeletal traction (1).\n4 Excluding the past four weeks.\n5 n = 33.\n6 Before hospital admission.\n7 n = 14.\n"
+  },
+  {
+    "page": 7,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      200.0132598876953,
+      265.32904052734375,
+      351.52020263671875,
+      273.3289489746094
+    ],
+    "text": "https://doi.org/10.1371/journal.pgph.0001880.t001\n"
+  },
+  {
+    "page": 7,
+    "block_no": 10,
+    "block_type": 0,
+    "bbox": [
+      200.01199340820312,
+      680.8311157226562,
+      574.328857421875,
+      698.9388427734375
+    ],
+    "text": "Fig 2. Type and frequencies of bacteria isolated from wound swabs. Other pathogens: Enterobacter spp., Morganella\nmorganii, Providencia spp.\n"
+  },
+  {
+    "page": 7,
+    "block_no": 11,
+    "block_type": 0,
+    "bbox": [
+      200.01199340820312,
+      705.8323974609375,
+      353.2716979980469,
+      713.832275390625
+    ],
+    "text": "https://doi.org/10.1371/journal.pgph.0001880.g002\n"
+  },
+  {
+    "page": 7,
+    "block_no": 12,
+    "block_type": 0,
+    "bbox": [
+      34.97949981689453,
+      35.84598922729492,
+      576.0646362304688,
+      48.385990142822266
+    ],
+    "text": "PLOS GLOBAL PUBLIC HEALTH\nRoutine microbial diagnostics for wound infections\n"
+  },
+  {
+    "page": 7,
+    "block_no": 13,
+    "block_type": 0,
+    "bbox": [
+      36.0,
+      749.60009765625,
+      576.0013427734375,
+      757.5999755859375
+    ],
+    "text": "PLOS Global Public Health | https://doi.org/10.1371/journal.pgph.0001880\nAugust 15, 2023\n7 / 15\n"
+  },
+  {
+    "page": 8,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      200.011962890625,
+      355.4580078125,
+      575.9179077148438,
+      456.4490051269531
+    ],
+    "text": "isolates. The majority (n = 17, 85%) of Enterococcus spp. isolates displayed vancomycin resis-\ntance. While Staphylococcus aureus was rarely isolated in our population (n = 19), four (21.1%)\nisolates were methicillin resistant. Overall, 45 isolates (18.9%) were ESBL producers. No rele-\nvant differences could be shown between nosocomial and community acquired infections with\nregard to most prevalent pathogens and resistance profiles (for details see S1 and S2 Tables).\nOf the blood cultures obtained, only 6 out of 124 pairs flagged positive, containing seven\ndifferent pathogens (E. coli 3/6, Enterococcus spp. 3/6, Morganella morganii 1/6). Fungal infec-\ntions were not detected in wound swabs or blood cultures.\n"
+  },
+  {
+    "page": 8,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      200.01199340820312,
+      477.1091003417969,
+      340.6004333496094,
+      489.1090087890625
+    ],
+    "text": "3.3. Antibiotic prescriptions\n"
+  },
+  {
+    "page": 8,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      200.01181030273438,
+      495.7170104980469,
+      574.9417114257812,
+      648.7520141601562
+    ],
+    "text": "At the time of study inclusion, the majority of patients (n = 116, 93.6%) were already receiving\nan antimicrobial treatment–either from MNRHs Casualties’ Department or other health care\nproviders / pharmacies outside of MNRH. The most common empiric treatments were ceftri-\naxone (n = 78/116, 67.2%) and gentamicin (n = 72/116, 62.1%), followed by levofloxacin\n(n = 25/116, 21.6%) and metronidazole (n = 11/116, 9.5%). Twenty-six participants received\nmonotherapy, while 90 (78%) received a combination of at least two antimicrobials, resulting\nin a total of 211 antimicrobial administrations in 116 patients.\nUpon review of AST results, the majority of patients (n = 111, 95.7%) required a change of\nantimicrobial treatment (Fig 3). In our sample, microbiological diagnostics led to a diversifica-\ntion of treatments, with chloramphenicol (n = 28/124, 22.6%), meropenem (n = 27/124,\n21.8%) and ciprofloxacin (n = 19/124, 15.3%) being the most commonly used agents after\nreceiving AST results.\n"
+  },
+  {
+    "page": 8,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      200.01199340820312,
+      669.4110717773438,
+      307.1878967285156,
+      681.4109497070312
+    ],
+    "text": "3.4 Clinical outcomes\n"
+  },
+  {
+    "page": 8,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      200.01199340820312,
+      688.0189208984375,
+      569.0180053710938,
+      711.0009155273438
+    ],
+    "text": "The median length of stay on the ward was 22 days (IQR 15–41 days). Twelve patients (9.7%)\nrecovered completely by the time of discharge (Table 3). The majority (89.5%) was left with a\n"
+  },
+  {
+    "page": 8,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      36.0,
+      76.88206481933594,
+      378.06939697265625,
+      84.88196563720703
+    ],
+    "text": "Table 2. Most prevalent pathogens (n>20 isolates) and their resistance towards selected antimicrobials.\n"
+  },
+  {
+    "page": 8,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      36.000030517578125,
+      91.73509216308594,
+      560.14697265625,
+      109.20246124267578
+    ],
+    "text": "Isolates\nn/N (%)\nE. coli\nN = 48\nAcinetobacter spp.\nN = 43\nKlebsiella spp.\nN = 341\nP. aeruginosa\nN = 28\nEnterococcus spp.\nN = 24\n"
+  },
+  {
+    "page": 8,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      36.002288818359375,
+      112.03591918945312,
+      533.8029174804688,
+      121.73200225830078
+    ],
+    "text": "Ceftriaxone/Cefotaxime2\n43/45 (95.7)\n-3\n30/32 (93.8)\n-3\n-3\n"
+  },
+  {
+    "page": 8,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      36.0,
+      124.50796508789062,
+      549.7908935546875,
+      134.2049560546875
+    ],
+    "text": "Gentamicin\n22/40 (55.0)\n32/39 (82.1)\n21/27 (77.8)\n11/24 (45.8)\n3/21 (14.3)4\n"
+  },
+  {
+    "page": 8,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      36.0,
+      137.03695678710938,
+      548.3837280273438,
+      146.73394775390625
+    ],
+    "text": "Ampicillin\n31/31 (100.0)\n-3\n-6\n-3\n3/11 (27.3)\n"
+  },
+  {
+    "page": 8,
+    "block_no": 10,
+    "block_type": 0,
+    "bbox": [
+      36.002197265625,
+      149.50991821289062,
+      533.8029174804688,
+      159.20599365234375
+    ],
+    "text": "Amoxicillin+ clavulanic acid\n14/32 (43.7)\n-3\n5/18 (27.8)\n-3\n-3\n"
+  },
+  {
+    "page": 8,
+    "block_no": 11,
+    "block_type": 0,
+    "bbox": [
+      36.0,
+      162.03897094726562,
+      532.3999633789062,
+      171.7349853515625
+    ],
+    "text": "Cefepime\n8/8 (100.0)5\n28/35 (80.0)\n4/6 (66.7)6\n5/21 (23.8)6\n-\n"
+  },
+  {
+    "page": 8,
+    "block_no": 12,
+    "block_type": 0,
+    "bbox": [
+      36.002166748046875,
+      176.20693969726562,
+      546.4566040039062,
+      184.2068328857422
+    ],
+    "text": "Ciprofloxacin\n21/33 (63.6)\n26/32 (81.3)\n10/26 (38.5)\n3/20 (15.0)\n3/4 (75.0)\n"
+  },
+  {
+    "page": 8,
+    "block_no": 13,
+    "block_type": 0,
+    "bbox": [
+      36.002197265625,
+      187.03994750976562,
+      533.8029174804688,
+      196.73699951171875
+    ],
+    "text": "Meropenem/Imipenem2\n1/46 (2.2)\n15/42 (35.7)\n4/32 (12.5)\n7/28 (25.0)\n-3\n"
+  },
+  {
+    "page": 8,
+    "block_no": 14,
+    "block_type": 0,
+    "bbox": [
+      36.0,
+      199.51296997070312,
+      533.8029174804688,
+      209.2099609375
+    ],
+    "text": "Amikacin\n2/21 (9.5)\n3/33 (9.1)\n2/12 (16.7)\n7/17 (41.2)\n-3\n"
+  },
+  {
+    "page": 8,
+    "block_no": 15,
+    "block_type": 0,
+    "bbox": [
+      36.0,
+      212.04196166992188,
+      548.3837280273438,
+      221.73895263671875
+    ],
+    "text": "Chloramphenicol\n11/41 (26.8)\n-3\n12/30 (40.0)\n-3\n4/18 (22.2)\n"
+  },
+  {
+    "page": 8,
+    "block_no": 16,
+    "block_type": 0,
+    "bbox": [
+      36.002197265625,
+      226.21090698242188,
+      532.4000244140625,
+      243.7354736328125
+    ],
+    "text": "Piperacillin/\nTazobactam\n10/23 (43.5)\n29/36 (74.42)\n9/18 (50.0)\n4/23 (17.4)\n-\n"
+  },
+  {
+    "page": 8,
+    "block_no": 17,
+    "block_type": 0,
+    "bbox": [
+      36.0,
+      250.92906188964844,
+      234.70147705078125,
+      322.4819641113281
+    ],
+    "text": "1 Klebsiella oxytoca (n = 4) and Klebsiella pneumonia (n = 30).\n2 One out of two was set.\n3 Intrinsic resistance, not tested.\n4High-level gentamicin resistance.\n5 Set in case of resistance to 3rd generation cephalosporins.\n6 Intrinsic resistance.\n"
+  },
+  {
+    "page": 8,
+    "block_no": 18,
+    "block_type": 0,
+    "bbox": [
+      36.000762939453125,
+      332.4530334472656,
+      187.50611877441406,
+      340.45294189453125
+    ],
+    "text": "https://doi.org/10.1371/journal.pgph.0001880.t002\n"
+  },
+  {
+    "page": 8,
+    "block_no": 19,
+    "block_type": 0,
+    "bbox": [
+      34.97949981689453,
+      35.84598922729492,
+      576.0646362304688,
+      48.385990142822266
+    ],
+    "text": "PLOS GLOBAL PUBLIC HEALTH\nRoutine microbial diagnostics for wound infections\n"
+  },
+  {
+    "page": 8,
+    "block_no": 20,
+    "block_type": 0,
+    "bbox": [
+      36.0,
+      749.60009765625,
+      576.0013427734375,
+      757.5999755859375
+    ],
+    "text": "PLOS Global Public Health | https://doi.org/10.1371/journal.pgph.0001880\nAugust 15, 2023\n8 / 15\n"
+  },
+  {
+    "page": 9,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      200.01199340820312,
+      399.05499267578125,
+      570.6439819335938,
+      422.0369873046875
+    ],
+    "text": "disability, and a 23-year-old male patient died intra-operatively due to cardiac arrest. None of\nthe participants were lost to follow-up.\n"
+  },
+  {
+    "page": 9,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      200.01199340820312,
+      436.8000793457031,
+      276.1441650390625,
+      448.79998779296875
+    ],
+    "text": "4. Discussion\n"
+  },
+  {
+    "page": 9,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      200.01199340820312,
+      455.4079895019531,
+      575.9629516601562,
+      595.4039916992188
+    ],
+    "text": "We report here the clinical and microbiological findings of 124 patients admitted to the largest\northopedic/trauma unit in Uganda with wound infections following trauma. To the best of our\nknowledge, this is the first prospective clinical study on the type, prevalence and resistance pat-\nterns of pathogens from wound infections in a Ugandan national referral hospital. The data\npresented highlights that pathogens resistant to first-choice empiric treatments are highly\nprevalent in the study population, and is therefore of high clinical significance for trauma care\nin Uganda.\nRTAs are one of the most common cause for severe trauma in Uganda, with men being\nthree times more likely than women to suffer from RTA injuries and being hospitalised. Sex\nand age composition in our sample, does not only correspond to RTA victim statistics\n[22,34,35], but is also comparable to other studies from surgical wards in Uganda [35,36]. The\n"
+  },
+  {
+    "page": 9,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      144.0,
+      344.7560729980469,
+      568.5375366210938,
+      372.3878479003906
+    ],
+    "text": "Fig 3. Antimicrobial agents prescribed to patients at time of study inclusion (n = 211 antimicrobial administrations in 116\npatients) and after AST results were received (n = 163 antimicrobial administrations in 124 patients). 1 Other locally available\nantimicrobials prescribed: cefixime, Flucamox (amoxicillin + flucloxacillin), linezolid, ornidazole, Sulbactox (ceftriaxone + sulbactam).\n"
+  },
+  {
+    "page": 9,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      144.00204467773438,
+      379.2813415527344,
+      297.2601623535156,
+      387.28125
+    ],
+    "text": "https://doi.org/10.1371/journal.pgph.0001880.g003\n"
+  },
+  {
+    "page": 9,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      200.01199340820312,
+      610.2490844726562,
+      393.2807922363281,
+      618.2489624023438
+    ],
+    "text": "Table 3. Clinical outcomes of study participants (n = 124).\n"
+  },
+  {
+    "page": 9,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      200.01199340820312,
+      625.1024780273438,
+      508.4281311035156,
+      633.1023559570312
+    ],
+    "text": "Outcome\nNumber (%)\n"
+  },
+  {
+    "page": 9,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      200.01199340820312,
+      637.5743408203125,
+      498.4154357910156,
+      655.098876953125
+    ],
+    "text": "Clinical outcome at\ndischarge\nComplete recovery\n12 (9.7%)\n"
+  },
+  {
+    "page": 9,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      335.507080078125,
+      650.103759765625,
+      502.24737548828125,
+      658.1036376953125
+    ],
+    "text": "Minor disability\n62 (50.0%)\n"
+  },
+  {
+    "page": 9,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      335.507080078125,
+      662.5756225585938,
+      502.24737548828125,
+      670.5755004882812
+    ],
+    "text": "Moderate disability\n28 (22.6%)\n"
+  },
+  {
+    "page": 9,
+    "block_no": 10,
+    "block_type": 0,
+    "bbox": [
+      335.507080078125,
+      675.1051025390625,
+      502.24737548828125,
+      683.10498046875
+    ],
+    "text": "Major disability\n21 (16.9%)\n"
+  },
+  {
+    "page": 9,
+    "block_no": 11,
+    "block_type": 0,
+    "bbox": [
+      335.507080078125,
+      687.5776977539062,
+      494.5602722167969,
+      695.5775756835938
+    ],
+    "text": "Death\n1 (0.8%)\n"
+  },
+  {
+    "page": 9,
+    "block_no": 12,
+    "block_type": 0,
+    "bbox": [
+      200.01199340820312,
+      702.6007080078125,
+      351.51971435546875,
+      710.6005859375
+    ],
+    "text": "https://doi.org/10.1371/journal.pgph.0001880.t003\n"
+  },
+  {
+    "page": 9,
+    "block_no": 13,
+    "block_type": 0,
+    "bbox": [
+      34.97949981689453,
+      35.84598922729492,
+      576.0646362304688,
+      48.385990142822266
+    ],
+    "text": "PLOS GLOBAL PUBLIC HEALTH\nRoutine microbial diagnostics for wound infections\n"
+  },
+  {
+    "page": 9,
+    "block_no": 14,
+    "block_type": 0,
+    "bbox": [
+      36.0,
+      749.60009765625,
+      576.0013427734375,
+      757.5999755859375
+    ],
+    "text": "PLOS Global Public Health | https://doi.org/10.1371/journal.pgph.0001880\nAugust 15, 2023\n9 / 15\n"
+  },
+  {
+    "page": 10,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      200.01199340820312,
+      76.58599853515625,
+      575.9739990234375,
+      710.6002197265625
+    ],
+    "text": "HIV seroprevalence of 5.7% in our sample is in accordance with the Ugandan average (2020\nprevalence estimates: 5.4% among adults aged 15–49 years [37]).\nHealthcare-associated infections, especially surgical-site infections are more common in\nlow resource settings [38]. In our study, more than two-thirds of wound infections were classi-\nfied as nosocomial, which is also reflected by the pathogens identified. Most swabs yielded\ngram-negative pathogens, predominantly E. coli and Acinetobacter spp.. These results corre-\nsponds to data of trauma wards in other low resource settings, which show similar pathogen\ndistributions in wound infections [26–28,39]. Of the five most common pathogens in our sam-\nple, three were intrinsically resistant to the most commonly used empiric treatment ceftriax-\none (Acinetobacter spp., P. aeruginosa and Enterococcus spp.), and the remaining species\ndisplayed resistance to ceftriaxone in over 90% (E. coli 95.7%, Klebsiella spp. 93.8%).\nThese high rates of resistances against commonly used empiric antibiotics are consistent\nwith results of the few available studies from Uganda that focused on surgical patients, includ-\ning patients with chronic wounds [40], patients with surgical site infections (SSI) [41], and a\nretrospective analysis of various diagnostic materials from MNRH over a period of five years\n[14]. A study on patients with SSI across several surgical wards of MNRH in 2011 showed\nlower rates of resistance, e.g. 78% resistance for E. coli towards ceftriaxone Carbapenem resis-\ntance of Acinetobacter spp in Uganda tertiary hospitals was previously estimated to lie between\n4–24% depending on the study [42,43]. However, our analysis showed a resistance rate of 38%,\nwhich is a relevant increase. While the available data may be insufficient to determine a trend,\nit does support the need for accurate annual surveillance data from routine diagnostics to\nmonitor the spread of AMR in the country and identify risk factors. Nosocomial infections\nmight be more common in Uganda as hospital stays tend to be long due to treatment delays\nand IPC is often not optimal [44]. Despite the young age and low rate of comorbidities, a quar-\nter of our study participants had used antimicrobials in the past year. Over 80% of them\nbought antimicrobials directly in community drug shops or pharmacies without a medical pre-\nscription, which underlines the high prevalence of self-prescription in our sample, similar to\nthe available literature [19,20].\nIn our study, AST results led to a treatment switch for nearly all patients. Prior to our\nresearch intervention, empirical antibiotic treatment on the ward was commonly based on\nclinical judgement without knowledge of pathogen and resistance patterns. The ability to per-\nform microbial testing was limited, since it is an unaffordable out-of-pocket expense for most\npatients in this setting. However, the data presented here suggests that empiric treatment with\nceftriaxone and gentamicin misses the target when it comes to wound infections following\ntrauma and can therefore not be recommend. The use of AST in our study enabled the diversi-\nfication of treatment options and guided clinical decision-making. While some patients were\nin need of expensive, often hardly accessible carbapenems, in many cases cheap alternatives\nexisted. In general, our results highlight that a setting with a high rate of nosocomial infections\nin trauma patients calls for antibiotics which have a high efficacy in the gram-negative spec-\ntrum, secure a high degree of tissue penetration and are easily accessible. However, our results\nalso show that there was no “one-fits-all” empiric therapy for in-patients with wound infec-\ntions. Instead, our results underline the need for targeted therapy based on AST. To address\nthe insufficient treatment of patients and the spread of AMR on Uganda trauma wards, routine\ndiagnostic as well as clinical treatment guidelines, which consider local resistance patterns,\nneed to be established.\nCommonly under-recognized, accessibility of diagnostics is fundamental to quality health\ncare and should be incorporated in universal health coverage [7,45]. Both, microbial cultures\nand AST are part of the WHO list of essential in vitro diagnostics [46]. Timely results from\nAST need to be available to health care workers, and should form the foundation for AMS-\n"
+  },
+  {
+    "page": 10,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      34.97949981689453,
+      35.84598922729492,
+      576.0646362304688,
+      48.385990142822266
+    ],
+    "text": "PLOS GLOBAL PUBLIC HEALTH\nRoutine microbial diagnostics for wound infections\n"
+  },
+  {
+    "page": 10,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      36.0,
+      749.60009765625,
+      576.0012817382812,
+      757.5999755859375
+    ],
+    "text": "PLOS Global Public Health | https://doi.org/10.1371/journal.pgph.0001880\nAugust 15, 2023\n10 / 15\n"
+  },
+  {
+    "page": 11,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      200.01199340820312,
+      76.58599853515625,
+      575.9700317382812,
+      177.57699584960938
+    ],
+    "text": "related educational as well as audit-and-feedback interventions. The implementation of diag-\nnostic infrastructure and antimicrobial stewardship (AMS) is not cheap [47] and involves a\nrange of different building stones [48]. However, it might be cost-effective, considering the\nhigh price associated with rising AMR rates and the subsequent morbidity and mortality\n[7,49]. Diagnostic services therefore need to be included into publically funded health care and\nnot be dependent on patients’ ability to pay. To enable low-resource settings like Uganda to\nprovide more diagnostic services, reasonably priced consumables, laboratory management sys-\ntems and reliable supply chains are required.\n"
+  },
+  {
+    "page": 11,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      200.01199340820312,
+      201.41107177734375,
+      347.7427673339844,
+      213.4109649658203
+    ],
+    "text": "5. Strength and limitations\n"
+  },
+  {
+    "page": 11,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      200.0118408203125,
+      220.01898193359375,
+      575.9738159179688,
+      710.998046875
+    ],
+    "text": "Compared to previous studies using routine or retrospective data from surgical wards, this\nstudy’s prospective design serves as an important advantage [14]. It included all patients with\nclinical signs of wound infections, whereas the routine data is skewed towards patients who\nare able to pay for diagnostics. Due to the set-up of study procedures embedded the ward,\nthere was no loss to follow-up. Thus, this study delivers an accurate picture of the distribution\nof pathogens and their resistance profiles in wound infections on the trauma ward. As\ndescribed above, the study populations composition regarding sex, age and HIV-prevalence,\nsuggests a sufficient representability for trauma patients in Ugandan tertiary care centres. The\nstudy was set in the clinical care setting and used the same pathways as routine care, the results\ntherefore mirror the real-life situation on the ward.\nHowever, our study also has some limitations, which are partly due to the monocentric\ndesign with a limited number of participants (n = 124). Baseline data, including prior treat-\nments and in-hospital stays, was collected through patient interviews. This potentially led to\nrecall bias, especially concerning events in the past. However, there are no alternative data col-\nlection systems for this information. Because of incomplete documentation of referrals and\nself-treatment with over-the-counter antibiotics, the timing and dose of previous treatments\nand the duration of previous hospitalizations were not available for assessment. In this respect,\na mixed picture of predominantly nosocomial, possibly (still ambulatory-acquired) and fuzzy\n\"in-between\" situations must be accepted. Since this was an observational study, it is not possi-\nble to compare clinical outcomes of our study participants for instance to a matched popula-\ntion. Furthermore, the majority of patients received antimicrobial treatment before the study\nsamples could be collected, which may have contributed to the low number of positive blood\ncultures and a pre-selected bacterial spectrum of the wound swabs.\nAs wounds following trauma are a non-sterile environment, and contaminants or skin-col-\nonizing isolates might be sampled, results from wound swabs should be interpreted with cau-\ntion [50,51]. Due to the study setting on the ward, it was not possible to obtain deeper cultures\n(e.g. intraoperative sampling) to guide therapy in this context. Instead, superficial cultures\nwere obtained which may not represent the infectious pathogens. In order to optimize sample\ncollection, the study teams were trained in appropriate sampling according to the Levine\nmethod [29,30]. These swabs still may identify bacteria superficially colonizing the wounds. As\nno swabs identified Group A Streptococcus and few identified Staphylococcus aureus, we would\nnot assume that these bacteria represent the infectious causes. As most samples were taken\nafter antibiotics, we would expect to see higher rates of resistance among colonizing bacteria as\nwell. However, this does give a snapshot which bacteria are identified in and around patients,\npointing to increasing resistance. In particular, Acinetobacter spp. infections show high levels\nof resistance. To add more information on pathogens in wound infections, intraoperative sam-\nples and samples taken before the start of antibiotic therapy should be analysed in future\nstudies.\n"
+  },
+  {
+    "page": 11,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      34.97949981689453,
+      35.84598922729492,
+      576.0646362304688,
+      48.385990142822266
+    ],
+    "text": "PLOS GLOBAL PUBLIC HEALTH\nRoutine microbial diagnostics for wound infections\n"
+  },
+  {
+    "page": 11,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      36.0,
+      749.60009765625,
+      576.0012817382812,
+      757.5999755859375
+    ],
+    "text": "PLOS Global Public Health | https://doi.org/10.1371/journal.pgph.0001880\nAugust 15, 2023\n11 / 15\n"
+  },
+  {
+    "page": 12,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      200.01300048828125,
+      76.58599853515625,
+      571.3849487304688,
+      138.572998046875
+    ],
+    "text": "Due to laboratory constraints some pathogens were not identified to genus level, including\nEnterococcus spp. and Acinetobacter spp., and ESBL production could unfortunately not be\nconfirmed by a reference method. It should be considered that due to the urban setting, RTA\nwas the main reason for trauma in our sample, and the results might not be representative for\nhealth care settings where other sources of trauma overweigh.\n"
+  },
+  {
+    "page": 12,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      200.01199340820312,
+      155.09307861328125,
+      284.21649169921875,
+      167.0929718017578
+    ],
+    "text": "6. Conclusions\n"
+  },
+  {
+    "page": 12,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      200.0118408203125,
+      173.70098876953125,
+      575.927978515625,
+      287.67498779296875
+    ],
+    "text": "While no “one-fits all” solution for antimicrobial treatment of wound infections among in-\npatients following high-energy trauma can be recommended based on our results, our findings\nhighlight the need to rethink current empiric treatment and expand the use of microbiological\ndiagnostics in this setting. Furthermore, our results add further data to the existing body of\nresearch documenting the concerning trend of increasing AMR in the country. The substantial\nconsumption of antimicrobials without prior diagnostics, as highlighted in this study, exacer-\nbates the risk of rising AMR. In order to improve patient care directly and halt the further\nspread of AMR in the region, access to routine pathogen identification and antimicrobial sus-\nceptibility testing is urgently needed.\n"
+  },
+  {
+    "page": 12,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      200.01199340820312,
+      304.1950988769531,
+      332.13092041015625,
+      316.19500732421875
+    ],
+    "text": "Supporting information\n"
+  },
+  {
+    "page": 12,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      200.01199340820312,
+      322.8030090332031,
+      564.7739868164062,
+      358.8240051269531
+    ],
+    "text": "S1 Table. Most prevalent pathogens and their resistance towards selected antimicrobials\nfor nosocomial infection subgroup.\n(DOCX)\n"
+  },
+  {
+    "page": 12,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      200.01199340820312,
+      367.8160095214844,
+      564.7739868164062,
+      403.7820129394531
+    ],
+    "text": "S2 Table. Most prevalent pathogens and their resistance towards selected antimicrobials\nfor community acquired infection subgroup.\n(DOCX)\n"
+  },
+  {
+    "page": 12,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      200.01199340820312,
+      426.31207275390625,
+      305.32550048828125,
+      438.3119812011719
+    ],
+    "text": "Acknowledgments\n"
+  },
+  {
+    "page": 12,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      200.01199340820312,
+      444.9200134277344,
+      563.9449462890625,
+      480.885009765625
+    ],
+    "text": "The authors want to thank the study nurses Irene Kagaba and Pross Kesiime, as well as the\nstudy runner Florence Acikane, for their tireless efforts and commitment during the patient\nrecruitment and data collection.\n"
+  },
+  {
+    "page": 12,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      200.01199340820312,
+      497.40509033203125,
+      320.0649719238281,
+      509.4049987792969
+    ],
+    "text": "Author Contributions\n"
+  },
+  {
+    "page": 12,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      200.01199340820312,
+      516.0130004882812,
+      546.3439331054688,
+      526.0130004882812
+    ],
+    "text": "Conceptualization: Henry Kajumbula, Erisa Mwaka, Sara Nsibirwa, Amrei von Braun.\n"
+  },
+  {
+    "page": 12,
+    "block_no": 10,
+    "block_type": 0,
+    "bbox": [
+      200.0120086669922,
+      533.9840087890625,
+      441.3210754394531,
+      543.9840087890625
+    ],
+    "text": "Data curation: Laura Jung, James Kiwanuka, Vivian Nakate.\n"
+  },
+  {
+    "page": 12,
+    "block_no": 11,
+    "block_type": 0,
+    "bbox": [
+      200.01202392578125,
+      552.0120239257812,
+      448.70709228515625,
+      562.0120239257812
+    ],
+    "text": "Formal analysis: Laura Jung, Joseph Musaazi, Hawah Nabajja.\n"
+  },
+  {
+    "page": 12,
+    "block_no": 12,
+    "block_type": 0,
+    "bbox": [
+      200.01205444335938,
+      569.9840087890625,
+      360.5630798339844,
+      579.9840087890625
+    ],
+    "text": "Funding acquisition: Amrei von Braun.\n"
+  },
+  {
+    "page": 12,
+    "block_no": 13,
+    "block_type": 0,
+    "bbox": [
+      200.01205444335938,
+      588.0120239257812,
+      388.76409912109375,
+      598.0120239257812
+    ],
+    "text": "Investigation: James Kiwanuka, Leah Mbabazi.\n"
+  },
+  {
+    "page": 12,
+    "block_no": 14,
+    "block_type": 0,
+    "bbox": [
+      200.01205444335938,
+      605.9840087890625,
+      513.1220703125,
+      615.9840087890625
+    ],
+    "text": "Methodology: Laura Jung, Henry Kajumbula, Erisa Mwaka, Amrei von Braun.\n"
+  },
+  {
+    "page": 12,
+    "block_no": 15,
+    "block_type": 0,
+    "bbox": [
+      200.01206970214844,
+      624.0120239257812,
+      480.2970886230469,
+      634.0120239257812
+    ],
+    "text": "Project administration: Laura Jung, Sara Nsibirwa, Amrei von Braun.\n"
+  },
+  {
+    "page": 12,
+    "block_no": 16,
+    "block_type": 0,
+    "bbox": [
+      200.01206970214844,
+      641.9830322265625,
+      438.9681091308594,
+      651.9830322265625
+    ],
+    "text": "Resources: Leah Mbabazi, Sara Nsibirwa, Amrei von Braun.\n"
+  },
+  {
+    "page": 12,
+    "block_no": 17,
+    "block_type": 0,
+    "bbox": [
+      200.01206970214844,
+      660.0120239257812,
+      325.9800720214844,
+      670.0120239257812
+    ],
+    "text": "Supervision: Amrei von Braun.\n"
+  },
+  {
+    "page": 12,
+    "block_no": 18,
+    "block_type": 0,
+    "bbox": [
+      200.0120849609375,
+      677.9830322265625,
+      295.4190979003906,
+      687.9830322265625
+    ],
+    "text": "Validation: Laura Jung.\n"
+  },
+  {
+    "page": 12,
+    "block_no": 19,
+    "block_type": 0,
+    "bbox": [
+      200.0120849609375,
+      696.010986328125,
+      438.8421325683594,
+      706.010986328125
+    ],
+    "text": "Visualization: Laura Jung, Joseph Musaazi, Hawah Nabajja.\n"
+  },
+  {
+    "page": 12,
+    "block_no": 20,
+    "block_type": 0,
+    "bbox": [
+      34.97949981689453,
+      35.84598922729492,
+      576.0646362304688,
+      48.385990142822266
+    ],
+    "text": "PLOS GLOBAL PUBLIC HEALTH\nRoutine microbial diagnostics for wound infections\n"
+  },
+  {
+    "page": 12,
+    "block_no": 21,
+    "block_type": 0,
+    "bbox": [
+      36.0,
+      749.60009765625,
+      576.0012817382812,
+      757.5999755859375
+    ],
+    "text": "PLOS Global Public Health | https://doi.org/10.1371/journal.pgph.0001880\nAugust 15, 2023\n12 / 15\n"
+  },
+  {
+    "page": 13,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      200.01199340820312,
+      76.58599853515625,
+      349.67401123046875,
+      86.58599853515625
+    ],
+    "text": "Writing – original draft: Laura Jung.\n"
+  },
+  {
+    "page": 13,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      200.01199340820312,
+      94.61399841308594,
+      572.89892578125,
+      117.59600067138672
+    ],
+    "text": "Writing – review & editing: James Kiwanuka, Leah Mbabazi, Vivian Nakate, Joseph Musaazi,\nHawah Nabajja, Henry Kajumbula, Christoph Lu¨bbert, Erisa Mwaka, Sara Nsibirwa.\n"
+  },
+  {
+    "page": 13,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      200.01199340820312,
+      145.39910888671875,
+      263.9990539550781,
+      157.3990020751953
+    ],
+    "text": "References\n"
+  },
+  {
+    "page": 13,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      204.88800048828125,
+      162.0911102294922,
+      573.7185668945312,
+      179.61488342285156
+    ],
+    "text": "1.\nWorld Health Organization. Antimicrobial resistance Factsheet. 2021 [updated 11 Jul 2022; cited 21 Jul\n2022]. Available from: https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance.\n"
+  },
+  {
+    "page": 13,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      204.88800048828125,
+      184.5980224609375,
+      576.0665283203125,
+      211.58969116210938
+    ],
+    "text": "2.\nMurray CJL, Ikuta KS, Sharara F, Swetschinski L, Robles Aguilar G, Gray A, et al. Global burden of bac-\nterial antimicrobial resistance in 2019: a systematic analysis. The Lancet. 2022; 399:629–55. https://\ndoi.org/10.1016/S0140-6736(21)02724-0 PMID: 35065702\n"
+  },
+  {
+    "page": 13,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      204.88796997070312,
+      216.572021484375,
+      570.264892578125,
+      253.08837890625
+    ],
+    "text": "3.\nChaplain D, Asutaku BB, Mona M, Bulafu D, Aruhomukama D. The need to improve antimicrobial sus-\nceptibility testing capacity in Ugandan health facilities: insights from a surveillance primer. Antimicrob\nResist Infect Control. 2022; 11:23. Epub 2022/02/03. https://doi.org/10.1186/s13756-022-01072-4\nPMID: 35115045.\n"
+  },
+  {
+    "page": 13,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      204.88795471191406,
+      258.0715026855469,
+      557.3731079101562,
+      275.59527587890625
+    ],
+    "text": "4.\nWorld Health Organization. Regional Office for Africa. Antimicrobial resistance in the WHO African\nRegion: a systematic literature review.; 2021.\n"
+  },
+  {
+    "page": 13,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      204.88795471191406,
+      280.57843017578125,
+      571.40576171875,
+      307.570068359375
+    ],
+    "text": "5.\nAmpaire L, Muhindo A, Orikiriza P, Mwanga-Amumpaire J, Bebell L, Boum Y. A review of antimicrobial\nresistance in East Africa. Afr J Lab Med. 2016; 5:432. Epub 2016/09/15. https://doi.org/10.4102/ajlm.\nv5i1.432 PMID: 28879114.\n"
+  },
+  {
+    "page": 13,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      204.88795471191406,
+      312.6100158691406,
+      567.95458984375,
+      349.1263427734375
+    ],
+    "text": "6.\nRonat J-B, Natale A, Kesteman T, Andremont A, Elamin W, Hardy L, et al. AMR in low-resource set-\ntings: Me´decins Sans Frontières bridges surveillance gaps by developing a turnkey solution, the Mini-\nLab. Clin Microbiol Infect. 2021; 27:1414–21. https://doi.org/10.1016/j.cmi.2021.04.015 PMID:\n33932617.\n"
+  },
+  {
+    "page": 13,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      204.88792419433594,
+      354.1086730957031,
+      573.5121459960938,
+      381.100341796875
+    ],
+    "text": "7.\nFleming KA, Horton S, Wilson ML, Atun R, DeStigter K, Flanigan J, et al. The Lancet Commission on\ndiagnostics: transforming access to diagnostics. The Lancet. 2021; 398:1997–2050. https://doi.org/10.\n1016/S0140-6736(21)00673-5 PMID: 34626542.\n"
+  },
+  {
+    "page": 13,
+    "block_no": 10,
+    "block_type": 0,
+    "bbox": [
+      204.88795471191406,
+      386.0834655761719,
+      564.9899291992188,
+      422.599853515625
+    ],
+    "text": "8.\nNabadda S, Kakooza F, Kiggundu R, Walwema R, Bazira J, Mayito J, et al. Implementation of the\nWorld Health Organization Global Antimicrobial Resistance Surveillance System in Uganda, 2015–\n2020: Mixed-Methods Study Using National Surveillance Data. JMIR Public Health Surveill. 2021; 7:\ne29954. Epub 2021/10/21. https://doi.org/10.2196/29954 PMID: 34673531.\n"
+  },
+  {
+    "page": 13,
+    "block_no": 11,
+    "block_type": 0,
+    "bbox": [
+      204.88800048828125,
+      427.5821533203125,
+      509.17626953125,
+      435.5820617675781
+    ],
+    "text": "9.\nGovernment of Uganda. Antimicrobial Resistance National Action Plan. 2018–2023.\n"
+  },
+  {
+    "page": 13,
+    "block_no": 12,
+    "block_type": 0,
+    "bbox": [
+      200.52325439453125,
+      440.62200927734375,
+      576.012939453125,
+      467.6136779785156
+    ],
+    "text": "10.\nMugerwa I, Nabadda SN, Midega J, Guma C, Kalyesubula S, Muwonge A. Antimicrobial Resistance Sit-\nuational Analysis 2019–2020: Design and Performance for Human Health Surveillance in Uganda. Trop\nMed Infect Dis. 2021; 6. https://doi.org/10.3390/tropicalmed6040178 PMID: 34698282.\n"
+  },
+  {
+    "page": 13,
+    "block_no": 13,
+    "block_type": 0,
+    "bbox": [
+      200.52325439453125,
+      472.59600830078125,
+      568.6018676757812,
+      499.5884704589844
+    ],
+    "text": "11.\nKimbowa IM, Ocan M, Eriksen J, Nakafeero M, Obua C, Stålsby Lundborg C, et al. Characteristics of\nantimicrobial stewardship programmes in hospitals of Uganda. PLoS One. 2022; 17:e0268032. Epub\n2022/05/10. https://doi.org/10.1371/journal.pone.0268032 PMID: 35536856.\n"
+  },
+  {
+    "page": 13,
+    "block_no": 14,
+    "block_type": 0,
+    "bbox": [
+      200.52328491210938,
+      504.57080078125,
+      569.878662109375,
+      541.087158203125
+    ],
+    "text": "12.\nKiwanuka SN, Namuhani N, Akulume M, Kalyesubula S, Bazeyo W, Kisakye AN. Uganda’s laboratory\nhuman resource in the era of global health initiatives: experiences, constraints and opportunities-an\nassessment of 100 facilities. Hum Resour Health. 2020; 18:13. Epub 2020/02/18. https://doi.org/10.\n1186/s12960-020-0454-5 PMID: 32070361.\n"
+  },
+  {
+    "page": 13,
+    "block_no": 15,
+    "block_type": 0,
+    "bbox": [
+      200.52328491210938,
+      546.0703125,
+      574.931396484375,
+      573.1187133789062
+    ],
+    "text": "13.\nObakiro SB, Kiyimba K, Paasi G, Napyo A, Anthierens S, Waako P, et al. Prevalence of antibiotic-resis-\ntant bacteria among patients in two tertiary hospitals in Eastern Uganda. Journal of Global Antimicrobial\nResistance. 2021; 25:82–6. https://doi.org/10.1016/j.jgar.2021.02.021 PMID: 33662642\n"
+  },
+  {
+    "page": 13,
+    "block_no": 16,
+    "block_type": 0,
+    "bbox": [
+      200.52325439453125,
+      578.10107421875,
+      569.685791015625,
+      614.6173706054688
+    ],
+    "text": "14.\nMboowa G, Aruhomukama D, Sserwadda I, Kitutu FE, Davtyan H, Owiti P, et al. Increasing Antimicro-\nbial Resistance in Surgical Wards at Mulago National Referral Hospital, Uganda, from 2014 to 2018-\nCause for Concern. Trop Med Infect Dis. 2021; 6. Epub 2021/05/19. https://doi.org/10.3390/\ntropicalmed6020082 PMID: 34069345.\n"
+  },
+  {
+    "page": 13,
+    "block_no": 17,
+    "block_type": 0,
+    "bbox": [
+      200.5232391357422,
+      619.6005249023438,
+      572.8473510742188,
+      656.1168212890625
+    ],
+    "text": "15.\nKizito M, Lalitha R, Kajumbula H, Ssenyonga R, Muyanja D, Byakika-Kibwika P. Antibiotic Prevalence\nStudy and Factors Influencing Prescription of WHO Watch Category Antibiotic Ceftriaxone in a Tertiary\nCare Private Not for Profit Hospital in Uganda. Antibiotics (Basel). 2021; 10. https://doi.org/10.3390/\nantibiotics10101167 PMID: 34680748.\n"
+  },
+  {
+    "page": 13,
+    "block_no": 18,
+    "block_type": 0,
+    "bbox": [
+      200.52317810058594,
+      661.0991821289062,
+      567.3778076171875,
+      688.0916748046875
+    ],
+    "text": "16.\nKiggundu R, Wittenauer R, Waswa JP, Nakambale HN, Kitutu FE, Murungi M, et al. Point Prevalence\nSurvey of Antibiotic Use across 13 Hospitals in Uganda. Antibiotics (Basel). 2022; 11. Epub 2022/02/\n04. https://doi.org/10.3390/antibiotics11020199 PMID: 35203802.\n"
+  },
+  {
+    "page": 13,
+    "block_no": 19,
+    "block_type": 0,
+    "bbox": [
+      200.52320861816406,
+      693.0740356445312,
+      558.6434936523438,
+      710.5985717773438
+    ],
+    "text": "17.\nKagoya EK, van Royen K, Waako P, van Royen P, Iramiot JS, Obakiro SB, et al. Experiences and\nviews of healthcare professionals on the prescription of antibiotics in Eastern Uganda: A qualitative\n"
+  },
+  {
+    "page": 13,
+    "block_no": 20,
+    "block_type": 0,
+    "bbox": [
+      34.97949981689453,
+      35.84598922729492,
+      576.0646362304688,
+      48.385990142822266
+    ],
+    "text": "PLOS GLOBAL PUBLIC HEALTH\nRoutine microbial diagnostics for wound infections\n"
+  },
+  {
+    "page": 13,
+    "block_no": 21,
+    "block_type": 0,
+    "bbox": [
+      36.0,
+      749.60009765625,
+      576.0012817382812,
+      757.5999755859375
+    ],
+    "text": "PLOS Global Public Health | https://doi.org/10.1371/journal.pgph.0001880\nAugust 15, 2023\n13 / 15\n"
+  },
+  {
+    "page": 14,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      221.49896240234375,
+      76.88206481933594,
+      573.2570190429688,
+      94.40584564208984
+    ],
+    "text": "study. Journal of Global Antimicrobial Resistance. 2021; 25:66–71. https://doi.org/10.1016/j.jgar.2021.\n02.019 PMID: 33667701\n"
+  },
+  {
+    "page": 14,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      200.52322387695312,
+      99.38898468017578,
+      575.829833984375,
+      126.38064575195312
+    ],
+    "text": "18.\nKiguba R, Karamagi C, Bird SM. Extensive antibiotic prescription rate among hospitalized patients in\nUganda: but with frequent missed-dose days. J Antimicrob Chemother. 2016; 71:1697–706. https://doi.\norg/10.1093/jac/dkw025 PMID: 26945712.\n"
+  },
+  {
+    "page": 14,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      200.52322387695312,
+      131.36297607421875,
+      575.55615234375,
+      158.35543823242188
+    ],
+    "text": "19.\nMukonzo JK, Namuwenge PM, Okure G, Mwesige B, Namusisi OK, Mukanga D. Over-the-counter sub-\noptimal dispensing of antibiotics in Uganda. J Multidiscip Healthc. 2013; 6:303–10. https://doi.org/10.\n2147/JMDH.S49075 PMID: 23990728.\n"
+  },
+  {
+    "page": 14,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      200.523193359375,
+      163.3945770263672,
+      576.0321044921875,
+      199.8541259765625
+    ],
+    "text": "20.\nMbonye AK, Buregyeya E, Rutebemberwa E, Clarke SE, Lal S, Hansen KS, et al. Prescription for antibi-\notics at drug shops and strategies to improve quality of care and patient safety: a cross-sectional survey\nin the private sector in Uganda. BMJ Open. 2016; 6:e010632. https://doi.org/10.1136/bmjopen-2015-\n010632 PMID: 26980439.\n"
+  },
+  {
+    "page": 14,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      200.52313232421875,
+      204.89407348632812,
+      509.74652099609375,
+      212.8939666748047
+    ],
+    "text": "21.\nWorld Health Organization. Global status report on road safety 2018. Geneva; 2018.\n"
+  },
+  {
+    "page": 14,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      200.5231475830078,
+      217.87631225585938,
+      573.8121337890625,
+      244.8679656982422
+    ],
+    "text": "22.\nMuni KM, Ningwa A, Osuret J, Zziwa EB, Namatovu S, Biribawa C, et al. Estimating the burden of road\ntraffic crashes in Uganda using police and health sector data sources. Inj Prev. 2020. https://doi.org/10.\n1136/injuryprev-2020-043654 PMID: 32229535.\n"
+  },
+  {
+    "page": 14,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      200.523193359375,
+      249.8511199951172,
+      575.5489501953125,
+      276.8995361328125
+    ],
+    "text": "23.\nGarner MR, Sethuraman SA, Schade MA, Boateng H. Antibiotic Prophylaxis in Open Fractures: Evi-\ndence, Evolving Issues, and Recommendations. J Am Acad Orthop Surg. 2020; 28:309–15. https://doi.\norg/10.5435/JAAOS-D-18-00193 PMID: 31851021.\n"
+  },
+  {
+    "page": 14,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      200.52320861816406,
+      281.88189697265625,
+      573.2730102539062,
+      308.8743591308594
+    ],
+    "text": "24.\nOkullo GO, Flores MJ, Peck CJ, Socci AR, Kisitu DK. Adverse events in the treatment of motorcycle-\nrelated isolated limb injuries at a regional hospital in Uganda: a prospective clinical analysis. Int Orthop.\n2022; 46:71–7. https://doi.org/10.1007/s00264-021-05060-y PMID: 34296324.\n"
+  },
+  {
+    "page": 14,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      200.52316284179688,
+      313.8567199707031,
+      571.2208862304688,
+      340.9059753417969
+    ],
+    "text": "25.\nOdatuwa-Omagbemi DO. Open fractures: epidemiological pattern, initial management and challenges\nin a sub-urban teaching hospital in Nigeria. Pan Afr Med J. 2019; 33:234. https://doi.org/10.11604/\npamj.2019.33.234.18141 PMID: 31692766.\n"
+  },
+  {
+    "page": 14,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      200.52316284179688,
+      345.8883056640625,
+      573.0184936523438,
+      372.87994384765625
+    ],
+    "text": "26.\nIslam MS, Islam SS, Parvin S, Manjur M, Islam MR, Halder RC, et al. Current pathogens infecting open\nfracture tibia and their antibiotic susceptibility at a tertiary care teaching hospital in South East Asia.\nInfect Prev Pract. 2022; 4:100205. https://doi.org/10.1016/j.infpip.2022.100205 PMID: 35243317.\n"
+  },
+  {
+    "page": 14,
+    "block_no": 10,
+    "block_type": 0,
+    "bbox": [
+      200.52308654785156,
+      377.86309814453125,
+      573.4431762695312,
+      404.854736328125
+    ],
+    "text": "27.\nBediako-Bowan AAA, Kurtzhals JAL, Mølbak K, Labi A-K, Owusu E, Newman MJ. High rates of multi-\ndrug resistant gram-negative organisms associated with surgical site infections in a teaching hospital in\nGhana. BMC Infect Dis. 2020; 20:890. https://doi.org/10.1186/s12879-020-05631-1 PMID: 33238903.\n"
+  },
+  {
+    "page": 14,
+    "block_no": 11,
+    "block_type": 0,
+    "bbox": [
+      200.52305603027344,
+      409.89385986328125,
+      574.2272338867188,
+      436.8863525390625
+    ],
+    "text": "28.\nRaouf M, Ghazal T, Kassem M, Agamya A, Amer A. Surveillance of surgical-site infections and antimi-\ncrobial resistance patterns in a tertiary hospital in Alexandria, Egypt. J Infect Dev Ctries. 2020; 14:277–\n83. https://doi.org/10.3855/jidc.12124 PMID: 32235088.\n"
+  },
+  {
+    "page": 14,
+    "block_no": 12,
+    "block_type": 0,
+    "bbox": [
+      200.5230712890625,
+      441.86865234375,
+      576.080810546875,
+      468.86114501953125
+    ],
+    "text": "29.\nAngel DE, Lloyd P, Carville K, Santamaria N. The clinical efficacy of two semi-quantitative wound-swab-\nbing techniques in identifying the causative organism(s) in infected cutaneous wounds. Int Wound J.\n2011; 8:176–85. https://doi.org/10.1111/j.1742-481X.2010.00765.x PMID: 21303456.\n"
+  },
+  {
+    "page": 14,
+    "block_no": 13,
+    "block_type": 0,
+    "bbox": [
+      200.5229949951172,
+      473.9002685546875,
+      574.7655639648438,
+      500.89190673828125
+    ],
+    "text": "30.\nLevine NS, Lindberg RB, Mason AD, JR, Pruitt BA, JR. The quantitative swab culture and smear: A\nquick, simple method for determining the number of viable aerobic bacteria on open wounds. J Trauma.\n1976; 16:89–94.\n"
+  },
+  {
+    "page": 14,
+    "block_no": 14,
+    "block_type": 0,
+    "bbox": [
+      200.52301025390625,
+      505.8750305175781,
+      572.2352294921875,
+      523.3988037109375
+    ],
+    "text": "31.\nWorld Health Organization. Report on the Burden of Endemic Health Care-Associated Infection World-\nwide. Geneva; 2011.\n"
+  },
+  {
+    "page": 14,
+    "block_no": 15,
+    "block_type": 0,
+    "bbox": [
+      200.5230712890625,
+      528.3819580078125,
+      514.1119384765625,
+      536.3818359375
+    ],
+    "text": "32.\nCLSI. Performance Standards for Antimicrobial Susceptibility Testing. 30th ed.; 2020.\n"
+  },
+  {
+    "page": 14,
+    "block_no": 16,
+    "block_type": 0,
+    "bbox": [
+      200.52305603027344,
+      541.3641967773438,
+      570.9104614257812,
+      568.356689453125
+    ],
+    "text": "33.\nGiriyapur RS, Nandihal NW, Krishna BVS, Patil AB, Chandrasekhar MR. Comparison of disc diffusion\nmethods for the detection of extended-spectrum Beta lactamase-producing enterobacteriaceae. J Lab\nPhysicians. 2011; 3:33–6. https://doi.org/10.4103/0974-2727.78561 PMID: 21701661.\n"
+  },
+  {
+    "page": 14,
+    "block_no": 17,
+    "block_type": 0,
+    "bbox": [
+      200.52308654785156,
+      573.3958129882812,
+      575.2696533203125,
+      600.387451171875
+    ],
+    "text": "34.\nTemizel S, Wunderlich R, Leifels M. Characteristics and Injury Patterns of Road Traffic Injuries in Urban\nand Rural Uganda-A Retrospective Medical Record Review Study in Two Hospitals. Int J Environ Res\nPublic Health. 2021; 18. https://doi.org/10.3390/ijerph18147663 PMID: 34300111.\n"
+  },
+  {
+    "page": 14,
+    "block_no": 18,
+    "block_type": 0,
+    "bbox": [
+      200.52308654785156,
+      605.3706665039062,
+      569.6592407226562,
+      632.3623046875
+    ],
+    "text": "35.\nSiya A, Ssentongo B, Abila DB, Kato AM, Onyuth H, Mutekanga D, et al. Perceived factors associated\nwith boda-boda (motorcycle) accidents in Kampala, Uganda. Traffic Inj Prev. 2019; 20:S133–S136.\nEpub 2019/10/02. https://doi.org/10.1080/15389588.2019.1658084 PMID: 31577452.\n"
+  },
+  {
+    "page": 14,
+    "block_no": 19,
+    "block_type": 0,
+    "bbox": [
+      200.52305603027344,
+      637.4022216796875,
+      574.8175659179688,
+      664.3938598632812
+    ],
+    "text": "36.\nLubega A, Joel B, Justina Lucy N. Incidence and Etiology of Surgical Site Infections among Emergency\nPostoperative Patients in Mbarara Regional Referral Hospital, South Western Uganda. Surg Res Pract.\n2017; 2017:6365172. Epub 2017/01/12. https://doi.org/10.1155/2017/6365172 PMID: 28168215.\n"
+  },
+  {
+    "page": 14,
+    "block_no": 20,
+    "block_type": 0,
+    "bbox": [
+      200.52308654785156,
+      669.376220703125,
+      556.7986450195312,
+      686.9008178710938
+    ],
+    "text": "37.\nUganda AIDS Commission Secreteriat. 2021 Factsheet -Facts on HIV and AIDS in Uganda 2021.;\n2022.\n"
+  },
+  {
+    "page": 14,
+    "block_no": 21,
+    "block_type": 0,
+    "bbox": [
+      34.97949981689453,
+      35.84598922729492,
+      576.0646362304688,
+      48.385990142822266
+    ],
+    "text": "PLOS GLOBAL PUBLIC HEALTH\nRoutine microbial diagnostics for wound infections\n"
+  },
+  {
+    "page": 14,
+    "block_no": 22,
+    "block_type": 0,
+    "bbox": [
+      36.0,
+      749.60009765625,
+      576.0012817382812,
+      757.5999755859375
+    ],
+    "text": "PLOS Global Public Health | https://doi.org/10.1371/journal.pgph.0001880\nAugust 15, 2023\n14 / 15\n"
+  },
+  {
+    "page": 15,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      200.5229949951172,
+      76.71246337890625,
+      576.0479125976562,
+      103.87372589111328
+    ],
+    "text": "38.\nAbubakar U, Amir O, Rodrı´guez-Baño J. Healthcare-associated infections in Africa: a systematic review\nand meta-analysis of point prevalence studies. J Pharm Policy Pract. 2022; 15:99. https://doi.org/10.\n1186/s40545-022-00500-5 PMID: 36494700.\n"
+  },
+  {
+    "page": 15,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      200.5230255126953,
+      108.85606384277344,
+      566.1505126953125,
+      145.37240600585938
+    ],
+    "text": "39.\nLakoh S, Le Yi, Russell JBW, Zhang J, Sevalie S, Zhao Y, et al. The burden of surgical site infections\nand related antibiotic resistance in two geographic regions of Sierra Leone: a prospective study. Ther\nAdv Infect Dis. 2022; 9:20499361221135128. https://doi.org/10.1177/20499361221135128 PMID:\n36518726.\n"
+  },
+  {
+    "page": 15,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      200.52310180664062,
+      150.3555450439453,
+      573.83447265625,
+      186.87188720703125
+    ],
+    "text": "40.\nKhalim W, Mwesigye J, Tungotyo M, Twinomujuni SS. Resistance pattern of infected chronic wound\nisolates and factors associated with bacterial resistance to third generation cephalosporins at Mbarara\nRegional Referral Hospital, Uganda. PLoS One. 2021; 16:e0261264. Epub 2021/12/16. https://doi.org/\n10.1371/journal.pone.0261264 PMID: 34914757.\n"
+  },
+  {
+    "page": 15,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      200.5231170654297,
+      191.85423278808594,
+      575.9696044921875,
+      228.3705596923828
+    ],
+    "text": "41.\nHope D, Ampaire L, Oyet C, Muwanguzi E, Twizerimana H, Apecu RO. Antimicrobial resistance in path-\nogenic aerobic bacteria causing surgical site infections in Mbarara regional referral hospital, Southwest-\nern Uganda. Sci Rep. 2019; 9:17299. Epub 2019/11/21. https://doi.org/10.1038/s41598-019-53712-2\nPMID: 31754237.\n"
+  },
+  {
+    "page": 15,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      200.52313232421875,
+      233.3537139892578,
+      571.373779296875,
+      260.40216064453125
+    ],
+    "text": "42.\nSeni J, Najjuka CF, Kateete DP, Makobore P, Joloba ML, Kajumbula H, et al. Antimicrobial resistance\nin hospitalized surgical patients: a silently emerging public health concern in Uganda. BMC Res Notes.\n2013; 6:298. Epub 2013/07/27. https://doi.org/10.1186/1756-0500-6-298 PMID: 23890206.\n"
+  },
+  {
+    "page": 15,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      200.52317810058594,
+      265.3844909667969,
+      555.4299926757812,
+      301.9008483886719
+    ],
+    "text": "43.\nKateete DP, Nakanjako R, Namugenyi J, Erume J, Joloba ML, Najjuka CF. Carbapenem resistant\nPseudomonas aeruginosa and Acinetobacter baumannii at Mulago Hospital in Kampala, Uganda\n(2007–2009). Springerplus. 2016; 5:1308. https://doi.org/10.1186/s40064-016-2986-7 PMID:\n27547682.\n"
+  },
+  {
+    "page": 15,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      200.52316284179688,
+      306.88397216796875,
+      570.6497192382812,
+      333.8756408691406
+    ],
+    "text": "44.\nOpollo MS, Otim TC, Kizito W, Thekkur P, Kumar AMV, Kitutu FE, et al. Infection Prevention and Con-\ntrol at Lira University Hospital, Uganda: More Needs to Be Done. Trop Med Infect Dis. 2021; 6. https://\ndoi.org/10.3390/tropicalmed6020069 PMID: 34062871\n"
+  },
+  {
+    "page": 15,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      200.5231170654297,
+      338.8587646484375,
+      563.8802490234375,
+      356.3825378417969
+    ],
+    "text": "45.\nPai M, Walia K, Boehme CC. Essential medicines and essential diagnostics: a package deal. Lancet\nPublic Health. 2019; 4:e492. https://doi.org/10.1016/S2468-2667(19)30165-3 PMID: 31451443.\n"
+  },
+  {
+    "page": 15,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      200.5231475830078,
+      361.36566162109375,
+      520.1784057617188,
+      369.3655700683594
+    ],
+    "text": "46.\nWorld Health Organization. First WHO model list of essential in vitro diagnostics.; 2019.\n"
+  },
+  {
+    "page": 15,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      200.5231475830078,
+      374.4046936035156,
+      575.3568725585938,
+      410.86419677734375
+    ],
+    "text": "47.\nRoberts T, Luangasanatip N, Ling CL, Hopkins J, Jaksuwan R, Lubell Y, et al. Antimicrobial resistance\ndetection in Southeast Asian hospitals is critically important from both patient and societal perspectives,\nbut what is its cost. PLOS Global Public Health. 2021; 1:e0000018. https://doi.org/10.1371/journal.\npgph.0000018 PMID: 34746931\n"
+  },
+  {
+    "page": 15,
+    "block_no": 10,
+    "block_type": 0,
+    "bbox": [
+      200.52316284179688,
+      415.9033203125,
+      574.8784790039062,
+      442.8957824707031
+    ],
+    "text": "48.\nJacobs J, Hardy L, Semret M, Lunguya O, Phe T, Affolabi D, et al. Diagnostic Bacteriology in District\nHospitals in Sub-Saharan Africa: At the Forefront of the Containment of Antimicrobial Resistance. Front\nMed (Lausanne). 2019; 6:205. https://doi.org/10.3389/fmed.2019.00205 PMID: 31608280.\n"
+  },
+  {
+    "page": 15,
+    "block_no": 11,
+    "block_type": 0,
+    "bbox": [
+      200.5231475830078,
+      447.87811279296875,
+      568.51611328125,
+      474.8705749511719
+    ],
+    "text": "49.\nGebretekle GB, Mariam DH, Mac S, Abebe W, Alemayehu T, Degu WA, et al. Cost-utility analysis of\nantimicrobial stewardship programme at a tertiary teaching hospital in Ethiopia. BMJ Open. 2021; 11:\ne047515. Epub 2021/12/17. https://doi.org/10.1136/bmjopen-2020-047515 PMID: 34921071.\n"
+  },
+  {
+    "page": 15,
+    "block_no": 12,
+    "block_type": 0,
+    "bbox": [
+      200.52305603027344,
+      479.8529052734375,
+      566.0504760742188,
+      497.37750244140625
+    ],
+    "text": "50.\nChakraborti C, Le C, Yanofsky A. Sensitivity of superficial cultures in lower extremity wounds. J Hosp\nMed. 2010; 5:415–20. https://doi.org/10.1002/jhm.688 PMID: 20845440.\n"
+  },
+  {
+    "page": 15,
+    "block_no": 13,
+    "block_type": 0,
+    "bbox": [
+      200.5230255126953,
+      502.35980224609375,
+      572.6712036132812,
+      519.8843994140625
+    ],
+    "text": "51.\nSpear M. Best technique for obtaining wound cultures. Plast Surg Nurs. 2012; 32:34–6. https://doi.org/\n10.1097/PSN.0b013e31824a7e53 PMID: 22395174.\n"
+  },
+  {
+    "page": 15,
+    "block_no": 14,
+    "block_type": 0,
+    "bbox": [
+      34.97949981689453,
+      35.84598922729492,
+      576.0646362304688,
+      48.385990142822266
+    ],
+    "text": "PLOS GLOBAL PUBLIC HEALTH\nRoutine microbial diagnostics for wound infections\n"
+  },
+  {
+    "page": 15,
+    "block_no": 15,
+    "block_type": 0,
+    "bbox": [
+      36.0,
+      749.60009765625,
+      576.0012817382812,
+      757.5999755859375
+    ],
+    "text": "PLOS Global Public Health | https://doi.org/10.1371/journal.pgph.0001880\nAugust 15, 2023\n15 / 15\n"
+  }
+]

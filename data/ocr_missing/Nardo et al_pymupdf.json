@@ -1,0 +1,674 @@
+[
+  {
+    "page": 1,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      42.51969909667969,
+      158.05282592773438,
+      516.7857666015625,
+      246.81048583984375
+    ],
+    "text": "Short report\nPost-caesarean section surgical site infections at a\nTanzanian tertiary hospital: a prospective\nobservational study\n"
+  },
+  {
+    "page": 1,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      42.51873779296875,
+      255.31039428710938,
+      511.287841796875,
+      304.1470642089844
+    ],
+    "text": "P. De Nardo a,b,*, E. Gentilotti a,c, B. Nguhuni a,b, F. Vairo b, Z. Chaula a,\nE. Nicastri b, M.M. Nassoro a, N. Bevilacqua b, A. Ismail d, A. Savoldi a,e,\nA. Zumla f,g, G. Ippolito b\n"
+  },
+  {
+    "page": 1,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      42.51969909667969,
+      307.624755859375,
+      521.0629272460938,
+      386.3232421875
+    ],
+    "text": "a Resource Centre for Infectious Diseases, Dodoma Regional Referral Hospital, Dodoma, Tanzania\nb ‘Lazzaro Spallanzani’ National Institute for Infectious Diseases-IRCCS, Rome, Italy\nc Department of Infectious Diseases, Tor Vergata University Hospital, Rome, Italy\nd University of Dodoma e UDOM, Department of Statistics, Dodoma, Tanzania\ne Department of Health Sciences, Clinic of Infectious Diseases, ‘San Paolo’ Hospital, University of Milan, Milan, Italy\nf Division of Infection and Immunity, University College London, London, UK\ng NIHR Biomedical Research Centre at UCL Hospitals NHS Foundation Trust, London, UK\n"
+  },
+  {
+    "page": 1,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      42.51969909667969,
+      413.4119567871094,
+      153.77793884277344,
+      421.94610595703125
+    ],
+    "text": "A R T I C L E\nI N F O\n"
+  },
+  {
+    "page": 1,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      42.51969909667969,
+      433.9675598144531,
+      173.09019470214844,
+      475.99261474609375
+    ],
+    "text": "Article history:\nReceived 16 November 2015\nAccepted 19 February 2016\nAvailable online 11 March 2016\n"
+  },
+  {
+    "page": 1,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      42.51969909667969,
+      489.07269287109375,
+      149.2476348876953,
+      563.9789428710938
+    ],
+    "text": "Keywords:\nCaesarean section\nSurgical site infection\nAntimicrobial resistance\nResource-limited settings\nAntibiotic prophylaxis\nPregnant women\n"
+  },
+  {
+    "page": 1,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      206.92909240722656,
+      413.4119567871094,
+      278.00640869140625,
+      421.94610595703125
+    ],
+    "text": "S U M M A R Y\n"
+  },
+  {
+    "page": 1,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      206.92909240722656,
+      434.64886474609375,
+      562.6088256835938,
+      541.5336303710938
+    ],
+    "text": "Few data are available on the determinants and characteristics of post-caesarean section\n(CS) surgical site infections (SSIs) in resource-limited settings. We conducted a prospective\nobservational cohort study to evaluate the rates, determinants, and microbiological\ncharacteristics of post-CS SSI at the Dodoma Regional Referral Hospital (DRRH) Gynae-\ncology and Obstetrics Department in Tanzania. Spanning a three-month period, all preg-\nnant women who underwent CS were enrolled and followed up for 30 days. SSI following CS\noccurred in 224 (48%) women. Only 10 (2.1%) women received pre-incision antibiotic\nprophylaxis. Urgent intervention is needed to prevent and control infections and contain\nthe rising rate of post-CS SSI at the DRRH.\nª 2016 The Healthcare Infection Society. Published by Elsevier Ltd. All rights reserved.\n"
+  },
+  {
+    "page": 1,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      311.5274963378906,
+      651.2425537109375,
+      375.2650451660156,
+      662.2015991210938
+    ],
+    "text": "Introduction\n"
+  },
+  {
+    "page": 1,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      311.5277404785156,
+      674.7112426757812,
+      562.5716552734375,
+      716.5587768554688
+    ],
+    "text": "Caesarean section (CS) can be a life-saving procedure and it\nprevents poor obstetric outcomes. In 2007, the average global\nCS rate was reported to be around 15%, with substantial vari-\nability worldwide. However, the incidence of deliveries by CS\n"
+  },
+  {
+    "page": 1,
+    "block_no": 10,
+    "block_type": 0,
+    "bbox": [
+      42.519466400146484,
+      678.836181640625,
+      293.6158447265625,
+      716.6834716796875
+    ],
+    "text": "* Corresponding author. Address: ‘Lazzaro Spallanzani’ National\nInstitute for Infectious Diseases e INMI, Rome, Italy.\nTel.: þ39 06 551701.\nE-mail address: pasquale.denardo@inmi.it (P. De Nardo).\n"
+  },
+  {
+    "page": 1,
+    "block_no": 11,
+    "block_type": 0,
+    "bbox": [
+      215.4897003173828,
+      73.40435791015625,
+      384.608642578125,
+      81.53229522705078
+    ],
+    "text": "Available online at www.sciencedirect.com\n"
+  },
+  {
+    "page": 1,
+    "block_no": 12,
+    "block_type": 0,
+    "bbox": [
+      206.02200317382812,
+      97.59918212890625,
+      393.9481201171875,
+      111.82294464111328
+    ],
+    "text": "Journal of Hospital Infection\n"
+  },
+  {
+    "page": 1,
+    "block_no": 13,
+    "block_type": 0,
+    "bbox": [
+      163.3321990966797,
+      129.36029052734375,
+      436.65478515625,
+      137.4882354736328
+    ],
+    "text": "journal homepage: www.elsevierhealth.com/journals/jhin\n"
+  },
+  {
+    "page": 1,
+    "block_no": 14,
+    "block_type": 0,
+    "bbox": [
+      42.51969909667969,
+      726.8551025390625,
+      398.88482666015625,
+      743.839599609375
+    ],
+    "text": "http://dx.doi.org/10.1016/j.jhin.2016.02.021\n0195-6701/ª 2016 The Healthcare Infection Society. Published by Elsevier Ltd. All rights reserved.\n"
+  },
+  {
+    "page": 1,
+    "block_no": 15,
+    "block_type": 0,
+    "bbox": [
+      216.3968048095703,
+      48.0494384765625,
+      388.7053527832031,
+      56.15458297729492
+    ],
+    "text": "Journal of Hospital Infection 93 (2016) 355e359\n"
+  },
+  {
+    "page": 2,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      32.82440185546875,
+      61.86103439331055,
+      283.88446044921875,
+      206.32122802734375
+    ],
+    "text": "has increased sharply over the last 30 years.1 Post-surgical\ninfection is a complication of CS, with rates ranging from\n1.2% to 6.5% in high-resource countries.2e4 Moreover, post-\npartum infections remain among the most frequent causes of\npregnancy-related maternal mortality and morbidity world-\nwide. Few data are available on the determinants, character-\nistics, and incidence of post-CS SSI in resource-limited settings.\nDodoma Regional Referral Hospital (DRRH) is the referral\nhospital in Dodoma Region, Tanzania, and one of the few\ncentres where pregnant women can receive CS services. We\nconducted a prospective cohort study to evaluate the rates,\ndeterminants, and microbiological characteristics of post-CS\nSSI at the Gynaecology and Obstetrics Department of DRRH.\n"
+  },
+  {
+    "page": 2,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      32.825199127197266,
+      229.39065551757812,
+      75.47763061523438,
+      240.3496551513672
+    ],
+    "text": "Methods\n"
+  },
+  {
+    "page": 2,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      32.82545852661133,
+      252.85939025878906,
+      283.8702697753906,
+      349.52874755859375
+    ],
+    "text": "A prospective observational cohort study was conducted in\nthe Gynaecology and Obstetrics Department of DRRH, Dodoma,\nTanzania. Following a three-month enrolment period starting\non August 19th, 2013, patients were followed up for 30 days\npost CS. All pregnant women admitted to the DRRH Labour\nWard who underwent an elective or emergency CS were eligible\nfor enrolment within 24 h post CS and followed up for 30 days to\ndetect SSI, in accordance with the latest Centers for Disease\nControl and Prevention (CDC) classiﬁcation.5\n"
+  },
+  {
+    "page": 2,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      32.824851989746094,
+      351.5050354003906,
+      283.9100341796875,
+      744.0526733398438
+    ],
+    "text": "Data were collected using a comprehensive structured\nquestionnaire that was ﬁlled in at each follow-up visit. Infor-\nmation was retrieved from different sources: hospital medical\nrecords, antenatal cards, surgical notes, structured interviews,\nand clinical examinations. On the ﬁrst day post CS during the\ninpatient stay at DRRH, all data related to the surgical pro-\ncedures and post-surgical management were collected from\nthe surgical notes. Demographic and clinical data were ob-\ntained from antenatal cards, hospital medical records, struc-\ntured interviews, and clinical examinations. The ward doctor\ninspected the wounds daily and monitored the patients for any\nsigns of infection during the inpatient stay. The doctor who\ndischarged the patients was responsible for scheduling a ﬁrst\nvisit at Makole Health Center (MHC) on day 7 post CS. Surgical\nwounds were inspected and stitches were removed at MHC for\noutpatients or at DRRH for patients who were still hospitalized.\nFinally, on day 30 post CS, data collection was done at the DRRH\nObstetrics and Gynaecology Outpatient Clinic.\nPatients underwent a variable number of visits between day\n7 and day 30. At each visit, a clinical examination of the sur-\ngical wound was performed and antibiotic treatment history\nwas collected. SSIs were classiﬁed according to CDC deﬁni-\ntions.5 A wound swab was taken if any sign of SSI was detected.\nTelephone calls were made to patients not attending scheduled\nvisits. Data were retrieved through a structured telephone\ninterview and a speciﬁcally designed algorithm was used for SSI\ndiagnosis. Patients who did not attend a follow-up clinical visit\nby day 10 post CS were repeatedly contacted by telephone in\norder to determine whether they had developed an SSI. If an SSI\nwas diagnosed through a structured telephone interview, the\npatient was referred to the nearest healthcare facility for\nfurther treatment. A patient was considered lost to follow-up\nafter ﬁve unsuccessful attempts by telephone during the\nfollow-up period.\nA bacteriological swabwasobtained, where possible, in every\ncase of clinical suspicion of SSI by collecting the exudates from\n"
+  },
+  {
+    "page": 2,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      301.83233642578125,
+      65.82379913330078,
+      552.9833374023438,
+      381.6720886230469
+    ],
+    "text": "the open discharging wound. The specimens were processed\nsoon after collection, according to the standard operative pro-\ncedures of the microbiology laboratory. Brieﬂy, specimens were\ninoculated on Blood agar and MacConkey agar and incubated\naerobically. Petri dishes were checked after 24 and 48 h and\nbacteria were identiﬁed using conventional biochemical and\nphysiological methods. Antimicrobial susceptibility of isolates\nwas determined using disc diffusion.6 The antibiotics tested\nincluded: oxacillin (1 mg), ampicillin (10 mg), amoxicillin (25 mg),\namoxicillin/clavulanate\n(20\nþ\n10 mg),\nclindamycin\n(2 mg),\nerythromycin\n(15 mg),\nciproﬂoxacin\n(5 mg),\ncotrimoxazole\n(1.25 þ 23.75 mg), ceftriaxone (30 mg), cloramphenicol (30 mg),\ngentamicin (10 mg), tetracycline (30 mg). MRSA was identiﬁed by\nusing the diffusion method with oxacillin disc.\nStatistical analysis was performed using SAS software\nversion 9.3 (SAS Institute, Inc., Cary, NC, USA). A descriptive\nanalysis of categorical variables was performed through fre-\nquency\ntables;\ninterquartile\nranges\nand\nmedians\nwere\ncomputed for continuous variables. The chi-squared test,\nFisher’s exact test, and log binomial regression model were\nadopted for both univariate and multivariate analysis to detect\nthe association between predictor variables and SSIs. Co-\nvariates with P \u0002 0.1 were considered for multivariate analysis;\nodds ratios and conﬁdence intervals were computed.\nThis survey was approved by the Hospital Management of\nDRRH (RMO/A.10/8/12) and the Tanzanian National Institute\nfor Medical Research-NIMR (Ethical approval certiﬁcate num-\nber: NIMR/HQ/R.8a/Vol. IX/I927). All enrolled patients pro-\nvided written consent.\n"
+  },
+  {
+    "page": 2,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      301.8330078125,
+      404.74176025390625,
+      338.2059326171875,
+      415.70074462890625
+    ],
+    "text": "Results\n"
+  },
+  {
+    "page": 2,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      301.8330383300781,
+      428.2105407714844,
+      552.88330078125,
+      744.0503540039062
+    ],
+    "text": "A total of 664 patients who delivered by CS during the study\nperiod were enrolled. Of these, 197 (29.7%) did not attend any\nclinical visit after the surgical procedure and all attempts to\ncontact them by telephone failed; hence, no outcome was\navailable. The remaining 467 (70.3%) were followed up for 30\ndays after CS; in 31 (6.6%) of these women, the follow-up was\nperformed exclusively by telephone interview, and in seven\n(22.6%) of them the information retrieved was consistent with\nSSI. No differences in comorbidities or demographic and preg-\nnancy characteristics were found between women lost to\nfollow-up and those successfully followed up (data not shown).\nOnly 236 (50.5%) women were screened for diabetes during\npregnancy, whereas the majority of the patients were tested for\nhuman immunodeﬁciency virus (455; 97.4%), in accordance with\nnational guidelines. Premature rupture of membranes (PROM)\noccurred in 11 (2.4%) women; of these, only two (18.2%)\nreceived a course of antibiotics. The great majority of CS (425;\n91%) cases were emergency procedures. The most frequent\nreason for performing CS was having a previous scar (120;\n25.7%), followed by cephalopelvic disproportion (CPD) (81;\n17.3%), though only 25% and 4.9% of women with previous scars\nor CPD, respectively, underwent an elective procedure. In the\nmajority of cases, the surgical procedure consisted of a midline\nvertical incision (341; 73%) performed by a junior doctor (337;\n72.2%). Pre-incision antibiotic prophylaxis was administered in\n10 (2.1%) patients: only two (20%) of them received it between\n30 and 60 min before the incision. In almost all cases, a three-\nday course of antibiotics with intravenous ceftriaxone plus\nmetronidazole followed by oral ampicillin/cloxacillin plus\n"
+  },
+  {
+    "page": 2,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      32.824310302734375,
+      48.208675384521484,
+      432.8916320800781,
+      57.326786041259766
+    ],
+    "text": "P. De Nardo et al. / Journal of Hospital Infection 93 (2016) 355e359\n356\n"
+  },
+  {
+    "page": 3,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      42.51969909667969,
+      65.82953643798828,
+      293.595947265625,
+      315.9069519042969
+    ],
+    "text": "metronidazole for at least ﬁve days was administered, starting\nwithin one day after the CS and >60 min after the surgical\nprocedure. The average length of stay in the hospital after the\nsurgical procedure was two days; the majority of women were\ndischarged within the ﬁrst three days after CS.\nPost-CS SSI occurred in 225 (48.2%) women, mainly within\nnine days after CS (141; 62.7%). Out of 225 SSIs, 166 (73.8%)\nwere diagnosed at the ﬁrst visit, which occurred on average at\nday 9 post-CS (range: 1e37 days; median: 8). Most of the SSIs\nwere superﬁcial (138; 61.4%), whereas only ﬁve (2.3%) involved\norgans/spaces. All the SSI involving organs/spaces developed in\npatients who underwent an emergency CS. A wound swab was\ntaken in 197 cases (87.5%). Among them, 106 (53.8%) showed\nbacterial growth (Table I). Staphylococcus aureus, coagulase-\nnegative staphylococci, and Gram-negative bacteria were iso-\nlated in 43 (40.6%), 47 (44.3%), and 16 (15.1%) cases, respec-\ntively. MRSA accounted for 34/43 (79%) of the S. aureus. No\nstatistically signiﬁcant association between the development\nof SSI and age, education, BMI, work, comorbidities or gravidity\nwas detected (Table II). As per the surgical characteristics, SSI\nrisk was higher when the operation was performed by junior\ndoctors (interns) compared to senior doctors (masters and\nregistrars) (P ¼ 0.04), for midline vertical incisions compared\n"
+  },
+  {
+    "page": 3,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      311.527587890625,
+      65.67339324951172,
+      562.5769653320312,
+      162.4371337890625
+    ],
+    "text": "to Pfannestiel incisions (P < 0.0001), and for interrupted su-\ntures compared with continuous intradermic or combined\ncontinuous intradermic and interrupted sutures (P < 0.0001).\nInterns performed a signiﬁcantly higher number of emergency\nprocedures and midline vertical incisions than senior doctors,\nadopting interrupted stitches as a type of suture in a higher\nproportion of cases compared with senior colleagues (Fisher’s\nexact test P < 0.0001). None of these variables remained\nsignﬁcant in multivariate analysis.\n"
+  },
+  {
+    "page": 3,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      311.5274963378906,
+      185.51034545898438,
+      364.10882568359375,
+      196.46934509277344
+    ],
+    "text": "Discussion\n"
+  },
+  {
+    "page": 3,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      311.52655029296875,
+      209.03578186035156,
+      562.5892333984375,
+      744.0549926757812
+    ],
+    "text": "The detected incidence rate of post-CS SSI was extremely\nhigh, at 48.2%. A recent report from Tanzania documented a\nmore than four-fold lower incidence of post-CS SSI compared\nwith our study (10.9% vs 48.2%).7 According to our data, the\nmajority of SSIs were detected within nine days post CS\n(62.7%),\nthus\nindicating\nprobable\ncontamination\nin\nthe\ntheatre during the operations. The MRSA prevalence rate\n(79%) also seems to suggest healthcare-associated infections,\nwhich could be related to inappropriate use of antibiotics,\nparticularly third-generation cephalosporins. Recently, a re-\nview of antimicrobial resistance in sub-Saharan Africa sug-\ngested that MRSA is prevalent in hospitals, though the extent\nof the problem is underestimated due to the limited number\nof studies and isolates available.8 The overcrowding of labour\nrooms and post-delivery ward, and the lack of antimicrobial\nstewardship, need to be addressed to decrease the occur-\nrence of nosocomial infections and the burden of resistant\nbacteria.\nUnivariate analysis suggested that surgical procedures per-\nformed by interns were associated with a higher risk of SSI\ncompared with those performed by senior doctors (Fisher’s\nexact test, P ¼ 0.04). This ﬁnding is consistent with the results\nfrom Mpogoro et al. who reported that a CS performed by a\njunior doctor was among the six independent risk factors for\ndeveloping an SSI.7 On-the-job training and supervision of the\njunior doctors in the theatre is highly recommended to\ncontribute to the quality of training and surgical outcome.\nMost of the CS procedures were performed as an emergency,\neven if the indication for CS was known in advance. This could\nbe explained by improper counselling of pregnant women\nnecessitating a CS, causing a delay in hospital attendance. An\nintervention to implement evidence-based revisions of the\nsurgical procedures and antibiotic prophylaxis at the DRRH\nGynaecology and Obstetrics Department is continuing. This\nintervention could improve pregnancy outcomes along with\npatients’ trust in public health facilities, and may positively\naffect healthcare-seeking behaviour.\nIntravenous prophylactic antibiotics administered 1 h prior\nto skin incision for CS signiﬁcantly decreases the incidence of\nmaternal postpartum infectious morbidity.9,10 In resource-\nlimited settings, little is known about the use of antibiotic\nprophylaxis to prevent post-CS SSI. At the DRRH, as in other\nTanzanian settings, no consistent protocol for the administra-\ntion of antibiotic prophylaxis is available and usually antimi-\ncrobials are administered after the operation; the type,\ndosage, and timing depends on the individual clinician’s pref-\nerence.11 This ﬁnding may highlight a substantial need to re-\nview national guidelines and internal operative protocols on\nthe management of pregnant women undergoing CS.\n"
+  },
+  {
+    "page": 3,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      42.51969909667969,
+      329.5955810546875,
+      293.5357971191406,
+      359.966552734375
+    ],
+    "text": "Table I\nSurgical site infection (SSI) characteristics of the 467 patients\nenrolled in the study\n"
+  },
+  {
+    "page": 3,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      48.4724006652832,
+      367.57061767578125,
+      287.6200256347656,
+      375.7099914550781
+    ],
+    "text": "SSI characteristics\nPatients (N ¼ 467)\n"
+  },
+  {
+    "page": 3,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      48.472373962402344,
+      381.0052185058594,
+      274.11151123046875,
+      729.4152221679688
+    ],
+    "text": "Duration of follow-up (days), mean (\u0003SD)\n25 (10)\nDay of ﬁrst visit (N ¼ 428), mean (\u0003SD)\n8.5 (2.5)\nWound infection, no. (%)\nYes\n225 (48.2)\nNo\n242 (51.8)\nWound infection at ﬁrst visit (N ¼ 225), no. (%)\nYes\n166 (73.8)\nNo\n59 (26.2)\nDay of infection after CS (N ¼ 225), no. (%)\nWithin the ﬁrst 9 days\n141 (62.7)\nFrom day 10 to 15\n69 (30.6)\nAfter day 15\n12 (5.4)\nUnknown\n3 (1.3)\nType of wound infection (N ¼ 225), no. (%)\nSuperﬁcial\n138 (61.4)\nDeep\n69 (30.6)\nInvolving organs/spaces\n5 (2.3)\nUnknown\n13 (5.7)\nSwab performed (N ¼ 225), no. (%)\nYes\n197 (87.5)\nNo\n28 (12.5)\nSwab result (N ¼ 197), no. (%)\nNo bacterial growth\n91 (45.2)\nBacterial growth\n106 (53.8)\nIsolated pathogen (N ¼ 106), no. (%)\nStaphylococcus aureus\n43 (40.6)\nCoagulase-negative Staphylococcus spp.\n47 (44.4)\nEscherichia coli\n1 (0.9)\nProteus spp.\n3 (2.8)\nColiform\n7 (6.6)\nKlebsiella spp.\n4 (3.8)\nPseudomonas aeruginosa\n1 (0.9)\n"
+  },
+  {
+    "page": 3,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      42.51969909667969,
+      735.6890258789062,
+      216.56295776367188,
+      743.8169555664062
+    ],
+    "text": "SD, standard deviation; CS, caesarean section.\n"
+  },
+  {
+    "page": 3,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      162.48179626464844,
+      48.216365814208984,
+      562.5491333007812,
+      57.334476470947266
+    ],
+    "text": "P. De Nardo et al. / Journal of Hospital Infection 93 (2016) 355e359\n357\n"
+  },
+  {
+    "page": 4,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      32.825199127197266,
+      67.16409301757812,
+      451.6936340332031,
+      86.6500015258789
+    ],
+    "text": "Table II\nUnivariate analysis of risk factors for surgical site infection among women who underwent caesarean sections\n"
+  },
+  {
+    "page": 4,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      38.77790069580078,
+      94.20886993408203,
+      544.7230834960938,
+      102.3368148803711
+    ],
+    "text": "Characteristics\nSurgical site infection (SSI)\nUnivariate OR (95% CI)\nP-value\n"
+  },
+  {
+    "page": 4,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      196.2137451171875,
+      109.74280548095703,
+      334.1883239746094,
+      117.8707504272461
+    ],
+    "text": "Yes, no. (%)\nNo, no. (%)\n"
+  },
+  {
+    "page": 4,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      38.77790069580078,
+      123.17807006835938,
+      543.392333984375,
+      603.0470581054688
+    ],
+    "text": "Age (years)\n0.56\n<20\n33 (43.4)\n43 (56.6)\n0.82 (0.50e1.35)\n20e34\n164 (48.6)\n175 (51.4)\nRef.\n>34\n27 (53)\n24 (47)\n1.2 (0.67e2.17)\nEducation\nNo education\n34 (51.5)\n32 (48.5)\nRef.\nStandard sevena\n112 (46.5)\n129 (53.5)\n0.82 (0.47e1.41)\n0.468\nForm IeIVb\n68 (51.5)\n64 (48.5)\n1.00 (0.55e1.81)\n1.000\nCollege/university\n7 (33.3)\n14 (66.7)\n0.47 (0.17e1.32)\n0.151\nWork\nHousewife\n82 (53.2)\n72 (46.8)\nRef.\nBusiness\n55 (55.6)\n44 (44.4)\n1.10 (0.66e1.82)\n0.719\nPeasant\n60 (40.4)\n88 (59.6)\n0.60 (0.38e0.94)\n0.027\nPublic ofﬁcer\n17 (43.6)\n22 (56.4)\n0.68 (0.33e1.38)\n0.283\nHealthcare worker\n1 (16.7)\n5 (83.3)\n0.18 (0.02e1.54)\n0.116\nOthers\n7 (43.8)\n9 (56.2)\n0.68 (0.24e1.93)\n0.471\nBody mass index\n0.09\nNormal\n127 (43.6)\n164 (56.4)\nRef.\nOverweight\n56 (53.3)\n49 (46.7)\n0.68 (0.43e1.06)\nPIH\n0.67\nNo\n209 (48)\n226 (52)\nRef.\nYes\n10 (43.5)\n13 (56.5)\n0.83 (0.36e1.94)\nHIV positive\n0.39\nNo\n211 (48.2)\n227 (51.8)\nRef.\nYes\n10 (58.8)\n7 (41.2)\n1.54 (0.57e4.11)\nPrevious pregnancies\nNo previous pregnancies\n79 (44.6)\n98 (55.4)\nRef.\n1e2\n99 (50.3)\n98 (49.7)\n1.25 (0.83e1.88)\n0.277\n3e4\n38 (56.7)\n29 (43.3)\n1.62 (0.92e2.87)\n0.093\n\u00045\n7 (31.8)\n15 (68.2)\n0.58 (0.22e1.49)\n0.257\nPrevious miscarriages\n0.22\nNo previous miscarriage\n209 (49)\n217 (51)\nRef.\n1\n11 (44)\n14 (56)\n0.82 (0.36e1.84)\n\u00042\n3 (25)\n9 (75)\n0.35 (0.92e1.30)\nPROM\n0.67\nNo\n219 (48)\n237 (52)\nRef.\nYes\n6 (54.6)\n5 (45.4)\n1.30 (0.39e4.32)\nReasons for CS\n0.67\nCS indication\n106 (50.7)\n103 (49.3)\nRef.\nNo CS indication\n136 (52.7)\n122 (47.3)\n0.92 (0.64e1.33)\nCS type\n0.47\nEmergency\n207 (48.7)\n218 (51.3)\nRef.\nElective\n18 (43)\n24 (57)\n0.79 (0.42e1.50)\nDoctor\n0.04a\n"
+  },
+  {
+    "page": 4,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      38.779052734375,
+      605.4078979492188,
+      546.90869140625,
+      668.8091430664062
+    ],
+    "text": "Junior\n172 (51)\n165 (49)\nRef.\nSenior\n51 (40.2)\n76 (59.8)\n0.64 (0.43e0.97)\nCS skin disinfection\n0.37\nPovidone/iodine\n172 (47)\n194 (53)\nRef.\nSpirit\n47 (52.2)\n43 (47.8)\n1.23 (0.78e1.96)\nIncision type\n<0.001a\n"
+  },
+  {
+    "page": 4,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      38.779052734375,
+      671.1716918945312,
+      538.804931640625,
+      723.6312255859375
+    ],
+    "text": "Midline vertical\n198 (58)\n143 (42)\nRef.\nPfannestiel\n24 (29.3)\n58 (70.7)\n0.30 (0.18e0.50)\nSuture\n0.37\nSilk\n167 (49.3)\n172 (50.7)\nRef.\nVicryl\n40 (44)\n51 (56)\n0.81 (0.51e1.29)\n"
+  },
+  {
+    "page": 4,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      32.824615478515625,
+      48.216365814208984,
+      432.8919372558594,
+      57.334476470947266
+    ],
+    "text": "P. De Nardo et al. / Journal of Hospital Infection 93 (2016) 355e359\n358\n"
+  },
+  {
+    "page": 5,
+    "block_no": 0,
+    "block_type": 0,
+    "bbox": [
+      42.51995849609375,
+      273.212158203125,
+      293.5917053222656,
+      380.8222351074219
+    ],
+    "text": "As per the surgical procedures, a midline vertical incision\nwas the procedure of choice by far, especially among less\nexperienced doctors. Interrupted sutures or combined contin-\nuous and interrupted sutures were adopted for skin closure in\nthe great majority of cases, showing a negative impact on the\nrisk of developing SSI in the univariate analysis. A review of the\nevidenced-based surgery for CS updated in 2013 reported\nconﬂicting data on the recommended choice of skin suture,\nwith uncertain superiority of subcuticular sutures over staples\nin terms of SSI or separation.12\n"
+  },
+  {
+    "page": 5,
+    "block_no": 1,
+    "block_type": 0,
+    "bbox": [
+      42.51995849609375,
+      382.799560546875,
+      293.6311340332031,
+      512.2928466796875
+    ],
+    "text": "In this study, a high rate of lost at follow-up was reported.\nHowever, similar rates of lost at follow-up are often reported in\nstudies\nconducted\nin\nAfrica,\nespecially\nin\nrural\nareas.\nFurthermore, since the DRRH is the only referral healthcare\nfacility in Dodoma Region, many women are referred from\nremote areas and usually go back to their villages as soon as\nthey are discharged from the post-operation ward.\nThe present study investigated the burden of SSI and resis-\ntance to antibiotics in a resource-limited setting, thus contrib-\nuting to the knowledge of this global health concern. Led by this\nexperience, co-ordinated interventions of infection prevention\nand antimicrobial stewardship are continuing at the DRRH.\n"
+  },
+  {
+    "page": 5,
+    "block_no": 2,
+    "block_type": 0,
+    "bbox": [
+      42.51969909667969,
+      524.647216796875,
+      141.23289489746094,
+      535.6062622070312
+    ],
+    "text": "Acknowledgements\n"
+  },
+  {
+    "page": 5,
+    "block_no": 3,
+    "block_type": 0,
+    "bbox": [
+      42.51995849609375,
+      548.1727294921875,
+      293.5585021972656,
+      579.0786743164062
+    ],
+    "text": "We thank all the staff working at the Gynaecology and\nObstetrical Department of the Dodoma Regional Referral Hos-\npital and Post-Natal Care of the Makole Health Center.\n"
+  },
+  {
+    "page": 5,
+    "block_no": 4,
+    "block_type": 0,
+    "bbox": [
+      54.48189926147461,
+      591.4649658203125,
+      180.0137176513672,
+      611.44970703125
+    ],
+    "text": "Conﬂict of interest statement\nNone declared.\n"
+  },
+  {
+    "page": 5,
+    "block_no": 5,
+    "block_type": 0,
+    "bbox": [
+      54.48188781738281,
+      623.8933715820312,
+      293.5916442871094,
+      676.7037353515625
+    ],
+    "text": "Funding sources\nThis\nsurvey\nwas\nsupported\nby\ngrants\nfrom\nthe\nItalian Development Cooperation e Ministry of Foreign Af-\nfairs AID9562 and ‘Ricerca Corrente’ of the Italian Ministry\nof Health.\n"
+  },
+  {
+    "page": 5,
+    "block_no": 6,
+    "block_type": 0,
+    "bbox": [
+      42.51969909667969,
+      689.056640625,
+      99.87910461425781,
+      700.0156860351562
+    ],
+    "text": "References\n"
+  },
+  {
+    "page": 5,
+    "block_no": 7,
+    "block_type": 0,
+    "bbox": [
+      45.921199798583984,
+      711.6046752929688,
+      293.6270446777344,
+      739.4740600585938
+    ],
+    "text": "1. Ye J, Betra´n AP, Guerrero Vela M, Souza JP, Zhang J. Searching for\nthe optimal rate of medically necessary cesarean delivery. Birth\n2014;41:237e244.\n"
+  },
+  {
+    "page": 5,
+    "block_no": 8,
+    "block_type": 0,
+    "bbox": [
+      311.52764892578125,
+      273.31060791015625,
+      562.6452026367188,
+      729.609130859375
+    ],
+    "text": "2. Ward VP, Charlett A, Fagan J, Crawshaw SC. Enhanced surgical site\ninfection surveillance following caesarean section: experience of a\nmulticentre collaborative post-discharge system. J Hosp Infect\n2008;70:166e173.\n3. Vincent A, Ayzac L, Girard R, et al. Downward trends in surgical\nsite and urinary tract infections after cesarean delivery in a French\nsurveillance network, 1997e2003. Infect Control Hosp Epidemiol\n2008;29:227e233.\n4. Wilson J, Wloch C, Saei A, et al. Inter-hospital comparison of rates\nof surgical site infection following caesarean section delivery:\nevaluation of a multicentre surveillance study. J Hosp Infect\n2013;84:44e51.\n5. Horan TC, Gaynes RP, Martone WJ, Jarvis WR. Grace Emori T. CDC\ndeﬁnitions of nosocomial surgical site infections, 1992: a modiﬁ-\ncation of CDC deﬁnitions of surgical wound infections. Am J Infect\nControl 1992;20:271e274.\n6. European Committee on Antimicrobial Susceptibility Testing.\nBreakpoint tables for interpretation of MICs and zone diameters.\nVersion 5.0, 2015. Available at: http://www.eucast.org [last\naccessed January 2016].\n7. Mpogoro FJ, Mshana SM, Mirambo MM, Kidenya BR, Gumodoka B,\nImirzalioglu C. Incidence and predictors of surgical site infections\nfollowing caesarean sections at Bugando Medical Centre, Mwanza,\nTanzania. Antimicrob Resist Infect Control 2014;3:25.\n8. Leopold SJ, van Leth F, Tarekegn H, Schultsz C. Antimicrobial drug\nresistance among clinically relevant bacterial isolates in sub-\nSaharan Africa: a systematic review. J Antimicrob Chemother\n2014;69:2337e2353.\n9. Mackeen AD, Packard RE, Ota E, Berghella V, Baxter JK. Timing of\nintravenous prophylactic antibiotics for preventing postpartum\ninfectious morbidity in women undergoing cesarean delivery.\nCochrane Database Syst Rev 2014;(12):CD009516.\n10. American College of Obstetricians and Gynecologists. Commit-\ntee Opinion No. 465: Antimicrobial prophylaxis for cesarean\ndelivery:\ntiming\nof\nadministration.\nObstet\nGynecol\n2010;\n116:791e792.\n11. Lyimo FM, Massinde AN, Kidenya BR, Konje ET, Mshana SE. Single\ndose of gentamicin in combination with metronidazole versus\nmultiple doses for prevention of post-caesarean infection at\nBugando Medical Centre in Mwanza, Tanzania: a randomized,\nequivalence,\ncontrolled\ntrial.\nBMC\nPregn\nChildbirth\n2013;\n13:123.\n12. Dahlke JD, Mendez-Figueroa H, Rouse DJ, Berghella V, Baxter JK,\nChauhan SP. Evidence-based surgery for cesarean delivery: an\nupdated\nsystematic\nreview.\nAm\nJ\nObstet\nGynecol\n2013;209:294e306.\n"
+  },
+  {
+    "page": 5,
+    "block_no": 9,
+    "block_type": 0,
+    "bbox": [
+      42.51969909667969,
+      67.03247833251953,
+      122.60078430175781,
+      75.6878890991211
+    ],
+    "text": "Table II (continued)\n"
+  },
+  {
+    "page": 5,
+    "block_no": 10,
+    "block_type": 0,
+    "bbox": [
+      48.4724006652832,
+      83.94745635986328,
+      554.4175415039062,
+      92.07540130615234
+    ],
+    "text": "Characteristics\nSurgical site infection (SSI)\nUnivariate OR (95% CI)\nP-value\n"
+  },
+  {
+    "page": 5,
+    "block_no": 11,
+    "block_type": 0,
+    "bbox": [
+      205.908203125,
+      99.48139190673828,
+      343.8819274902344,
+      107.60933685302734
+    ],
+    "text": "Yes, no. (%)\nNo, no. (%)\n"
+  },
+  {
+    "page": 5,
+    "block_no": 12,
+    "block_type": 0,
+    "bbox": [
+      48.4724006652832,
+      111.15587615966797,
+      556.6031494140625,
+      121.55245208740234
+    ],
+    "text": "Suture type\n<0.001a\n"
+  },
+  {
+    "page": 5,
+    "block_no": 13,
+    "block_type": 0,
+    "bbox": [
+      48.471649169921875,
+      123.91519165039062,
+      548.4974975585938,
+      220.1985626220703
+    ],
+    "text": "Interrupted\n190 (59)\n137 (41)\nRef.\nContinuous intradermic\n20 (26.3)\n56 (73.7)\n0.26 (0.15e0.45)\nInterrupted þ continuous\n11 (55)\n9 (45)\n0.88 (0.36e2.18)\nStitches\n0.18\nRemoved\n119 (56.4)\n92 (43.6)\nRef.\nNot removed\n78 (64)\n44 (36)\n1.37 (0.87e2.17)\nChild alive\n0.06\nYes\n215 (47.5)\n238 (52.5)\nRef.\nNo\n7 (77.8)\n2 (22.2)\n0.26 (0.05e1.26)\n"
+  },
+  {
+    "page": 5,
+    "block_no": 14,
+    "block_type": 0,
+    "bbox": [
+      42.51969909667969,
+      226.53004455566406,
+      562.58056640625,
+      264.5351867675781
+    ],
+    "text": "OR, odds ratio; CI, conﬁdence interval; PIH, pregnancy-induced hypertension; HIV, human immunodeﬁciency virus; PROM, premature rupture\nof membranes; CS, caesarean section.\na Equivalent to primary education.\nb Equivalent to secondary education.\n"
+  },
+  {
+    "page": 5,
+    "block_no": 15,
+    "block_type": 0,
+    "bbox": [
+      162.48179626464844,
+      48.216365814208984,
+      562.5491333007812,
+      57.334476470947266
+    ],
+    "text": "P. De Nardo et al. / Journal of Hospital Infection 93 (2016) 355e359\n359\n"
+  }
+]
