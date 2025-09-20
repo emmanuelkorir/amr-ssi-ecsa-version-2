@@ -1,0 +1,28 @@
+# Variables to ensure subgroup-ready extraction
+core_subgroups:
+  - country
+  - facility_level
+  - care_setting
+  - surgical_specialty
+  - year_midpoint
+  - data_collection_period
+  - denominator_type
+  - specimen_type
+  - pathogen
+  - antibiotic
+  - who_antibiotic_importance
+  - age_group
+  - elective_emergency
+  - wound_class
+  - stewardship_program_present
+  - infection_control_program_present
+  - ssi_definition_standard
+  - ast_method
+  - breakpoint_standard
+  - breakpoint_version
+  - unit_of_analysis
+  - sample_frame
+  - follow_up_window_days
+notes:
+  - Capture each subgroup as its own analyzable record with a link (arm_id).
+  - Prefer raw counts over rates; record both when available.
