@@ -22,7 +22,7 @@ This chunk checks for the presence of required packages and installs any that ar
 # List of required packages
 required_packages <- c(
   "yaml", "dplyr", "stringr", "stringdist", "lubridate", "purrr", 
-  "readr", "tidyr", "igraph", "meta", "metafor", "ggplot2", "knitr"
+  "readr", "tidyr", "tibble", "igraph", "meta", "metafor", "ggplot2", "knitr", "broom"
 )
 
 # Identify missing packages
@@ -61,7 +61,7 @@ normalize_text_scalar <- function(text) {
     str_replace_all("[^a-z0-9\\s]", "") %>%
     str_squish()
 }
-normalize_text <- Vectorize(normalize_text_scalar)
+normalize_text <- Vectorize(normalize_text_scalar, "text")
 
 # --- Author List Processing (Vectorized) ---
 normalize_authors_scalar <- function(author_string) {
