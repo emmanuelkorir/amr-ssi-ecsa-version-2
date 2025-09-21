@@ -1,0 +1,62 @@
+---
+title: "Reproducible Analysis Pipeline"
+author: "Pipeline Agent"
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    theme: united
+---
+
+# AMR-SSI Systematic Review: Full Analysis Pipeline
+
+### Objective
+This master R Markdown document serves as the central orchestrator for the entire analysis workflow. By knitting this single file, you will execute all data processing, deduplication, and analysis steps in the correct sequence.
+
+The pipeline is designed for one-click reproducibility and is robust to missing or empty input files.
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE, error = FALSE)
+# Clear the environment to ensure a clean run
+rm(list = ls())
+```
+
+## Phase 1: Setup and Environment Initialization
+This step loads all required packages, defines core helper functions, and ingests all data from the `outputs/processed` directory. It is designed to be fully resilient, creating empty placeholder data structures if input files are missing.
+
+```{r child_setup, child = '00_setup.Rmd'}
+```
+
+## Phase 2: Deduplication and Audit Trail Generation
+This is the gatekeeper step. It runs a sophisticated deduplication algorithm to identify and resolve duplicate publications. It produces a full, auditable log of all decisions in the `analysis/results_r/dedup/` directory and creates a clean, deduplicated set of data for analysis.
+
+```{r child_deduplicate, child = '01_deduplicate.Rmd'}
+```
+
+## Phase 3: Quantitative Synthesis - Proportional Outcomes
+This notebook performs all meta-analyses for proportional data, including:
+- SSI Incidence (with meta-regression for temporal trends)
+- Mortality
+- AMR Proportions (grouped by pathogen-antibiotic pair)
+
+Results and plots (forest, funnel) are saved to the `analysis/results_r/` directory.
+
+```{r child_meta_proportions, child = '02_meta_proportions.Rmd'}
+```
+
+## Phase 4: Quantitative Synthesis - Risk Factors
+This step pools the effect sizes (OR, RR, HR) for identified risk factors. A summary table of the pooled estimates is generated.
+
+```{r child_meta_risk_factors, child = '03_meta_risk_factors.Rmd'}
+```
+
+## Phase 5: Qualitative Synthesis
+This final analysis step summarizes the qualitative thematic data, producing frequency counts and a bar chart to visualize the thematic landscape.
+
+```{r child_qualitative, child = '04_qualitative_thematic.Rmd'}
+```
+
+---
+### Pipeline Execution Complete
+All analysis steps have been executed. All results, logs, and plots have been saved to the `analysis/results_r/` directory.

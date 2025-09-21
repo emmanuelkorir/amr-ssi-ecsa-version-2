@@ -1,0 +1,262 @@
+---
+title: "01_deduplicate"
+author: "Pipeline Agent"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+### Objective
+This notebook serves as the gatekeeper for the analysis pipeline. It systematically identifies and resolves duplicate publications from the raw data, ensuring that each unique study is represented only once in all downstream analyses. The entire process is designed for full auditability, generating a series of log files that provide a transparent record of every decision made.
+
+**Robustness Note**: This script is designed to run successfully even if there are no input files. In that scenario, it will produce empty log files and empty deduplicated datasets.
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
+# This script assumes 00_setup.Rmd has been run and its objects are available.
+# If running standalone, source it first.
+if (!exists("config")) {
+  source("00_setup.Rmd")
+}
+```
+
+### 1. Prepare Master Publication Registry
+First, we create a comprehensive registry of all unique publications found across the datasets. This registry forms the basis for the deduplication process. We assign a unique internal ID (`registry_id`) to each row for stable referencing.
+
+```{r create_registry}
+# Combine metadata from all relevant datasets to build a master list
+# We prioritize the dedicated study_metadata file
+study_ids_from_all_data <- unlist(lapply(raw_data, function(df) if("study_id" %in% names(df)) df$study_id else NULL)) %>%
+  unique() %>%
+  na.omit()
+
+# Create a base tibble of all unique study_ids
+master_registry <- tibble(study_id = study_ids_from_all_data)
+
+# Join with the main metadata file
+if (nrow(raw_data$study_metadata) > 0) {
+  master_registry <- master_registry %>%
+    left_join(raw_data$study_metadata, by = "study_id")
+} else {
+  # If metadata file is empty, create placeholder columns
+  master_registry <- master_registry %>%
+    mutate(doi = NA_character_, pmid = NA_character_, title = NA_character_, 
+           authors = NA_character_, publication_year = NA_character_, journal = NA_character_)
+}
+
+# Add a stable internal ID and normalize key fields for matching
+master_registry <- master_registry %>%
+  mutate(
+    registry_id = row_number(),
+    norm_title = sapply(title, normalize_text),
+    norm_authors = lapply(authors, normalize_authors),
+    pub_year = parse_year(publication_year)
+  ) %>%
+  select(registry_id, study_id, doi, pmid, title, authors, pub_year, norm_title, norm_authors, everything())
+
+# Handle case where master_registry is empty
+if (nrow(master_registry) == 0) {
+  message("Master registry is empty. No data to deduplicate.")
+  # Create empty tibbles for all outputs to ensure downstream files can be created
+  deduplicated_data <- setNames(lapply(raw_data, function(df) df[0,]), names(raw_data))
+  deduplication_map <- tibble(registry_id = integer(0), study_id = character(0), cluster_id = integer(0), status = character(0), primary_study_id = character(0))
+}
+
+# Save the initial registry for audit purposes
+if(nrow(master_registry) > 0) {
+    write_csv(master_registry, file.path(config$paths$dedup_dir, "01_master_registry.csv"))
+    message("Saved master publication registry.")
+} else {
+    write_csv(tibble(), file.path(config$paths$dedup_dir, "01_master_registry.csv"))
+    message("Saved empty master publication registry.")
+}
+
+```
+
+### 2. Identify Candidate Duplicate Pairs
+We use a two-pronged approach to find potential duplicates.
+
+#### 2.1. Exact Matching
+We identify pairs that share the same DOI or PMID. These are considered definite duplicates.
+
+```{r exact_matching}
+if (nrow(master_registry) > 0) {
+  # Find pairs with the same DOI (and the DOI is not NA)
+  doi_pairs <- master_registry %>%
+    filter(!is.na(doi)) %>%
+    group_by(doi) %>%
+    filter(n() > 1) %>%
+    summarise(pairs = list(t(combn(registry_id, 2))), .groups = 'drop') %>%
+    unnest_wider(pairs, names_sep = "_") %>%
+    select(id1 = pairs_1, id2 = pairs_2) %>%
+    mutate(match_type = "exact_doi")
+
+  # Find pairs with the same PMID (and the PMID is not NA)
+  pmid_pairs <- master_registry %>%
+    filter(!is.na(pmid)) %>%
+    group_by(pmid) %>%
+    filter(n() > 1) %>%
+    summarise(pairs = list(t(combn(registry_id, 2))), .groups = 'drop') %>%
+    unnest_wider(pairs, names_sep = "_") %>%
+    select(id1 = pairs_1, id2 = pairs_2) %>%
+    mutate(match_type = "exact_pmid")
+
+  exact_pairs <- bind_rows(doi_pairs, pmid_pairs) %>%
+    distinct()
+} else {
+  exact_pairs <- tibble(id1 = integer(0), id2 = integer(0), match_type = character(0))
+}
+```
+
+#### 2.2. Fuzzy Matching
+We create a grid of all possible pairs and score them based on title, author, and year similarity.
+
+```{r fuzzy_matching}
+if (nrow(master_registry) > 1) {
+  # Create all possible pairs of registry IDs
+  all_possible_pairs <- t(combn(master_registry$registry_id, 2)) %>%
+    as_tibble(.name_repair = ~ c("id1", "id2"))
+
+  # Join with the registry to get the data for each pair
+  pairs_to_score <- all_possible_pairs %>%
+    left_join(master_registry, by = c("id1" = "registry_id")) %>%
+    left_join(master_registry, by = c("id2" = "registry_id"), suffix = c("_1", "_2"))
+
+  # Calculate similarity scores
+  scored_pairs <- pairs_to_score %>%
+    mutate(
+      title_dist = mapply(calculate_levenshtein, norm_title_1, norm_title_2),
+      author_jaccard = mapply(calculate_jaccard, norm_authors_1, norm_authors_2),
+      year_diff = abs(pub_year_1 - pub_year_2)
+    )
+
+  # Filter for pairs that meet the fuzzy matching criteria from the config
+  fuzzy_pairs <- scored_pairs %>%
+    filter(
+      title_dist <= config$deduplication$title_levenshtein_dist,
+      author_jaccard >= config$deduplication$author_jaccard_min,
+      year_diff <= config$deduplication$year_diff_max
+    ) %>%
+    select(id1, id2) %>%
+    mutate(match_type = "fuzzy")
+} else {
+  scored_pairs <- tibble() # For audit log
+  fuzzy_pairs <- tibble(id1 = integer(0), id2 = integer(0), match_type = character(0))
+}
+
+# Combine all candidate pairs
+candidate_pairs <- bind_rows(exact_pairs, fuzzy_pairs) %>%
+  distinct(id1, id2, .keep_all = TRUE)
+
+# Save the scored pairs and candidate pairs for audit
+if(exists("scored_pairs") && nrow(scored_pairs) > 0) {
+    write_csv(scored_pairs %>% select(id1, id2, title_dist, author_jaccard, year_diff), file.path(config$paths$dedup_dir, "02a_all_scored_pairs.csv"))
+} else {
+    write_csv(tibble(), file.path(config$paths$dedup_dir, "02a_all_scored_pairs.csv"))
+}
+write_csv(candidate_pairs, file.path(config$paths$dedup_dir, "02b_candidate_pairs.csv"))
+message("Identified and saved candidate duplicate pairs.")
+```
+
+### 3. Resolve Duplicate Clusters
+Using the `igraph` package, we treat the pairs as edges in a graph to find connected components, which represent clusters of duplicates.
+
+```{r resolve_clusters}
+if (nrow(candidate_pairs) > 0) {
+  # Create a graph from the pairs
+  g <- graph_from_data_frame(candidate_pairs[, c("id1", "id2")], directed = FALSE)
+
+  # Decompose the graph into clusters
+  clusters <- decompose(g)
+
+  # Assign a cluster_id to each record
+  cluster_map <- tibble(
+    registry_id = as.integer(names(V(g))),
+    cluster_id = components(g)$membership
+  )
+
+  # Create a summary of the clusters
+  duplicate_clusters <- master_registry %>%
+    left_join(cluster_map, by = "registry_id") %>%
+    # Records not in any pair get their own cluster_id
+    mutate(cluster_id = ifelse(is.na(cluster_id), registry_id + max(cluster_map$cluster_id, na.rm = TRUE), cluster_id)) %>%
+    arrange(cluster_id, registry_id)
+} else {
+  # If no pairs, every record is its own cluster
+  duplicate_clusters <- master_registry %>%
+    mutate(cluster_id = registry_id)
+}
+
+write_csv(duplicate_clusters, file.path(config$paths$dedup_dir, "03_duplicate_clusters.csv"))
+message("Resolved and saved duplicate clusters.")
+```
+
+### 4. Select Primary Record per Cluster
+For each cluster, we select one "primary" record based on the strict hierarchy defined in `config.yml`. All other records in the cluster will be marked for removal.
+
+```{r select_primary}
+if (nrow(duplicate_clusters) > 0) {
+  # Add fields needed for the selection hierarchy
+  selection_data <- duplicate_clusters %>%
+    mutate(
+      has_doi = !is.na(doi),
+      has_pmid = !is.na(pmid),
+      # Count non-NA values in key fields
+      completeness_score = rowSums(!is.na(select(., study_id, title, authors, pub_year, journal)))
+    )
+
+  # Apply the selection hierarchy
+  primary_records <- selection_data %>%
+    group_by(cluster_id) %>%
+    arrange(
+      # The hierarchy is applied in reverse order of preference due to how arrange works
+      desc(has_doi),
+      desc(has_pmid),
+      desc(completeness_score),
+      desc(pub_year),
+      registry_id # Tie-breaker: take the first one encountered
+    ) %>%
+    slice(1) %>%
+    ungroup()
+
+  # Create the final deduplication map
+  deduplication_map <- duplicate_clusters %>%
+    mutate(
+      status = ifelse(registry_id %in% primary_records$registry_id, "primary", "duplicate"),
+      primary_study_id = primary_records$study_id[match(cluster_id, primary_records$cluster_id)]
+    )
+} else {
+  deduplication_map <- tibble(registry_id = integer(0), study_id = character(0), cluster_id = integer(0), status = character(0), primary_study_id = character(0))
+}
+
+write_csv(deduplication_map, file.path(config$paths$dedup_dir, "04_deduplication_map.csv"))
+message("Selected primary records and saved the final deduplication map.")
+```
+
+### 5. Apply Deduplication to All Datasets
+Finally, we use the `deduplication_map` to filter all input datasets, keeping only the rows that correspond to a primary record.
+
+```{r apply_deduplication}
+if (nrow(deduplication_map) > 0) {
+  # Get the list of study_ids to keep
+  ids_to_keep <- deduplication_map %>%
+    filter(status == "primary") %>%
+    pull(study_id)
+
+  # Filter each dataset in the raw_data list
+  deduplicated_data <- lapply(raw_data, function(df) {
+    if ("study_id" %in% names(df)) {
+      df %>% filter(study_id %in% ids_to_keep)
+    } else {
+      df # Return dataframes without study_id as is
+    }
+  })
+} else {
+  # If no data, the deduplicated data is the same as the raw (empty) data
+  deduplicated_data <- raw_data
+}
+
+message("Deduplication applied to all datasets. The 'deduplicated_data' list is now available.")
+```
+
+### Deduplication Complete
+The process is finished. The `deduplicated_data` list contains clean datasets ready for analysis. The `analysis/results_r/dedup/` directory contains a full audit trail.

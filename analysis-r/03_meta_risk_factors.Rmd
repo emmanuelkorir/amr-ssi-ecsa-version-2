@@ -1,0 +1,124 @@
+---
+title: "03_meta_risk_factors"
+author: "Pipeline Agent"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+### Objective
+This notebook performs a meta-analysis of risk factor effect estimates (e.g., Odds Ratios, Risk Ratios, Hazard Ratios). It uses the deduplicated risk factor dataset, filters for complete data, and pools the log-transformed effect sizes for each risk factor that has a sufficient number of studies.
+
+**Robustness Note**: This script is designed to handle empty or incomplete datasets. The analysis is only performed for risk factors with `k >= min_studies` available. All data exclusions are logged.
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
+# Assumes previous notebooks have been run.
+if (!exists("deduplicated_data")) {
+  source("00_setup.Rmd")
+  source("01_deduplicate.Rmd")
+}
+```
+
+### 1. Data Preparation
+Filter the risk factor data for complete cases and identify which risk factors have enough studies to be meta-analyzed.
+
+```{r prep_risk_factors}
+rf_data <- deduplicated_data$risk_factors
+meta_params <- config$meta_analysis$risk_factors
+
+# Identify and log incomplete cases
+# We need effect_size, ci_lower, and ci_upper to proceed.
+incomplete_rf <- rf_data %>%
+  filter(is.na(effect_size) | is.na(ci_lower) | is.na(ci_upper) | is.na(risk_factor))
+if (nrow(incomplete_rf) > 0) {
+  log_missing_data(incomplete_rf, "Missing effect size, CI, or risk factor name", "Risk Factor Meta-Analysis")
+}
+
+# Prepare data for meta-analysis using metafor
+# The rma function requires the log effect size and its standard error.
+rf_for_meta <- rf_data %>%
+  filter(!is.na(effect_size) & !is.na(ci_lower) & !is.na(ci_upper) & !is.na(risk_factor)) %>%
+  # Ensure effect sizes and CIs are positive before log transformation
+  filter(effect_size > 0 & ci_lower > 0 & ci_upper > 0) %>%
+  mutate(
+    # Calculate log effect size and standard error from the confidence interval
+    log_es = log(effect_size),
+    se_log_es = (log(ci_upper) - log(ci_lower)) / (2 * 1.96)
+  )
+
+# Identify risk factors with enough studies for meta-analysis
+rf_groups <- rf_for_meta %>%
+  group_by(risk_factor) %>%
+  filter(n() >= meta_params$min_studies) %>%
+  ungroup()
+
+message(sprintf("Found %d risk factors with enough studies for meta-analysis.", n_distinct(rf_groups$risk_factor)))
+```
+
+### 2. Perform Grouped Meta-Analysis
+For each qualifying risk factor, run a random-effects model using `metafor::rma`.
+
+```{r meta_risk_factors}
+if (nrow(rf_groups) > 0) {
+  
+  # Function to run meta-analysis on a subset of data
+  run_rf_meta <- function(data_subset) {
+    tryCatch({
+      rma(
+        yi = log_es,
+        sei = se_log_es,
+        data = data_subset,
+        method = meta_params$method,
+        measure = meta_params$measure
+      )
+    }, error = function(e) {
+      message("Could not run meta-analysis for ", data_subset$risk_factor[1], ". Error: ", e$message)
+      return(NULL)
+    })
+  }
+  
+  # Run meta-analysis for each risk factor group
+  rf_results_list <- rf_groups %>%
+    split(.$risk_factor) %>%
+    map(~ run_rf_meta(.)) %>%
+    # Remove any NULLs from failed analyses
+    compact()
+
+  # Summarize results into a single table
+  if (length(rf_results_list) > 0) {
+    rf_summary <- rf_results_list %>%
+      map_dfr(~ tibble(
+        k = .$k,
+        # Back-transform the log effect size and CIs
+        pooled_effect_size = exp(.$beta),
+        ci_lower = exp(.$ci.lb),
+        ci_upper = exp(.$ci.ub),
+        i2 = .$I2,
+        tau2 = .$tau2,
+        p_value = .$pval
+      ), .id = "risk_factor")
+    
+    write_csv(rf_summary, file.path(config$paths$output_dir, "pooled_risk_factors.csv"))
+    
+    # Optional: Generate forest plots for each risk factor
+    # for (rf_name in names(rf_results_list)) {
+    #   safe_filename <- str_replace_all(rf_name, "[^a-zA-Z0-9_]", "_")
+    #   png(file.path(config$paths$plots_dir, paste0("forest_rf_", safe_filename, ".png")), width = 10, height = 8, units = "in", res = 300)
+    #   forest(rf_results_list[[rf_name]], atransf = exp, main = rf_name)
+    #   dev.off()
+    # }
+    
+    message("Risk factor meta-analysis complete. Results saved.")
+  } else {
+    message("All risk factor meta-analyses failed.")
+    rf_summary <- tibble()
+  }
+
+} else {
+  message("Skipping risk factor meta-analysis: no risk factors with sufficient studies.")
+  rf_summary <- tibble()
+}
+```
+
+### Risk Factor Meta-Analysis Complete
+The synthesis of risk factor data is finished. The summary table of pooled effect estimates is saved in the `analysis/results_r/` directory.
