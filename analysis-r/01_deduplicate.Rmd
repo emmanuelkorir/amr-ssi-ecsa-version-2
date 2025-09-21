@@ -1,0 +1,108 @@
+---
+title: "Deduplicate Publications and Write Logs"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    number_sections: true
+---
+
+# Load config and data
+```{r}
+cfg <- load_config()
+base <- cfg$data_dir
+resdir <- cfg$results_dir; dd <- cfg$dedup_dir
+ensure_dir(resdir); ensure_dir(dd); ensure_dir(cfg$plots_dir)
+
+# Load configured files that exist
+files <- cfg$files; dfs_named <- list()
+for (nm in names(files)) {
+  spec <- files[[nm]]; path <- file.path(base, spec$path)
+  if (file.exists(path)) { message(glue("Loading {nm} from {path}")); dfs_named[[nm]] <- map_and_read(base, spec) } else { message(glue("Skipping {nm}; not found at {path}")) }
+}
+```
+
+# Detect duplicates
+```{r}
+pubs <- build_publication_registry(cfg, dfs_named)
+pairs <- candidate_pairs(pubs, cfg)
+clusters <- cluster_duplicates(pairs)
+
+# Only clusters with >1
+dup_clusters <- clusters %>% count(cluster_id, name="n") %>% filter(n>1) %>% select(cluster_id)
+clusters2 <- clusters %>% semi_join(dup_clusters, by="cluster_id")
+
+# Decide primary per cluster, then map to per-record keep id
+kept_map <- decide_primary(pubs, clusters2)  # has columns: cluster_id, rec_id_keep
+if (nrow(kept_map) == 0) {
+  decision_map <- tibble(rec_id = pubs$rec_id, rec_id_keep = pubs$rec_id)
+} else {
+  decision_map <- clusters %>% left_join(kept_map, by = "cluster_id") %>% transmute(rec_id, rec_id_keep = coalesce(rec_id_keep, rec_id)) %>% distinct()
+}
+```
+
+# Write logs
+```{r}
+write_csv(pubs, file.path(dd, "publications_registry.csv"))
+write_csv(pairs, file.path(dd, "duplicate_pairs_scored.csv"))
+write_csv(clusters2, file.path(dd, "duplicate_clusters.csv"))
+write_csv(decision_map, file.path(dd, "duplicate_decisions_map.csv"))
+```
+
+# Apply deduplication to outcomes
+```{r}
+out <- list(); dropped_logs <- list(); identical_counters <- list()
+if ("ssi_incidence" %in% names(dfs_named)){
+  r <- apply_dedup_to_outcome(dfs_named$ssi_incidence, pubs, decision_map, id_cols=c("study_id","title","authors","year_publication","doi","pmid"))
+  out$ssi_incidence <- r$kept; dropped_logs$ssi_incidence <- r$dropped %>% mutate(outcome="ssi_incidence")
+  write_csv(r$kept, file.path(dd, "ssi_incidence_dedup.csv")); write_csv(r$dropped, file.path(dd, "ssi_incidence_dropped.csv"))
+  icmp <- compare_results_identical(r$augmented, "n_events","n_total", group_cols_min=c("surgical_specialty","denominator_type","ssi_type"))
+  identical_counters$ssi_incidence <- icmp; write_csv(icmp, file.path(dd, "ssi_incidence_identical_flags.csv"))
+}
+if ("amr_proportions" %in% names(dfs_named)){
+  r <- apply_dedup_to_outcome(dfs_named$amr_proportions, pubs, decision_map, id_cols=c("study_id","title","authors","year_publication","doi","pmid"))
+  out$amr_proportions <- r$kept; dropped_logs$amr_proportions <- r$dropped %>% mutate(outcome="amr_proportions")
+  write_csv(r$kept, file.path(dd, "amr_proportions_dedup.csv")); write_csv(r$dropped, file.path(dd, "amr_proportions_dropped.csv"))
+  icmp <- compare_results_identical(r$augmented, "n_resistant","n_tested", group_cols_min=c("pathogen","antibiotic","specimen_type"))
+  identical_counters$amr_proportions <- icmp; write_csv(icmp, file.path(dd, "amr_identical_flags.csv"))
+}
+if ("mortality" %in% names(dfs_named)){
+  r <- apply_dedup_to_outcome(dfs_named$mortality, pubs, decision_map, id_cols=c("study_id","title","authors","year_publication","doi","pmid"))
+  out$mortality <- r$kept; dropped_logs$mortality <- r$dropped %>% mutate(outcome="mortality")
+  write_csv(r$kept, file.path(dd, "mortality_dedup.csv")); write_csv(r$dropped, file.path(dd, "mortality_dropped.csv"))
+}
+if ("risk_factors_effects" %in% names(dfs_named)){
+  r <- apply_dedup_to_outcome(dfs_named$risk_factors_effects, pubs, decision_map, id_cols=c("study_id","title","authors","year_publication","doi","pmid"))
+  out$risk_factors_effects <- r$kept; dropped_logs$risk_factors_effects <- r$dropped %>% mutate(outcome="risk_factors_effects")
+  write_csv(r$kept, file.path(dd, "risk_factors_dedup.csv")); write_csv(r$dropped, file.path(dd, "risk_factors_dropped.csv"))
+}
+if ("length_of_stay" %in% names(dfs_named)){
+  r <- apply_dedup_to_outcome(dfs_named$length_of_stay, pubs, decision_map, id_cols=c("study_id","title","authors","year_publication","doi","pmid"))
+  out$length_of_stay <- r$kept; dropped_logs$length_of_stay <- r$dropped %>% mutate(outcome="length_of_stay")
+  write_csv(r$kept, file.path(dd, "los_dedup.csv")); write_csv(r$dropped, file.path(dd, "los_dropped.csv"))
+}
+# Qualitative pass-through
+if ("qualitative_thematic" %in% names(dfs_named)) out$qualitative_thematic <- dfs_named$qualitative_thematic
+
+# Summary logs
+all_dropped <- if (length(dropped_logs)) bind_rows(dropped_logs) else tibble()
+write_csv(all_dropped, file.path(dd, "all_dropped_rows.csv"))
+ident_all <- if (length(identical_counters)) bind_rows(identical_counters) else tibble()
+write_csv(ident_all, file.path(dd, "identical_result_flags_all.csv"))
+summary_lines <- c(
+  glue("Duplicate clusters detected: {n_distinct(clusters2$cluster_id)}"),
+  glue("Dropped rows total (across outcomes): {nrow(all_dropped)}"),
+  glue("Identical result flags (comparisons): {nrow(ident_all)}")
+)
+writeLines(summary_lines, con=file.path(dd, "summary.txt"))
+```
+
+# Summary preview
+```{r}
+list(
+  publications=nrow(pubs),
+  candidate_pairs=nrow(pairs),
+  duplicate_clusters=n_distinct(clusters2$cluster_id),
+  dropped_rows=nrow(all_dropped)
+)
+```

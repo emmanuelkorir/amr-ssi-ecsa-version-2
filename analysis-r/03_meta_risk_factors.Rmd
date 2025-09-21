@@ -1,0 +1,20 @@
+---
+title: "Pooling Risk Factor Effects (OR/RR/HR)"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    number_sections: true
+---
+
+# Load config and data (prefer deduplicated)
+```{r}
+cfg <- load_config(); base <- cfg$data_dir; resdir <- cfg$results_dir; ensure_dir(resdir)
+read_if <- function(path){ if (file.exists(path)) readr::read_csv(path, show_col_types=FALSE) else NULL }
+rf <- read_if(file.path(cfg$dedup_dir, "risk_factors_dedup.csv")) %||% (if (file.exists(file.path(base, cfg$files$risk_factors_effects$path))) map_and_read(base, cfg$files$risk_factors_effects) else NULL)
+```
+
+# Pool effects
+```{r}
+if (!is.null(rf)) pool_effects(rf, measure_set=c("OR","AOR","RR","HR"), tau2_method = cfg$options$tau2_method %||% "REML", alpha = cfg$options$alpha %||% 0.05, out_csv=file.path(resdir, "risk_factors_meta.csv"))
+```

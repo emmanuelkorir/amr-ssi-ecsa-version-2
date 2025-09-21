@@ -1,0 +1,145 @@
+# Configure where your processed CSVs live and their columns
+data_dir: "outputs/processed"
+
+results_dir: "analysis/results_r"
+dedup_dir: "analysis/results_r/dedup"
+plots_dir: "analysis/results_r/plots"
+
+# Options
+options:
+  min_denominator: 5
+  alpha: 0.05
+  # meta proportion summary measure: PLOGIT or PFT
+  prop_sm: "PLOGIT"
+  tau2_method: "REML"
+  continuity_correction: 0.5
+
+# Duplicate detection thresholds
+dedup:
+  title_lv_max: 5 # Levenshtein distance threshold for titles
+  year_diff_max: 1
+  authors_jaccard_min: 0.5
+  require_country_match: true
+
+# Files and column maps (edit to match your processed CSVs)
+files:
+  ssi_incidence:
+    path: "ssi_incidence.csv"
+    columns:
+      study_id: "study_id"
+      title: "title"
+      authors: "authors"
+      year_publication: "year_publication"
+      doi: "doi"
+      pmid: "pmid"
+      country: "country"
+      start_year: "data_period_start_year"
+      end_year: "data_period_end_year"
+      n_events: "n_ssi_events"
+      n_total: "n_total"
+      denominator_type: "denominator_type"
+      ssi_type: "ssi_type"
+      surgical_specialty: "surgical_specialty"
+      facility_level: "facility_level"
+  amr_proportions:
+    path: "amr_proportions.csv"
+    columns:
+      study_id: "study_id"
+      title: "title"
+      authors: "authors"
+      year_publication: "year_publication"
+      doi: "doi"
+      pmid: "pmid"
+      country: "country"
+      start_year: "data_period_start_year"
+      end_year: "data_period_end_year"
+      n_resistant: "n_resistant"
+      n_tested: "n_tested"
+      pathogen: "pathogen"
+      antibiotic: "antibiotic"
+      specimen_type: "specimen_type"
+      ast_method: "ast_method"
+      breakpoint_standard: "breakpoint_standard"
+      breakpoint_version: "breakpoint_version"
+      surgical_specialty: "surgical_specialty"
+  mortality:
+    path: "mortality.csv"
+    columns:
+      study_id: "study_id"
+      title: "title"
+      authors: "authors"
+      year_publication: "year_publication"
+      doi: "doi"
+      pmid: "pmid"
+      country: "country"
+      n_deaths: "n_deaths"
+      n_total: "n_total"
+      measure: "measure"
+  risk_factors_effects:
+    path: "risk_factors.csv"
+    columns:
+      study_id: "study_id"
+      title: "title"
+      authors: "authors"
+      year_publication: "year_publication"
+      doi: "doi"
+      pmid: "pmid"
+      country: "country"
+      exposure: "exposure"
+      outcome: "outcome"
+      effect_measure: "effect_measure"
+      effect_value: "effect_value"
+      ci_lower: "ci_lower"
+      ci_upper: "ci_upper"
+      adjusted: "adjusted"
+      covariates_adjusted_for: "covariates_adjusted_for"
+  length_of_stay:
+    path: "length_of_stay.csv"
+    columns:
+      study_id: "study_id"
+      title: "title"
+      authors: "authors"
+      year_publication: "year_publication"
+      doi: "doi"
+      pmid: "pmid"
+      country: "country"
+      group: "group"
+      mean_days: "mean_days"
+      sd_days: "sd_days"
+      median_days: "median_days"
+      iqr_days: "iqr_days"
+      n: "n"
+  qualitative_thematic:
+    path: "qualitative_codes.csv"
+    columns:
+      study_id: "study_id"
+      theme: "theme"
+      subtheme: "subtheme"
+      summary: "summary"
+      quote: "quote"
+      page: "page"
+      section: "section"
+      location_context: "location_context"
+      confidence: "confidence"
+
+meta_regression:
+  ssi_incidence:
+    covariates:
+      [
+        "surgical_specialty",
+        "facility_level",
+        "denominator_type",
+        "start_year",
+        "country",
+      ]
+  amr_proportions:
+    covariates:
+      [
+        "pathogen",
+        "antibiotic",
+        "specimen_type",
+        "breakpoint_standard",
+        "breakpoint_version",
+        "start_year",
+        "country",
+      ]

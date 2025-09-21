@@ -1,0 +1,217 @@
+---
+title: "Setup and Helpers"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    number_sections: false
+---
+
+```{r setup, message=FALSE, warning=FALSE}
+req_pkgs <- c(
+  "tidyverse","data.table","stringr","stringdist","lubridate","yaml",
+  "meta","metafor","glue","igraph","readr","broom","purrr","rlang"
+)
+install_if_missing <- function(pkgs=req_pkgs) {
+  to_install <- pkgs[!pkgs %in% installed.packages()[, "Package"]]
+  if (length(to_install)) install.packages(to_install, Ncpus = max(1, parallel::detectCores()-1))
+}
+install_if_missing()
+
+suppressPackageStartupMessages({
+  library(tidyverse); library(data.table); library(stringr); library(stringdist)
+  library(lubridate); library(yaml); library(meta); library(metafor); library(glue)
+  library(igraph); library(readr); library(broom); library(purrr); library(rlang)
+})
+
+`%||%` <- function(x, y) if (is.null(x)) y else x
+
+load_config <- function(path="config.yml") yaml::read_yaml(path)
+ensure_dir <- function(path) if (!dir.exists(path)) dir.create(path, recursive = TRUE)
+
+# Text helpers
+norm_text <- function(x) x %>% str_to_lower() %>% str_replace_all("[^a-z0-9 ]+", " ") %>% str_squish()
+first_author_last <- function(authors) {
+  if (is.na(authors) || !nzchar(authors)) return(NA_character_)
+  s <- str_split(authors, ";|,\\s?and\\s?|\\sand\\s|\\|")[[1]] %>% str_squish()
+  s <- s[s != ""]; if (!length(s)) return(NA_character_)
+  fa <- s[1]; last <- str_split(fa, ",")[[1]][1] %>% str_squish(); if (!nzchar(last)) last <- str_split(fa, "\\s+")[[1]][1]
+  norm_text(last)
+}
+author_last_set <- function(authors) {
+  if (is.na(authors) || !nzchar(authors)) return(character())
+  tokens <- str_split(authors, ";|,\\s?and\\s?|\\sand\\s|\\|")[[1]]; tokens <- tokens[str_squish(tokens) != ""]
+  lastnames <- map_chr(tokens, ~{ t <- .x; ln <- str_split(t, ",")[[1]][1] %>% str_squish(); if (!nzchar(ln)) ln <- str_split(t, "\\s+")[[1]][1]; norm_text(ln) })
+  unique(lastnames)
+}
+years_overlap <- function(s1, e1, s2, e2) { if (any(is.na(c(s1,e1,s2,e2)))) return(NA); !(e1 < s2 || e2 < s1) }
+jaccard <- function(a,b){ if(length(a)==0&&length(b)==0)1 else if(length(a)==0||length(b)==0)0 else {inter<-length(intersect(a,b)); uni<-length(union(a,b)); if(uni==0)0 else inter/uni} }
+
+# IO mapping
+map_and_read <- function(base, spec) {
+  path <- file.path(base, spec$path); if (!file.exists(path)) stop(glue("Missing file: {path}"))
+  df <- suppressWarnings(readr::read_csv(path, show_col_types = FALSE)); colmap <- spec$columns
+  ren <- colmap[names(colmap) %in% names(df)]; df <- df %>% rename(!!!setNames(names(ren), ren))
+  for (nm in names(colmap)) if (!nm %in% names(df)) df[[nm]] <- NA
+  df
+}
+
+# Dedup core
+build_publication_registry <- function(cfg, dfs_named) {
+  pub_cols <- c("study_id","title","authors","year_publication","doi","pmid","country","start_year","end_year")
+  # Ensure we always have a tibble with expected base columns, even if no input files were loaded
+  if (length(dfs_named) == 0) {
+    pubs <- tibble(
+      study_id = character(),
+      title = character(),
+      authors = character(),
+      year_publication = integer(),
+      doi = character(),
+      pmid = character(),
+      country = character(),
+      start_year = integer(),
+      end_year = integer(),
+      source_file = character()
+    )
+  } else {
+    pubs <- map_dfr(names(dfs_named), function(nm){
+      dfs_named[[nm]] %>% select(any_of(pub_cols)) %>% distinct() %>% mutate(source_file = nm)
+    }) %>% distinct()
+  }
+  pubs %>% mutate(
+    rec_id = row_number(),
+    doi_norm = if_else(is.na(doi) | doi == "", NA_character_, norm_text(doi)),
+    pmid_norm = if_else(is.na(pmid) | pmid == "", NA_character_, norm_text(as.character(pmid))),
+    title_norm = if_else(is.na(title) | title == "", NA_character_, norm_text(title)),
+    fa_last = map_chr(authors, first_author_last),
+    authors_set = map(authors, author_last_set),
+    country_norm = if_else(is.na(country) | country == "", NA_character_, norm_text(country)),
+    pubkey_fallback = paste0(coalesce(fa_last, "na"), "_", coalesce(as.character(year_publication), "na"), "_", str_sub(title_norm, 1, 60))
+  )
+}
+
+candidate_pairs <- function(pubs, cfg){
+  # If no publications, return a correctly-typed empty tibble
+  if (is.null(pubs) || nrow(pubs) == 0) {
+    return(tibble(
+      rec_id.x = integer(),
+      rec_id.y = integer(),
+      block = character(),
+      title_lv = numeric(),
+      authors_jacc = numeric(),
+      years_overlap = logical(),
+      match_type = character()
+    ))
+  }
+  d <- cfg$dedup
+  by_doi <- pubs %>% filter(!is.na(doi_norm)) %>% select(rec_id, doi_norm) %>% inner_join(.,., by="doi_norm", suffix=c(".x",".y")) %>% filter(rec_id.x<rec_id.y) %>% mutate(block="doi")
+  by_pmid <- pubs %>% filter(!is.na(pmid_norm)) %>% select(rec_id, pmid_norm) %>% inner_join(.,., by="pmid_norm", suffix=c(".x",".y")) %>% filter(rec_id.x<rec_id.y) %>% mutate(block="pmid")
+  base_block <- pubs %>% select(rec_id, fa_last, year_publication, country_norm, title_norm, authors_set, start_year, end_year) %>% mutate(year_publication=as.integer(year_publication))
+  by_fa_year <- base_block %>% filter(!is.na(fa_last),!is.na(year_publication)) %>% inner_join(.,., by=character(), suffix=c(".x",".y")) %>%
+    filter(rec_id.x<rec_id.y, fa_last.x==fa_last.y, abs(year_publication.x-year_publication.y)<=d$year_diff_max)
+  if (isTRUE(d$require_country_match)) by_fa_year <- by_fa_year %>% filter(country_norm.x==country_norm.y)
+  if (nrow(by_fa_year) == 0) {
+    sim <- tibble(
+      rec_id.x = integer(),
+      rec_id.y = integer(),
+      block = character(),
+      title_lv = numeric(),
+      authors_jacc = numeric(),
+      years_overlap = logical()
+    )
+  } else {
+    sim <- by_fa_year %>% mutate(
+      title_lv = stringdist(title_norm.x %||% "", title_norm.y %||% "", method="lv"),
+      authors_jacc = map2_dbl(authors_set.x, authors_set.y, jaccard),
+      years_overlap = as.logical(mapply(years_overlap, start_year.x, end_year.x, start_year.y, end_year.y)),
+      block = "fa_year"
+    )
+  }
+  pairs <- bind_rows(
+    by_doi %>% transmute(rec_id.x, rec_id.y, block, title_lv=0, authors_jacc=1, years_overlap=TRUE),
+    by_pmid %>% transmute(rec_id.x, rec_id.y, block, title_lv=0, authors_jacc=1, years_overlap=TRUE),
+    sim
+  ) %>% distinct() %>% mutate(
+    match_type = case_when(
+      block=="doi" ~ "doi_exact",
+      block=="pmid" ~ "pmid_exact",
+      block=="fa_year" & title_lv<=d$title_lv_max & authors_jacc>=d$authors_jaccard_min & (is.na(years_overlap)|years_overlap) ~ "title_author_strong",
+      block=="fa_year" & title_lv<=d$title_lv_max+2 & authors_jacc>=d$authors_jaccard_min-0.2 ~ "title_author_moderate",
+      TRUE ~ "weak"
+    )
+  ) %>% filter(match_type!="weak")
+  pairs
+}
+
+cluster_duplicates <- function(pairs){ if(!nrow(pairs)) return(tibble(cluster_id=integer(), rec_id=integer())); g<-igraph::graph_from_data_frame(pairs %>% select(rec_id.x,rec_id.y), directed=FALSE); c<-igraph::components(g); tibble(rec_id=as.integer(names(c$membership)), cluster_id=as.integer(c$membership)) }
+
+decide_primary <- function(pubs, clusters){ if(!nrow(clusters)) return(tibble(cluster_id=integer(), rec_id_keep=integer()));
+  df <- clusters %>% left_join(pubs, by="rec_id")
+  completeness <- function(row){ fields <- c("title","authors","year_publication","doi","pmid","country","start_year","end_year"); sum(!is.na(row[fields]) & row[fields] != "") }
+  scored <- df %>% rowwise() %>% mutate(
+    completeness = completeness(cur_data()),
+    timeframe_len = ifelse(!is.na(start_year)&!is.na(end_year), as.integer(end_year)-as.integer(start_year), NA_integer_),
+    has_id = as.integer(!is.na(doi) | !is.na(pmid))
+  ) %>% ungroup()
+  scored %>% group_by(cluster_id) %>% arrange(desc(has_id), desc(completeness), desc(timeframe_len), desc(year_publication), .by_group=TRUE) %>% slice_head(n=1) %>% ungroup() %>% select(cluster_id, rec_id_keep=rec_id)
+}
+
+apply_dedup_to_outcome <- function(df, pubs, decision_map, id_cols){
+  link <- pubs %>% transmute(rec_id, doi_norm, pmid_norm, fa_last, year_publication, title_norm)
+  df_aug <- df %>% mutate(
+    doi_norm = if_else(is.na(doi)|doi=="", NA_character_, norm_text(doi)),
+    pmid_norm = if_else(is.na(pmid)|pmid=="", NA_character_, norm_text(as.character(pmid))),
+    fa_last = map_chr(authors, first_author_last),
+    title_norm = if_else(is.na(title)|title=="", NA_character_, norm_text(title))
+  )
+  df_linked <- df_aug %>%
+    left_join(link %>% select(rec_id, doi_norm) %>% filter(!is.na(doi_norm)), by="doi_norm") %>% rename(rec_id_doi=rec_id) %>%
+    left_join(link %>% select(rec_id, pmid_norm) %>% filter(!is.na(pmid_norm)), by="pmid_norm") %>% rename(rec_id_pmid=rec_id) %>%
+    left_join(link %>% select(rec_id, fa_last, year_publication, title_norm), by=c("fa_last","year_publication","title_norm")) %>% rename(rec_id_fallback=rec_id) %>%
+    mutate(rec_id = coalesce(rec_id_doi, rec_id_pmid, rec_id_fallback)) %>%
+    left_join(decision_map, by="rec_id") %>% mutate(keep_row = is.na(rec_id) | rec_id == rec_id_keep)
+  kept <- df_linked %>% filter(keep_row) %>% select(-starts_with("rec_id_"), -doi_norm,-pmid_norm,-fa_last,-title_norm,-rec_id_keep,-keep_row)
+  dropped <- df_linked %>% filter(!keep_row) %>% select(any_of(c(id_cols,"rec_id","rec_id_keep")))
+  list(kept=kept, dropped=dropped, augmented=df_linked)
+}
+
+compare_results_identical <- function(aug_df, num_col, den_col, group_cols_min=c("study_id")){
+  cols <- c(group_cols_min, num_col, den_col, "rec_id","rec_id_keep"); cols <- cols[cols %in% names(aug_df)]
+  x <- aug_df %>% select(all_of(cols)) %>% filter(!is.na(rec_id), !is.na(rec_id_keep), rec_id != rec_id_keep); if(!nrow(x)) return(tibble())
+  grp <- setdiff(group_cols_min, c("study_id")); key_cols <- unique(c(grp, den_col)); key_cols <- key_cols[key_cols %in% names(x)]; if(!length(key_cols)) key_cols <- den_col
+  kept_rows <- aug_df %>% filter(!is.na(rec_id), rec_id == rec_id_keep) %>% select(all_of(c(key_cols, num_col, den_col, "rec_id")))
+  dropped_rows <- x %>% select(all_of(c(key_cols, num_col, den_col, "rec_id","rec_id_keep"))) %>% distinct()
+  cmp <- dropped_rows %>% left_join(kept_rows %>% rename(rec_id_ref=rec_id, !!num_col := !!sym(num_col), !!den_col := !!sym(den_col)), by=key_cols, relationship="many-to-many", suffix=c(".drop",".keep"))
+  needed <- c(paste0(num_col,".drop"), paste0(den_col,".drop"), paste0(num_col,".keep"), paste0(den_col,".keep")); if(!all(needed %in% names(cmp))) return(tibble())
+  cmp %>% mutate(identical = (!!sym(paste0(num_col,".drop")) == !!sym(paste0(num_col,".keep"))) & (!!sym(paste0(den_col,".drop")) == !!sym(paste0(den_col,".keep")))) %>% select(all_of(key_cols), rec_id, rec_id_keep, identical)
+}
+
+# Meta helpers
+safe_as_factor <- function(x){ if (is.null(x)) return(NULL); if (is.character(x) || is.logical(x) || is.numeric(x)) return(factor(x)); x }
+run_metaprop_wrapper <- function(df, event, total, studylab="study_id", byvar=NULL, cfg=NULL, title="Meta-analysis", out_prefix=NULL, plots_dir="analysis/results_r/plots"){
+  if (nrow(df) < 2) return(NULL); opt <- cfg$options; sm <- opt$prop_sm %||% "PLOGIT"; tau <- opt$tau2_method %||% "REML"; cc <- opt$continuity_correction %||% 0.5
+  df <- df %>% filter(.data[[total]] >= (opt$min_denominator %||% 5))
+  m <- meta::metaprop(event=df[[event]], n=df[[total]], studlab=df[[studylab]] %||% seq_len(nrow(df)), sm=sm, method.tau=tau, random=TRUE, fixed=FALSE, incr=cc, allincr=FALSE, addincr=FALSE, hakn=TRUE)
+  if (!is.null(byvar) && byvar %in% names(df)) m <- meta::update.meta(m, byvar = df[[byvar]])
+  if (!is.null(out_prefix)) { ensure_dir(plots_dir); try({ png(file.path(plots_dir, paste0(out_prefix, "_forest.png")), width=1400, height=max(800, 25*nrow(df))); forest(m, sortvar=df[[total]], backtransf=TRUE, main=title, xlab="Proportion"); dev.off() }, silent=TRUE); try({ png(file.path(plots_dir, paste0(out_prefix, "_funnel.png")), width=1000, height=800); funnel(m, backtransf=TRUE, xlab="Proportion"); dev.off() }, silent=TRUE) }
+  m
+}
+run_metareg_if_any <- function(m, data, covariates, out_csv){ if (is.null(m) || is.null(covariates) || !length(covariates)) return(invisible(NULL)); fml <- as.formula(paste("~", paste(covariates, collapse = " + "))); data2 <- data; for (cv in covariates) if (cv %in% names(data2)) data2[[cv]] <- safe_as_factor(data2[[cv]]); res <- try(meta::metareg(m, fml, data = data2), silent=TRUE); if (inherits(res, "try-error")) return(invisible(NULL)); readr::write_csv(broom::tidy(res), out_csv); invisible(res) }
+run_amr_by_pair <- function(df_amr, cfg){ resdir <- cfg$results_dir; plots_dir <- cfg$plots_dir; ensure_dir(resdir); ensure_dir(plots_dir); pairs <- df_amr %>% filter(!is.na(pathogen),!is.na(antibiotic),!is.na(n_resistant),!is.na(n_tested)) %>% group_by(pathogen,antibiotic) %>% group_split(); rows <- list(); for (g in pairs){ key <- glue("{unique(g$pathogen)}__{unique(g$antibiotic)}"); m <- run_metaprop_wrapper(g, "n_resistant","n_tested","study_id", NULL, cfg, glue("AMR: {unique(g$pathogen)} vs {unique(g$antibiotic)}"), paste0("amr_", str_replace_all(key, "[^A-Za-z0-9]+","_")), plots_dir); if (is.null(m)) next; pooled <- meta::summary.meta(m); rows[[length(rows)+1]] <- tibble(pathogen=unique(g$pathogen), antibiotic=unique(g$antibiotic), k=m$k, tau2=pooled$tau2, I2=pooled$I2$random, pooled=meta:::backtransf_prop(pooled$random$TE, sm=cfg$options$prop_sm %||% "PLOGIT"), ci_lower=meta:::backtransf_prop(pooled$random$lower, sm=cfg$options$prop_sm %||% "PLOGIT"), ci_upper=meta:::backtransf_prop(pooled$random$upper, sm=cfg$options$prop_sm %||% "PLOGIT")) } ; if (length(rows)) readr::write_csv(bind_rows(rows) %>% arrange(pathogen, antibiotic), file.path(resdir, "amr_meta_by_pair.csv")) }
+run_ssi_meta <- function(df_ssi, cfg){ resdir <- cfg$results_dir; plots_dir <- cfg$plots_dir; ensure_dir(resdir); ensure_dir(plots_dir); m <- run_metaprop_wrapper(df_ssi %>% filter(!is.na(n_events),!is.na(n_total)), "n_events","n_total","study_id", NULL, cfg, "SSI incidence (random-effects pooled proportion)", "ssi_overall", plots_dir); if (!is.null(m)){ pooled <- summary.meta(m); readr::write_csv(tibble(k=m$k, tau2=pooled$tau2, I2=pooled$I2$random, pooled=meta:::backtransf_prop(pooled$random$TE, sm=cfg$options$prop_sm %||% "PLOGIT"), ci_lower=meta:::backtransf_prop(pooled$random$lower, sm=cfg$options$prop_sm %||% "PLOGIT"), ci_upper=meta:::backtransf_prop(pooled$random$upper, sm=cfg$options$prop_sm %||% "PLOGIT")), file.path(resdir, "ssi_incidence_meta.csv")) }; if ("surgical_specialty" %in% names(df_ssi)) run_metaprop_wrapper(df_ssi, "n_events","n_total","study_id", "surgical_specialty", cfg, "SSI incidence by surgical specialty", "ssi_by_specialty", plots_dir) }
+run_mortality_meta <- function(df_mort, cfg){ if (!all(c("n_deaths","n_total") %in% names(df_mort))) return(invisible(NULL)); run_metaprop_wrapper(df_mort %>% filter(!is.na(n_deaths),!is.na(n_total)), "n_deaths","n_total","study_id", NULL, cfg, "Mortality (pooled proportion)", "mortality_overall", cfg$plots_dir) }
+
+# Risk factor pooling
+pool_effects <- function(df, measure_set=c("OR","AOR","RR","HR"), tau2_method="REML", alpha=0.05, out_csv=NULL){
+  df <- df %>% filter(toupper(effect_measure) %in% measure_set) %>% mutate(effect_measure=toupper(effect_measure), yi=log(as.numeric(effect_value)), sei=(log(as.numeric(ci_upper))-log(as.numeric(ci_lower)))/(2*1.96), vi=sei^2) %>% filter(is.finite(yi), is.finite(vi))
+  if (nrow(df) < 2) return(invisible(NULL))
+  res <- df %>% group_by(exposure, outcome, effect_measure) %>% group_modify(function(d, key){ if (nrow(d) < 2) return(tibble()); fit <- try(metafor::rma(yi=d$yi, vi=d$vi, method=tau2_method), silent=TRUE); if (inherits(fit, "try-error")) return(tibble()); tibble(k=fit$k, tau2=fit$tau2, I2=fit$I2, pooled=exp(fit$b[,1]), ci_lower=exp(fit$ci.lb), ci_upper=exp(fit$ci.ub)) }) %>% ungroup()
+  if (!is.null(out_csv) && nrow(res)) readr::write_csv(res, out_csv)
+  res
+}
+
+# Qualitative helpers
+VALID_THEMES <- c("burden_incidence","amr_prevalence","drivers_amr","outcomes_clinical","economic_impact","prevention_control","treatment_prophylaxis","microbiology_diagnostics","policy_capacity","interventions_innovations","quality_of_life","evidence_gaps")
+validate_themes <- function(df) df %>% mutate(theme_flag = if_else(!theme %in% VALID_THEMES, "unexpected_category", NA_character_))
+summarize_themes <- function(df) list(by_theme = df %>% count(theme, name="n") %>% arrange(desc(n)), by_theme_subtheme = df %>% count(theme, subtheme, name="n") %>% arrange(theme, desc(n)))
+```

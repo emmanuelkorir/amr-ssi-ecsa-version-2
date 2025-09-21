@@ -1,0 +1,33 @@
+---
+title: "Meta-analyses of Proportions (SSI, AMR, Mortality)"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    number_sections: true
+---
+
+# Load config and data (prefer deduplicated)
+```{r}
+cfg <- load_config(); base <- cfg$data_dir; resdir <- cfg$results_dir; ensure_dir(resdir); ensure_dir(cfg$plots_dir)
+read_if <- function(path){ if (file.exists(path)) readr::read_csv(path, show_col_types=FALSE) else NULL }
+# Prefer deduped
+ssi <- read_if(file.path(cfg$dedup_dir, "ssi_incidence_dedup.csv")) %||% (if (file.exists(file.path(base, cfg$files$ssi_incidence$path))) map_and_read(base, cfg$files$ssi_incidence) else NULL)
+amr <- read_if(file.path(cfg$dedup_dir, "amr_proportions_dedup.csv")) %||% (if (file.exists(file.path(base, cfg$files$amr_proportions$path))) map_and_read(base, cfg$files$amr_proportions) else NULL)
+mort <- read_if(file.path(cfg$dedup_dir, "mortality_dedup.csv")) %||% (if (file.exists(file.path(base, cfg$files$mortality$path))) map_and_read(base, cfg$files$mortality) else NULL)
+```
+
+# SSI incidence
+```{r}
+if (!is.null(ssi)) run_ssi_meta(ssi, cfg)
+```
+
+# AMR by pathogen–antibiotic
+```{r}
+if (!is.null(amr)) run_amr_by_pair(amr, cfg)
+```
+
+# Mortality proportion
+```{r}
+if (!is.null(mort)) run_mortality_meta(mort, cfg)
+```

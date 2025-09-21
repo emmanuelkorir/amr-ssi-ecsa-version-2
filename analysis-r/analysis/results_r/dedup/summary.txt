@@ -1,0 +1,3 @@
+Duplicate clusters detected: 0
+Dropped rows total (across outcomes): 0
+Identical result flags (comparisons): 0

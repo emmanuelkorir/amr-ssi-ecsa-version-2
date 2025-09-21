@@ -1,0 +1,34 @@
+---
+title: "AMR-SSI ECSA: R Markdown Pipeline (Dedup + Synthesis)"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    number_sections: true
+---
+
+This notebook runs the full workflow end-to-end:
+- Setup and helper functions
+- De-duplication with complete logs
+- Meta-analyses (SSI, AMR, Mortality)
+- Risk factor pooling
+- Qualitative thematic aggregation
+
+```{r child="00_setup.Rmd"}
+```
+
+# 1) Deduplicate and log
+```{r child="01_deduplicate.Rmd"}
+```
+
+# 2) Meta-analyses of proportions
+```{r child="02_meta_proportions.Rmd"}
+```
+
+# 3) Risk factor pooling
+```{r child="03_meta_risk_factors.Rmd"}
+```
+
+# 4) Qualitative thematic summaries
+```{r child="04_qualitative_thematic.Rmd"}
+```

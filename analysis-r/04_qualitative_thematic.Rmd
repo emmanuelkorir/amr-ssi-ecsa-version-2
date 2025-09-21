@@ -1,0 +1,26 @@
+---
+title: "Qualitative Thematic Aggregation"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    number_sections: true
+---
+
+# Load config and data (prefer deduplicated)
+```{r}
+cfg <- load_config(); base <- cfg$data_dir; resdir <- cfg$results_dir; ensure_dir(resdir)
+read_if <- function(path){ if (file.exists(path)) readr::read_csv(path, show_col_types=FALSE) else NULL }
+q <- if (file.exists(file.path(base, cfg$files$qualitative_thematic$path))) map_and_read(base, cfg$files$qualitative_thematic) else NULL
+```
+
+# Validate taxonomy and summarize
+```{r}
+if (!is.null(q)){
+  qv <- validate_themes(q)
+  readr::write_csv(qv, file.path(resdir, "qualitative_validated.csv"))
+  summ <- summarize_themes(qv)
+  readr::write_csv(summ$by_theme, file.path(resdir, "qualitative_by_theme.csv"))
+  readr::write_csv(summ$by_theme_subtheme, file.path(resdir, "qualitative_by_theme_subtheme.csv"))
+}
+```
