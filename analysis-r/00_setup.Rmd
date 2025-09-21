@@ -88,22 +88,40 @@ calculate_levenshtein <- function(str1, str2) {
   stringdist(str1, str2, method = "lv")
 }
 
-# --- Date Handling ---
-parse_year <- function(date_string) {
-  if (is.na(date_string)) return(NA_integer_)
-  # Try to parse multiple formats, return the year
-  parsed_date <- suppressWarnings(
-    parse_date_time(date_string, orders = c("Y", "my", "dmy"))
+# --- Date Handling (Vectorized) ---
+parse_year <- function(date_strings) {
+  # Return an empty vector if the input is empty
+  if (length(date_strings) == 0) {
+    return(integer(0))
+  }
+  
+  # Initialize a results vector with NAs
+  years <- rep(NA_integer_, length(date_strings))
+  
+  # First pass: Try to parse structured date formats
+  parsed_dates <- suppressWarnings(
+    parse_date_time(date_strings, orders = c("Y", "my", "dmy"), quiet = TRUE)
   )
-  if (!is.na(parsed_date)) {
-    return(year(parsed_date))
+  
+  # Get the year where parsing was successful
+  successful_parse_indices <- !is.na(parsed_dates)
+  years[successful_parse_indices] <- year(parsed_dates[successful_parse_indices])
+  
+  # Second pass: For the remaining NAs, try to extract a 4-digit year
+  remaining_indices <- is.na(years)
+  if (any(remaining_indices)) {
+    # Use str_extract which is vectorized
+    year_matches <- str_extract(date_strings[remaining_indices], "\\b(19|20)\\d{2}\\b")
+    
+    # Convert matches to integer and place them in the results vector
+    valid_matches_indices <- !is.na(year_matches)
+    if(any(valid_matches_indices)){
+       original_indices <- which(remaining_indices)[valid_matches_indices]
+       years[original_indices] <- as.integer(year_matches[valid_matches_indices])
+    }
   }
-  # If parsing fails, try to extract a 4-digit number
-  year_match <- str_extract(date_string, "\\b(19|20)\\d{2}\\b")
-  if (!is.na(year_match)) {
-    return(as.integer(year_match))
-  }
-  return(NA_integer_)
+  
+  return(years)
 }
 
 # --- Data Exclusion Logging ---
