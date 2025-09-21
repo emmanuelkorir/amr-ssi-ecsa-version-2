@@ -148,14 +148,27 @@ read_data_safely <- function(file_key, col_types) {
   file_name <- config$file_mappings[[file_key]]
   file_path <- file.path(config$paths$input_data_dir, file_name)
   
+  # A mapping from readr col types to basic R modes
+  type_map <- c(
+    "collector_character" = "character",
+    "collector_double" = "double",
+    "collector_integer" = "integer",
+    "collector_logical" = "logical",
+    "collector_date" = "Date",
+    "collector_datetime" = "POSIXct"
+  )
+  
   if (!file.exists(file_path)) {
     message("Input file not found: ", file_path, ". Returning empty placeholder.")
     # Create an empty tibble with the correct column names and types
     col_names <- names(col_types$cols)
-    empty_df <- as_tibble(setNames(lapply(col_names, function(x) vector(mode = typeof(col_types$cols[[x]]$default), length = 0)), col_names))
     
-    # Manually set types for complex columns if any, e.g., lists
-    # This part might need adjustment based on actual complex types
+    empty_df <- as_tibble(setNames(lapply(col_names, function(x) {
+      col_class <- class(col_types$cols[[x]])[1]
+      r_mode <- type_map[col_class]
+      if (is.na(r_mode)) r_mode <- "character" # Default to character for unknown types
+      vector(mode = r_mode, length = 0)
+    }), col_names))
     
     return(empty_df)
   }
@@ -166,7 +179,14 @@ read_data_safely <- function(file_key, col_types) {
   }, error = function(e) {
     message("Error reading ", file_path, ": ", e$message, ". Returning empty placeholder.")
     col_names <- names(col_types$cols)
-    empty_df <- as_tibble(setNames(lapply(col_names, function(x) vector(mode = typeof(col_types$cols[[x]]$default), length = 0)), col_names))
+    
+    empty_df <- as_tibble(setNames(lapply(col_names, function(x) {
+      col_class <- class(col_types$cols[[x]])[1]
+      r_mode <- type_map[col_class]
+      if (is.na(r_mode)) r_mode <- "character"
+      vector(mode = r_mode, length = 0)
+    }), col_names))
+    
     return(empty_df)
   })
 }
