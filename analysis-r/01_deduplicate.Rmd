@@ -40,11 +40,17 @@ if (nrow(raw_data$study_metadata) > 0) {
 }
 
 # Add a stable internal ID and normalize key fields for matching
+# Ensure placeholder columns exist even if the join fails or metadata is incomplete
+expected_cols <- c("doi" = NA_character_, "pmid" = NA_character_, "title" = NA_character_, 
+                   "authors" = NA_character_, "publication_year" = NA_character_, "journal" = NA_character_)
+master_registry <- master_registry %>%
+  add_column(!!!expected_cols[setdiff(names(expected_cols), names(.))])
+
 master_registry <- master_registry %>%
   mutate(
     registry_id = row_number(),
-    norm_title = sapply(title, normalize_text),
-    norm_authors = lapply(authors, normalize_authors),
+    norm_title = normalize_text(title),
+    norm_authors = normalize_authors(authors),
     pub_year = parse_year(publication_year)
   ) %>%
   select(registry_id, study_id, doi, pmid, title, authors, pub_year, norm_title, norm_authors, everything())
