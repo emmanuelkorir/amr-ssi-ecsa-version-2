@@ -25,3 +25,9 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.Renviron
+.Rbuildignore
