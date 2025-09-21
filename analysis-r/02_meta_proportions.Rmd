@@ -41,6 +41,11 @@ ssi_for_meta <- ssi_data %>%
 
 k_ssi <- nrow(ssi_for_meta)
 message(sprintf("Found %d studies with complete data for SSI incidence meta-analysis.", k_ssi))
+
+```
+```{r ssi_preview}
+cat("SSI rows (raw): ", nrow(ssi_data), " | complete for meta: ", k_ssi, "\n")
+knitr::kable(head(ssi_for_meta %>% dplyr::select(study_id, numerator, denominator, publication_year), 10))
 ```
 
 #### 1.2. Perform Meta-Analysis and Generate Plots
@@ -60,17 +65,18 @@ if (k_ssi >= meta_params$min_studies) {
   )
   
   # --- Forest Plot ---
-  png(file.path(config$paths$plots_dir, "forest_ssi_incidence.png"), width = 10, height = 8, units = "in", res = 300)
   forest(meta_ssi_results,
-         sortvar = publication_year,
-         comb.label = "Random effects model",
-         print.tau2 = TRUE)
-  dev.off()
+    comb.label = "Random effects model",
+    print.tau2 = TRUE)
+  grDevices::png(file.path(config$paths$plots_dir, "forest_ssi_incidence.png"), width = 10, height = 8, units = "in", res = 300)
+  forest(meta_ssi_results, comb.label = "Random effects model", print.tau2 = TRUE)
+  grDevices::dev.off()
   
   # --- Funnel Plot ---
-  png(file.path(config$paths$plots_dir, "funnel_ssi_incidence.png"), width = 8, height = 6, units = "in", res = 300)
   funnel(meta_ssi_results)
-  dev.off()
+  grDevices::png(file.path(config$paths$plots_dir, "funnel_ssi_incidence.png"), width = 8, height = 6, units = "in", res = 300)
+  funnel(meta_ssi_results)
+  grDevices::dev.off()
   
   # Save tabular results
   ssi_summary <- tibble(
@@ -104,9 +110,10 @@ if (k_ssi >= meta_params$min_studies && !all(is.na(ssi_for_meta$pub_year))) {
   write_csv(metareg_summary, file.path(config$paths$output_dir, "metareg_ssi_incidence.csv"))
   
   # --- Bubble Plot ---
-  png(file.path(config$paths$plots_dir, "bubble_metareg_ssi.png"), width = 8, height = 6, units = "in", res = 300)
   bubble(metareg_ssi, xlab = "Publication Year", ylab = "SSI Proportion (Logit Scale)")
-  dev.off()
+  grDevices::png(file.path(config$paths$plots_dir, "bubble_metareg_ssi.png"), width = 8, height = 6, units = "in", res = 300)
+  bubble(metareg_ssi, xlab = "Publication Year", ylab = "SSI Proportion (Logit Scale)")
+  grDevices::dev.off()
   
   message("SSI incidence meta-regression complete.")
 } else {
@@ -133,6 +140,11 @@ mortality_for_meta <- mortality_data %>%
 
 k_mortality <- nrow(mortality_for_meta)
 message(sprintf("Found %d studies with complete data for mortality meta-analysis.", k_mortality))
+
+```
+```{r mortality_preview}
+cat("Mortality rows (raw): ", nrow(mortality_data), " | complete for meta: ", k_mortality, "\n")
+knitr::kable(head(mortality_for_meta %>% dplyr::select(study_id, numerator, denominator), 10))
 ```
 
 #### 2.2. Perform Meta-Analysis and Generate Plots
@@ -150,14 +162,16 @@ if (k_mortality >= meta_params$min_studies) {
   )
   
   # --- Forest Plot ---
-  png(file.path(config$paths$plots_dir, "forest_mortality.png"), width = 10, height = 8, units = "in", res = 300)
   forest(meta_mortality_results, comb.label = "Random effects model", print.tau2 = TRUE)
-  dev.off()
+  grDevices::png(file.path(config$paths$plots_dir, "forest_mortality.png"), width = 10, height = 8, units = "in", res = 300)
+  forest(meta_mortality_results, comb.label = "Random effects model", print.tau2 = TRUE)
+  grDevices::dev.off()
   
   # --- Funnel Plot ---
-  png(file.path(config$paths$plots_dir, "funnel_mortality.png"), width = 8, height = 6, units = "in", res = 300)
   funnel(meta_mortality_results)
-  dev.off()
+  grDevices::png(file.path(config$paths$plots_dir, "funnel_mortality.png"), width = 8, height = 6, units = "in", res = 300)
+  funnel(meta_mortality_results)
+  grDevices::dev.off()
   
   # Save tabular results
   mortality_summary <- tibble(
@@ -203,6 +217,11 @@ amr_groups <- amr_for_meta %>%
   ungroup()
 
 message(sprintf("Found %d pathogen-antibiotic pairs with enough studies for meta-analysis.", n_distinct(amr_groups$pair)))
+
+```
+```{r amr_preview}
+cat("AMR rows (raw): ", nrow(amr_data), " | eligible pairs: ", dplyr::n_distinct(amr_groups$pair), "\n")
+knitr::kable(head(amr_for_meta %>% dplyr::select(study_id, pathogen, antibiotic, numerator, denominator), 10))
 ```
 
 #### 3.2. Perform Grouped Meta-Analysis
