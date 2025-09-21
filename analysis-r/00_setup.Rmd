@@ -293,5 +293,41 @@ raw_data <- setNames(
 message("All datasets have been loaded into the 'raw_data' list.")
 ```
 
+### 6. Standardize Quantitative Dataset Shapes
+Ensure expected numeric columns exist so downstream notebooks can rely on common names (numerator/denominator).
+
+```{r standardize_shapes}
+# Helper to ensure numerator/denominator columns exist by mapping from common alternatives
+standardize_counts <- function(df, num_candidates, den_candidates) {
+  # If df is not a data.frame/tibble (e.g., NULL), return as-is
+  if (!inherits(df, "data.frame")) return(df)
+
+  # Add numerator from the first available candidate
+  if (!"numerator" %in% names(df)) {
+    for (cand in num_candidates) {
+      if (cand %in% names(df)) { df$numerator <- as.double(df[[cand]]); break }
+    }
+  }
+  # Add denominator from the first available candidate
+  if (!"denominator" %in% names(df)) {
+    for (cand in den_candidates) {
+      if (cand %in% names(df)) { df$denominator <- as.double(df[[cand]]); break }
+    }
+  }
+  # If still missing, create NA columns of correct type
+  if (!"numerator" %in% names(df)) df$numerator <- as.double(rep(NA_real_, nrow(df)))
+  if (!"denominator" %in% names(df)) df$denominator <- as.double(rep(NA_real_, nrow(df)))
+  df
+}
+
+# Apply standardization to relevant datasets
+raw_data$ssi_incidence   <- standardize_counts(raw_data$ssi_incidence,   c("events_x","n_events","cases","events","n_x"), c("sample_size_n","n_total","total","denominator","n"))
+raw_data$mortality       <- standardize_counts(raw_data$mortality,       c("n_deaths","events","deaths"),                c("n_total","total","denominator"))
+raw_data$amr_proportions <- standardize_counts(raw_data$amr_proportions, c("events_x","n_events","resistant","non_susceptible"), c("sample_size_n","n_total","total","tested"))
+
+message("Standardized numeric columns (numerator/denominator) for SSI, mortality, and AMR datasets.")
+```
+
+
 ### Setup Complete
 The environment is now ready. All packages, functions, and data are loaded and accessible for the subsequent analysis steps.
