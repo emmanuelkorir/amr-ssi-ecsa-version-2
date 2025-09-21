@@ -1,0 +1,327 @@
+---
+title: "02_meta_proportions"
+author: "Pipeline Agent"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+### Objective
+This notebook performs quantitative synthesis for all proportional outcomes, including SSI Incidence, Mortality, and pathogen-specific AMR Proportions. It uses the deduplicated datasets, filters for complete data, runs random-effects meta-analyses, and assesses temporal trends with meta-regression.
+
+**Robustness Note**: This script is designed to handle empty or incomplete datasets. Analyses are only performed if a sufficient number of studies with complete data (`k >= min_studies`) are available. All data exclusions are logged.
+
+```{r meta_prop_setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
+# Assumes previous notebooks have been run.
+# Ensure output directories exist
+dir.create(config$paths$plots_dir, showWarnings = FALSE, recursive = TRUE)
+```
+
+### 1. SSI Incidence Meta-Analysis
+
+#### 1.1. Data Preparation
+Filter the SSI incidence data for complete cases (non-NA numerator and denominator) and log any exclusions.
+
+```{r prep_ssi}
+ssi_data <- deduplicated_data$ssi_incidence
+meta_params <- config$meta_analysis$proportions
+
+# Identify and log incomplete cases
+incomplete_ssi <- ssi_data %>%
+  filter(is.na(numerator) | is.na(denominator))
+if (nrow(incomplete_ssi) > 0) {
+  log_missing_data(incomplete_ssi, "Missing numerator or denominator", "SSI Incidence Meta-Analysis")
+}
+
+# Prepare data for meta-analysis
+ssi_for_meta <- ssi_data %>%
+  filter(!is.na(numerator) & !is.na(denominator))
+
+# If we have a study_metadata table with publication years, join it
+if (is.data.frame(deduplicated_data$study_metadata) && 
+    nrow(deduplicated_data$study_metadata) > 0 && 
+    "publication_year" %in% names(deduplicated_data$study_metadata)) {
+  
+  ssi_for_meta <- ssi_for_meta %>%
+    left_join(select(deduplicated_data$study_metadata, study_id, publication_year), by = "study_id")
+} else {
+  # If no publication_year in metadata, try to get it from year_start in the original data
+  if ("year_start" %in% names(ssi_for_meta)) {
+    ssi_for_meta <- ssi_for_meta %>%
+      mutate(publication_year = as.character(year_start))
+  } else {
+    # Add an NA column if no publication year data exists
+    ssi_for_meta <- ssi_for_meta %>%
+      mutate(publication_year = NA_character_)
+  }
+}
+
+# Parse year safely
+ssi_for_meta <- ssi_for_meta %>%
+  mutate(pub_year = parse_year(publication_year))
+
+k_ssi <- nrow(ssi_for_meta)
+message(sprintf("Found %d studies with complete data for SSI incidence meta-analysis.", k_ssi))
+
+```
+```{r ssi_preview}
+cat("SSI rows (raw): ", nrow(ssi_data), " | complete for meta: ", k_ssi, "\n")
+knitr::kable(head(ssi_for_meta %>% dplyr::select(study_id, numerator, denominator, dplyr::any_of(c("publication_year", "pub_year"))), 10))
+```
+
+#### 1.2. Perform Meta-Analysis and Generate Plots
+If enough studies are present, run the meta-analysis and create forest and funnel plots.
+
+```{r meta_ssi}
+if (k_ssi >= meta_params$min_studies) {
+  # Perform meta-analysis of proportions
+  meta_ssi_results <- metaprop(
+    event = numerator,
+    n = denominator,
+    studlab = study_id,
+    data = ssi_for_meta,
+    sm = meta_params$sm,
+    method.tau = meta_params$method.tau,
+    comb.random = meta_params$model.random
+  )
+  
+  # --- Forest Plot ---
+  forest(meta_ssi_results,
+    comb.label = "Random effects model",
+    print.tau2 = TRUE)
+  grDevices::png(file.path(config$paths$plots_dir, "forest_ssi_incidence.png"), width = 10, height = 8, units = "in", res = 300)
+  forest(meta_ssi_results, comb.label = "Random effects model", print.tau2 = TRUE)
+  grDevices::dev.off()
+  
+  # --- Funnel Plot ---
+  funnel(meta_ssi_results)
+  grDevices::png(file.path(config$paths$plots_dir, "funnel_ssi_incidence.png"), width = 8, height = 6, units = "in", res = 300)
+  funnel(meta_ssi_results)
+  grDevices::dev.off()
+  
+  # Save tabular results
+  ssi_summary <- tibble(
+    outcome = "SSI Incidence",
+    k = meta_ssi_results$k,
+    pooled_proportion = meta_ssi_results$TE.random,
+    ci_lower = meta_ssi_results$lower.random,
+    ci_upper = meta_ssi_results$upper.random,
+    i2 = meta_ssi_results$I2,
+    tau2 = meta_ssi_results$tau2
+  )
+  write_csv(ssi_summary, file.path(config$paths$output_dir, "meta_analysis_ssi_incidence.csv"))
+  
+  message("SSI incidence meta-analysis complete. Plots and results saved.")
+} else {
+  message("Skipping SSI incidence meta-analysis: insufficient studies.")
+  ssi_summary <- tibble()
+}
+```
+
+#### 1.3. Temporal Trend Meta-Regression
+Assess if SSI incidence has changed over time.
+
+```{r metareg_ssi}
+if (k_ssi >= meta_params$min_studies && !all(is.na(ssi_for_meta$pub_year))) {
+  # Perform meta-regression
+  metareg_ssi <- metareg(meta_ssi_results, ~ pub_year)
+  
+  # Save results
+  metareg_summary <- broom::tidy(metareg_ssi)
+  write_csv(metareg_summary, file.path(config$paths$output_dir, "metareg_ssi_incidence.csv"))
+  
+  # --- Bubble Plot ---
+  bubble(metareg_ssi, xlab = "Publication Year", ylab = "SSI Proportion (Logit Scale)")
+  grDevices::png(file.path(config$paths$plots_dir, "bubble_metareg_ssi.png"), width = 8, height = 6, units = "in", res = 300)
+  bubble(metareg_ssi, xlab = "Publication Year", ylab = "SSI Proportion (Logit Scale)")
+  grDevices::dev.off()
+  
+  message("SSI incidence meta-regression complete.")
+} else {
+  message("Skipping SSI incidence meta-regression: insufficient data.")
+}
+```
+
+### 2. Mortality Meta-Analysis
+
+#### 2.1. Data Preparation
+Prepare mortality data, similar to SSI incidence.
+
+```{r prep_mortality}
+mortality_data <- deduplicated_data$mortality
+
+incomplete_mortality <- mortality_data %>%
+  filter(is.na(numerator) | is.na(denominator))
+if (nrow(incomplete_mortality) > 0) {
+  log_missing_data(incomplete_mortality, "Missing numerator or denominator", "Mortality Meta-Analysis")
+}
+
+mortality_for_meta <- mortality_data %>%
+  filter(!is.na(numerator) & !is.na(denominator))
+
+# If we have a study_metadata table with publication years, join it
+if (is.data.frame(deduplicated_data$study_metadata) && 
+    nrow(deduplicated_data$study_metadata) > 0 && 
+    "publication_year" %in% names(deduplicated_data$study_metadata)) {
+  
+  mortality_for_meta <- mortality_for_meta %>%
+    left_join(select(deduplicated_data$study_metadata, study_id, publication_year), by = "study_id")
+} else {
+  # If no publication_year in metadata, try to get it from year_start in the original data
+  if ("year_start" %in% names(mortality_for_meta)) {
+    mortality_for_meta <- mortality_for_meta %>%
+      mutate(publication_year = as.character(year_start))
+  } else {
+    # Add an NA column if no publication year data exists
+    mortality_for_meta <- mortality_for_meta %>%
+      mutate(publication_year = NA_character_)
+  }
+}
+
+# Parse year safely
+mortality_for_meta <- mortality_for_meta %>%
+  mutate(pub_year = parse_year(publication_year))
+
+k_mortality <- nrow(mortality_for_meta)
+message(sprintf("Found %d studies with complete data for mortality meta-analysis.", k_mortality))
+
+```
+```{r mortality_preview}
+cat("Mortality rows (raw): ", nrow(mortality_data), " | complete for meta: ", k_mortality, "\n")
+knitr::kable(head(mortality_for_meta %>% dplyr::select(study_id, numerator, denominator, dplyr::any_of(c("publication_year", "pub_year"))), 10))
+```
+
+#### 2.2. Perform Meta-Analysis and Generate Plots
+
+```{r meta_mortality}
+if (k_mortality >= meta_params$min_studies) {
+  meta_mortality_results <- metaprop(
+    event = numerator,
+    n = denominator,
+    studlab = study_id,
+    data = mortality_for_meta,
+    sm = meta_params$sm,
+    method.tau = meta_params$method.tau,
+    comb.random = meta_params$model.random
+  )
+  
+  # --- Forest Plot ---
+  forest(meta_mortality_results, comb.label = "Random effects model", print.tau2 = TRUE)
+  grDevices::png(file.path(config$paths$plots_dir, "forest_mortality.png"), width = 10, height = 8, units = "in", res = 300)
+  forest(meta_mortality_results, comb.label = "Random effects model", print.tau2 = TRUE)
+  grDevices::dev.off()
+  
+  # --- Funnel Plot ---
+  funnel(meta_mortality_results)
+  grDevices::png(file.path(config$paths$plots_dir, "funnel_mortality.png"), width = 8, height = 6, units = "in", res = 300)
+  funnel(meta_mortality_results)
+  grDevices::dev.off()
+  
+  # Save tabular results
+  mortality_summary <- tibble(
+    outcome = "Mortality",
+    k = meta_mortality_results$k,
+    pooled_proportion = meta_mortality_results$TE.random,
+    ci_lower = meta_mortality_results$lower.random,
+    ci_upper = meta_mortality_results$upper.random,
+    i2 = meta_mortality_results$I2,
+    tau2 = meta_mortality_results$tau2
+  )
+  write_csv(mortality_summary, file.path(config$paths$output_dir, "meta_analysis_mortality.csv"))
+  
+  message("Mortality meta-analysis complete. Plots and results saved.")
+} else {
+  message("Skipping mortality meta-analysis: insufficient studies.")
+  mortality_summary <- tibble()
+}
+```
+
+### 3. AMR Proportions Meta-Analysis
+
+#### 3.1. Data Preparation
+Prepare AMR data, grouping by pathogen-antibiotic pairs.
+
+```{r prep_amr}
+amr_data <- deduplicated_data$amr_proportions
+
+# Ensure required columns exist
+if (!"pathogen" %in% names(amr_data)) amr_data$pathogen <- NA_character_
+if (!"antibiotic" %in% names(amr_data)) amr_data$antibiotic <- NA_character_
+
+incomplete_amr <- amr_data %>%
+  filter(is.na(numerator) | is.na(denominator) | is.na(pathogen) | is.na(antibiotic))
+if (nrow(incomplete_amr) > 0) {
+  log_missing_data(incomplete_amr, "Missing key AMR data fields", "AMR Proportions Meta-Analysis")
+}
+
+amr_for_meta <- amr_data %>%
+  filter(!is.na(numerator) & !is.na(denominator) & !is.na(pathogen) & !is.na(antibiotic)) %>%
+  mutate(pair = paste(pathogen, antibiotic, sep = " - "))
+
+# Identify pairs with enough studies for meta-analysis
+amr_groups <- amr_for_meta %>%
+  group_by(pair) %>%
+  filter(n() >= meta_params$min_studies) %>%
+  ungroup()
+
+message(sprintf("Found %d pathogen-antibiotic pairs with enough studies for meta-analysis.", n_distinct(amr_groups$pair)))
+
+```
+```{r amr_preview}
+cat("AMR rows (raw): ", nrow(amr_data), " | eligible pairs: ", dplyr::n_distinct(amr_groups$pair), "\n")
+knitr::kable(head(amr_for_meta %>% dplyr::select(study_id, pathogen, antibiotic, numerator, denominator), 10))
+```
+
+#### 3.2. Perform Grouped Meta-Analysis
+
+```{r meta_amr}
+if (nrow(amr_groups) > 0) {
+  # Function to run meta-analysis on a subset of data
+  run_amr_meta <- function(data_subset) {
+    metaprop(
+      event = numerator,
+      n = denominator,
+      studlab = study_id,
+      data = data_subset,
+      sm = meta_params$sm,
+      method.tau = meta_params$method.tau,
+      comb.random = meta_params$model.random,
+      warn = FALSE # Suppress warnings for pairs with few studies
+    )
+  }
+  
+  # Run meta-analysis for each group
+  amr_results_list <- amr_groups %>%
+    split(.$pair) %>%
+    map(~ run_amr_meta(.))
+  
+  # Summarize results into a single table
+  amr_summary <- amr_results_list %>%
+    map_dfr(~ tibble(
+      k = .$k,
+      pooled_proportion = .$TE.random,
+      ci_lower = .$lower.random,
+      ci_upper = .$upper.random,
+      i2 = .$I2,
+      tau2 = .$tau2
+    ), .id = "pathogen_antibiotic_pair")
+  
+  write_csv(amr_summary, file.path(config$paths$output_dir, "meta_analysis_amr_proportions.csv"))
+  
+  # Optional: Generate forest plots for each pair (can be numerous)
+  # for (pair_name in names(amr_results_list)) {
+  #   safe_filename <- str_replace_all(pair_name, "[^a-zA-Z0-9_]", "_")
+  #   png(file.path(config$paths$plots_dir, paste0("forest_amr_", safe_filename, ".png")), width = 10, height = 8, units = "in", res = 300)
+  #   forest(amr_results_list[[pair_name]], main = pair_name)
+  #   dev.off()
+  # }
+  
+  message("AMR proportions meta-analysis complete. Results saved.")
+} else {
+  message("Skipping AMR proportions meta-analysis: no pairs with sufficient studies.")
+  amr_summary <- tibble()
+}
+```
+
+### Proportional Meta-Analyses Complete
+All proportional outcomes have been analyzed. Results and plots are saved in the `analysis/results_r/` directory.

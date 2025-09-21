@@ -1,0 +1,107 @@
+---
+title: "04_qualitative_thematic"
+author: "Pipeline Agent"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+### Objective
+This notebook conducts a structured narrative synthesis of the qualitative evidence base. It loads the deduplicated qualitative data, generates frequency counts of the thematic codes, and produces a summary table and a bar chart to visualize the thematic landscape.
+
+**Robustness Note**: This script is designed to handle an empty qualitative dataset. If no data is present, it will produce an empty summary table and an empty plot, ensuring the pipeline completes without error.
+
+```{r qual_setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
+# Assumes previous notebooks have been run.
+```
+
+### 1. Data Preparation
+Load the deduplicated qualitative themes data and prepare it for summary analysis.
+
+```{r prep_qualitative}
+qual_data <- deduplicated_data$qualitative_themes
+
+# Log any data with missing theme codes or descriptions, as they cannot be analyzed.
+incomplete_qual <- qual_data %>%
+  filter(is.na(theme_code) | is.na(theme_description))
+if (nrow(incomplete_qual) > 0) {
+  log_missing_data(incomplete_qual, "Missing theme code or description", "Qualitative Thematic Analysis")
+}
+
+# Use data with complete theme information
+qual_for_summary <- qual_data %>%
+  filter(!is.na(theme_code) & !is.na(theme_description))
+
+message(sprintf("Found %d valid thematic entries to summarize.", nrow(qual_for_summary)))
+```
+
+### 2. Generate Thematic Frequency Counts
+Calculate the frequency of each theme code and the number of unique studies reporting each theme.
+
+```{r summarize_themes}
+if (nrow(qual_for_summary) > 0) {
+  theme_summary <- qual_for_summary %>%
+    group_by(theme_code, theme_description) %>%
+    summarise(
+      frequency = n(),
+      unique_studies = n_distinct(study_id),
+      .groups = 'drop'
+    ) %>%
+    arrange(desc(frequency))
+  
+  write_csv(theme_summary, file.path(config$paths$output_dir, "qualitative_theme_summary.csv"))
+  
+  message("Qualitative theme summary table generated and saved.")
+} else {
+  message("No qualitative data to summarize. Creating empty summary file.")
+  theme_summary <- tibble(
+    theme_code = character(0),
+    theme_description = character(0),
+    frequency = integer(0),
+    unique_studies = integer(0)
+  )
+  write_csv(theme_summary, file.path(config$paths$output_dir, "qualitative_theme_summary.csv"))
+}
+```
+
+### 3. Visualize Thematic Landscape
+Create a bar chart to display the frequency of the most common themes.
+
+```{r visualize_themes}
+if (nrow(theme_summary) > 0) {
+  # Plot the top 15 themes for clarity
+  top_themes <- theme_summary %>%
+    slice_head(n = 15)
+  
+  plot <- ggplot(top_themes, aes(x = reorder(theme_description, frequency), y = frequency)) +
+    geom_col(fill = "steelblue") +
+    coord_flip() +
+    labs(
+      title = "Top 15 Qualitative Themes",
+      x = "Theme",
+      y = "Frequency of Mentions"
+    ) +
+    theme_minimal() +
+    theme(plot.title = element_text(hjust = 0.5))
+  
+  ggsave(
+    file.path(config$paths$plots_dir, "qualitative_themes_barchart.png"),
+    plot,
+    width = 10,
+    height = 8,
+    units = "in",
+    dpi = 300
+  )
+  
+  message("Qualitative themes bar chart generated and saved.")
+  
+} else {
+  message("No data to plot for qualitative themes.")
+  # Create a blank plot file to ensure output exists
+  png(file.path(config$paths$plots_dir, "qualitative_themes_barchart.png"), width = 1, height = 1)
+  dev.off()
+}
+```
+
+### Qualitative Synthesis Complete
+The summary and visualization of the qualitative thematic data are finished. The results are saved in the `analysis/results_r/` directory.

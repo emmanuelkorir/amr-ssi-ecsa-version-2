@@ -25,3 +25,16 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.Renviron
+.Rbuildignore
+
+# R-based analysis outputs
+/analysis-r/pipeline.html
+/analysis-r/pipeline.knit.md
+/analysis/results_r/
+/analysis-r/.Rhistory
+/analysis-r/.RData

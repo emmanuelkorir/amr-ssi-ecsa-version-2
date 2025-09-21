@@ -1,0 +1,333 @@
+---
+title: "00_setup"
+author: "Pipeline Agent"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+### Objective
+This notebook establishes the computational environment for the entire analysis pipeline. It performs three critical tasks:
+1.  **Package Management**: Installs and loads all required CRAN packages.
+2.  **Function Definition**: Defines a suite of NA-aware helper functions for data cleaning, normalization, and similarity calculations.
+3.  **Data Ingestion**: Reads the central `config.yml` and loads all input datasets, gracefully handling scenarios where input files are missing or the input directory is empty.
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
+```
+
+### 1. Package Management
+This chunk checks for the presence of required packages and installs any that are missing. It then loads them into the session.
+
+```{r packages}
+# List of required packages
+required_packages <- c(
+  "yaml", "dplyr", "stringr", "stringdist", "lubridate", "purrr", 
+  "readr", "tidyr", "tibble", "igraph", "meta", "metafor", "ggplot2", "knitr", "broom"
+)
+
+# Identify missing packages
+missing_packages <- required_packages[!sapply(required_packages, requireNamespace, quietly = TRUE)]
+
+# Install missing packages
+if (length(missing_packages) > 0) {
+  message("Installing missing packages: ", paste(missing_packages, collapse = ", "))
+  install.packages(missing_packages, repos = "https://cran.rstudio.com/")
+}
+
+# Load all required packages
+sapply(required_packages, library, character.only = TRUE)
+
+message("All required packages are installed and loaded.")
+```
+
+### 2. Configuration Loading
+Reads the central `config.yml` file to make paths and parameters available globally.
+
+```{r load_config}
+# Load the configuration file
+config <- yaml::read_yaml("config.yml")
+message("Configuration file 'config.yml' loaded successfully.")
+```
+
+### 3. Helper Function Definitions
+These functions are the core toolkit for the pipeline, designed for robustness and to be NA-aware.
+
+```{r helper_functions}
+# --- Text Normalization (Vectorized) ---
+normalize_text_scalar <- function(text) {
+  if (is.na(text)) return(NA_character_)
+  text %>%
+    str_to_lower() %>%
+    str_replace_all("[^a-z0-9\\s]", "") %>%
+    str_squish()
+}
+normalize_text <- Vectorize(normalize_text_scalar, "text")
+
+# --- Author List Processing (Vectorized) ---
+normalize_authors_scalar <- function(author_string) {
+  if (is.na(author_string) || author_string == "") return(list(character(0)))
+  authors <- author_string %>%
+    str_to_lower() %>%
+    str_split(";|\\s*and\\s*|,") %>%
+    unlist() %>%
+    str_extract_all("[a-z]+") %>%
+    sapply(paste, collapse = "") %>%
+    unique() %>%
+    sort()
+  return(list(authors))
+}
+normalize_authors <- function(author_vector) {
+    lapply(author_vector, function(x) normalize_authors_scalar(x)[[1]])
+}
+
+# --- Similarity Metrics (NA-aware) ---
+calculate_jaccard <- function(set1, set2) {
+  if (length(set1) == 0 || length(set2) == 0) return(0)
+  intersection <- length(intersect(set1, set2))
+  union <- length(union(set1, set2))
+  return(intersection / union)
+}
+
+calculate_levenshtein <- function(str1, str2) {
+  if (is.na(str1) || is.na(str2)) return(NA_integer_)
+  stringdist(str1, str2, method = "lv")
+}
+
+# --- Date Handling (Vectorized) ---
+parse_year <- function(date_strings) {
+  # Return an empty vector if the input is empty
+  if (length(date_strings) == 0) {
+    return(integer(0))
+  }
+  
+  # Initialize a results vector with NAs
+  years <- rep(NA_integer_, length(date_strings))
+  
+  # First pass: Try to parse structured date formats
+  parsed_dates <- suppressWarnings(
+    parse_date_time(date_strings, orders = c("Y", "my", "dmy"), quiet = TRUE)
+  )
+  
+  # Get the year where parsing was successful
+  successful_parse_indices <- !is.na(parsed_dates)
+  years[successful_parse_indices] <- year(parsed_dates[successful_parse_indices])
+  
+  # Second pass: For the remaining NAs, try to extract a 4-digit year
+  remaining_indices <- is.na(years)
+  if (any(remaining_indices)) {
+    # Use str_extract which is vectorized
+    year_matches <- str_extract(date_strings[remaining_indices], "\\b(19|20)\\d{2}\\b")
+    
+    # Convert matches to integer and place them in the results vector
+    valid_matches_indices <- !is.na(year_matches)
+    if(any(valid_matches_indices)){
+       original_indices <- which(remaining_indices)[valid_matches_indices]
+       years[original_indices] <- as.integer(year_matches[valid_matches_indices])
+    }
+  }
+  
+  return(years)
+}
+
+# --- Data Exclusion Logging ---
+# Initializes or appends to a central log of excluded data.
+log_missing_data <- function(data, reason, analysis_name) {
+  if (nrow(data) == 0) return()
+  
+  log_path <- config$paths$missing_data_log
+  
+  log_entry <- data %>%
+    select(any_of(c("study_id", "doi", "pmid"))) %>%
+    mutate(
+      reason_for_exclusion = reason,
+      analysis = analysis_name,
+      timestamp = Sys.time()
+    )
+  
+  if (file.exists(log_path)) {
+    write_csv(log_entry, log_path, append = TRUE)
+  } else {
+    write_csv(log_entry, log_path)
+  }
+}
+
+message("Helper functions defined.")
+```
+
+### 4. Master Data Ingestion Function
+This is the primary data loading function. It is designed to be resilient, returning a structured, zero-row tibble if a file does not exist. This prevents downstream script failures.
+
+```{r data_ingestion_function}
+#' Read a CSV file safely
+#'
+#' Reads a CSV from the configured input directory. If the file does not exist,
+#' it returns a zero-row tibble with the expected column structure, preventing
+#' pipeline failures.
+#'
+#' @param file_key The key from the `config$file_mappings` list (e.g., "ssi_incidence").
+#' @param col_types A `cols()` specification for the expected columns.
+#' @return A tibble, either with data from the CSV or as a zero-row placeholder.
+read_data_safely <- function(file_key, col_types) {
+  file_name <- config$file_mappings[[file_key]]
+  file_path <- file.path(config$paths$input_data_dir, file_name)
+  
+  # A mapping from readr col types to basic R modes
+  type_map <- c(
+    "collector_character" = "character",
+    "collector_double" = "double",
+    "collector_integer" = "integer",
+    "collector_logical" = "logical",
+    "collector_date" = "Date",
+    "collector_datetime" = "POSIXct"
+  )
+  
+  if (!file.exists(file_path)) {
+    message("Input file not found: ", file_path, ". Returning empty placeholder.")
+    # Create an empty tibble with the correct column names and types
+    col_names <- names(col_types$cols)
+    
+    empty_df <- as_tibble(setNames(lapply(col_names, function(x) {
+      col_class <- class(col_types$cols[[x]])[1]
+      r_mode <- type_map[col_class]
+      if (is.na(r_mode)) r_mode <- "character" # Default to character for unknown types
+      vector(mode = r_mode, length = 0)
+    }), col_names))
+    
+    return(empty_df)
+  }
+  
+  message("Reading input file: ", file_path)
+  tryCatch({
+    read_csv(file_path, col_types = col_types, show_col_types = FALSE)
+  }, error = function(e) {
+    message("Error reading ", file_path, ": ", e$message, ". Returning empty placeholder.")
+    col_names <- names(col_types$cols)
+    
+    empty_df <- as_tibble(setNames(lapply(col_names, function(x) {
+      col_class <- class(col_types$cols[[x]])[1]
+      r_mode <- type_map[col_class]
+      if (is.na(r_mode)) r_mode <- "character"
+      vector(mode = r_mode, length = 0)
+    }), col_names))
+    
+    return(empty_df)
+  })
+}
+
+message("Master data ingestion function 'read_data_safely' defined.")
+```
+
+### 5. Loading All Datasets
+Using the safe reader function, this chunk loads all datasets specified in the configuration. If any file is missing, a message will be printed, and an empty placeholder will be loaded instead.
+
+```{r load_all_datasets}
+# Define the expected column structures for each file
+col_specs <- list(
+  study_metadata = cols(
+    study_id = col_character(),
+    doi = col_character(),
+    pmid = col_character(),
+    title = col_character(),
+    authors = col_character(),
+    publication_year = col_character(),
+    journal = col_character()
+  ),
+  ssi_incidence = cols(
+    study_id = col_character(),
+    numerator = col_double(),
+    denominator = col_double(),
+    proportion = col_double()
+  ),
+  mortality = cols(
+    study_id = col_character(),
+    numerator = col_double(),
+    denominator = col_double(),
+    proportion = col_double()
+  ),
+  amr_proportions = cols(
+    study_id = col_character(),
+    pathogen = col_character(),
+    antibiotic = col_character(),
+    numerator = col_double(),
+    denominator = col_double(),
+    proportion = col_double()
+  ),
+  risk_factors = cols(
+    study_id = col_character(),
+    risk_factor = col_character(),
+    effect_size = col_double(),
+    ci_lower = col_double(),
+    ci_upper = col_double(),
+    measure_type = col_character()
+  ),
+  length_of_stay = cols(
+    study_id = col_character(),
+    group = col_character(),
+    mean_los = col_double(),
+    sd_los = col_double(),
+    median_los = col_double(),
+    iqr_los = col_character()
+  ),
+  economic_costs = cols(
+    study_id = col_character(),
+    cost_type = col_character(),
+    value = col_double(),
+    currency = col_character()
+  ),
+  qualitative_themes = cols(
+    study_id = col_character(),
+    theme_code = col_character(),
+    theme_description = col_character(),
+    excerpt = col_character()
+  )
+)
+
+# Read all datasets into a named list
+raw_data <- setNames(
+  lapply(names(config$file_mappings), function(key) {
+    read_data_safely(key, col_specs[[key]])
+  }),
+  names(config$file_mappings)
+)
+
+message("All datasets have been loaded into the 'raw_data' list.")
+```
+
+### 6. Standardize Quantitative Dataset Shapes
+Ensure expected numeric columns exist so downstream notebooks can rely on common names (numerator/denominator).
+
+```{r standardize_shapes}
+# Helper to ensure numerator/denominator columns exist by mapping from common alternatives
+standardize_counts <- function(df, num_candidates, den_candidates) {
+  # If df is not a data.frame/tibble (e.g., NULL), return as-is
+  if (!inherits(df, "data.frame")) return(df)
+
+  # Add numerator from the first available candidate
+  if (!"numerator" %in% names(df)) {
+    for (cand in num_candidates) {
+      if (cand %in% names(df)) { df$numerator <- as.double(df[[cand]]); break }
+    }
+  }
+  # Add denominator from the first available candidate
+  if (!"denominator" %in% names(df)) {
+    for (cand in den_candidates) {
+      if (cand %in% names(df)) { df$denominator <- as.double(df[[cand]]); break }
+    }
+  }
+  # If still missing, create NA columns of correct type
+  if (!"numerator" %in% names(df)) df$numerator <- as.double(rep(NA_real_, nrow(df)))
+  if (!"denominator" %in% names(df)) df$denominator <- as.double(rep(NA_real_, nrow(df)))
+  df
+}
+
+# Apply standardization to relevant datasets
+raw_data$ssi_incidence   <- standardize_counts(raw_data$ssi_incidence,   c("events_x","n_events","cases","events","n_x"), c("sample_size_n","n_total","total","denominator","n"))
+raw_data$mortality       <- standardize_counts(raw_data$mortality,       c("n_deaths","events","deaths"),                c("n_total","total","denominator"))
+raw_data$amr_proportions <- standardize_counts(raw_data$amr_proportions, c("events_x","n_events","resistant","non_susceptible"), c("sample_size_n","n_total","total","tested"))
+
+message("Standardized numeric columns (numerator/denominator) for SSI, mortality, and AMR datasets.")
+```
+
+
+### Setup Complete
+The environment is now ready. All packages, functions, and data are loaded and accessible for the subsequent analysis steps.
