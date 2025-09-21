@@ -10,7 +10,7 @@ This notebook performs a meta-analysis of risk factor effect estimates (e.g., Od
 
 **Robustness Note**: This script is designed to handle empty or incomplete datasets. The analysis is only performed for risk factors with `k >= min_studies` available. All data exclusions are logged.
 
-```{r setup, include=FALSE}
+```{r meta_rf_setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
 # Assumes previous notebooks have been run.
 if (!exists("deduplicated_data")) {

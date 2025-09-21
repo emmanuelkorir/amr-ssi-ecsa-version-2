@@ -10,7 +10,7 @@ This notebook performs quantitative synthesis for all proportional outcomes, inc
 
 **Robustness Note**: This script is designed to handle empty or incomplete datasets. Analyses are only performed if a sufficient number of studies with complete data (`k >= min_studies`) are available. All data exclusions are logged.
 
-```{r setup, include=FALSE}
+```{r meta_prop_setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
 # Assumes previous notebooks have been run. If running standalone, source them.
 if (!exists("deduplicated_data")) {

@@ -10,7 +10,7 @@ This notebook serves as the gatekeeper for the analysis pipeline. It systematica
 
 **Robustness Note**: This script is designed to run successfully even if there are no input files. In that scenario, it will produce empty log files and empty deduplicated datasets.
 
-```{r setup, include=FALSE}
+```{r dedup_setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
 # This script assumes 00_setup.Rmd has been run and its objects are available.
 # If running standalone, source it first.

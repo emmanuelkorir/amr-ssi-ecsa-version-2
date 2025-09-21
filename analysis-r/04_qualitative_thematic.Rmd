@@ -10,7 +10,7 @@ This notebook conducts a structured narrative synthesis of the qualitative evide
 
 **Robustness Note**: This script is designed to handle an empty qualitative dataset. If no data is present, it will produce an empty summary table and an empty plot, ensuring the pipeline completes without error.
 
-```{r setup, include=FALSE}
+```{r qual_setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
 # Assumes previous notebooks have been run.
 if (!exists("deduplicated_data")) {
