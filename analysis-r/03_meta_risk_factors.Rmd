@@ -13,10 +13,6 @@ This notebook performs a meta-analysis of risk factor effect estimates (e.g., Od
 ```{r meta_rf_setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
 # Assumes previous notebooks have been run.
-if (!exists("deduplicated_data")) {
-  source("00_setup.Rmd")
-  source("01_deduplicate.Rmd")
-}
 ```
 
 ### 1. Data Preparation

@@ -12,11 +12,7 @@ This notebook performs quantitative synthesis for all proportional outcomes, inc
 
 ```{r meta_prop_setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
-# Assumes previous notebooks have been run. If running standalone, source them.
-if (!exists("deduplicated_data")) {
-  source("00_setup.Rmd")
-  source("01_deduplicate.Rmd")
-}
+# Assumes previous notebooks have been run.
 # Ensure output directories exist
 dir.create(config$paths$plots_dir, showWarnings = FALSE, recursive = TRUE)
 ```

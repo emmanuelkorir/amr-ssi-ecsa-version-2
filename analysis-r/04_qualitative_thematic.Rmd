@@ -13,10 +13,6 @@ This notebook conducts a structured narrative synthesis of the qualitative evide
 ```{r qual_setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
 # Assumes previous notebooks have been run.
-if (!exists("deduplicated_data")) {
-  source("00_setup.Rmd")
-  source("01_deduplicate.Rmd")
-}
 ```
 
 ### 1. Data Preparation

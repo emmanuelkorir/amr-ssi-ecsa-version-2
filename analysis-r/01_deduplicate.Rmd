@@ -13,10 +13,6 @@ This notebook serves as the gatekeeper for the analysis pipeline. It systematica
 ```{r dedup_setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
 # This script assumes 00_setup.Rmd has been run and its objects are available.
-# If running standalone, source it first.
-if (!exists("config")) {
-  source("00_setup.Rmd")
-}
 ```
 
 ### 1. Prepare Master Publication Registry
