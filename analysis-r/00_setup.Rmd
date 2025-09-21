@@ -53,19 +53,20 @@ message("Configuration file 'config.yml' loaded successfully.")
 These functions are the core toolkit for the pipeline, designed for robustness and to be NA-aware.
 
 ```{r helper_functions}
-# --- Text Normalization ---
-normalize_text <- function(text) {
+# --- Text Normalization (Vectorized) ---
+normalize_text_scalar <- function(text) {
   if (is.na(text)) return(NA_character_)
   text %>%
     str_to_lower() %>%
     str_replace_all("[^a-z0-9\\s]", "") %>%
     str_squish()
 }
+normalize_text <- Vectorize(normalize_text_scalar)
 
-# --- Author List Processing ---
-normalize_authors <- function(author_string) {
-  if (is.na(author_string) || author_string == "") return(character(0))
-  author_string %>%
+# --- Author List Processing (Vectorized) ---
+normalize_authors_scalar <- function(author_string) {
+  if (is.na(author_string) || author_string == "") return(list(character(0)))
+  authors <- author_string %>%
     str_to_lower() %>%
     str_split(";|\\s*and\\s*|,") %>%
     unlist() %>%
@@ -73,6 +74,10 @@ normalize_authors <- function(author_string) {
     sapply(paste, collapse = "") %>%
     unique() %>%
     sort()
+  return(list(authors))
+}
+normalize_authors <- function(author_vector) {
+    lapply(author_vector, function(x) normalize_authors_scalar(x)[[1]])
 }
 
 # --- Similarity Metrics (NA-aware) ---
