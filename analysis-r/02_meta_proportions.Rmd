@@ -35,8 +35,29 @@ if (nrow(incomplete_ssi) > 0) {
 
 # Prepare data for meta-analysis
 ssi_for_meta <- ssi_data %>%
-  filter(!is.na(numerator) & !is.na(denominator)) %>%
-  left_join(select(deduplicated_data$study_metadata, study_id, publication_year), by = "study_id") %>%
+  filter(!is.na(numerator) & !is.na(denominator))
+
+# If we have a study_metadata table with publication years, join it
+if (is.data.frame(deduplicated_data$study_metadata) && 
+    nrow(deduplicated_data$study_metadata) > 0 && 
+    "publication_year" %in% names(deduplicated_data$study_metadata)) {
+  
+  ssi_for_meta <- ssi_for_meta %>%
+    left_join(select(deduplicated_data$study_metadata, study_id, publication_year), by = "study_id")
+} else {
+  # If no publication_year in metadata, try to get it from year_start in the original data
+  if ("year_start" %in% names(ssi_for_meta)) {
+    ssi_for_meta <- ssi_for_meta %>%
+      mutate(publication_year = as.character(year_start))
+  } else {
+    # Add an NA column if no publication year data exists
+    ssi_for_meta <- ssi_for_meta %>%
+      mutate(publication_year = NA_character_)
+  }
+}
+
+# Parse year safely
+ssi_for_meta <- ssi_for_meta %>%
   mutate(pub_year = parse_year(publication_year))
 
 k_ssi <- nrow(ssi_for_meta)
@@ -45,7 +66,7 @@ message(sprintf("Found %d studies with complete data for SSI incidence meta-anal
 ```
 ```{r ssi_preview}
 cat("SSI rows (raw): ", nrow(ssi_data), " | complete for meta: ", k_ssi, "\n")
-knitr::kable(head(ssi_for_meta %>% dplyr::select(study_id, numerator, denominator, publication_year), 10))
+knitr::kable(head(ssi_for_meta %>% dplyr::select(study_id, numerator, denominator, dplyr::any_of(c("publication_year", "pub_year"))), 10))
 ```
 
 #### 1.2. Perform Meta-Analysis and Generate Plots
@@ -138,13 +159,36 @@ if (nrow(incomplete_mortality) > 0) {
 mortality_for_meta <- mortality_data %>%
   filter(!is.na(numerator) & !is.na(denominator))
 
+# If we have a study_metadata table with publication years, join it
+if (is.data.frame(deduplicated_data$study_metadata) && 
+    nrow(deduplicated_data$study_metadata) > 0 && 
+    "publication_year" %in% names(deduplicated_data$study_metadata)) {
+  
+  mortality_for_meta <- mortality_for_meta %>%
+    left_join(select(deduplicated_data$study_metadata, study_id, publication_year), by = "study_id")
+} else {
+  # If no publication_year in metadata, try to get it from year_start in the original data
+  if ("year_start" %in% names(mortality_for_meta)) {
+    mortality_for_meta <- mortality_for_meta %>%
+      mutate(publication_year = as.character(year_start))
+  } else {
+    # Add an NA column if no publication year data exists
+    mortality_for_meta <- mortality_for_meta %>%
+      mutate(publication_year = NA_character_)
+  }
+}
+
+# Parse year safely
+mortality_for_meta <- mortality_for_meta %>%
+  mutate(pub_year = parse_year(publication_year))
+
 k_mortality <- nrow(mortality_for_meta)
 message(sprintf("Found %d studies with complete data for mortality meta-analysis.", k_mortality))
 
 ```
 ```{r mortality_preview}
 cat("Mortality rows (raw): ", nrow(mortality_data), " | complete for meta: ", k_mortality, "\n")
-knitr::kable(head(mortality_for_meta %>% dplyr::select(study_id, numerator, denominator), 10))
+knitr::kable(head(mortality_for_meta %>% dplyr::select(study_id, numerator, denominator, dplyr::any_of(c("publication_year", "pub_year"))), 10))
 ```
 
 #### 2.2. Perform Meta-Analysis and Generate Plots
@@ -199,6 +243,10 @@ Prepare AMR data, grouping by pathogen-antibiotic pairs.
 
 ```{r prep_amr}
 amr_data <- deduplicated_data$amr_proportions
+
+# Ensure required columns exist
+if (!"pathogen" %in% names(amr_data)) amr_data$pathogen <- NA_character_
+if (!"antibiotic" %in% names(amr_data)) amr_data$antibiotic <- NA_character_
 
 incomplete_amr <- amr_data %>%
   filter(is.na(numerator) | is.na(denominator) | is.na(pathogen) | is.na(antibiotic))

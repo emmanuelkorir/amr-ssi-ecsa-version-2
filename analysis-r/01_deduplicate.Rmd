@@ -21,7 +21,10 @@ First, we create a comprehensive registry of all unique publications found acros
 ```{r create_registry}
 # Combine metadata from all relevant datasets to build a master list
 # We prioritize the dedicated study_metadata file
-study_ids_from_all_data <- unlist(lapply(raw_data, function(df) if("study_id" %in% names(df)) df$study_id else NULL)) %>%
+# Extract all unique study IDs from data files
+study_ids_from_all_data <- unlist(lapply(raw_data, function(df) {
+  if(is.data.frame(df) && "study_id" %in% names(df)) df$study_id else NULL
+})) %>%
   unique() %>%
   na.omit()
 
@@ -30,8 +33,26 @@ master_registry <- tibble(study_id = study_ids_from_all_data)
 
 # Join with the main metadata file
 if (nrow(raw_data$study_metadata) > 0) {
+  # Create a proper metadata tibble from the processed file
+  study_meta <- raw_data$study_metadata %>%
+    # Ensure we have the key fields from config's expected_cols
+    mutate(
+      # Extract year from year_start/year_end if publication_year is missing
+      publication_year = if ("publication_year" %in% names(.)) publication_year 
+                        else if ("year_start" %in% names(.)) as.character(year_start)
+                        else NA_character_,
+      # Other potential fields to extract if needed
+      journal = if ("journal" %in% names(.)) journal else NA_character_,
+      title = if ("title" %in% names(.)) title else NA_character_,
+      authors = if ("authors" %in% names(.)) authors else NA_character_,
+      # Add DOI and PMID placeholders as they're often missing in our data
+      doi = if ("doi" %in% names(.)) doi else NA_character_,
+      pmid = if ("pmid" %in% names(.)) pmid else NA_character_
+    ) %>%
+    select(study_id, any_of(c("doi", "pmid", "title", "authors", "publication_year", "journal")))
+  
   master_registry <- master_registry %>%
-    left_join(raw_data$study_metadata, by = "study_id")
+    left_join(study_meta, by = "study_id")
 } else {
   # If metadata file is empty, create placeholder columns
   master_registry <- master_registry %>%
