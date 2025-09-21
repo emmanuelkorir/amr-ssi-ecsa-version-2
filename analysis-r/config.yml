@@ -32,16 +32,15 @@ paths:
 # Maps specific analysis types to their corresponding input CSV files.
 # The file names are expected to be found in the `input_data_dir`.
 file_mappings:
-  ssi_incidence: "ssi_incidence.csv"
-  mortality: "mortality.csv"
-  amr_proportions: "amr_proportions.csv"
-  risk_factors: "risk_factors.csv"
-  length_of_stay: "length_of_stay.csv"
-  economic_costs: "economic_costs.csv"
-  qualitative_themes: "qualitative_themes.csv"
-  # This file is not used for a specific analysis but is crucial for
-  # building the master publication registry for deduplication.
-  study_metadata: "study_metadata.csv"
+  ssi_incidence: "ssi_incidence_long.csv"
+  mortality: "mortality_long.csv"
+  amr_proportions: "amr_proportions_long.csv"
+  risk_factors: "risk_factors.csv" # NOTE: This file does not seem to exist, will be read as empty
+  length_of_stay: "length_of_stay_long.csv"
+  economic_costs: "costs_long.csv"
+  qualitative_themes: "thematic_all.csv"
+  # This file is crucial for building the master publication registry.
+  study_metadata: "processed.csv"
 
 # ---
 # 3. DEDUPLICATION PARAMETERS
