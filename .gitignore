@@ -31,3 +31,10 @@ lerna-debug.log*
 .Ruserdata
 .Renviron
 .Rbuildignore
+
+# R-based analysis outputs
+/analysis-r/pipeline.html
+/analysis-r/pipeline.knit.md
+/analysis/results_r/
+/analysis-r/.Rhistory
+/analysis-r/.RData

@@ -17,7 +17,7 @@ This master R Markdown document serves as the central orchestrator for the entir
 The pipeline is designed for one-click reproducibility and is robust to missing or empty input files.
 
 ```{r main_setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE, error = FALSE)
+knitr::opts_chunk$set(echo = TRUE, message = TRUE, warning = TRUE, error = TRUE)
 # Clear the environment to ensure a clean run
 rm(list = ls())
 ```
